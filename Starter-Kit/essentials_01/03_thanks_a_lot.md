@@ -1,0 +1,66 @@
+---
+order: 3
+---
+
+en:
+- Thanks a lot
+- Thank you very much
+
+fr:
+- Merci beaucoup .
+- Merci beaucoup.
+
+de:
+- Vielen Dank .
+- Ich danke Ihnen sehr.
+
+am:
+- በጣም አመሰግናለሁ።
+- በጣም አመሰግናለሁ
+
+ar:
+- شكرا جزيلا
+- شكراً جزيلاً
+
+es:
+- Muchas gracias
+- Muchas gracias.
+
+ja:
+- どうも
+- ありがとうございました
+
+zh:
+- 非常感谢.
+- 非常感谢.
+
+## vocabulary
+
+en:
+- thank you very much · thank yoo very much
+
+fr:
+- merci beaucoup · mehr-see bohcoop
+
+de:
+- vielen Dank · veelen dank
+
+am:
+- በጣም አመሰግናለሁ · betham amesegnalehu
+
+ar:
+- شكراً جزيلاً · shkraan jzylaan
+
+es:
+- muchas gracias · muchas grah-syahs
+
+ja:
+- どうもありがとう · doumoarigatou
+
+zh:
+- 非常感谢 · fēi cháng gǎn xiè
+
+## grammar
+
+- snippet-a2-near-future · going to
+- snippet-b2-future-perfect · Future perfect

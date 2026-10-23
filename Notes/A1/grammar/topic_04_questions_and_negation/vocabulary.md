@@ -1,0 +1,159 @@
+en:
+- question · question
+- answer · answer
+- no · noh
+- not · not
+- never · never
+- always · always
+- sometimes · sometimes
+- why · why
+- because · because
+- maybe · maybe
+- please · pleez
+- excuse me · excuse me
+- who · who
+- what · what
+- where · where
+- when · when
+- how · how
+- sorry · sorry
+
+de:
+- die Frage · dee frage
+- die Antwort · dee antwort
+- nein · neyen
+- nicht · nikht
+- nie · nee
+- immer · immer
+- manchmal · mankhmal
+- warum · warum
+- weil · weyel
+- vielleicht · veelleyekht
+- bitte · bit-teh
+- Entschuldigung · enkhuldigung
+- wer · wer
+- was · was
+- wo · wo
+- wann · vann
+- wie · vee
+- Entschuldigung · enkhuldigung
+
+am:
+- ጥያቄ · thyaqe
+- መልስ · mels
+- አይ · ay
+- አይ · ay
+- በጭራሽ · becharash
+- ሁልጊዜ · hulgize
+- አንዳንድ ጊዜ · andhandh gize
+- ለምን · lemn
+- ስለ · sle
+- ምናልባት · mnalbat
+- እባክዎ · ebakwo
+- ይቅርታ · yik-ir-ta
+- ማን · man
+- ምን · min
+- የት · yet
+- መቼ · me-che
+- እንዴት · in-det
+- ይቅርታ · yik-ir-ta
+
+fr:
+- question · quessyon
+- réponse · rayponse
+- non · noh
+- pas · pas
+- jamais · jamais
+- toujours · toojoors
+- parfois · parfwahs
+- pourquoi · poorquwah
+- parce que · parce que
+- peut-être · peut-ehtre
+- s'il vous plaît · s'il voos plaeet
+- excusez-moi · excusez-mwah
+- qui · qui
+- quoi · quwah
+- où · ooo
+- quand · kahn
+- comment · kommah
+- pardon · pardon
+
+ar:
+- سؤال · swal
+- إجابة · ijaba
+- لا · la
+- لا · la
+- أبداً · abdaan
+- دائماً · daymaan
+- أحيانا · ahyana
+- لماذا · li-ma-dha
+- لأن · lan
+- ربما · rbma
+- لو سمحت · lw smht
+- اعذرني · aadhrny
+- من · min
+- ماذا · ma-dha
+- أين · ay-na
+- متى · ma-ta
+- كيف · kay-fa
+- آسف · aasf
+
+zh:
+- 问题 · wèn tí
+- 回答 · huí dá
+- 不 · bù
+- 不是 · bú shì
+- 绝不 · jué bù
+- 总是 · zǒng shì
+- 有时 · yǒu shí
+- 为什么 · wèi shén me
+- 因为 · yīn wèi
+- 或许 · huò xǔ
+- 请 · qǐng
+- 打扰一下 · dǎ rǎo yī xià
+- WHO · WHO
+- 什么 · shén me
+- 在哪里 · zài nǎ lǐ
+- 什么时候 · shén me shí hòu
+- 如何 · rú hé
+- 对不起 · duì bù qǐ
+
+ja:
+- 質問 · shitsumon
+- 答え · kotae
+- いいえ · iie
+- ない · nai
+- 一度もない · ichido monai
+- いつも · itsumo
+- 時々 · tokidoki
+- なぜ · naze
+- なぜなら · nazenara
+- 多分 · tabun
+- お願いします · o negai shimasu
+- すみません · sumimasen
+- 誰が · darega
+- 何 · nani
+- どこ · doko
+- いつ · itsu
+- どうやって · douyatte
+- ごめん · gomen
+
+es:
+- pregunta · question
+- respuesta · answer
+- No · noh
+- no · not
+- nunca · never
+- siempre · always
+- a veces · sometimes
+- por qué · why
+- porque · because
+- tal vez · maybe
+- por favor · pleez
+- disculpe · excuse me
+- OMS · who
+- qué · what
+- dónde · where
+- cuando · when
+- cómo · how
+- Lo siento · sorry

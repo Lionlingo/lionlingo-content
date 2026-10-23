@@ -1,0 +1,159 @@
+en:
+- I · eye
+- you · yoo
+- he · hee
+- she · shee
+- we · wee
+- they · thay
+- to be · to bee
+- you (formal) · yoo formal
+- student · stew-dent
+- teacher · tee-cher
+- name · naym
+- new · nyoo
+- here · heer
+- from · frum
+- tired · ty-erd
+- country · kun-tree
+- language · lang-gwij
+- happy · hap-ee
+
+de:
+- ich · ikh
+- du · doo
+- er · air
+- sie · zee
+- wir · veer
+- sie · zee
+- sein · zeyen
+- Sie · zee
+- der Student / die Studentin · der shtoo-dent
+- der Lehrer / die Lehrerin · der lay-rer
+- der Name · der nah-meh
+- neu · noy
+- hier · heer
+- aus · ows
+- müde · mue-deh
+- das Land · das lahnt
+- die Sprache · dee shprah-kheh
+- glücklich · gluek-likh
+
+am:
+- እኔ · i-ne
+- አንተ · an-te
+- እሱ · i-su
+- እሷ · i-swa
+- እኛ · enya
+- እነሱ · enesu
+- መሆን · mehon
+- እርስዎ · erswo
+- ተማሪ · te-ma-ri
+- መምህር · memhr
+- ስም · sim
+- አዲስ · adhis
+- እዚህ · ezih
+- ከ · ke
+- ደክታ · dhekta
+- አገር · ager
+- ቋንቋ · qwanqwa
+- ደስተኛ · destenya
+
+fr:
+- je · zhuh
+- tu · tew
+- il · eel
+- elle · ell
+- nous · noos
+- ils · eel
+- être · ehtr
+- vous · voos
+- étudiant(e) · ay-tew-dyahn
+- professeur · pro-fes-uhr
+- nom · nohn
+- nouveau · noo-voh
+- ici · ee-see
+- de · duh
+- fatigué(e) · fa-tee-gay
+- pays · pay-ee
+- langue · lahng
+- heureux/heureuse · uhr-uh
+
+zh:
+- 我 · wǒ
+- 你 · nǐ
+- 他 · tā
+- 她 · tā
+- 我们 · wǒ men
+- 他们 · tā men
+- 成为 · chéng wéi
+- 你（正式） · nǐ （ zhèng shì ）
+- 学生 · xué shēng
+- 老师 · lǎo shī
+- 姓名 · xìng míng
+- 新的 · xīn de
+- 这里 · zhè lǐ
+- 从 · cóng
+- 疲劳的 · pí láo de
+- 国家 · guó jiā
+- 语言 · yǔ yán
+- 快乐的 · kuài lè de
+
+es:
+- I · eye
+- tú · yoo
+- él · hee
+- ella · shee
+- nosotros · wee
+- ellos · thay
+- ser · to bee
+- tú (formal) · yoo formal
+- alumno · stew-dent
+- maestro · tee-cher
+- nombre · naym
+- nuevo · nyoo
+- aquí · heer
+- de · frum
+- cansado · ty-erd
+- país · kun-tree
+- idioma · lang-gwij
+- feliz · hap-ee
+
+ar:
+- أنا · a-na
+- أنت · an-ta
+- هو · hu-wa
+- هي · hi-ya
+- نحن · nah-nu
+- هم · hm
+- يكون · ykwn
+- أنت (رسمي) · ant (rsmy)
+- طالب · ta-lib
+- مدرس · ustadh / ustadha
+- اسم · asm
+- جديد · ja-deed
+- هنا · hna
+- من · min
+- مرهق · tabt
+- دولة · dwla
+- لغة · lgha
+- سعيد · sayd
+
+ja:
+- 私 · watashi
+- あなた · anata
+- 彼 · kare
+- 彼女 · kanojo
+- 私たちは · watashitachi ha
+- 彼らは · karera ha
+- なる · naru
+- あなた（正式な） · anata ( seishiki na )
+- 学生 · gakusei
+- 教師 · kyoushi
+- 名前 · namae
+- 新しい · atarashii
+- ここ · koko
+- から · kara
+- 疲れた · tsukare ta
+- 国 · kuni
+- 言語 · gengo
+- ハッピー · happii

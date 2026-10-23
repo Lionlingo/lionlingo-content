@@ -1,0 +1,159 @@
+en:
+- to learn · to lern
+- to work · to werk
+- to live · to liv
+- to play · to play
+- to speak · to speek
+- to eat · to eet
+- to drink · to drink
+- to buy · to by
+- to go · to goh
+- to make / do · to mayk
+- every day · ev-ree day
+- often · of-en
+- today · too-day
+- weekend · week-end
+- to study · to stud-ee
+- to watch · to woch
+- to read · to reed
+- to cook · to cook
+
+de:
+- lernen · ler-nen
+- arbeiten · ar-bey-ten
+- wohnen · voh-nen
+- spielen · spee-len
+- sprechen · shpre-khen
+- essen · es-sen
+- trinken · trin-ken
+- kaufen · kow-fen
+- gehen · geh-en
+- machen · ma-khen
+- jeden Tag · yeh-den tahk
+- oft · oft
+- heute · hoy-teh
+- das Wochenende · dahs vo-khen-en-deh
+- studieren · shtoo-dee-ren
+- sehen / schauen · zey-en / show-en
+- lesen · ley-zen
+- kochen · ko-khen
+
+am:
+- መማር · memar
+- መስራት · mesrat
+- መኖር · menor
+- መጫወት · mechaawet
+- መናገር · menager
+- መብላት · meblat
+- መጠጣት · methethat
+- መግዛት · megzat
+- መሄድ · mehedh
+- ማድረግ · madhreg
+- በየቀኑ · beyeqenu
+- ብዙ ጊዜ · bzu gize
+- ዛሬ · zare
+- ቅዳሜና እሁድ · qidamena ehud
+- መማር · memar
+- መመልከት · memlekot
+- ማንበብ · manbeb
+- መብሰል · mebsel
+
+fr:
+- apprendre · a-prahn-dr
+- travailler · tra-vah-yay
+- habiter · a-bee-tay
+- jouer · zhoo-ay
+- parler · par-lay
+- manger · mahn-zhay
+- boire · bwahr
+- acheter · ash-tay
+- aller · a-lay
+- faire · fair
+- chaque jour · shak zhoor
+- souvent · soo-vahn
+- aujourd'hui · oh-zhoor-dwee
+- week-end · week-end
+- étudier · ay-tew-dyay
+- regarder · ruh-gar-day
+- lire · leer
+- cuisiner · kwee-zee-nay
+
+ja:
+- 学ぶ · manabu
+- 働く · hataraku
+- 生きる · iki ru
+- 遊ぶ · asobu
+- 話す · hanasu
+- 食べる · tabe ru
+- 飲む · nomu
+- 買う · kau
+- 持ち帰り · mochikaeri
+- 作る/する · tsukuru / suru
+- 毎日 · mainichi
+- 頻繁 · hinpan
+- 今日 · kyou
+- 週末 · shuumatsu
+- 勉強する · benkyou suru
+- 見る · miru
+- 読む · yomu
+- 料理する · ryouri suru
+
+zh:
+- 学习 · xué xí
+- 去工作 · qù gōng zuò
+- 生活 · shēng huó
+- 玩 · wán
+- 说话 · shuō huà
+- 吃饭 · chī fàn
+- 喝 · hē
+- 买 · mǎi
+- 去 · qù
+- 做/做 · zuò / zuò
+- 每天 · měi tiān
+- 经常 · jīng cháng
+- 今天 · jīn tiān
+- 周末 · zhōu mò
+- 学习 · xué xí
+- 观看 · guān kàn
+- 阅读 · yuè dú
+- 做饭 · zuò fàn
+
+ar:
+- للتعلم · lltalm
+- للعمل · llaml
+- للعيش · llaysh
+- للعب · llab
+- للتحدث · llthdth
+- لتناول الطعام · ltnawl altaam
+- للشرب · llshrb
+- للشراء · llshra
+- للذهاب · lldhhab
+- للقيام / القيام · llqyam / alqyam
+- كل يوم · kl ywm
+- غالباً · ghalbaan
+- اليوم · al-yawm
+- عطلة نهاية الأسبوع · atla nhaya alasbwa
+- للدراسة · lldrasa
+- للمشاهدة · llmshahda
+- للقراءة · llqraa
+- لطهي الطعام · lthy altaam
+
+es:
+- aprender · to lern
+- trabajar · to werk
+- vivir · to liv
+- jugar · to play
+- hablar · to speek
+- comer · to eet
+- beber · to drink
+- comprar · to by
+- ir · to goh
+- hacer / hacer · to mayk
+- cada día · ev-ree day
+- a menudo · of-en
+- hoy · too-day
+- fin de semana · week-end
+- estudiar · to stud-ee
+- mirar · to woch
+- leer · to reed
+- cocinar · to cook

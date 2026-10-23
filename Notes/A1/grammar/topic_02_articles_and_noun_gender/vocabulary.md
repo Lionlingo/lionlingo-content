@@ -1,0 +1,159 @@
+en:
+- a / an · uh / an
+- the · thuh
+- book · book
+- table · tay-bul
+- chair · chair
+- door · dor
+- window · win-doh
+- city · sit-ee
+- apartment · uh-part-ment
+- car · kar
+- bag · bag
+- phone · fohn
+- coffee · kaw-fee
+- computer · kom-pyoo-ter
+- apple · ap-ul
+- bread · bred
+- water · waw-ter
+- child / children · chyld / chil-dren
+
+de:
+- ein / eine · eyen / eyeneh
+- der / die / das · der / dee / dahs
+- das Buch · dahs bookh
+- der Tisch · der tish
+- der Stuhl · der shtool
+- die Tür · dee tewr
+- das Fenster · dahs fen-ster
+- die Stadt · dee shtaht
+- die Wohnung · dee voh-noong
+- das Auto · dahs ow-toh
+- die Tasche · dee tah-sheh
+- das Handy · dahs han-dee
+- der Kaffee · der kah-fay
+- der Computer · der kom-pyoo-ter
+- der Apfel · der ap-fel
+- das Brot · dahs broht
+- das Wasser · dahs vah-ser
+- das Kind / die Kinder · dahs kint / dee kin-der
+
+am:
+- አንድ · and
+- ይህ / እሱ · yih / esu
+- መጽሐፍ · mets-haf
+- ጠረጴዛ · therepheeza
+- ወንበር · wenber
+- በር · ber
+- መስኮት · meskot
+- ከተማ · ketema
+- አፓርታማ · apartama
+- መኪና · mekina
+- ቦርሳ · borsa
+- ስልክ · slk
+- ቡና · bu-na
+- ኮምፒዩተር · kompyuter
+- ፖም · pom
+- እንጀራ · enjera
+- ውሃ · wu-ha
+- ልጅ / ልጆች · lij / lijoch
+
+fr:
+- un / une · uhn / ewn
+- le / la / les · luh / la / lay
+- livre · leevr
+- table · tahbl
+- chaise · shez
+- porte · port
+- fenêtre · fuh-netr
+- ville · veel
+- appartement · a-par-tuh-mahn
+- voiture · vwa-tewr
+- sac · sak
+- téléphone · tay-lay-fohn
+- café · ka-fay
+- ordinateur · or-dee-nuh-tuhr
+- pomme · pom
+- pain · pan
+- eau · oh
+- enfant / enfants · ahn-fahn / ahn-fahn
+
+ar:
+- أ / أن · a / an
+- ال · al
+- كتاب · ki-tab
+- طاولة · tawla
+- كرسي · kursi
+- باب · bab
+- نافذة · nafdha
+- مدينة · mdyna
+- شقة · shqa
+- سيارة · syara
+- شنطة · shnta
+- هاتف · hatf
+- قهوة · qah-wa
+- حاسوب · haswb
+- تفاحة · tfaha
+- خبز · khubz
+- ماء · ma
+- طفل / أطفال · tfl / atfal
+
+es:
+- un/una · uh / an
+- el · thuh
+- libro · book
+- mesa · tay-bul
+- silla · chair
+- puerta · dor
+- ventana · win-doh
+- ciudad · sit-ee
+- departamento · uh-part-ment
+- auto · kar
+- bolsa · bag
+- teléfono · fohn
+- café · kaw-fee
+- computadora · kom-pyoo-ter
+- manzana · ap-ul
+- pan · bred
+- agua · waw-ter
+- niño / niños · chyld / chil-dren
+
+ja:
+- ああ/ · aa /
+- の · no
+- 本 · hon
+- テーブル · teeburu
+- 椅子 · isu
+- ドア · doa
+- ウィンドウ · uindou
+- 市 · shi
+- アパート · apaato
+- 車 · kuruma
+- バッグ · baggu
+- 電話 · denwa
+- コーヒー · koohii
+- コンピューター · konpyuutaa
+- りんご · ringo
+- パン · pan
+- 水 · mizu
+- 子供/子供たち · kodomo / kodomo tachi
+
+zh:
+- 一个/一个 · yí gè / yí gè
+- 这 · zhè
+- 书 · shū
+- 桌子 · zhuō zi
+- 椅子 · yǐ zi
+- 门 · mén
+- 窗户 · chuāng hù
+- 城市 · chéng shì
+- 公寓 · gōng yù
+- 车 · chē
+- 包 · bāo
+- 电话 · diàn huà
+- 咖啡 · kā fēi
+- 电脑 · diàn nǎo
+- 苹果 · píng guǒ
+- 面包 · miàn bāo
+- 水 · shuǐ
+- 儿童/儿童 · ér tóng / ér tóng
