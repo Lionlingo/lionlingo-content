@@ -561,7 +561,7 @@ def build_json(content_root: Path, out_root: Path) -> dict:
     if starter_root.is_dir():
         chapters = []
         for path in starter_root.iterdir():
-            match = re.search(r"_(\d+)$", path.name) if path.is_dir() else None
+            match = re.match(r"^(\d+)_", path.name) if path.is_dir() else None
             if match:
                 chapters.append((int(match.group(1)), path))
         for number, chapter_dir in sorted(chapters):
@@ -646,7 +646,7 @@ def export_from_studio(studio: Path, grammar_seed: Path, content_root: Path) -> 
         src = studio / "starter-kit" / str(number) / f"starter-kit-{number}.json"
         if not src.is_file():
             continue
-        dest = content_root / "Starter-Kit" / f"{name}_{number:02d}"
+        dest = content_root / "Starter-Kit" / f"{number:02d}_{name}"
         dest.mkdir(parents=True, exist_ok=True)
         for index, item in enumerate(read_json(src), start=1):
             stem = _unique_name(dest, f"{index:02d}_{slugify(item['titles']['en'], 'sentence')}")
