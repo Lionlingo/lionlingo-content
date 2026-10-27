@@ -43,35 +43,45 @@ en:
 - English · ING: glish
 
 fr:
-- parlez-vous · par: lay VOO
+- (inversion) · —
+- vous · voo
+- parlez · par: LAY
 - anglais · ahn: GLAY
 
 de:
-- sprichst · shprikhst
+- (inversion) · —
 - du · doo
+- sprichst · shprikhst
 - Englisch · ENG: lish
 
 am:
+- (omitted) · —
+- ህ (you, verb ending) · -h
 - ትናገራለህ · tin-na-ge-ra-leh
 - እንግሊዝኛ · in-gi-li-zi-nya
 
 ar:
 - هل · hal
+- ت (you, verb prefix) · ta-
 - تتحدث · ta-ta-had-dath
 - الإنجليزية · al-in-ji-li-zi-ya
 
 es:
+- (inversion) · —
+- s (you, verb ending) · -s
 - hablas · AH: blas
 - inglés · een: GLES
 
 ja:
+- か · ka
+- (omitted) · —
+- 話します · hanashimasu
 - 英語 · eigo
-- 話しますか · hanashimasu ka
 
 zh:
+- 吗 · ma
 - 你 · nǐ
-- 会 · huì
-- 说 · shuō
+- 会说 · huì shuō
 - 英语 · yīng yǔ
 
 ## grammar
