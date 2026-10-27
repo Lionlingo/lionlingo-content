@@ -3,86 +3,70 @@ order: 5
 ---
 
 en:
-- Should we meet again?
 - Shall we meet again?
+- Should we meet again?
 
 fr:
-- On devrait se revoir ?
-- On se revoit ?
+- On se voit de nouveau ?
+- Est-ce qu'on se voit de nouveau ?
 
 de:
-- Sollen wir uns wiedersehen?
-- Sollen wir uns wiedersehen?
+- Treffen wir uns wieder?
+- Sollen wir uns wieder treffen?
 
 am:
-- እንደገና መገናኘት አለብን?
+- እንገናኝ እንደገና?
 - እንደገና እንገናኝ?
 
 ar:
-- هل يجب أن نلتقي مرة أخرى؟
 - هل نلتقي مجدداً؟
+- هل يمكننا أن نلتقي مجدداً؟
 
 es:
-- ¿Deberíamos encontrarnos de nuevo?
 - ¿Nos vemos de nuevo?
+- ¿Qué tal si nos vemos de nuevo?
 
 ja:
 - また会おうか?
-- また会おうか?
+- また会いましょうか?
 
 zh:
-- 我们应该再次见面吗?
-- 我们再见面吗?
+- 我们再见面好吗?
+- 我们要不要再见面?
 
 ## vocabulary
 
 en:
-- shall · shall
-- we · wee
 - meet · meet
-- again · again
+- again · uh-gen
 
 fr:
-- devoir · devwahr
-- nous · noos
-- se voir / se retrouver · se vwar
-- again · again
+- se voit · suh vwa
+- de nouveau · duh noo-voh
 
 de:
-- soll · soll
-- wir · wir
-- treffen · TRE: fen
-- wieder · weeder
+- treffen · TREF-fen
+- wieder · VEE-der
 
 am:
-- ይሆናል። · yhonal
-- እኛ · enya
-- መገናኘት · megenanyet
-- እንደገና · endhegena
+- እንገናኝ · engenanyi
+- እንደገና · endegena
 
 ar:
-- سوف · sawf
-- نحن · nah-nu
-- يلتقي · yaltaqi
-- مجددا · mjdda
+- نلتقي · naltaqi
+- مجدداً · mujaddadan
 
 es:
-- deber · deber
-- nosotros · nosotros
-- quedar / verse · ke: DAR
-- again · again
+- vemos · BE-mos
+- de nuevo · de NWE-bo
 
 ja:
-- するだろう · surudarou
-- 私たち · watashitachi
-- 会う · au
-- 再び · futatabi
+- 会 · a(u)
+- また · mata
 
 zh:
-- 将 · jiāng
-- 我们 · wǒ men
 - 见面 · jiàn miàn
-- 再次 · zài cì
+- 再 · zài
 
 ## grammar
 
