@@ -3,62 +3,70 @@ order: 13
 ---
 
 en:
-- Can you say that again?
 - Could you repeat that?
+- Could you please repeat that?
 
 fr:
-- Vous pouvez répéter ?
-- Pouvez-vous répéter ?
+- Pourrais-tu répéter ça ?
+- Pourrais-tu répéter ça, s'il te plaît ?
 
 de:
-- Kannst du das noch mal sagen?
-- Könnten Sie das wiederholen?
+- Könntest du das wiederholen?
+- Könntest du das bitte wiederholen?
 
 am:
-- ደግመህ ትነግረኛለህ?
-- ይህን ደግመህ ትናገራለህ?
+- ይህን መድገም ትችላለህ?
+- እባክህ ይህን መድገም ትችላለህ?
 
 ar:
-- هل يمكنك أن تقول ذلك مرة أخرى؟
 - هل يمكنك أن تكرر ذلك؟
+- هل يمكنك أن تكرر ذلك من فضلك؟
 
 es:
-- ¿Puedes decirlo de nuevo?
-- ¿Puede repetir eso?
+- ¿Podrías repetir eso?
+- ¿Podrías repetir eso, por favor?
 
 ja:
-- もう一度言ってみませんか?
-- 繰り返してくれますか?
+- それを繰り返してくれませんか?
+- それを繰り返していただけませんか?
 
 zh:
-- 你能再说一次吗?
-- 你能重复吗?
+- 你能重复一下吗?
+- 你能重复一遍吗?
 
 ## vocabulary
 
 en:
-- could you repeat that · could yoo repeat that
+- could you · kud yoo
+- repeat · ri-PEET
 
 fr:
-- pourriez-vous répéter · poorriez-voos raypayter
+- pourrais-tu · poo-reh-TU
+- répéter · ray-pay-TAY
 
 de:
-- könnten Sie das wiederholen · kernnten see dahs weederholen
+- könntest du · KUHN-test doo
+- wiederholen · vee-der-HOH-len
 
 am:
-- እባክህ ድገምልኝ · ebakh dhgemlny
+- ትችላለህ · tichilaleh
+- መድገም · medgem
 
 ar:
-- هل يمكنك إعادة ذلك · hl ymknk iaada dhlk
+- هل يمكنك · hal yumkinuk
+- تكرر · tukarrir
 
 es:
-- ¿podrías repetir eso · ¿podreeas repetir eso
+- podrías · po-DREE-as
+- repetir · re-pe-TIR
 
 ja:
-- もう一度言っていただけますか · mou ichido itte itadakemasuka
+- ませんか · masen ka
+- 繰り返して · kurikaeshite
 
 zh:
-- 你能再说一遍吗 · nǐ néng zài shuō yī biàn ma
+- 你能 · nǐ néng
+- 重复 · chóngfù
 
 ## grammar
 
