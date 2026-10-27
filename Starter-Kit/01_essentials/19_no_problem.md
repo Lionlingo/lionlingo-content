@@ -7,58 +7,66 @@ en:
 - You're welcome.
 
 fr:
-- Je ne peux pas.
+- Pas de problème.
 - Je vous en prie.
 
 de:
-- Das ist kein Problem.
-- Ich bin froh, dass Sie da sind.
+- Kein Problem.
+- Gern geschehen.
 
 am:
-- ምንም ችግር የለውም።
-- ምንም አያስፈልግህም።
+- ምንም ችግር የለም።
+- ምንም አይደለም።
 
 ar:
-- لا مشكلة
-- على الرحب والسعة
+- لا مشكلة.
+- على الرحب والسعة.
 
 es:
 - No hay problema.
-- No hay de qué.
+- De nada.
 
 ja:
-- 問題ないわ
-- どういたしまして
+- 問題ないよ。
+- どういたしまして。
 
 zh:
-- 没有问题.
-- 谢谢你.
+- 没问题。
+- 不客气。
 
 ## vocabulary
 
 en:
-- you're welcome · you're welcome
+- no problem · noh PROB: lem
+- you're welcome · yor WEL: kum
 
 fr:
-- de rien · de rien
+- pas de problème · pa duh pro: BLEM
+- je vous en prie · zhuh voo zahn PREE
 
 de:
-- bitte · bit-teh
+- kein Problem · kine pro: BLEM
+- gern geschehen · gern ge: SHAY: en
 
 am:
-- ምንም አይደለም · mnm aydhelem
+- ምንም ችግር የለም · mi-nim chi-gir ye-lem
+- ምንም አይደለም · mi-nim ay-de-lem
 
 ar:
-- على الرحب والسعة · ala alrhb walsaa
+- لا مشكلة · la mush-ki-la
+- على الرحب والسعة · 'ala ar-rah-bi wa-s-sa-'a
 
 es:
-- de nada · de nada
+- no hay problema · no eye pro: BLE: ma
+- de nada · de NA: da
 
 ja:
-- どういたしまして · douitashimashite
+- 問題ない · mon-dai na-i
+- どういたしまして · dō i-ta-shi-ma-shi-te
 
 zh:
-- 不客气 · bú kè qì
+- 没问题 · méi wèn tí
+- 不客气 · bú kè qi
 
 ## grammar
 
