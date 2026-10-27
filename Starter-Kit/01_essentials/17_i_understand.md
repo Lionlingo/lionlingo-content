@@ -8,73 +8,65 @@ en:
 
 fr:
 - Je comprends.
-- Je comprends.
+- Je vois.
 
 de:
 - Ich verstehe.
-- Ich verstehe.
+- Ich hab's verstanden.
 
 am:
 - ተረድቻለሁ።
-- ተረድቻለሁ።
+- ገብቶኛል።
 
 ar:
-- أنا أفهم
-- لقد فهمت
+- أنا أفهم.
+- لقد فهمت.
 
 es:
-- ¿Qué quieres decir?
-- Ya lo entiendo.
+- Lo entiendo.
+- Ya lo pillo.
 
 ja:
-- 分かってる
-- わかったわ
+- 分かりました。
+- 分かった。
 
 zh:
-- 我理解了.
-- 我明白了.
+- 我理解了。
+- 我明白了。
 
 ## vocabulary
 
 en:
-- i · eye
-- get · get
-- it · it
+- I understand · eye un: der: STAND
+- I get it · eye get it
 
 fr:
-- je · zhuh
-- obtenez · obtenez
-- il · il
+- je comprends · zhuh kohm: PRAHN
+- je vois · zhuh vwa
 
 de:
-- ich · ikh
-- holen · holen
-- es · es
+- ich verstehe · ikh fer: SHTAY: uh
+- ich hab's verstanden · ikh habs fer: SHTAN: den
 
 am:
-- እኔ · i-ne
-- ማግኘት · magnyet
-- እሱ · i-su
+- ተረድቻለሁ · te-red-cha-le-hu
+- ገብቶኛል · ge-bi-to-nyal
 
 ar:
-- أنا · a-na
-- احصل · ahsl
-- هو · hu-wa
+- أنا أفهم · a-na af-ham
+- لقد فهمت · la-qad fa-him-tu
 
 es:
-- yo · yo
-- conseguir · conseguir
-- ello · eyo
+- lo entiendo · lo en: TYEN: do
+- ya lo pillo · ya lo PEE: yo
 
 ja:
-- 私 · watashi
-- ゲット · getto
-- それ · sore
+- 分かりました · wa-ka-ri-ma-shi-ta
+- 分かった · wa-kat-ta
 
 zh:
-- 我 · wǒ
-- 獲取 · huò qǔ
-- 它 · tā
+- 我理解了 · wǒ lǐ jiě le
+- 我明白了 · wǒ míng bai le
 
 ## grammar
 
