@@ -7,32 +7,32 @@ en:
 - Good evening!
 
 fr:
-- Bonsoir, tout le monde !
-- Je vous souhaite une bonne soirée.
+- 'Soir !
+- Bonsoir !
 
 de:
-- Abend!
-- Guten Abend. - Danke.
+- 'N Abend!
+- Guten Abend!
 
 am:
-- መልካም ምሽት!
+- ደህና ምሽት!
 - መልካም ምሽት!
 
 ar:
-- مساء الخير
-- مساء الخير
+- مساء!
+- مساء الخير!
 
 es:
-- ¡Noche buena!
-- ¡Buenas noches, muchacho!
+- ¡Buenas!
+- ¡Buenas noches!
 
 ja:
-- おやすみなさい
-- おはようございます
+- どうも、こんばんは！
+- こんばんは！
 
 zh:
-- 晚上!
-- 晚上好!
+- 晚上好！
+- 您晚上好！
 
 ## vocabulary
 
@@ -46,10 +46,10 @@ de:
 - guten Abend · GOO: ten AH: bent
 
 am:
-- አንደምን አመሸህ · andeminin ameshu
+- መልካም ምሽት · mel-kam mi-shit
 
 ar:
-- مساء الخير · masa al: khayr
+- مساء الخير · ma-sa' al-khayr
 
 es:
 - buenas noches · BWE: nas NO: ches
@@ -58,7 +58,7 @@ ja:
 - こんばんは · konbanwa
 
 zh:
-- 晚上好 · wǎn shang hǎo
+- 您晚上好 · nín wǎn shang hǎo
 
 ## grammar
 
