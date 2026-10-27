@@ -7,74 +7,66 @@ en:
 - Could you write it down?
 
 fr:
-- Tu peux noter ça ?
-- Tu peux l'écrire ?
+- Pourrais-tu noter ça ?
+- Pourrais-tu le noter ?
 
 de:
-- Können Sie das aufschreiben?
-- Können Sie es aufschreiben?
+- Könntest du das aufschreiben?
+- Könntest du es aufschreiben?
 
 am:
-- ይህን ልትጽፍ ትችላለህ?
-- ልትጽፈው ትችላለህ?
+- ይህን መጻፍ ትችላለህ?
+- ያንን መጻፍ ትችላለህ?
 
 ar:
-- هل يمكنك أن تكتب هذا؟
-- هل يمكنك أن تكتبها؟
+- هل يمكنك أن تدوّن هذا؟
+- هل يمكنك أن تدوّن ذلك؟
 
 es:
-- ¿Podrías escribir eso?
-- ¿Podrías escribirlo?
+- ¿Podrías anotar eso?
+- ¿Podrías anotarlo?
 
 ja:
-- それを書き下ろしてくれませんか.
-- 書き下ろしてくれないか?
+- それを書き留めてくれませんか?
+- それを書き留めてもらえませんか?
 
 zh:
-- 你能写下吗?
-- 你能写下吗?
+- 你能把这个写下来吗?
+- 你能把它写下来吗?
 
 ## vocabulary
 
 en:
-- could · could
-- you · yoo
-- write down · write down
+- could you · kud yoo
+- write down · rite down
 
 fr:
-- pourrais · poorrais
-- tu · tu
-- noter · noter
+- pourrais-tu · poo-reh-TU
+- noter · no-TAY
 
 de:
-- könnte · kernnte
-- du · du
-- aufschreiben · aufshreyeben
+- könntest du · KUHN-test doo
+- aufschreiben · OWF-shry-ben
 
 am:
-- ይችላል · ychlal
-- አንተ · an-te
+- ትችላለህ · tichilaleh
 - መጻፍ · metsaf
 
 ar:
-- يمكن · ymkn
-- أنت · an-ta
-- يكتب · yktb
+- هل يمكنك · hal yumkinuk
+- تدوّن · tudawwin
 
 es:
-- podrían · podreean
-- tú · too
-- anotar · anotar
+- podrías · po-DREE-as
+- anotar · a-no-TAR
 
 ja:
-- できた · dekita
-- あなた · anata
-- 書き留める · kaki todomeru
+- ませんか · masen ka
+- 書き留めて · kakitomete
 
 zh:
-- 可以 · kě yǐ
-- 你 · nǐ
-- 记下 · jì xià
+- 你能 · nǐ néng
+- 写下来 · xiě xià lái
 
 ## grammar
 
