@@ -3,70 +3,70 @@ order: 7
 ---
 
 en:
-- I can't understand German
-- I don't understand German
+- I can't understand German.
+- I don't understand German.
 
 fr:
+- Je ne peux pas comprendre l'allemand.
 - Je ne comprends pas l'allemand.
-- Je ne comprends pas l'allemand
 
 de:
-- Ich verstehe kein Deutsch.
+- Ich kann kein Deutsch verstehen.
 - Ich verstehe kein Deutsch.
 
 am:
-- ጀርመንኛ መረዳት አልችልም
-- ጀርመንኛ አልገባኝም
+- ጀርመንኛ መረዳት አልችልም።
+- ጀርመንኛ አልገባኝም።
 
 ar:
-- لا أستطيع فهم الألمانية
-- أنا لا أفهم الألمانية
+- لا أستطيع فهم الألمانية.
+- أنا لا أفهم الألمانية.
 
 es:
-- No entiendo alemán.
+- No puedo entender alemán.
 - No entiendo alemán.
 
 ja:
-- ドイツ語が分からない
-- 私はドイツ語が分からない.
+- ドイツ語が分からない。
+- 私はドイツ語が分かりません。
 
 zh:
-- 我不懂德语.
-- 我不懂德语.
+- 我不能理解德语。
+- 我不懂德语。
 
 ## vocabulary
 
 en:
-- i don't understand · eye don't understand
-- german · german
+- I don't understand · eye dohnt un: der: STAND
+- German · JER: man
 
 fr:
-- je ne comprends pas · zhuh ne comprends pas
-- allemand · allemand
+- je ne comprends pas · zhuh nuh kohm: PRAHN pah
+- l'allemand · lal: MAHN
 
 de:
-- ich verstehe nicht · ikh verstehe nikht
-- deutschen · doykhen
+- ich verstehe kein · ikh fer: SHTAY: uh kine
+- Deutsch · doytsh
 
 am:
-- አልገባእኝም · algebaenym
-- ጀርመንኛ · jaermennya
+- አልገባኝም · al-ge-ba-nyim
+- ጀርመንኛ · je-rmen-nya
 
 ar:
-- لا أفهم · la afhm
-- الالمانية · alalmanya
+- أنا لا أفهم · a-na la af-ham
+- الألمانية · al-al-ma-ni-ya
 
 es:
-- no entiendo · noh entiendo
-- alemanes · alemanes
+- no entiendo · no en: TYEN: do
+- alemán · a: le: MAN
 
 ja:
-- わかりません · wakarimasen
-- ドイツ語 · doitsu go
+- 分かりません · wakarimasen
+- ドイツ語 · doitsu-go
 
 zh:
-- 我不明白 · wǒ bù míng bái
-- 德文 · dé wén
+- 我不懂 · wǒ bù dǒng
+- 德语 · dé yǔ
 
 ## grammar
 
