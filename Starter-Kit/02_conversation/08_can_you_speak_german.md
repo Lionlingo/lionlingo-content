@@ -1,88 +1,73 @@
+
 ---
 order: 8
 ---
 
 en:
-- Can you speak German?
 - Do you speak German?
+- Can you speak German?
 
 fr:
-- Vous parlez allemand ?
-- Vous parlez allemand ?
+- Tu parles allemand ?
+- Est-ce que tu parles allemand ?
 
 de:
-- Kannst du Deutsch sprechen?
 - Sprichst du Deutsch?
+- Sprichst du denn Deutsch?
 
 am:
 - ጀርመንኛ ትናገራለህ?
-- ጀርመንኛ ትናገራለህ?
+- አንተ ጀርመንኛ ትናገራለህ?
 
 ar:
-- هل تستطيع التحدث باللغة الألمانية؟
 - هل تتحدث الألمانية؟
+- هل تتحدث اللغة الألمانية؟
 
 es:
-- ¿Puedes hablar alemán?
 - ¿Hablas alemán?
+- ¿Tú hablas alemán?
 
 ja:
-- ドイツ語を話せるか?
-- ドイツ語を話せる?
+- ドイツ語を話せますか?
+- ドイツ語は話せますか?
 
 zh:
-- 你能说德语吗?
-- 你能说德语吗?
+- 你会说德语吗?
+- 你会不会说德语?
 
 ## vocabulary
 
 en:
-- do · do
-- you · yoo
-- speak · speak
-- german · german
+- speak · speek
+- German · jur-mun
 
 fr:
-- faire · faire
-- tu · tu
-- parlez · parlez
-- allemand · allemand
+- parles · parl
+- allemand · al-mon
 
 de:
-- tun · tun
-- du · du
-- sprich · sprikh
-- deutschen · doykhen
+- sprichst · shprikhst
+- Deutsch · doytsh
 
 am:
-- ማድረግ · madhreg
-- አንተ · an-te
-- ተናገር · tenager
-- ጀርመንኛ · jaermennya
+- ትናገራለህ · tenageraleh
+- ጀርመንኛ · jermenya
 
 ar:
-- يفعل · yfal
-- أنت · an-ta
-- يتكلم · ytklm
-- الالمانية · alalmanya
+- تتحدث · tatahaddath
+- الألمانية · al-almaniya
 
 es:
-- hacer · hacer
-- tú · too
-- hablar · hablar
-- alemanes · alemanes
+- hablas · AH-blas
+- alemán · a-le-MAN
 
 ja:
-- する · suru
-- あなた · anata
-- 喋る · shaberu
-- ドイツ語 · doitsu go
+- 話せ · hanase
+- ドイツ語 · doitsu-go
 
 zh:
-- 做 · zuò
-- 你 · nǐ
-- 说话 · shuō huà
-- 德文 · dé wén
+- 说 · shuō
+- 德语 · dé yǔ
 
 ## grammar
 
