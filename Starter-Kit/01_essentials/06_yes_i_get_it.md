@@ -53,7 +53,8 @@ de:
 
 am:
 - አዎ · a-wo
-- ተረድቻለሁ · te-red-cha-le-hu
+- ሁ (I, verb ending) · -hu
+- ተረድቻለ · te-red-cha-le
 
 ar:
 - نعم · na-am
@@ -62,11 +63,12 @@ ar:
 
 es:
 - sí · see
-- lo · lo
+- (verb ending -o) · -o
 - entiendo · en: TYEN: do
 
 ja:
 - はい · hai
+- (omitted) · —
 - 分かりました · wakarimashita
 
 zh:
