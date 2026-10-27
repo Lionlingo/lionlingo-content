@@ -7,7 +7,7 @@ en:
 - Excuse me, where is the station?
 
 fr:
-- Excusez-moi, où est la gare ?
+- Pardon, où est la gare ?
 - Excusez-moi, où est la gare ?
 
 de:
@@ -16,23 +16,23 @@ de:
 
 am:
 - ይቅርታ፣ ጣቢያው የት ነው?
-- ይቅርታ፣ ጣቢያው የት ነው?
+- ይቅርታ ያድርጉልኝ፣ ጣቢያው የት ነው?
 
 ar:
-- عذراً، أين المحطة؟
-- عذراً، أين المحطة؟
+- آسف، أين المحطة؟
+- عفواً، أين المحطة؟
 
 es:
-- Disculpe, ¿dónde está la estación?
+- Perdona, ¿dónde está la estación?
 - Disculpe, ¿dónde está la estación?
 
 ja:
-- すみません,駅はどこですか?
-- すみません,駅はどこですか.
+- ごめん、駅はどこ？
+- すみません、駅はどこですか？
 
 zh:
-- 抱歉,车站在哪里?
-- 抱歉,车站在哪里?
+- 抱歉，车站在哪里？
+- 不好意思，请问车站在哪里？
 
 ## vocabulary
 
@@ -46,50 +46,48 @@ en:
 fr:
 - excusez-moi · ek: skew: zay MWA
 - où · oo
-- est · est
-- le · luh
+- est · eh
+- la · la
 - gare · gar
 
 de:
-- entschuldigung · ent: SHOOL: di: gung
+- Entschuldigen Sie · ent: SHOOL: di: gen zee
 - wo · vo
 - ist · ist
 - der · dehr
 - Bahnhof · BAHN: hof
 
 am:
-- ይቅርታ · yik-ir-ta
+- ይቅርታ ያድርጉልኝ · yik-ir-ta ya-dir-gu-lin
 - የት · yet
 - ነው · new
-- የ · ye
-- ጣቢያ · tabiya
+- -ው (the) · -u
+- ጣቢያ · ta-bi-ya
 
 ar:
 - عفواً · afwan
 - أين · ay-na
-- هو · hu-wa
 - ال · al
-- محطة · mahatta
+- محطة · ma-hat-ta
 
 es:
-- perdón · dis: KOOL: pe
+- disculpe · dis: KOOL: pe
 - dónde · DON: de
-- es · es
-- el · el
+- está · es: TA
+- la · la
 - estación · es: ta: SYON
 
 ja:
 - すみません · sumimasen
 - どこ · doko
-- です · desu
-- その · sono
+- ですか · desu ka
 - 駅 · eki
 
 zh:
-- 不好意思 · qǐng wèn
+- 不好意思 · bù hǎo yì si
+- 请问 · qǐng wèn
 - 哪里 · nǎ lǐ
-- 是 · shì
-- 这 · zhè
+- 在 · zài
 - 车站 · chē zhàn
 
 ## grammar
