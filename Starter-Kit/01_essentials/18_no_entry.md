@@ -7,66 +7,66 @@ en:
 - Entry forbidden.
 
 fr:
-- Aucune entrée.
-- L'entrée est interdite.
+- Pas d'entrée.
+- Entrée interdite.
 
 de:
-- Kein Eintrag.
+- Kein Eintritt.
 - Eintritt verboten.
 
 am:
-- ምንም መግቢያ የለም።
+- መግቢያ የለም።
 - መግቢያ የተከለከለ ነው።
 
 ar:
-- لا يوجد دخول
-- دخول ممنوع
+- لا دخول.
+- الدخول ممنوع.
 
 es:
-- No hay entrada.
-- Está prohibida la entrada.
+- No se permite la entrada.
+- Entrada prohibida.
 
 ja:
-- 入力禁止
-- 入場禁止
+- 立ち入り不可。
+- 入場禁止。
 
 zh:
-- 没有进入.
-- 进入禁止.
+- 不得进入。
+- 禁止进入。
 
 ## vocabulary
 
 en:
-- entry · entry
-- forbidden · forbidden
+- entry · EN: tree
+- forbidden · for: BID: den
 
 fr:
-- entrée · entraye
-- interdites · interdites
+- entrée · ahn: TRAY
+- interdite · an: ter: DEET
 
 de:
-- eintragung · eyentragung
-- verbotene · verbotene
+- Eintritt · INE: tritt
+- verboten · fer: BOH: ten
 
 am:
-- መግቢያ · megbiya
-- የተከለከለ · yetekelekele
+- መግቢያ · me-gi-bi-ya
+- የተከለከለ · ye-te-ke-le-ke-le
 
 ar:
-- الدخول · aldkhwl
-- محرم · mhrm
+- الدخول · ad-du-khool
+- ممنوع · mam-noo'
 
 es:
-- entrada · entrada
-- prohibida · prohibida
+- entrada · en: TRA: da
+- prohibida · pro: ee: BEE: da
 
 ja:
-- エントリー · entorii
-- 禁断 · kindan
+- 入場 · nyū-jō
+- 禁止 · kin-shi
 
 zh:
-- 入境 · rù jìng
-- 禁 · jìn
+- 进入 · jìn rù
+- 禁止 · jìn zhǐ
 
 ## grammar
 
