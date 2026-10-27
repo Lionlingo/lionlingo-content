@@ -1,88 +1,81 @@
+
 ---
 order: 7
 ---
 
 en:
-- That doesn't make sense to me
-- That doesn't make sense
+- That doesn't make sense to me.
+- That just doesn't make sense to me.
 
 fr:
 - Ça n'a aucun sens pour moi.
-- Ça n'a aucun sens.
+- Ça n'a vraiment aucun sens pour moi.
 
 de:
 - Das ergibt für mich keinen Sinn.
-- Das ergibt keinen Sinn.
+- Das ergibt für mich einfach keinen Sinn.
 
 am:
 - ይህ ለእኔ ምንም ትርጉም የለውም።
-- ይህ ምንም ትርጉም የለውም።
+- ይህ ለእኔ ትርጉም የለውም።
 
 ar:
-- هذا لا يبدو منطقياً بالنسبة لي
-- هذا ليس منطقياً
+- هذا ليس منطقياً بالنسبة لي.
+- بالنسبة لي، هذا ليس منطقياً.
 
 es:
 - Eso no tiene sentido para mí.
-- Eso no tiene sentido.
+- Para mí, eso no tiene sentido.
 
 ja:
-- 分からないわ
-- 馬鹿げてる
+- それは私には意味不明です。
+- 私にはそれは意味不明です。
 
 zh:
-- 这对我来说毫无意义.
-- 这没有任何意义
+- 这对我来说毫无意义。
+- 对我来说,这毫无意义。
 
 ## vocabulary
 
 en:
 - that · that
-- does · does
-- n't · n't
-- make sense · make sense
+- doesn't make sense · duh-zunt mayk sens
+- to me · too mee
 
 fr:
-- cela · suh: LA / suh
-- fait · fait
-- ne pas · ne pas
-- avoir du sens · avwahr du sens
+- ça · sa
+- aucun sens · o-kuhn sons
+- pour moi · poor mwa
 
 de:
 - das · das
-- tut · tut
-- nicht · nikht
-- Sinn ergeben · sinn ergeben
+- keinen Sinn · KY-nen zin
+- für mich · fuer mikh
 
 am:
-- ያ · ya
-- ያደርጋል · yadhergal
-- አይደለም · aydhelem
-- ትርጉም መስጠት · trgum mesthet
+- ይህ · yih
+- ትርጉም የለውም · tirgum yelewm
+- ለእኔ · le-ene
 
 ar:
-- ذلك · thalika
-- يفعل · yfal
-- لا · la
-- منطقي · mntqy
+- هذا · hadha
+- ليس منطقياً · laysa mantiqiyyan
+- بالنسبة لي · bin-nisba li
 
 es:
-- eso · E: se
-- hace · hace
-- no · noh
-- tener sentido · tener sentido
+- eso · e-so
+- no tiene sentido · no TYE-ne sen-TEE-do
+- para mí · pa-ra mee
 
 ja:
 - それ · sore
-- する · suru
-- ない · nai
-- 意味をなす · imi wonasu
+- 意味不明 · imi fumei
+- 私には · watashi ni wa
 
 zh:
-- 那 · nà
-- 做 · zuò
-- 不 · bù
-- 有道理 · yǒu dào lǐ
+- 这 · zhè
+- 毫无意义 · háo wú yì yì
+- 对我来说 · duì wǒ lái shuō
 
 ## grammar
 
