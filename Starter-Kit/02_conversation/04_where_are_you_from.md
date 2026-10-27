@@ -3,94 +3,78 @@ order: 4
 ---
 
 en:
-- Where are you from?
 - Which country are you from?
+- Which country do you come from?
 
 fr:
-- Vous venez d'où ?
-- De quel pays êtes-vous ?
+- De quel pays es-tu ?
+- Tu viens de quel pays ?
 
 de:
-- Wo kommen Sie her?
-- Aus welchem Land kommen Sie?
+- Aus welchem Land kommst du?
+- Aus welchem Land bist du?
 
 am:
-- ከየት ነው የመጣሽው?
-- ከየትኛው አገር ነው የመጣሽው?
+- ከየትኛው ሀገር ነህ?
+- ከየትኛው ሀገር ነው የመጣኸው?
 
 ar:
-- من أين أنتِ ؟
 - من أي بلد أنت؟
+- من أي بلد أتيت؟
 
 es:
-- ¿De dónde eres?
 - ¿De qué país eres?
+- ¿De qué país vienes?
 
 ja:
-- どこから来たの?
-- あなたはどの国出身ですか.
+- どの国から来ましたか?
+- どの国から来たんですか?
 
 zh:
-- 你来自哪里?
-- 你来自哪个国家?
+- 你是从哪个国家来的?
+- 你从哪个国家来?
 
 ## vocabulary
 
 en:
 - which · wich
-- country · country
-- are · are
-- you · yoo
-- from · from
+- country · kun-tree
+- from · frum
 
 fr:
-- quel · luh: KEL
-- pays · pays
-- sont · sont
-- tu · tu
+- quel · kel
+- pays · pay-ee
 - de · duh
 
 de:
-- welch · VEL: ches
-- land · land
-- sind · sind
-- du · du
-- von · ows
+- welchem · vel-khem
+- Land · lant
+- aus · ows
 
 am:
-- የትኛው · yetinyaw
-- ሀገር · heger
-- ናቸው · nachew
-- አንተ · an-te
+- የትኛው · yetenyaw
+- ሀገር · hager
 - ከ · ke
 
 ar:
 - أي · ayy
-- بلد · bld
-- هم · hm
-- أنت · an-ta
+- بلد · balad
 - من · min
 
 es:
-- cuál · kwal
-- pais · pais
-- son · son
-- tú · too
-- de · de
+- qué · keh
+- país · pa-ees
+- de · deh
 
 ja:
-- どの · dotchi / dore
-- 国名 · kokumei
-- です · desu
-- あなた · anata
+- どの · dono
+- 国 · kuni
 - から · kara
 
 zh:
 - 哪个 · nǎ ge
-- 國家 · guó jiā
-- 是 · shì
-- 你 · nǐ
-- 从 · lái zì
+- 国家 · guó jiā
+- 从 · cóng
 
 ## grammar
 
