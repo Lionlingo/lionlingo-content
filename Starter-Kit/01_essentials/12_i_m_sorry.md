@@ -7,58 +7,58 @@ en:
 - Sorry!
 
 fr:
-- Je suis désolée !
-- Je suis désolée !
+- Je suis désolé !
+- Désolé !
 
 de:
-- Das tut mir leid.
-- Das tut mir leid.
+- Das tut mir leid!
+- Tut mir leid!
 
 am:
-- አዝናለሁ!
+- በጣም ይቅርታ!
 - ይቅርታ!
 
 ar:
-- أنا آسفة!
-- آسف
+- أنا آسف!
+- آسف!
 
 es:
 - ¡Lo siento mucho!
-- ¡Lo siento mucho!
+- ¡Lo siento!
 
 ja:
-- すまない!
-- すまない!
+- ごめんなさい！
+- ごめん！
 
 zh:
-- 我很抱歉!
-- 我很抱歉!
+- 我很抱歉！
+- 抱歉！
 
 ## vocabulary
 
 en:
-- sorry · sorry
+- sorry · SOR: ee
 
 fr:
-- désolé · daysolay
+- désolé · day: zo: LAY
 
 de:
-- entschuldigung · enkhuldigung
+- tut mir leid · toot meer lite
 
 am:
 - ይቅርታ · yik-ir-ta
 
 ar:
-- آسف · aasf
+- آسف · a-sif
 
 es:
-- lo siento · lo siento
+- lo siento · lo SYEN: to
 
 ja:
-- ごめんなさい · gomennasai
+- ごめん · gomen
 
 zh:
-- 对不起 · duì bù qǐ
+- 抱歉 · bào qiàn
 
 ## grammar
 
