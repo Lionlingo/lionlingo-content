@@ -67,6 +67,7 @@ am:
 ar:
 - عفواً · afwan
 - أين · ay-na
+- (omitted) · —
 - ال · al
 - محطة · ma-hat-ta
 
@@ -81,13 +82,14 @@ ja:
 - すみません · sumimasen
 - どこ · doko
 - ですか · desu ka
+- (omitted) · —
 - 駅 · eki
 
 zh:
-- 不好意思 · bù hǎo yì si
-- 请问 · qǐng wèn
+- 不好意思，请问 · bù hǎo yì si, qǐng wèn
 - 哪里 · nǎ lǐ
 - 在 · zài
+- (omitted) · —
 - 车站 · chē zhàn
 
 ## grammar
