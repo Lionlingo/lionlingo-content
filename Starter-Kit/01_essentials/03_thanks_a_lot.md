@@ -7,58 +7,58 @@ en:
 - Thank you very much
 
 fr:
-- Merci beaucoup .
 - Merci beaucoup.
+- Je vous remercie beaucoup.
 
 de:
-- Vielen Dank .
+- Vielen Dank.
 - Ich danke Ihnen sehr.
 
 am:
 - በጣም አመሰግናለሁ።
-- በጣም አመሰግናለሁ
+- በጣም አመሰግናለሁ።
 
 ar:
-- شكرا جزيلا
 - شكراً جزيلاً
+- شكراً جزيلاً لكم
 
 es:
-- Muchas gracias
 - Muchas gracias.
+- Muchísimas gracias.
 
 ja:
-- どうも
-- ありがとうございました
+- どうも、ありがとう。
+- どうもありがとうございます。
 
 zh:
-- 非常感谢.
-- 非常感谢.
+- 非常感谢。
+- 非常感谢您。
 
 ## vocabulary
 
 en:
-- thank you very much · thank yoo very much
+- thank you very much · thank yoo VEH: ree much
 
 fr:
-- merci beaucoup · mehr-see bohcoop
+- je vous remercie beaucoup · zhuh voo ruh: mehr: SEE bo: KOO
 
 de:
-- vielen Dank · veelen dank
+- ich danke Ihnen sehr · ikh DAHN: kuh EE: nen zayr
 
 am:
-- በጣም አመሰግናለሁ · betham amesegnalehu
+- በጣም አመሰግናለሁ · be-tam a-me-se-gi-na-le-hu
 
 ar:
-- شكراً جزيلاً · shkraan jzylaan
+- شكراً جزيلاً · shukran jazilan
 
 es:
-- muchas gracias · muchas grah-syahs
+- muchísimas gracias · moo: CHEE: see: mas GRAH: syas
 
 ja:
-- どうもありがとう · doumoarigatou
+- どうもありがとうございます · doumo arigatou gozaimasu
 
 zh:
-- 非常感谢 · fēi cháng gǎn xiè
+- 非常感谢您 · fēi cháng gǎn xiè nín
 
 ## grammar
 
