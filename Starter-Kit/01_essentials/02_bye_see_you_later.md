@@ -7,32 +7,32 @@ en:
 - Goodbye, see you later
 
 fr:
-- Au revoir, à plus tard.
+- Salut, à plus tard.
 - Au revoir, à plus tard.
 
 de:
 - Tschüss, bis später.
-- Tschüss, bis später.
+- Auf Wiedersehen, bis später.
 
 am:
-- ደህና ፣ በኋላ እንገናኛለን
+- ቻው፣ በኋላ እንገናኛለን።
 - ደህና ሁን፣ በኋላ እንገናኛለን።
 
 ar:
-- إلى اللقاء، أراك لاحقاً
+- مع السلامة، أراك لاحقاً
 - إلى اللقاء، أراك لاحقاً
 
 es:
-- Hasta luego.
-- Adiós, hasta luego
+- Chao, hasta luego.
+- Adiós, hasta luego.
 
 ja:
-- さようなら 後で会おう
-- さようなら 後で会おう
+- またね、後で会おう
+- さようなら、また後で
 
 zh:
-- 再见,再见
-- 再见,再见
+- 拜拜，回头见
+- 再见，回头见
 
 ## vocabulary
 
@@ -45,24 +45,24 @@ fr:
 - à plus tard · ah plus tard
 
 de:
-- auf Wiedersehen · ouf VEE: der: hö: ren
-- bis später · bis spehter
+- auf Wiedersehen · ouf VEE: der: ZAY: en
+- bis später · bis SHPAY: ter
 
 am:
-- ደህና ሁን · chao
-- ኋላ እንገናኝ · xwala engenany
+- ደህና ሁን · de-hi-na hun
+- በኋላ እንገናኛለን · be-hwala in-ge-na-na-len
 
 ar:
-- وداعاً · ma'a as: salama
-- إلى اللقاء · ila allqa
+- إلى اللقاء · ila al-liqa
+- أراك لاحقاً · araka lahiqan
 
 es:
 - adiós · a: DYOS
-- hasta luego · hasta luego
+- hasta luego · AS: ta LWE: go
 
 ja:
-- さようなら · shitsurei shimasu
-- またね · matane
+- さようなら · sayounara
+- また後で · mata ato de
 
 zh:
 - 再见 · zài jiàn
