@@ -8,54 +8,54 @@ en:
 
 fr:
 - Je n'en ai aucune idée.
-- Je ne sais pas. Je ne sais pas.
+- Je ne sais pas.
 
 de:
 - Ich habe keine Ahnung.
 - Ich weiß es nicht.
 
 am:
-- ምንም የማውቀው ነገር የለም።
-- እኔ አላውቅም
+- ምንም ሀሳብ የለኝም።
+- አላውቅም።
 
 ar:
-- ليس لدي فكرة
-- لا أعلم، لا أعرف
+- ليس لدي فكرة.
+- لا أعرف.
 
 es:
 - No tengo ni idea.
-- No sé. - ¿Qué es?
+- No sé.
 
 ja:
-- 知らないわ
-- 知らないわ
+- 見当もつかない。
+- 知らない。
 
 zh:
-- 我不知道.
-- 我不知道.
+- 我毫无头绪。
+- 我不知道。
 
 ## vocabulary
 
 en:
-- i don't know · eye don't know
+- I don't know · eye dohnt noh
 
 fr:
-- je ne sais pas · zhuh ne sais pas
+- je ne sais pas · zhuh nuh say pah
 
 de:
-- ich weiß nicht · ikh weyess nikht
+- ich weiß es nicht · ikh vice es nikht
 
 am:
-- አላውቅም · alawqm
+- አላውቅም · a-la-wik-im
 
 ar:
-- لا أعرف · la aarf
+- لا أعرف · la a-'rif
 
 es:
-- no sé · noh seh
+- no sé · no seh
 
 ja:
-- わからない · wakaranai
+- 知らない · shi-ra-nai
 
 zh:
 - 我不知道 · wǒ bù zhī dào
