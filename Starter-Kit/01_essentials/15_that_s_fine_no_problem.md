@@ -8,65 +8,65 @@ en:
 
 fr:
 - Ça va, pas de problème.
-- Ça va.
+- D'accord, pas de problème.
 
 de:
 - Das ist in Ordnung, kein Problem.
-- Okay, das ist kein Problem.
+- Okay, kein Problem.
 
 am:
-- ምንም ችግር የለውም።
-- ደህና፣ ምንም ችግር የለም።
+- ደህና ነው፣ ምንም ችግር የለም።
+- እሺ፣ ምንም ችግር የለም።
 
 ar:
-- لا بأس، لا مشكلة
-- حسناً، لا مشكلة
+- لا بأس، لا مشكلة.
+- حسناً، لا مشكلة.
 
 es:
 - Está bien, no hay problema.
-- Está bien, no hay problema.
+- Vale, no hay problema.
 
 ja:
-- 大丈夫だ 問題ない
-- わかった 問題ない
+- いいですよ、問題ありません。
+- 大丈夫です、問題ありません。
 
 zh:
-- 没有问题.
-- 好,没有问题.
+- 没事，没有问题。
+- 好的，没有问题。
 
 ## vocabulary
 
 en:
-- okay · okay
-- no problem · noh problem
+- okay · oh: KAY
+- no problem · noh PROB: lem
 
 fr:
-- okay · okay
-- pas de problème · pas de problehme
+- d'accord · da: KOR
+- pas de problème · pa duh pro: BLEM
 
 de:
-- ok · ok
-- kein Problem · keyen problem
+- okay · oh: KAY
+- kein Problem · kine pro: BLEM
 
 am:
-- እሺ · eshi
-- ችግር የለም · chgr yelem
+- እሺ · i-shi
+- ምንም ችግር የለም · mi-nim chi-gir ye-lem
 
 ar:
-- حسن · hsn
-- لا مشكلة · la mshkla
+- حسناً · ha-san-an
+- لا مشكلة · la mush-ki-la
 
 es:
-- okey · okey
-- no hay problema · noh hay problema
+- vale · BA: le
+- no hay problema · no eye pro: BLE: ma
 
 ja:
-- わかった · wakatta
-- 問題ない · mondai nai
+- 大丈夫です · daijōbu desu
+- 問題ありません · mondai arimasen
 
 zh:
 - 好的 · hǎo de
-- 没问题 · méi wèn tí
+- 没有问题 · méi yǒu wèn tí
 
 ## grammar
 
