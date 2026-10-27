@@ -3,62 +3,62 @@ order: 14
 ---
 
 en:
-- Pleased to meet you.
 - Nice to meet you.
+- It's nice to meet you.
 
 fr:
-- Ravi de vous rencontrer.
-- Ravi de vous avoir rencontré.
+- Enchanté de vous rencontrer.
+- Je suis enchanté de vous rencontrer.
 
 de:
-- Schön, Sie kennenzulernen.
-- Schön, Sie kennenzulernen.
+- Freut mich, Sie kennenzulernen.
+- Es freut mich, Sie kennenzulernen.
 
 am:
-- ደስ ብሎኛል።
-- አንተን በማወቄ ደስ ብሎኛል።
+- አንተን በማግኘቴ ደስ ብሎኛል።
+- አንተን በማግኘቴ እጅግ ደስ ብሎኛል።
 
 ar:
-- سعدت بمقابلتك
-- سعدت بمقابلتك
+- سعدت بمقابلتك.
+- لقد سعدت بمقابلتك.
 
 es:
-- Encantado de conocerla.
 - Encantado de conocerte.
+- Mucho gusto, encantado de conocerte.
 
 ja:
-- 初めまして
-- 初めまして
+- 初めまして。
+- 初めまして、よろしくお願いします。
 
 zh:
-- 很高兴见到你.
-- 很高兴见到你.
+- 很高兴见到你。
+- 我很高兴见到你。
 
 ## vocabulary
 
 en:
-- nice to meet you · nice tuh meet yoo
+- nice to meet you · nys too meet yoo
 
 fr:
-- enchanté · on: shon: TAY
+- enchanté de vous rencontrer · on-shon-TAY duh voo ron-kon-TRAY
 
 de:
-- freut mich · froyt mikh
+- freut mich, Sie kennenzulernen · froyt mikh zee KEN-nen-tsoo-ler-nen
 
 am:
 - ደስ ብሎኛል · des belognal
 
 ar:
-- تشرفت بمقابلتك · tasharraftu bima'rifatik
+- سعدت بمقابلتك · sa'idtu bimuqabalatik
 
 es:
-- mucho gusto · en: kan: TA: do
+- encantado de conocerte · en-kan-TA-do de ko-no-SER-te
 
 ja:
-- はじめまして · hajimemashite
+- 初めまして · hajimemashite
 
 zh:
-- 很高兴认识你 · hěn gāo xìng rèn shi nǐ
+- 很高兴见到你 · hěn gāo xìng jiàn dào nǐ
 
 ## grammar
 
