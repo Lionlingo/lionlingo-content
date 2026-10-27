@@ -7,7 +7,7 @@ en:
 - Can you repeat that slowly?
 
 fr:
-- Pouvez-vous le dire plus lentement ?
+- Pourriez-vous le redire lentement ?
 - Pouvez-vous le répéter lentement ?
 
 de:
@@ -23,50 +23,50 @@ ar:
 - هل يمكنك أن تكرر ذلك ببطء؟
 
 es:
-- ¿Podrías decirlo más despacio otra vez?
+- ¿Podrías decirlo despacio otra vez?
 - ¿Puedes repetirlo despacio?
 
 ja:
-- もう一度ゆっくり言ってくれないか?
-- ゆっくり言ってください.
+- もう一度ゆっくり言ってくれませんか？
+- ゆっくり繰り返してくれませんか？
 
 zh:
-- 你能慢慢说一遍吗?
-- 你能慢慢重复吗?
+- 你能再慢慢说一遍吗？
+- 你能慢慢重复一遍吗？
 
 ## vocabulary
 
 en:
-- can you repeat that · can yoo repeat that
-- slowly · slowly
+- can you repeat that · kan yoo ri: PEET that
+- slowly · SLOH: lee
 
 fr:
-- pouvez-vous répéter · poovez-voos raypayter
-- lentement · lentement
+- pouvez-vous le répéter · poo: vay VOO luh ray: pay: TAY
+- lentement · lahn: tuh: MAHN
 
 de:
-- können Sie das wiederholen · kernnen see dahs weederholen
-- langsam · langsam
+- kannst du das wiederholen · kanst doo das vee: der: HOH: len
+- langsam · LANG: zahm
 
 am:
-- እባክህ ድገምልኝ · ebakh dhgemlny
-- ቀስ ብሎ · qes blo
+- ትደግመዋለህ · tid-ge-me-wa-leh
+- በዝግታ · be-zig-ta
 
 ar:
-- هل يمكنك إعادة ذلك · hl ymknk iaada dhlk
-- ببطء · bbt
+- هل يمكنك أن تكرر · hal yum-ki-ka an tu-kar-rir
+- ببطء · bi-bu-t'
 
 es:
-- ¿puedes repetir eso · ¿puedes repetir eso
-- despacito · despacito
+- ¿puedes repetirlo · PWE: des re: pe: TEER: lo
+- despacio · des: PA: syo
 
 ja:
-- もう一度言ってくれますか · mou ichido itte kuremasuka
+- 繰り返してくれませんか · kurikaeshite kuremasen ka
 - ゆっくり · yukkuri
 
 zh:
-- 你能再说一遍吗 · nǐ néng zài shuō yī biàn ma
-- 慢慢地 · màn màn dì
+- 你能重复一遍吗 · nǐ néng chóng fù yī biàn ma
+- 慢慢 · màn màn
 
 ## grammar
 
