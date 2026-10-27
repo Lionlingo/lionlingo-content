@@ -3,78 +3,78 @@ order: 10
 ---
 
 en:
-- That is right
-- That is correct
+- That is right.
+- That is correct.
 
 fr:
-- C' est vrai.
-- C' est vrai.
+- C'est vrai.
+- C'est exact.
 
 de:
 - Das ist richtig.
-- Das stimmt.
+- Das ist korrekt.
 
 am:
-- ልክ ነው
+- ልክ ነው።
 - ይህ ትክክል ነው።
 
 ar:
-- هذا صحيح
-- هذا صحيح
+- هذا صحيح.
+- هذا سليم.
 
 es:
-- Eso es correcto.
+- Eso es cierto.
 - Eso es correcto.
 
 ja:
-- そうだ
-- そうだ
+- そうです。
+- その通りです。
 
 zh:
-- 这是对的.
-- 这是正确的.
+- 这是对的。
+- 这是正确的。
 
 ## vocabulary
 
 en:
 - that · that
 - is · iz
-- correct · correct
+- correct · kuh: REKT
 
 fr:
-- cela · suh: LA / suh
-- est · est
-- exact · exact
+- c' (ce) · s
+- est · eh
+- exact · eg: ZAKT
 
 de:
-- das · das
+- das · dahs
 - ist · ist
-- berichtigen · berikhtigen
+- korrekt · ko: REKT
 
 am:
-- ያ · ya
+- ይህ · yih
 - ነው · new
-- ትክክል · tkkl
+- ትክክል · tik-kil
 
 ar:
-- ذلك · thalika
-- هو · hu-wa
-- صحح · shh
+- هذا · ha-tha
+- (omitted) · —
+- سليم · sa-leem
 
 es:
-- eso · E: se
+- eso · E: so
 - es · es
-- correcto · correcto
+- correcto · ko: REK: to
 
 ja:
-- それ · sore
+- その · sono
 - です · desu
-- 正解 · seikai
+- 通り · tōri
 
 zh:
-- 那 · nà
+- 这 · zhè
 - 是 · shì
-- 正确的 · zhèng què de
+- 正确 · zhèng què
 
 ## grammar
 
