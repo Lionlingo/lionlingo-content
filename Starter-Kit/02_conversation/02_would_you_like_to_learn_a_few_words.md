@@ -3,110 +3,86 @@ order: 2
 ---
 
 en:
-- Would you like to learn a few words?
 - Do you want to learn a few words?
+- You want to learn a few words?
 
 fr:
+- Voulez-vous apprendre quelques mots ?
 - Vous voulez apprendre quelques mots ?
-- Tu veux apprendre quelques mots ?
 
 de:
-- Möchtest du ein paar Worte lernen?
-- Willst du ein paar Worte lernen?
+- Möchtest du ein paar Wörter lernen?
+- Du möchtest ein paar Wörter lernen?
 
 am:
 - ጥቂት ቃላት መማር ትፈልጋለህ?
-- ጥቂት ቃላት መማር ትፈልጋለህ?
+- መማር ትፈልጋለህ ጥቂት ቃላት?
 
 ar:
-- هل تودين تعلم بعض الكلمات؟
 - هل تريد أن تتعلم بعض الكلمات؟
+- تريد أن تتعلم بعض الكلمات؟
 
 es:
-- ¿Te gustaría aprender unas palabras?
-- ¿Quieres aprender algunas palabras?
+- ¿Quieres aprender unas cuantas palabras?
+- ¿Tú quieres aprender unas cuantas palabras?
 
 ja:
-- 数つの言葉を学びたいですか.
-- 数つの言葉を学ぼうか?
+- いくつかの言葉を学びたいですか?
+- いくつかの言葉を学びたいと思いますか?
 
 zh:
-- 你想学习几句话吗?
 - 你想学几个词吗?
+- 你想不想学几个词?
 
 ## vocabulary
 
 en:
-- do · do
-- you · yoo
 - want · wont
-- to · too
-- learn · learn
-- a few · uh few
-- words · words
+- learn · lurn
+- a few · uh fyoo
+- words · wurdz
 
 fr:
-- faire · faire
-- tu · tu
-- vouloir · voo: LWAR
-- à · ah
-- apprenez · apprenez
-- quelques · quelques
-- mots · mots
+- voulez · voo-lay
+- apprendre · a-pron-dr
+- quelques · kel-k
+- mots · mo
 
 de:
-- tun · tun
-- du · du
-- wollen / möchten · VO: len
-- zu · zu
-- erfahren · erfahren
-- ein paar · eyen paar
-- worte · worte
+- möchtest · mursh-test
+- lernen · ler-nen
+- ein paar · ine paar
+- Wörter · vur-ter
 
 am:
-- ማድረግ · madhreg
-- አንተ · an-te
-- መፈለግ · mefelag
-- ወደ · we-de
-- ተማር · temar
-- ጥቂት · thqit
-- ቃላት · qalat
+- ትፈልጋለህ · tefelgaleh
+- መማር · memar
+- ጥቂት · tikit
+- ቃላት · kalat
 
 ar:
-- يفعل · yfal
-- أنت · an-ta
-- يريد · yureed
-- إلى · i-la
-- يتعلم · ytalm
-- قليل · qlyl
-- الكلمات · alklmat
+- تريد · tureed
+- تتعلم · tata'allam
+- بعض · ba'd
+- الكلمات · al-kalimat
 
 es:
-- hacer · hacer
-- tú · too
-- querer · ke: RER
-- a · a
-- aprenda · aprenda
-- unos pocos · unos pocos
-- palabras · palabras
+- quieres · kyeh-res
+- aprender · a-pren-der
+- unas cuantas · oo-nas kwan-tas
+- palabras · pa-la-bras
 
 ja:
-- する · suru
-- あなた · anata
-- したい／ほしい · shitai / hoshii
-- に · ni
-- 学習 · gakushuu
-- 少し · sukoshi
+- たい · tai
+- 学び · manabi
+- いくつか · ikutsuka
 - 言葉 · kotoba
 
 zh:
-- 做 · zuò
-- 你 · nǐ
 - 想 · xiǎng
-- 到 · dào
-- 學習 · xué xí
-- 一些 · yī xiē
-- 言語 · yán yǔ
+- 学 · xué
+- 几个 · jǐ gè
+- 词 · cí
 
 ## grammar
 
