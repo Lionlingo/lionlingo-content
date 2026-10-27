@@ -43,33 +43,33 @@ en:
 
 fr:
 - s'il vous plaît · seel voo PLAY
-- aider · ay: DAY
+- aidez · ay: DAY
 - moi · mwah
 
 de:
 - bitte · BI: te
-- helfen · HEL: fen
+- hilf · hilf
 - mir · meer
 
 am:
 - እባካችሁ · i-ba-ka-chihu
-- መርዳት · mer-dat
+- እርዱ · ir-du
 - ኝ (me) · -nyi
 
 ar:
 - من فضلك · min fadlak
-- مساعدة · musaa'ada
-- ـي (me) · -ee
+- ساعد · saa-'id
+- ـني (me) · -ni
 
 es:
 - por favor · por fa: VOR
-- ayudar · a: yu: DAR
+- ayuda · a: YU: da
 - me · meh
 
 ja:
 - ください · kudasai
-- 助ける · tasukeru
-- 私 · watashi
+- 助けて · tasukete
+- (omitted) · —
 
 zh:
 - 请 · qǐng
