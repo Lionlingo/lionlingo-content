@@ -3,102 +3,70 @@ order: 9
 ---
 
 en:
-- I'm Sarah - what's your name?
 - My name is Sarah, what's your name?
+- My name is Sarah, and what's your name?
 
 fr:
 - Je m'appelle Sarah, comment tu t'appelles ?
-- Je m'appelle Sarah, comment tu t'appelles ?
+- Je m'appelle Sarah, et toi, comment tu t'appelles ?
 
 de:
-- Ich bin Sarah, wie heißt du?
 - Ich heiße Sarah, wie heißt du?
+- Ich heiße Sarah, und wie heißt du?
 
 am:
-- እኔ ሳራ ነኝ  ስምህ ማን ነው?
-- ስሜ ሣራ ነው፣ ስምህስ?
+- ስሜ ሳራ ነው፣ ስምህ ማን ነው?
+- ስሜ ሳራ ነው፣ አንተስ ስምህ ማን ነው?
 
 ar:
-- أنا (سارة) ما اسمك؟
-- اسمي (سارة) ، ما اسمك؟
+- اسمي سارة، ما اسمك؟
+- اسمي سارة، وما اسمك؟
 
 es:
-- Soy Sarah ¿cómo te llamas?
-- Mi nombre es Sarah, ¿cuál es tu nombre?
+- Me llamo Sarah, ¿cómo te llamas?
+- Me llamo Sarah, y tú, ¿cómo te llamas?
 
 ja:
-- 私はサラです あなたの名前は?
-- 私の名前はサラ あなたの名前は?
+- 私の名前はサラです。あなたの名前は?
+- 私の名前はサラです。あなたの名前は何ですか?
 
 zh:
-- 我叫莎拉,你的名字是什么?
 - 我叫莎拉,你叫什么?
+- 我叫莎拉,那你叫什么?
 
 ## vocabulary
 
 en:
-- my · my
-- name · naym
-- is · iz
-- sarah · sarah
-- what · wot
-- your · yor
+- my name is · my naym iz
+- what's your name · wots yor naym
 
 fr:
-- mon · mon
-- nom · nom
-- est · est
-- sarah · sarah
-- quoi · kuh / kwa
-- ton · ton
+- je m'appelle · zhuh ma-pel
+- comment tu t'appelles · ko-mon tu ta-pel
 
 de:
-- mein · meyen
-- Name · NA: me
-- ist · ist
-- sarah · sarah
-- was · vas
-- dein · deyen
+- ich heiße · ikh hy-se
+- wie heißt du · vee hysst doo
 
 am:
-- የእኔ · yeene
-- ስም · sim
-- ነው · new
-- ሳራ · sara
-- ምን · min
-- ያንተ · yante
+- ስሜ · sime
+- ስምህ ማን ነው · simih man new
 
 ar:
-- لي · ly
-- اسم · ism
-- هو · hu-wa
-- ساره · sarh
-- ماذا · ma-dha
-- لك · lk
+- اسمي · ismi
+- ما اسمك · ma ismuk
 
 es:
-- mi · mi
-- nombre · NOM: bre
-- es · es
-- sarah · sarah
-- qué · keh
-- tu · tu
+- me llamo · me YA-mo
+- cómo te llamas · KO-mo te YA-mas
 
 ja:
-- 私の · watashi no
-- 名前 · namae
-- です · desu
-- サラ · sara
-- 何 · nani
-- あなたの · anatano
+- 私の名前は · watashi no namae wa
+- あなたの名前は · anata no namae wa
 
 zh:
-- 我的 · wǒ de
-- 名字 · míng zi
-- 是 · shì
-- 莎拉 · shā lā
-- 什么 · shén me
-- 你的 · nǐ de
+- 我叫 · wǒ jiào
+- 你叫什么 · nǐ jiào shén me
 
 ## grammar
 
