@@ -8,65 +8,65 @@ en:
 
 fr:
 - Comment allez-vous aujourd'hui ?
-- Comment allez-vous aujourd'hui ?
+- Aujourd'hui, comment allez-vous ?
 
 de:
 - Wie geht's dir heute?
-- Wie geht's dir heute?
+- Wie geht's dir denn heute?
 
 am:
 - ዛሬ እንዴት ነህ?
-- ዛሬ እንዴት ነህ?
+- እንዴት ነህ ዛሬ?
 
 ar:
 - كيف حالك اليوم؟
-- كيف حالك اليوم؟
+- كيف حالك هذا اليوم؟
 
 es:
 - ¿Cómo estás hoy?
-- ¿Cómo estás hoy?
+- ¿Cómo estás el día de hoy?
 
 ja:
 - 今日はどうですか?
-- 今日はどうですか?
+- 今日は調子はどうですか?
 
 zh:
-- 你今天怎么了?
-- 你今天怎么了?
+- 你今天好吗?
+- 今天你好吗?
 
 ## vocabulary
 
 en:
-- how are you doing · how are yoo doing
+- how are you · how are you
 - today · today
 
 fr:
-- comment ça va · comment sa va
-- hui · hui
+- comment allez-vous · comman talay-voo
+- aujourd'hui · ojoor-dwee
 
 de:
-- wie geht's · wee geht's
-- heutige · hoytige
+- wie geht's dir · vee gayts deer
+- heute · hoy-te
 
 am:
-- እንደምን አደርክ · endhemn adherk
+- እንዴት ነህ · endet neh
 - ዛሬ · zare
 
 ar:
-- كيف حالك · kyf halk
+- كيف حالك · kayfa halak
 - اليوم · al-yawm
 
 es:
-- cómo estás · cohmo estahs
-- today · today
+- cómo estás · koh-mo es-tas
+- hoy · oy
 
 ja:
-- 元気ですか · genki desuka
-- トゥデイ · toudei
+- どうですか · dō desu ka
+- 今日 · kyō
 
 zh:
-- 你好吗 · nǐ hǎo ma
-- 今日 · jīn rì
+- 好吗 · hǎo ma
+- 今天 · jīn tiān
 
 ## grammar
 
