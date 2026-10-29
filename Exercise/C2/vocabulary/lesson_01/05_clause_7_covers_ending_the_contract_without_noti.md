@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-hypotaxis-parataxis · Hypotaxis and parataxis
-- snippet-c1-participle-clauses · Participle clauses
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-c1-participial-attributes · Participial phrases

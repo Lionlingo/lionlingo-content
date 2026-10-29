@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-superlatives · Superlatives
+- snippet-a1-comparison · Comparison

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-obligation-modals · must, have to, should
-- snippet-b2-passive-advanced · Reporting and event passives
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-b1-passive · The passive

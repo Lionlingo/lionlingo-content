@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-concessive-clauses · Concessive clauses
-- snippet-c1-register · Formal versus informal register
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-a1-pronouns · Pronouns

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-articles-definiteness · a / an / the
-- snippet-a1-colors-adjectives · Colors as adjectives
+- snippet-a1-article-declension · Articles
+- snippet-a1-adjective-endings · Adjectives

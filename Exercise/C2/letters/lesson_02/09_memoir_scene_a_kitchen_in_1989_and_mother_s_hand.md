@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-metaphorical-grammar · Metaphorical grammar patterns
+- snippet-b2-support-verbs · Light verb + noun

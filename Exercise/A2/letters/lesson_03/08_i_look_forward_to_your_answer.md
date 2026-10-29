@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-b1-reported-speech · Reported speech
+- snippet-a2-future · The future
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

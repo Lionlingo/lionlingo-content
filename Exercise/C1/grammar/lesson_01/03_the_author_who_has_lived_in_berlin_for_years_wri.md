@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-complex-noun-phrases · Complex noun phrases
-- snippet-b2-reduced-relatives · Reduced relative clauses
+- snippet-b2-nominal-style · Nominalization
+- snippet-c1-participial-attributes · Participial phrases

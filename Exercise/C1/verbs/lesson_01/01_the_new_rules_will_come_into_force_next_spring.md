@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
+- snippet-a2-future · The future

@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-participles-as-adjectives · -ing / -ed adjectives
+- snippet-a2-participles · Participles

@@ -63,4 +63,4 @@ zh:
 ## grammar
 
 - snippet-b1-relative-clauses · Relative clauses
-- snippet-a2-present-continuous · Present continuous
+- snippet-a1-present · Present tense

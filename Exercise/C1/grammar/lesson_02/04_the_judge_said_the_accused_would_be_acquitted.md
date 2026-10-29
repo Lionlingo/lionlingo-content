@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-reporting-verbs · Reporting verbs
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-time-days · Days & time
-- snippet-a1-word-order-statements · Word order
+- snippet-a1-time · Telling time
+- snippet-a1-sentence-structure · Sentence structure

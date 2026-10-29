@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-a1-pronouns · Pronouns

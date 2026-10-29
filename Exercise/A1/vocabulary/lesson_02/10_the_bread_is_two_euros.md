@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-plurals-quantity · Plurals and quantity
+- snippet-a1-plural · Plural nouns

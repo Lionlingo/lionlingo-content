@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-passive-advanced · Advanced passive
+- snippet-b1-passive · The passive

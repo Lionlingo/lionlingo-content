@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-a1-informal-greetings · Informal address
+- snippet-a2-future · The future
+- snippet-a1-pronouns · Pronouns

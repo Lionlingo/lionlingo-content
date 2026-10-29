@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-information-structure · Information structure (given → new)
-- snippet-c2-stance-evidentiality · Stance and evidentiality
+- snippet-a1-sentence-structure · Sentence structure
+- snippet-b2-subjective-modals · Modals for guesses

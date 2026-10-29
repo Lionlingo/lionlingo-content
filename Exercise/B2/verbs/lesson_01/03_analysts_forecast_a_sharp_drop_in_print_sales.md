@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-result-clauses · Result clauses
-- snippet-c1-hedging · Hedging
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-b2-subjective-modals · Modals for guesses

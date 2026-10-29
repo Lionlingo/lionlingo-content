@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-inversion-conditionals · Inversion in conditionals
-- snippet-b2-future-perfect · Future perfect
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a2-future · The future

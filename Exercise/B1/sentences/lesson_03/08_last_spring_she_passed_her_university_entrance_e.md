@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-present-perfect · Present perfect
-- snippet-b1-first-conditional · First conditional
+- snippet-a2-perfekt · Present perfect
+- snippet-a2-wenn-als-wann · when, whenever and if

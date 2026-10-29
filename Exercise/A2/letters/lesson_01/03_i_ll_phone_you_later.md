@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b1-future-will-predictions · Will for predictions
+- snippet-a1-pronouns · Pronouns
+- snippet-a2-future · The future

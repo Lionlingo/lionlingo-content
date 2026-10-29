@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-discourse-reference · Discourse reference (this, that, such, the former…)
-- snippet-c1-result-clauses · Result clauses
+- snippet-a1-pronouns · Pronouns
+- snippet-a2-subordinate-clause · Subordinate clauses

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-participle-clauses · Participle clauses
-- snippet-c1-apposition · Apposition
+- snippet-c1-participial-attributes · Participial phrases
+- snippet-b2-nominal-style · Nominalization

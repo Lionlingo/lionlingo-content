@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-have-possession · Have for possession
-- snippet-a1-articles-definiteness · a / an / the
+- snippet-a1-haben · To have
+- snippet-a1-article-declension · Articles

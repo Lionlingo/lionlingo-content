@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-discourse-markers · Discourse markers
+- snippet-b2-modal-particles · Softeners and fillers

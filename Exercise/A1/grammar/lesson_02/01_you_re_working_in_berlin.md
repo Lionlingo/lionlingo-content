@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-present · Present tense
+- snippet-a1-prepositions · Prepositions

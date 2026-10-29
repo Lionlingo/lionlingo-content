@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-emphasis-do-does · Emphatic do / does / did
+- snippet-a1-sentence-structure · Sentence structure

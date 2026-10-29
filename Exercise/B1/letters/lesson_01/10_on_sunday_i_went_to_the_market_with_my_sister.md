@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-used-to · Used to for past habits
-- snippet-a2-past-simple · Past simple
+- snippet-a2-preterite · Past simple

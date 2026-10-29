@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-gerunds-infinitives · Gerunds and infinitives after verbs
-- snippet-a2-near-future · going to
+- snippet-a2-zu-infinitive · Infinitive with to
+- snippet-a2-future · The future

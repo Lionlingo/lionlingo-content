@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-discourse-markers · Discourse markers
-- snippet-c1-nominalization · Nominalization
+- snippet-b2-modal-particles · Softeners and fillers
+- snippet-b2-nominal-style · Nominalization

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-negation · Negation with not
-- snippet-a2-ability-can · can for ability
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a1-modal-verbs · Modal verbs

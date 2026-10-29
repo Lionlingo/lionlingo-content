@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-reported-speech · Reported speech
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

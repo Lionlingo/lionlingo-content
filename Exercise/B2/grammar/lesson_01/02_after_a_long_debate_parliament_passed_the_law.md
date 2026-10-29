@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-b1-passive-intro · Passive voice
+- snippet-b1-passive · The passive

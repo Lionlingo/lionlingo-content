@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-inversion-emphasis · Inversion
+- snippet-a1-sentence-structure · Sentence structure

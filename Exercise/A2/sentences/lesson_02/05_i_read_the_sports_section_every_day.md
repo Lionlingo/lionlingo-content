@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-adverbs-frequency · Frequency adverbs
-- snippet-a1-numbers-basic · Numbers
+- snippet-a1-adverbs · Adverbs
+- snippet-a1-time · Telling time

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-causative · Causatives (have, get, make, let)
-- snippet-b1-passive-intro · Passive voice
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-b1-passive · The passive

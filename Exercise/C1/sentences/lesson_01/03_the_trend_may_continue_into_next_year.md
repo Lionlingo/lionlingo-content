@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-hedging · Hedging
-- snippet-c2-academic-argument · Academic argument moves
+- snippet-b2-subjective-modals · Modals for guesses
+- snippet-b2-nominal-style · Nominalization
