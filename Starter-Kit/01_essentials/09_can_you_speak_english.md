@@ -7,12 +7,12 @@ en:
 - Do you speak English?
 
 fr:
-- Vous parlez anglais ?
-- Vous parlez anglais ?
+- Pouvez-vous parler anglais ?
+- Parlez-vous anglais ?
 
 de:
-- Können Sie Englisch sprechen?
-- Sprechen Sie Englisch?
+- Kannst du Englisch sprechen?
+- Sprichst du Englisch?
 
 am:
 - እንግሊዝኛ መናገር ትችላለህ?
@@ -24,64 +24,64 @@ ar:
 
 es:
 - ¿Puedes hablar inglés?
-- ¿Habla usted inglés?
+- ¿Hablas inglés?
 
 ja:
-- 英語は話せるか?
-- 英語は話せる?
+- 英語は話せますか？
+- 英語を話しますか？
 
 zh:
-- 你能说英语吗?
-- 你能说英语吗?
+- 你能说英语吗？
+- 你会说英语吗？
 
 ## vocabulary
 
 en:
-- do · do
+- do · doo
 - you · yoo
-- speak · speak
-- english · english
+- speak · speek
+- English · ING: glish
 
 fr:
-- faire · faire
-- tu · tu
-- parlez · parlez
-- anglaise · anglaise
+- (inversion) · —
+- vous · voo
+- parlez · par: LAY
+- anglais · ahn: GLAY
 
 de:
-- tun · tun
-- du · du
-- sprich · sprikh
-- englisch · english
+- (inversion) · —
+- du · doo
+- sprichst · shprikhst
+- Englisch · ENG: lish
 
 am:
-- ማድረግ · madhreg
-- አንተ · an-te
-- ተናገር · tenager
-- እንግሊዝኛ · engliznya
+- (omitted) · —
+- ህ (you, verb ending) · -h
+- ትናገራለህ · tin-na-ge-ra-leh
+- እንግሊዝኛ · in-gi-li-zi-nya
 
 ar:
-- يفعل · yfal
-- أنت · an-ta
-- يتكلم · ytklm
-- الانجليزية · alanjlyzya
+- هل · hal
+- ت (you, verb prefix) · ta-
+- تتحدث · ta-ta-had-dath
+- الإنجليزية · al-in-ji-li-zi-ya
 
 es:
-- hacer · hacer
-- tú · too
-- hablar · hablar
-- inglés · inglehs
+- (inversion) · —
+- s (you, verb ending) · -s
+- hablas · AH: blas
+- inglés · een: GLES
 
 ja:
-- する · suru
-- あなた · anata
-- 喋る · shaberu
-- イングリッシュ · ingurisshu
+- か · ka
+- (omitted) · —
+- 話します · hanashimasu
+- 英語 · eigo
 
 zh:
-- 做 · zuò
+- 吗 · ma
 - 你 · nǐ
-- 说话 · shuō huà
+- 会说 · huì shuō
 - 英语 · yīng yǔ
 
 ## grammar

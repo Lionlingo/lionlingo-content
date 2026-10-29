@@ -11,7 +11,7 @@ fr:
 - Où sont les toilettes ?
 
 de:
-- Wo ist die Toilette?
+- Wo ist das Badezimmer?
 - Wo sind die Toiletten?
 
 am:
@@ -24,65 +24,57 @@ ar:
 
 es:
 - ¿Dónde está el baño?
-- ¿Dónde están los baños?
+- ¿Dónde están los aseos?
 
 ja:
-- トイレはどこ?
-- トイレはどこ?
+- お手洗いはどこですか？
+- トイレはどこですか？
 
 zh:
-- 浴室在哪里?
-- 卫生间在哪里?
+- 洗手间在哪里？
+- 卫生间在哪里？
 
 ## vocabulary
 
 en:
 - where · wair
-- are · are
-- the · thuh
-- toilets · toilets
+- bathroom · BATH: room
+- toilets · TOY: lets
 
 fr:
 - où · oo
-- sont · sont
-- le · luh
-- toilettes · twahlettes
+- salle de bains · sal duh BAN
+- toilettes · twa: LET
 
 de:
 - wo · vo
-- sind · sind
-- der · dehr
-- toiletten · toiletten
+- Badezimmer · BAH: de: tsi: mer
+- Toiletten · toy: LE: ten
 
 am:
 - የት · yet
-- ናቸው · nachew
-- የ · ye
-- መጸዳጃ ቤቶች · metsedhajaa betoch
+- መታጠቢያ ቤቱ · me-ta-t'-bi-ya be-tu
+- መጸዳጃ ቤቶቹ · me-tse-da-ja be-to-chu
 
 ar:
 - أين · ay-na
-- هم · hm
-- ال · al
-- المراحيض · almrahyd
+- الحمام · al-ham-mam
+- المراحيض · al-ma-ra-heed
 
 es:
 - dónde · DON: de
-- son · son
-- el · el
-- inodoros · inodoros
+- baño · BA: nyo
+- aseos · a: SE: os
 
 ja:
 - どこ · doko
-- です · desu
-- その · sono
+- お手洗い · o-tearai
 - トイレ · toire
 
 zh:
 - 哪里 · nǎ lǐ
-- 是 · shì
-- 这 · zhè
 - 洗手间 · xǐ shǒu jiān
+- 卫生间 · wèi shēng jiān
 
 ## grammar
 

@@ -16,48 +16,56 @@ de:
 
 am:
 - ዋጋው ምንድን ነው?
-- ምን ያህል ነው?
+- ዋጋው ስንት ነው?
 
 ar:
-- ما هو الثمن؟
-- كم سعرها؟
+- ما هو السعر؟
+- كم السعر؟
 
 es:
 - ¿Cuál es el precio?
-- ¿Cuánto es?
+- ¿Cuánto cuesta?
 
 ja:
-- 値段は?
-- どれぐらいですか?
+- 値段はいくらですか？
+- いくらですか？
 
 zh:
-- 价格是多少?
-- 这多少钱?
+- 价格是多少？
+- 多少钱？
 
 ## vocabulary
 
 en:
-- how much is it · how much iz it
+- price · prYSS
+- how much · how much
 
 fr:
-- combien ça coûte · combien sa cooote
+- prix · pree
+- combien · kohm: BYEN
 
 de:
-- wie viel kostet das · wee veel kostet dahs
+- Preis · price
+- wie viel · vee feel
 
 am:
-- ስንት ነው · snt new
+- ዋጋው · wa-ga-w
+- ስንት · sint
 
 ar:
-- كم السعر · km alsar
+- السعر · as-si'r
+- كم · kam
 
 es:
-- cuánto cuesta · cuahnto cuesta
+- precio · PRE: syo
+- cuánto · KWAN: to
 
 ja:
-- いくらですか · ikuradesuka
+- 値段 · nedan
+- いくら · ikura
 
 zh:
+- 价格 · jià gé
 - 多少钱 · duō shǎo qián
 
 ## grammar

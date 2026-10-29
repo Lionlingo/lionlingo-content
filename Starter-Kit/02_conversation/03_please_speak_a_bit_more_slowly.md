@@ -4,117 +4,85 @@ order: 3
 
 en:
 - Please speak a bit more slowly.
-- Could you talk a bit more slowly, please?
+- Could you speak a bit more slowly, please?
 
 fr:
-- Parlez un peu plus lentement, s'il vous plaît.
-- Pourriez-vous parler un peu plus lentement, s'il vous plaît ?
+- Peux-tu parler un peu plus lentement, s'il te plaît ?
+- Pourrais-tu parler un peu plus lentement, s'il te plaît ?
 
 de:
-- Bitte sprich etwas langsamer.
-- Könnten Sie bitte etwas langsamer sprechen?
+- Kannst du bitte etwas langsamer sprechen?
+- Könntest du bitte etwas langsamer sprechen?
 
 am:
 - እባክህ ትንሽ ቀስ ብለህ ተናገር።
-- እባክህ ትንሽ ቀስ ብለህ ልትናገር ትችላለህ?
+- ትንሽ ቀስ ብለህ ተናገር እባክህ።
 
 ar:
-- من فضلك تحدث ببطء أكثر.
-- هل يمكنك التحدث ببطء أكثر، من فضلك؟
+- من فضلك، هل يمكنك التحدث ببطء أكثر قليلاً؟
+- هل تستطيع التحدث ببطء أكثر قليلاً، من فضلك؟
 
 es:
-- Por favor, habla un poco más despacio.
+- ¿Puedes hablar un poco más despacio, por favor?
 - ¿Podrías hablar un poco más despacio, por favor?
 
 ja:
-- 少しゆっくり話してください.
-- 少しゆっくり話してくれませんか.
+- 少しゆっくり話してください。
+- 少しゆっくり話してくださいませんか?
 
 zh:
-- 请慢一点说话.
-- 你能慢一点说话吗?
+- 请你说话慢一点。
+- 请你说话慢一点好吗?
 
 ## vocabulary
 
 en:
-- could · could
-- you · yoo
-- talk · talk
-- a · uh
-- bit · bit
-- more · more
-- slowly · slowly
 - please · pleez
+- speak · speek
+- a bit · uh bit
+- more slowly · mor sloh-lee
 
 fr:
-- pourrais · poorrais
-- tu · tu
-- parler · parler
-- un · un
-- bit · bit
-- davantage · davantage
-- lentement · lentement
-- s'il vous plaît · sil vu play
+- s'il te plaît · sil tuh play
+- parler · par-lay
+- un peu · uhn peu
+- plus lentement · plu lon-te-mon
 
 de:
-- könnte · kernnte
-- du · du
-- vortrag · vortrag
-- ein · eyen
-- bisschen · bisshen
-- weiteres · weyeteres
-- langsam · langsam
-- bitte · BI: te
+- bitte · BIT-te
+- sprechen · shpre-khen
+- etwas · et-vas
+- langsamer · lang-za-mer
 
 am:
-- ይችላል · ychlal
-- አንተ · an-te
-- ማውራት · mawrat
-- አንድ · andh
-- ትንሽ · tnsh
-- ተጨማሪ · techaemari
-- ቀስ ብሎ · qes blo
-- እባክህ · i-bak-ih
+- እባክህ · ibakih
+- ተናገር · tenager
+- ትንሽ · tinish
+- ቀስ ብለህ · kes bileh
 
 ar:
-- يمكن · ymkn
-- أنت · an-ta
-- كلام · klam
-- Ø · 
-- عض · ad
-- المزيد · almzyd
-- ببطء · bbt
 - من فضلك · min fadlak
+- التحدث · at-tahaddoth
+- قليلاً · qaliilan
+- ببطء أكثر · bi-butʾ akthar
 
 es:
-- podrían · podreean
-- tú · too
-- hablar · hablar
-- un · un
-- mordió · mordioh
-- más · mahs
-- despacito · despacito
-- por favor · por fa: VOR
+- por favor · por fa-vor
+- hablar · a-blar
+- un poco · oon poh-ko
+- más despacio · mas des-pa-syo
 
 ja:
-- できた · dekita
-- あなた · anata
-- トーク · tooku
-- 一つの · hitotsu no
-- ビット · bitto
-- もっと · motto
+- ください · kudasai
+- 話して · hanashite
+- 少し · sukoshi
 - ゆっくり · yukkuri
-- お願いします · onegai shimasu
 
 zh:
-- 可以 · kě yǐ
-- 你 · nǐ
-- 聊 · liáo
-- 一个 · yí gè
-- 少量 · shǎo liàng
-- 多 · duō
-- 慢慢地 · màn màn dì
 - 请 · qǐng
+- 说话 · shuō huà
+- 一点 · yì diǎn
+- 慢 · màn
 
 ## grammar
 

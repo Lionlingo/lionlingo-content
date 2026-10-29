@@ -4,85 +4,69 @@ order: 17
 
 en:
 - What's your phone number?
-- What is your number?
+- What's your phone number, please?
 
 fr:
-- Quel est votre numéro de téléphone ?
-- Quel est votre numéro ?
+- Quel est ton numéro de téléphone ?
+- Quel est ton numéro de téléphone, s'il te plaît ?
 
 de:
-- Wie lautet Ihre Telefonnummer?
-- Wie lautet Ihre Nummer?
+- Wie ist deine Telefonnummer?
+- Wie ist deine Telefonnummer, bitte?
 
 am:
-- የስልክ ቁጥርሽ ምንድን ነው?
-- የእርስዎ ቁጥር ምንድን ነው?
+- ስልክ ቁጥርህ ምንድን ነው?
+- ስልክ ቁጥርህ ምንድን ነው እባክህ?
 
 ar:
 - ما هو رقم هاتفك؟
-- ما هو رقم هاتفك؟
+- ما هو رقم هاتفك من فضلك؟
 
 es:
-- ¿Cuál es su número de teléfono?
-- ¿Cuál es su número?
+- ¿Cuál es tu número de teléfono?
+- ¿Cuál es tu número de teléfono, por favor?
 
 ja:
-- 電話番号は?
 - 電話番号は何ですか?
+- あなたの電話番号は何ですか?
 
 zh:
-- 你的电话号码是什么?
-- 你的电话号码是什么?
+- 你的电话号码是多少？
+- 你的电话号码是多少呢？
 
 ## vocabulary
 
 en:
-- what · wot
-- is · iz
-- your · yor
-- number · number
+- what's your · wots yor
+- phone number · fohn NUM-ber
 
 fr:
-- quoi · kuh / kwa
-- est · est
-- ton · ton
-- nombre · nombre
+- quel est ton · kel e ton
+- numéro de téléphone · nu-may-ro duh tay-lay-fon
 
 de:
-- was · vas
-- ist · ist
-- dein · deyen
-- nummer · nummer
+- wie ist deine · vee ist DY-ne
+- Telefonnummer · te-le-FOHN-nu-mer
 
 am:
-- ምን · min
-- ነው · new
-- ያንተ · yante
-- ቁጥር · quthr
+- ምንድን ነው · mindin new
+- ስልክ ቁጥርህ · silk kutirih
 
 ar:
-- ماذا · ma-dha
-- هو · hu-wa
-- لك · lk
-- عدد · add
+- ما هو · ma huwa
+- رقم هاتفك · raqm hatifik
 
 es:
-- qué · keh
-- es · es
-- tu · tu
-- número · noomero
+- cuál es tu · kwal es too
+- número de teléfono · NU-me-ro de te-LE-fo-no
 
 ja:
-- 何 · nani
-- です · desu
-- あなたの · anatano
-- 番号 · bangou
+- 何ですか · nan desu ka
+- 電話番号 · denwa bangō
 
 zh:
-- 什么 · shén me
-- 是 · shì
-- 你的 · nǐ de
-- 數字 · shù zì
+- 是多少 · shì duōshao
+- 电话号码 · diànhuà hàomǎ
 
 ## grammar
 

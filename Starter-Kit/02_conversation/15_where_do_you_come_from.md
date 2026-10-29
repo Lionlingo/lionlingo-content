@@ -3,59 +3,59 @@ order: 15
 ---
 
 en:
-- Where do you come from?
 - Where are you from?
+- So, where are you from?
 
 fr:
-- Vous venez d'où ?
-- Vous venez d'où ?
+- Tu viens d'où ?
+- Et toi, tu viens d'où ?
 
 de:
-- Woher kommen Sie?
-- Wo kommen Sie her?
+- Woher kommst du?
+- Und woher kommst du?
 
 am:
-- ከየት ነው የመጣሽው?
-- ከየት ነው የመጣሽው?
+- ከየት ነህ?
+- እና ከየት ነህ?
 
 ar:
-- من أين أتيت؟
-- من أين أنتِ ؟
+- من أين أنت؟
+- ومن أين أنت؟
 
 es:
-- ¿De dónde vienes?
 - ¿De dónde eres?
+- Y tú, ¿de dónde eres?
 
 ja:
-- どこから来たの?
-- どこから来たの?
+- どこの出身ですか?
+- どこの出身なんですか?
 
 zh:
-- 你来自哪里?
-- 你来自哪里?
+- 你来自哪里？
+- 那你来自哪里？
 
 ## vocabulary
 
 en:
-- where are you from · where are yoo from
+- where are you from · wair ar yoo frum
 
 fr:
-- d'où venez-vous · d'ooo venez-voos
+- tu viens d'où · tu vyan doo
 
 de:
-- woher kommst du · woher kommst du
+- woher kommst du · voh-HAIR komst doo
 
 am:
 - ከየት ነህ · keyet neh
 
 ar:
-- من أين أنت · mn ayn ant
+- من أين أنت · min ayna anta
 
 es:
-- de dónde eres · de dohnde eres
+- de dónde eres · de DON-de E-res
 
 ja:
-- どこから来ましたか · dokokara kima shitaka
+- どこの出身 · doko no shusshin
 
 zh:
 - 你来自哪里 · nǐ lái zì nǎ lǐ

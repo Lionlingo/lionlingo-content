@@ -3,65 +3,65 @@ order: 11
 ---
 
 en:
-- Bye, see you tomorrow
-- Goodbye, see you tomorrow
+- Goodbye, see you tomorrow.
+- Goodbye, I'll see you tomorrow.
 
 fr:
 - Au revoir, à demain.
-- Au revoir, à demain.
+- Au revoir, et à demain.
 
 de:
-- Tschüss, bis morgen.
-- Tschüss, bis morgen.
+- Auf Wiedersehen, bis morgen.
+- Auf Wiedersehen, dann bis morgen.
 
 am:
-- ደህና ሁን፣ ነገ እንገናኛለን።
-- ደህና ሁን፣ ነገ እንገናኛለን።
+- ደህና ሁኑ፣ ነገ እንገናኛለን።
+- ደህና ሁኑ፣ እንግዲያውስ ነገ እንገናኛለን።
 
 ar:
-- إلى اللقاء، أراك غداً
-- إلى اللقاء، أراك غداً
+- إلى اللقاء، أراك غداً.
+- إلى اللقاء، أراك غداً إن شاء الله.
 
 es:
-- Adiós, hasta mañana
 - Adiós, hasta mañana.
+- Adiós, y hasta mañana.
 
 ja:
-- さようなら 明日から
-- さようなら 明日から
+- さようなら、また明日。
+- さようなら、それではまた明日。
 
 zh:
-- 再见,明天再见
-- 再见,明天再见
+- 再见，明天见。
+- 再见，我们明天见。
 
 ## vocabulary
 
 en:
-- goodbye · good: BYE
-- see you tomorrow · see yoo to: MOR: oh
+- goodbye · good-BYE
+- see you tomorrow · see yoo tuh-MOR-oh
 
 fr:
-- au revoir · o re: VWAR
-- à demain · a duh: MAN
+- au revoir · o ruh-VWAR
+- à demain · a duh-MAN
 
 de:
-- auf Wiedersehen · ouf VEE: der: hö: ren
-- bis morgen · bis MOR: gen
+- auf Wiedersehen · owf VEE-der-zay-en
+- bis morgen · bis MOR-gen
 
 am:
-- ደህና ሁን · chao
-- ነገ እንገናኛለን · nege ingenanyalen
+- ደህና ሁኑ · dehna hunu
+- ነገ እንገናኛለን · nege engenanyalen
 
 ar:
-- وداعاً · ma'a as: salama
-- إلى اللقاء غداً · ila al: liqa ghadan
+- إلى اللقاء · ila al-liqa'
+- أراك غداً · arak ghadan
 
 es:
-- adiós · a: DYOS
-- hasta mañana · AS: ta ma: NYA: na
+- adiós · a-DYOS
+- hasta mañana · AS-ta ma-NYA-na
 
 ja:
-- さようなら · shitsurei shimasu
+- さようなら · sayōnara
 - また明日 · mata ashita
 
 zh:

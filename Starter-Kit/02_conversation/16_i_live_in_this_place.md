@@ -3,72 +3,72 @@ order: 16
 ---
 
 en:
-- I live in this place.
 - I live here.
+- I live right here.
 
 fr:
 - Je vis ici.
-- Je vis ici.
+- Je vis juste ici.
 
 de:
 - Ich wohne hier.
-- Ich wohne hier.
+- Ich wohne direkt hier.
 
 am:
 - እኔ የምኖረው እዚህ ነው።
-- እኔ የምኖረው እዚህ ነው።
+- እኔ የምኖረው በትክክል እዚህ ነው።
 
 ar:
-- أنا أعيش هنا
-- أنا أعيش هنا
+- أنا أعيش هنا.
+- أنا أعيش هنا تماماً.
 
 es:
-- Yo vivo en este lugar.
 - Yo vivo aquí.
+- Yo vivo justo aquí.
 
 ja:
-- 私はここに住んでいます.
-- ここに住んでる
+- 私はここに住んでいます。
+- 私はまさにここに住んでいます。
 
 zh:
-- 我住在这个地方.
-- 我住在这里.
+- 我住在这里。
+- 我就住在这里。
 
 ## vocabulary
 
 en:
-- i · eye
+- I · eye
 - live · liv
 - here · heer
 
 fr:
 - je · zhuh
-- habiter · a: bee: TAY
-- ici · ee: SEE
+- vis · vee
+- ici · ee-SEE
 
 de:
 - ich · ikh
-- wohnen · VOH: nen
+- wohne · VOH-ne
 - hier · heer
 
 am:
-- እኔ · i-ne
-- መኖር · menor
-- እዚህ · izi
+- እኔ · ene
+- የምኖረው · yemenorew
+- እዚህ · ezih
 
 ar:
-- أنا · a-na
-- يسكن · yaskun
+- أنا · ana
+- أعيش · a'eesh
 - هنا · huna
 
 es:
 - yo · yo
-- vivir · bee: VEER
-- aquí · a: KEE
+- vivo · BEE-bo
+- aquí · a-KEE
 
 ja:
 - 私 · watashi
-- 住む · sumu
+- 住んで · sunde
 - ここ · koko
 
 zh:

@@ -3,70 +3,70 @@ order: 6
 ---
 
 en:
-- I get it
-- I understand
+- I understand.
+- I do understand.
 
 fr:
 - Je comprends.
-- Je comprends.
+- Je comprends bien.
 
 de:
 - Ich verstehe.
-- Ich verstehe.
+- Ich verstehe schon.
 
 am:
-- ተረድቻለሁ
-- ተረድቻለሁ
+- እኔ ተረድቻለሁ።
+- እኔ በደንብ ተረድቻለሁ።
 
 ar:
-- لقد فهمت
-- أنا أفهم
+- أنا أفهم.
+- أنا أفهم تماماً.
 
 es:
-- Ya lo entiendo
-- Ya lo entiendo.
+- Yo entiendo.
+- Yo sí entiendo.
 
 ja:
-- わかった
-- 分かってる
+- 私は分かっています。
+- 私は本当に分かっています。
 
 zh:
-- 我明白了
-- 我理解了
+- 我明白了。
+- 我真的明白了。
 
 ## vocabulary
 
 en:
-- i · eye
-- understand · understand
+- I · eye
+- understand · un-der-stand
 
 fr:
 - je · zhuh
-- comprenez · comprenez
+- comprends · kom-pron
 
 de:
 - ich · ikh
-- verstehen · verstehen
+- verstehe · fer-shte-eh
 
 am:
-- እኔ · i-ne
-- መረዳት · meredhat
+- እኔ · ene
+- ተረድቻለሁ · teredchalehu
 
 ar:
-- أنا · a-na
-- افهم · afhm
+- أنا · ana
+- أفهم · afham
 
 es:
 - yo · yo
-- entienda · entienda
+- entiendo · en-tyen-do
 
 ja:
 - 私 · watashi
-- 理解する · rikai suru
+- 分かっています · wakatte imasu
 
 zh:
 - 我 · wǒ
-- 理解 · lǐ jiě
+- 明白 · míng bai
 
 ## grammar
 

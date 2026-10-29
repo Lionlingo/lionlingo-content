@@ -7,55 +7,55 @@ en:
 - Can you help me?
 
 fr:
-- Vous pouvez m'aider ?
-- Vous pouvez m'aider ?
+- Pourriez-vous m'aider ?
+- Pouvez-vous m'aider ?
 
 de:
-- Können Sie mir helfen?
+- Könntest du mir helfen?
 - Kannst du mir helfen?
 
 am:
 - ልትረዱኝ ትችላላችሁ?
-- ልትረዱኝ ትችላላችሁ?
+- ትረዱኛላችሁ?
 
 ar:
-- أيمكنك مساعدتي؟
-- أيمكنك مساعدتي؟
+- هل يمكنك مساعدتي؟
+- هل تستطيع مساعدتي؟
 
 es:
-- ¿Puedes ayudarme?
+- ¿Podrías ayudarme?
 - ¿Puedes ayudarme?
 
 ja:
-- 助けてくれないか?
-- 助けてくれないか?
+- 助けてくれませんか？
+- 助けてもらえますか？
 
 zh:
-- 你能帮我吗?
-- 你能帮我吗?
+- 你可以帮我吗？
+- 你能帮我吗？
 
 ## vocabulary
 
 en:
-- can you help me · can yoo help me
+- can you help me · kan yoo help mee
 
 fr:
-- pouvez-vous m'aider · poovez-voos m'aider
+- pouvez-vous m'aider · poo: vay VOO may: DAY
 
 de:
-- können Sie mir helfen · kernnen see mir helfen
+- kannst du mir helfen · kanst doo meer HEL: fen
 
 am:
-- መርዳት ትችላለህ · merdhat tchlaleh
+- ትረዱኛላችሁ · ti-re-du-nya-la-chihu
 
 ar:
-- هل يمكنك مساعدتي · hl ymknk msaadty
+- هل تستطيع مساعدتي · hal ta-ta-ti'u mu-sa-'a-da-tee
 
 es:
-- ¿me puedes ayudar · ¿me puedes ayudar
+- puedes ayudarme · PWE: des a: yu: DAR: me
 
 ja:
-- 手伝ってくれますか · tetsudatsu tekuremasuka
+- 助けてもらえますか · ta-su-ke-te mo-ra-e-ma-su ka
 
 zh:
 - 你能帮我吗 · nǐ néng bāng wǒ ma

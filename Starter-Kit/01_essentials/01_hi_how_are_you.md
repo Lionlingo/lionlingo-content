@@ -7,32 +7,32 @@ en:
 - Hello, how are you?
 
 fr:
-- Salut, comment allez-vous ?
+- Salut, comment vas-tu ?
 - Bonjour, comment allez-vous ?
 
 de:
-- Moin, wie geht's dir?
 - Hallo, wie geht's dir?
+- Guten Tag, wie geht es Ihnen?
 
 am:
-- ጤና ይስጥልኝ፣ እንዴት ነህ?
-- ሰላም, እንዴት ነህ?
+- ሰላም፣ እንዴት ነህ?
+- ጤና ይስጥልኝ፣ እንዴት ነዎት?
 
 ar:
 - مرحباً، كيف حالك؟
-- مرحباً، كيف حالك؟
+- السلام عليكم، كيف حالكم؟
 
 es:
 - Hola, ¿cómo estás?
-- Hola, ¿cómo estás?
+- Buenos días, ¿cómo está usted?
 
 ja:
-- こんにちは どうですか?
-- こんにちは どうですか?
+- こんにちは、元気？
+- こんにちは、お元気ですか？
 
 zh:
-- 你好,你好吗?
-- 你好,你好吗?
+- 你好，你好吗？
+- 您好，您好吗？
 
 ## vocabulary
 
@@ -45,28 +45,28 @@ fr:
 - comment allez-vous · ko: mahn ta: lay VOO
 
 de:
-- hallo · HA: lo
-- wie geht's · vee gayts
+- guten Tag · GOO: ten TAAK
+- wie geht es Ihnen · vee gayt es EE: nen
 
 am:
-- ሰላም · se-lam
-- እንደምን ነህ · indeminin alu
+- ጤና ይስጥልኝ · te-na yis-tilin
+- እንዴት ነዎት · in-de-t ne-wot
 
 ar:
-- مرحباً · marhaba
-- كيف حالك · kayfa haluk
+- السلام عليكم · as-salamu alaykum
+- كيف حالكم · kayfa halukum
 
 es:
-- hola · O: la
-- ¿cómo estás? · KO: mo es: TAS
+- buenos días · BWE: nos DEE: as
+- ¿cómo está usted? · KO: mo es: TA oos: TED
 
 ja:
 - こんにちは · konnichiwa
-- お元気ですか · genki desu ka
+- お元気ですか · ogenki desu ka
 
 zh:
-- 你好 · nǐ hǎo
-- 你好吗 · nǐ hǎo ma
+- 您好 · nín hǎo
+- 您好吗 · nín hǎo ma
 
 ## grammar
 
