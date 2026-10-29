@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-future-will-predictions · will (prediction)
+- snippet-a2-future · The future

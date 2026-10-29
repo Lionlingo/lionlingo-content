@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-word-order-statements · Basic word order in statements
+- snippet-a1-sentence-structure · Sentence structure

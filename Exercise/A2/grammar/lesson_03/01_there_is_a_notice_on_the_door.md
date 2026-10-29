@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives
+- snippet-a1-imperative · The imperative

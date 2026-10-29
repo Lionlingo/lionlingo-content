@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-passive-intro · Passive voice
+- snippet-b1-passive · The passive

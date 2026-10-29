@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-a2-present-continuous · Present continuous
+- snippet-b1-passive · The passive
+- snippet-a1-present · Present tense

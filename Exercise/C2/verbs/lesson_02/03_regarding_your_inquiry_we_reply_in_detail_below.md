@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-discourse-reference · Discourse reference (this, that, such, the former…)
+- snippet-a1-pronouns · Pronouns

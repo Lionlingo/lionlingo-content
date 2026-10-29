@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-future-will-predictions · Will for predictions
-- snippet-b1-first-conditional · First conditional
+- snippet-a2-future · The future
+- snippet-a2-wenn-als-wann · when, whenever and if

@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-second-conditional · Second conditional
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

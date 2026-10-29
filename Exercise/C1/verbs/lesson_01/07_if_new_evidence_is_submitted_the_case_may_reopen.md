@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-academic-argument · Academic argument moves
+- snippet-b2-nominal-style · Nominalization

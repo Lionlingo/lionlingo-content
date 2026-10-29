@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-idiomatic-structures · Idiomatic clause patterns
+- snippet-b2-support-verbs · Light verb + noun

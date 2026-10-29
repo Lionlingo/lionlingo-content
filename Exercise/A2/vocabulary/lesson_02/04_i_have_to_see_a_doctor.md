@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a1-plural · Plural nouns

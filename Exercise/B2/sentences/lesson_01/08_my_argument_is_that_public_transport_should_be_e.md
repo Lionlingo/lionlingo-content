@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-complex-noun-phrases · Complex noun phrases
-- snippet-c1-apposition · Apposition
+- snippet-b2-nominal-style · Nominalization

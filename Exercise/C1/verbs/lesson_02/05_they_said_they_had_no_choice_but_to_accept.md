@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-concessive-clauses · Concessive clauses
-- snippet-c2-stance-evidentiality · Stance and evidentiality
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-b2-subjective-modals · Modals for guesses

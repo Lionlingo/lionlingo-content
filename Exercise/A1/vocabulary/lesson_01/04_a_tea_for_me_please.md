@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-want-like · Want and like
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-conjunctions · Conjunctions

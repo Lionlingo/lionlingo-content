@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-wh-questions · Question words

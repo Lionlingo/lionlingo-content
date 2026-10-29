@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
-- snippet-a2-imperatives · Imperatives for requests and instructions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-imperative · The imperative

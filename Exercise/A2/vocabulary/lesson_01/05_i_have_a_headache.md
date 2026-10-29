@@ -62,4 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a1-pronouns · Pronouns
+- snippet-a1-sein · To be

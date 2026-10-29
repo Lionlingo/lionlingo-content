@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
-- snippet-a2-present-continuous · Present continuous
+- snippet-a1-conjunctions · Conjunctions
+- snippet-a1-present · Present tense

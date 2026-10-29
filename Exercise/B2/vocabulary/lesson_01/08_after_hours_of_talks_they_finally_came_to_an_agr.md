@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-discourse-markers · Discourse markers
-- snippet-c1-concessive-clauses · Concessive clauses
+- snippet-b2-modal-particles · Softeners and fillers
+- snippet-a2-subordinate-clause · Subordinate clauses

@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-participle-clauses · Participle clauses
+- snippet-c1-participial-attributes · Participial phrases

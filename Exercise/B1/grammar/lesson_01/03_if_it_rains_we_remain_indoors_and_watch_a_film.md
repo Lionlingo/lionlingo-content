@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a2-wenn-als-wann · when, whenever and if
+- snippet-a1-conjunctions · Conjunctions

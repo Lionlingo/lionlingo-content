@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-a2-comparatives · Comparatives
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-comparison · Comparison

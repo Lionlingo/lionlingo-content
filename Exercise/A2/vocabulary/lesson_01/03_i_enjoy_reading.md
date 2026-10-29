@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-want-like · Want and like
-- snippet-a1-word-order-statements · Basic word order in statements
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-sentence-structure · Sentence structure

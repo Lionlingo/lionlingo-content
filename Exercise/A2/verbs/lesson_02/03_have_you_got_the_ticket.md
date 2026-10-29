@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-near-future · going to
+- snippet-a2-future · The future

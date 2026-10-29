@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
+- snippet-a2-wenn-als-wann · when, whenever and if

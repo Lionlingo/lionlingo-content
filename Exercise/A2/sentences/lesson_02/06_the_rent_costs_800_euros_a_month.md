@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-adverbs-frequency · Adverbs of frequency
+- snippet-a1-adverbs · Adverbs

@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-time-prepositions · Time prepositions
+- snippet-a1-prepositions · Prepositions

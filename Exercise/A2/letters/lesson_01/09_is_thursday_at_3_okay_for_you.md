@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-time-prepositions · Time prepositions: in, on, at
-- snippet-a1-time-days · Days of the week and simple time
+- snippet-a1-prepositions · Prepositions
+- snippet-a1-time · Telling time

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-passive-intro · Passive voice
-- snippet-b1-first-conditional · First conditional
+- snippet-b1-passive · The passive
+- snippet-a2-wenn-als-wann · when, whenever and if

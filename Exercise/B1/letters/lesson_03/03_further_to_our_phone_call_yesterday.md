@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-causative · Causative
-- snippet-a2-past-simple · Past simple
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-preterite · Past simple

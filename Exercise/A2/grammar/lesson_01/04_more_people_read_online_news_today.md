@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
+- snippet-a1-present · Present tense

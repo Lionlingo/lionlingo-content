@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a2-near-future · going to
+- snippet-a1-present · Present tense
+- snippet-a2-future · The future

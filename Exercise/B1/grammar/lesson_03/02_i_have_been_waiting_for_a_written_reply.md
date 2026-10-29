@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-perfect-continuous · Present perfect continuous
+- snippet-a2-perfekt · Present perfect

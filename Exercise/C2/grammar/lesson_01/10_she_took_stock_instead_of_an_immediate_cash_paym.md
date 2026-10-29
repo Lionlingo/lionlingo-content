@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-lexical-grammar-collocation · Lexical grammar and collocation
+- snippet-b2-support-verbs · Light verb + noun

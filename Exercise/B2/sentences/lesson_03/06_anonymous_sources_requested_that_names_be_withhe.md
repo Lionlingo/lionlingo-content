@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-reported-speech · Reported speech
-- snippet-b1-indirect-questions · Indirect questions
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a2-ob-dass · that, if and whether

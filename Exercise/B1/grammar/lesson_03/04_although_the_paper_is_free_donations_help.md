@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-discourse-markers · Discourse markers
-- snippet-b2-causative · Causative
+- snippet-b2-modal-particles · Softeners and fillers
+- snippet-a1-modal-verbs · Modal verbs

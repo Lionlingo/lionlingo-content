@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-nominalization · Nominalization
-- snippet-c2-information-structure · Information structure (given → new)
+- snippet-b2-nominal-style · Nominalization
+- snippet-a1-sentence-structure · Sentence structure

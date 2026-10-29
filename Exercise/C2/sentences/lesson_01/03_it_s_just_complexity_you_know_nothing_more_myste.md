@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-information-structure · Information structure (given → new)
-- snippet-c2-advanced-cohesion · Lexical and referential cohesion
+- snippet-a1-sentence-structure · Sentence structure
+- snippet-a1-conjunctions · Conjunctions

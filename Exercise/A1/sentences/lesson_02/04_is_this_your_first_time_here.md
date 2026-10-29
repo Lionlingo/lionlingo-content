@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-yes-no-questions · Yes/no questions
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-interrogation · Questions
+- snippet-a1-wh-questions · Question words

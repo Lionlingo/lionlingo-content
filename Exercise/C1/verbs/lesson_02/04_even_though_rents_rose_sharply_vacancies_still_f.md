@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-result-clauses · Result clauses
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-a1-pronouns · Pronouns

@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-future-will-predictions · Will for predictions
-- snippet-b2-future-perfect · Future perfect
+- snippet-a2-future · The future

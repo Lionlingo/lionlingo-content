@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-hypotaxis-parataxis · Hypotaxis and parataxis
+- snippet-a2-subordinate-clause · Subordinate clauses

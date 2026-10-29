@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-stance-evidentiality · Stance and evidentiality
+- snippet-b2-subjective-modals · Modals for guesses

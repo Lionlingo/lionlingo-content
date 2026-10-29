@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-cleft-sentences · Cleft sentences
+- snippet-a1-sentence-structure · Sentence structure

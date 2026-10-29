@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-b1-reported-speech · Reported speech
+- snippet-b1-passive · The passive
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
