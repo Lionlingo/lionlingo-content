@@ -4,111 +4,79 @@ order: 10
 
 en:
 - Where are the good places to eat?
-- What are the good places to eat?
+- Where can I find good places to eat?
 
 fr:
 - Où sont les bons endroits pour manger ?
-- Quels sont les bons endroits pour manger ?
+- Où trouver de bons endroits pour manger ?
 
 de:
-- Wo gibt es gute Restaurants?
-- Wo gibt es gute Orte zum Essen?
+- Wo sind die guten Orte zum Essen?
+- Wo finde ich die guten Orte zum Essen?
 
 am:
 - ለመመገብ ጥሩ ቦታዎች የት አሉ?
-- ለመመገብ ጥሩ ቦታዎች የትኞቹ ናቸው?
+- ለመመገብ ጥሩ ቦታዎችን የት ማግኘት እችላለሁ?
 
 ar:
 - أين الأماكن الجيدة لتناول الطعام؟
-- ما هي الأماكن الجيدة لتناول الطعام؟
+- أين أجد الأماكن الجيدة لتناول الطعام؟
 
 es:
 - ¿Dónde hay buenos lugares para comer?
-- ¿Cuáles son los buenos lugares para comer?
+- ¿Dónde puedo encontrar buenos lugares para comer?
 
 ja:
-- 食べられる良い場所はどこにあるのか.
-- 食べられる良い場所は?
+- 食べるのに良い場所はどこですか?
+- 食べるのに良い場所はどこにありますか?
 
 zh:
-- 哪里有好吃的地方?
-- 哪些地方好吃?
+- 哪里有吃饭的好地方？
+- 哪里能找到吃饭的好地方？
 
 ## vocabulary
 
 en:
-- what · wot
-- are · are
-- the · thuh
 - good · good
-- places · places
-- to · too
-- eat · eat
+- places · play-siz
+- to eat · too eet
 
 fr:
-- quoi · kuh / kwa
-- sont · sont
-- le · luh
-- bons · bons
-- endroits · endrwahts
-- à · ah
-- manger · manger
+- bons · bon
+- endroits · on-drwa
+- pour manger · poor mon-zhay
 
 de:
-- was · vas
-- sind · sind
-- der · dehr
-- guten · guten
-- plätze · plehtze
-- zu · zu
-- essen · essen
+- guten · GOO-ten
+- Orte · OR-te
+- zum Essen · tsoom ES-sen
 
 am:
-- ምን · min
-- ናቸው · nachew
-- የ · ye
-- ጥሩ · thru
+- ጥሩ · tiru
 - ቦታዎች · botawoch
-- ወደ · we-de
-- ብላ · bla
+- ለመመገብ · lememegeb
 
 ar:
-- ماذا · ma-dha
-- هم · hm
-- ال · al
-- خير · khyr
-- اماكن · amakn
-- إلى · i-la
-- كلوا · klwa
+- الجيدة · al-jayyida
+- الأماكن · al-amakin
+- لتناول الطعام · litanawul at-ta'am
 
 es:
-- qué · keh
-- son · son
-- el · el
-- buenas · buenas
-- sitios · sitios
-- a · a
-- coma · coma
+- buenos · BWE-nos
+- lugares · lu-GA-res
+- para comer · PA-ra ko-MER
 
 ja:
-- 何 · nani
-- です · desu
-- その · sono
 - 良い · yoi
 - 場所 · basho
-- に · ni
-- 食べる · tabe ru
+- 食べる · taberu
 
 zh:
-- 什么 · shén me
-- 是 · shì
-- 这 · zhè
-- 好的 · hǎo de
-- 地方 · dì fāng
-- 到 · dào
-- 吃 · chī
+- 好 · hǎo
+- 地方 · dì fang
+- 吃饭 · chī fàn
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-there-is-existence · There is / There are
+- snippet-a1-wh-questions · Question words
+- snippet-a1-two-way-prepositions · Place and direction

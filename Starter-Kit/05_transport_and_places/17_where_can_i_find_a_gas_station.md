@@ -4,15 +4,15 @@ order: 17
 
 en:
 - Where can I find a gas station?
-- Where is a gas station?
+- Where is there a gas station?
 
 fr:
 - Où puis-je trouver une station-service ?
-- Où est une station-service ?
+- Où y a-t-il une station-service ?
 
 de:
 - Wo finde ich eine Tankstelle?
-- Wo ist eine Tankstelle?
+- Wo gibt es eine Tankstelle?
 
 am:
 - ነዳጅ ማደያ የት ማግኘት እችላለሁ?
@@ -20,79 +20,63 @@ am:
 
 ar:
 - أين يمكنني أن أجد محطة وقود؟
-- أين محطة وقود؟
+- أين توجد محطة وقود؟
 
 es:
 - ¿Dónde puedo encontrar una gasolinera?
-- ¿Dónde está una gasolinera?
+- ¿Dónde hay una gasolinera?
 
 ja:
-- ガソリンスタンドはどこで見つけられるの?
-- ガソリンスタンドはどこですか.
+- ガソリンスタンドはどこで見つけられますか。
+- ガソリンスタンドはどこにありますか。
 
 zh:
-- 我在哪里能找到一个加油站?
-- 在哪里有加油站?
+- 我在哪里能找到一个加油站？
+- 哪里有一个加油站？
 
 ## vocabulary
 
 en:
 - where · wair
-- is · iz
-- a · uh
-- gas · gas
-- station · STAY: shun
+- gas station · gas STAY-shun
+- find · fīnd
 
 fr:
 - où · oo
-- est · est
-- un · un
-- gaz · gaz
-- gare · gar
+- station-service · stah-syon-SAIR-vees
+- trouver · troo-VAY
 
 de:
-- wo · vo
-- ist · ist
-- ein · eyen
-- gas · gas
-- Bahnhof · BAHN: hof
+- wo · voh
+- Tankstelle · TANK-shtel-le
+- finde · FIN-de
 
 am:
-- የት · yet
-- ነው · new
-- አንድ · andh
-- ጋዝ · gaz
-- ጣቢያ · tabiya
+- የት · yät
+- ነዳጅ ማደያ · näddaj maddäya
+- ማግኘት · magñät
 
 ar:
-- أين · ay-na
-- هو · hu-wa
-- Ø · 
-- الغاز · alghaz
-- محطة · mahatta
+- أين · ayna
+- محطة وقود · maḥaṭṭa waqūd
+- أجد · ajid
 
 es:
-- dónde · DON: de
-- es · es
-- un · un
-- gasolina · gasolina
-- estación · es: ta: SYON
+- dónde · DOHN-deh
+- gasolinera · gah-soh-lee-NEH-rah
+- encontrar · en-kon-TRAR
 
 ja:
 - どこ · doko
-- です · desu
-- 一つの · hitotsu no
-- 気体 · kitai
-- 駅 · eki
+- ガソリンスタンド · gasorinsutando
+- 見つけられます · mitsukeraremasu
 
 zh:
-- 哪里 · nǎ lǐ
-- 是 · shì
-- 一个 · yí gè
-- 氣 · qì
-- 车站 · chē zhàn
+- 哪里 · nǎlǐ
+- 加油站 · jiāyóuzhàn
+- 找到 · zhǎodào
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-there-is-existence · There is / There are
+- snippet-a1-wh-questions · Question words
+- snippet-a1-modal-verbs · Modal verbs

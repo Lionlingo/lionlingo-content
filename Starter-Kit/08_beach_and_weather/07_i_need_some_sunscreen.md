@@ -4,79 +4,71 @@ order: 7
 
 en:
 - I need some sunscreen.
-- I need sunscreen.
+- Some sunscreen is what I need.
 
 fr:
 - J'ai besoin de crème solaire.
-- J'ai besoin de crème solaire.
+- Il me faut de la crème solaire.
 
 de:
 - Ich brauche etwas Sonnencreme.
-- Ich brauche Sonnencreme.
+- Ich benötige etwas Sonnencreme.
 
 am:
-- የፀሐይ መከላከያ ያስፈልጋል።
-- የፀሐይ መከላከያ ያስፈልገኛል።
+- ጥቂት የጸሐይ መከላከያ ያስፈልገኛል።
+- የጸሐይ መከላከያ ጥቂት ያስፈልገኛል።
 
 ar:
+- أحتاج إلى بعض واقي الشمس.
 - أحتاج بعض واقي الشمس.
-- أحتاج إلى واقي من الشمس.
 
 es:
-- Necesito un poco de protector solar.
-- Necesito protector solar.
+- Necesito algo de protector solar.
+- Me hace falta algo de protector solar.
 
 ja:
-- 日焼け止めが必要だ
-- 日焼け止めが必要だ
+- 日焼け止めが少し必要です。
+- 日焼け止めが少し要ります。
 
 zh:
-- 我需要一些防晒.
-- 我需要防晒.
+- 我需要一些防晒霜。
+- 一些防晒霜是我需要的。
 
 ## vocabulary
 
 en:
-- i · eye
 - need · need
-- sunscreen · sunscreen
+- sunscreen · SUN-screen
 
 fr:
-- je · zhuh
-- avoir besoin · a: vwar buh: ZWAN
-- crème solaire · crehme solaire
+- besoin · buh-ZWAN
+- crème solaire · krem so-LAIR
 
 de:
-- ich · ikh
-- brauchen / müssen · BROW: khen
-- Sonnenschutz · sonnenshutz
+- brauche · BROW-khe
+- Sonnencreme · ZON-en-kray-me
 
 am:
-- እኔ · i-ne
-- ማስፈለግ · masfelag
-- የፀሐይ መከላከያ · yetzehhey mekelakeya
+- ያስፈልገኛል · ya-sfe-le-ge-nyal
+- የጸሐይ መከላከያ · ye-tse-hay me-ke-la-ke-ya
 
 ar:
-- أنا · a-na
-- يحتاج · yahtaaj
-- واقية من الشمس · waqya mn alshms
+- أحتاج · ah-taj
+- واقي الشمس · waa-qee ash-shams
 
 es:
-- yo · yo
-- necesitar · ne: se: see: TAR
-- protector solar · protector solar
+- necesito · ne-se-SEE-to
+- protector solar · pro-tek-TOR so-LAR
 
 ja:
-- 私 · watashi
-- 必要 · hitsuyou
-- 日焼け止め · hiyake tome
+- 必要 · hi-tsu-yoo
+- 日焼け止め · hi-za-ke do-me
 
 zh:
-- 我 · wǒ
 - 需要 · xū yào
 - 防晒霜 · fáng shài shuāng
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b1-obligation-modals · must, have to, should
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-ein-forms · a, an, some, no

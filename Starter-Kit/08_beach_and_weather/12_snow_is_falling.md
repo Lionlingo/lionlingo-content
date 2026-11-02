@@ -7,76 +7,60 @@ en:
 - It is snowing.
 
 fr:
-- Il neige.
+- La neige tombe.
 - Il neige.
 
 de:
-- Es schneit.
+- Schnee fällt.
 - Es schneit.
 
 am:
 - በረዶ እየወረደ ነው።
-- ዝናብ እየዘነበ ነው።
+- በረዶ እየዘነበ ነው።
 
 ar:
-- الثلج يسقط
-- إنّه يتساقط الثلج.
+- الثلج يسقط.
+- إنه يثلج.
 
 es:
 - La nieve está cayendo.
 - Está nevando.
 
 ja:
-- 雪が降っている.
-- 雪が降っている.
+- 雪が落ちています。
+- 雪が降っています。
 
 zh:
-- 雪正在下降.
-- 现在正在下雪.
+- 雪正在下。
+- 正在下雪。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
-- snowing · snowing
+- snow · snoh
 
 fr:
-- il · il
-- est · est
-- il neige · il neige
+- neige · nezh
 
 de:
-- es · es
-- ist · ist
-- schneit · shneyet
+- Schnee · shnay
 
 am:
-- እሱ · i-su
-- ነው · new
-- የበረዶ መንሸራተት · yeberedho mensheratet
+- በረዶ · be-re-do
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- تساقط الثلوج · tsaqt althlwj
+- الثلج · ath-thalj
 
 es:
-- ello · eyo
-- es · es
-- nevando · nevando
+- nieve · NYE-ve
 
 ja:
-- それ · sore
-- です · desu
-- 雪が降る · yuki ga furu
+- 雪 · yu-ki
 
 zh:
-- 它 · tā
-- 是 · shì
-- 下雪 · xià xuě
+- 雪 · xuě
 
 ## grammar
 
-- snippet-c2-lexical-grammar-collocation · Lexical grammar and collocation
-- snippet-c2-irony-understatement · Irony and understatement
+- snippet-a2-impersonal-verbs · Impersonal verbs
+- snippet-a1-present · Present tense

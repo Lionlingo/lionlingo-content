@@ -4,63 +4,63 @@ order: 18
 
 en:
 - Best of luck!
-- Good luck!
+- I wish you the best of luck!
 
 fr:
-- Je vous souhaite bonne chance !
-- Bonne chance à vous !
+- Bonne chance !
+- Je te souhaite bonne chance !
 
 de:
 - Viel Glück!
-- Viel Glück!
+- Ich wünsche dir viel Glück!
 
 am:
-- መልካም ዕድል!
-- መልካም ዕድል!
+- መልካም እድል!
+- መልካም እድል ይሁንልህ!
 
 ar:
-- حظاً موفقاً
-- حظا سعيدا!
+- حظاً موفقاً!
+- أتمنى لك حظاً موفقاً!
 
 es:
-- ¡Muy buena suerte!
-- ¡Suerte con usted!
+- ¡Buena suerte!
+- ¡Te deseo buena suerte!
 
 ja:
-- 幸運を祈ります!
-- 頑張って!
+- 幸運を祈るよ。
+- 幸運があるように。
 
 zh:
-- 祝你好运!
-- 祝你好运!
+- 祝你好运！
+- 好运！
 
 ## vocabulary
 
 en:
-- good luck · gud luck
+- luck · luk
 
 fr:
-- bonne chance · bonne shance
+- chance · shons
 
 de:
-- viel Glück · veel glueck
+- Glück · gluck
 
 am:
-- መልካም እድል · melkam edhl
+- እድል · idl
 
 ar:
-- حظاً سعيداً · hzaan saydaan
+- حظ · haz
 
 es:
-- buena suerte · buena suerte
+- suerte · SWER-te
 
 ja:
-- 頑張って · ganbatsu te
+- 幸運 · ko-un
 
 zh:
-- 祝你好运 · zhù nǐ hǎo yùn
+- 好运 · hǎo yùn
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-a2-near-future · going to
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-pronouns · Pronouns

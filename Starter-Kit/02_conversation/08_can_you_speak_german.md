@@ -8,15 +8,15 @@ en:
 
 fr:
 - Tu parles allemand ?
-- Est-ce que tu parles allemand ?
+- Parles-tu allemand ?
 
 de:
 - Sprichst du Deutsch?
-- Sprichst du denn Deutsch?
+- Du sprichst Deutsch?
 
 am:
 - ጀርመንኛ ትናገራለህ?
-- አንተ ጀርመንኛ ትናገራለህ?
+- ትናገራለህ ጀርመንኛ?
 
 ar:
 - هل تتحدث الألمانية؟
@@ -24,15 +24,15 @@ ar:
 
 es:
 - ¿Hablas alemán?
-- ¿Tú hablas alemán?
+- ¿Hablas el idioma alemán?
 
 ja:
 - ドイツ語を話せますか?
 - ドイツ語は話せますか?
 
 zh:
-- 你会说德语吗?
-- 你会不会说德语?
+- 你会说德语吗？
+- 你说德语吗？
 
 ## vocabulary
 
@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
-- snippet-a1-have-possession · Have for possession
+- snippet-a1-interrogation · Questions
+- snippet-a1-modal-verbs · Modal verbs

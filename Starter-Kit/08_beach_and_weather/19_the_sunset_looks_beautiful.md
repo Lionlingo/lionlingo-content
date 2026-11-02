@@ -7,84 +7,68 @@ en:
 - The sunset is beautiful.
 
 fr:
-- Le coucher de soleil est magnifique.
-- Le coucher de soleil est magnifique.
+- Le coucher du soleil a l'air beau.
+- Le coucher du soleil est beau.
 
 de:
-- Der Sonnenuntergang sieht wunderschön aus.
-- Der Sonnenuntergang ist wunderschön.
+- Der Sonnenuntergang sieht schön aus.
+- Der Sonnenuntergang ist schön.
 
 am:
 - የፀሐይ መጥለቅ ውብ ይመስላል።
 - የፀሐይ መጥለቅ ውብ ነው።
 
 ar:
-- غروب الشمس يبدو جميلا
-- غروب الشمس جميل
+- غروب الشمس يبدو جميلاً.
+- غروب الشمس جميل.
 
 es:
 - La puesta de sol se ve hermosa.
 - La puesta de sol es hermosa.
 
 ja:
-- 日没は美しい.
-- 日没は美しい.
+- 日没は美しく見えます。
+- 日没は美しいです。
 
 zh:
-- 日落看起来很漂亮.
-- 夕阳是美丽的.
+- 日落看起来很漂亮。
+- 日落很漂亮。
 
 ## vocabulary
 
 en:
-- the · thuh
-- sunset · sunset
-- is · iz
-- beautiful · beautiful
+- sunset · SUN-set
+- beautiful · BYOO-ti-ful
 
 fr:
-- le · luh
-- crépuscule · craypuscule
-- est · est
+- coucher du soleil · koo-SHAY du so-LAY
 - beau · boh
 
 de:
-- der · dehr
-- sonnenuntergang · sonnenuntergang
-- ist · ist
-- wunderschön · wundershern
+- Sonnenuntergang · ZON-en-un-ter-gang
+- schön · shurn
 
 am:
-- የ · ye
-- ጀንበር ስትጠልቅ · jaenber stthelq
-- ነው · new
-- ቆንጆ · qonjao
+- የፀሐይ መጥለቅ · ye-tse-hay met-lek
+- ውብ · wub
 
 ar:
-- ال · al
-- غروب · ghrwb
-- هو · hu-wa
-- جميلة · jmyla
+- غروب الشمس · ghu-roob ash-shams
+- جميل · ja-meel
 
 es:
-- el · el
-- sunset · sunset
-- es · es
-- hermoso · hermoso
+- puesta de sol · PWE-sta de sol
+- hermosa · er-MO-sa
 
 ja:
-- その · sono
-- 夕焼け · yuuyake
-- です · desu
-- 美しい · utsukushii
+- 日没 · ni-chi-bo-tsu
+- 美しい · u-tsu-ku-shee
 
 zh:
-- 这 · zhè
-- 夕陽 · xī yáng
-- 是 · shì
-- 漂亮 · piào liàng
+- 日落 · rì luò
+- 漂亮 · piào liang
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-b2-contrast-connectors · Contrast connectors
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

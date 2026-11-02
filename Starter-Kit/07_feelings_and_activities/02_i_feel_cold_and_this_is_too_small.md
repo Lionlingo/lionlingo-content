@@ -4,103 +4,71 @@ order: 2
 
 en:
 - I feel cold, and this is too small.
-- I am cold, it is too small.
+- I am cold, and it is too small.
 
 fr:
-- J'ai froid et c'est trop petit.
-- J'ai froid, il est trop petit.
+- J'ai froid, et c'est trop petit.
+- J'ai froid, et il est trop petit.
 
 de:
 - Mir ist kalt, und das ist zu klein.
-- Mir ist kalt, es ist zu klein.
+- Mir ist kalt, und es ist zu klein.
 
 am:
-- ቀዝቃዛ ስሜት ይሰማኛል፣ ይህ ደግሞ በጣም ትንሽ ነው።
-- ቀዝቃዛ ነኝ፣ በጣም ትንሽ ነው።
+- ብርድ ይሰማኛል፣ ይህም በጣም ትንሽ ነው።
+- ብርድ ብሎኛል፣ እሱም በጣም ትንሽ ነው።
 
 ar:
-- أشعر بالبرد وهذا صغير جداً
-- أنا بارد، هو صغير جدا.
+- أشعر بالبرد، وهذا صغير جداً.
+- أحس بالبرد، وهو صغير جداً.
 
 es:
 - Tengo frío, y esto es demasiado pequeño.
-- Tengo frío, es demasiado pequeño.
+- Tengo frío, y es demasiado pequeño.
 
 ja:
-- 寒いし,これは小さすぎる.
-- 寒いから小さすぎる
+- 私は寒いし、これは小さすぎます。
+- 私は寒いし、それは小さすぎます。
 
 zh:
-- 我感觉很冷,这太小了.
-- 我感觉很冷,太小了.
+- 我感到冷，而且这太小了。
+- 我很冷，而且它太小了。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
 - cold · kohld
-- it · it
-- too · too
-- small · smawl
+- too small · too smawl
 
 fr:
-- je · zhuh
-- suis · suis
-- froid · frwa
-- il · il
-- trop · trop
-- petit · pe: TEE
+- froid · frwah
+- trop petit · tro puh-TEE
 
 de:
-- ich · ikh
-- bin · bin
 - kalt · kalt
-- es · es
-- zu · zu
-- klein · kline
+- zu klein · tsoo kline
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ቀዝቃዛ · qezqaza
-- እሱ · i-su
-- እንዲሁም · endhihum
-- ትንሽ · tinish
+- ብርድ · bird
+- በጣም ትንሽ · be-tam ti-nish
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- بارد · barid
-- هو · hu-wa
-- ايضا · ayda
-- صغير · sa-gheer
+- البرد · al-bard
+- صغير جداً · sa-gheer jid-dan
 
 es:
-- yo · yo
-- soy · soy
-- frío · FREE: o
-- ello · eyo
-- también · tambiehn
-- pequeño · pe: KE: nyo
+- frío · FREE-o
+- demasiado pequeño · de-ma-SYA-do pe-KEN-yo
 
 ja:
-- 私 · watashi
-- です · desu
-- 寒い · samui
-- それ · sore
-- あまりにも · amarinimo
-- 小さい · chiisai
+- 寒い · sa-mui
+- 小さすぎ · chi-sa-su-gi
 
 zh:
-- 我 · wǒ
-- 是 · shì
 - 冷 · lěng
-- 它 · tā
-- 太 · tài
-- 小 · xiǎo
+- 太小 · tài xiǎo
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
-- snippet-a2-superlatives · Superlatives
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

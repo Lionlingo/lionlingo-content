@@ -3,80 +3,64 @@ order: 6
 ---
 
 en:
-- Please call an ambulance!
-- Call an ambulance!
+- Please call an ambulance.
+- Call an ambulance, please.
 
 fr:
-- S'il vous plaît, appelez une ambulance !
-- Appelez une ambulance !
+- Appelez une ambulance, s'il vous plaît.
+- S'il vous plaît, appelez une ambulance.
 
 de:
-- Bitte rufen Sie einen Krankenwagen!
-- Rufen Sie einen Krankenwagen!
+- Bitte rufen Sie einen Krankenwagen.
+- Rufen Sie einen Krankenwagen, bitte.
 
 am:
-- እባካችሁ አምቡላንስ ጠይቁ!
-- አምቡላንስ ይደውሉ!
+- እባክዎ አምቡላንስ ይጥሩ።
+- አምቡላንስ ይጥሩ እባክዎ።
 
 ar:
-- رجاءً إتصلي بالإسعاف
-- اتصل بالإسعاف!
+- من فضلك، اتصل بالإسعاف.
+- اتصل بالإسعاف، من فضلك.
 
 es:
-- ¡Por favor, llame una ambulancia!
-- ¡Llama a una ambulancia!
+- Por favor, llame a una ambulancia.
+- Llame a una ambulancia, por favor.
 
 ja:
-- 救急車を呼んでください!
-- 救急車を呼んで!
+- 救急車を呼んでください。
+- 救急車をお願いします。
 
 zh:
-- 请打电话给救护车!
-- 打电话给救护车!
+- 请叫救护车。
+- 请帮我叫救护车。
 
 ## vocabulary
 
 en:
-- call · call
-- an · an
-- ambulance · ambulance
+- ambulance · AM-byu-lens
 
 fr:
-- appeler · appeler
-- un · un
-- ambulancier · ambulancier
+- ambulance · am-bu-LONS
 
 de:
-- aufruf · aufruf
-- ein · eyen
-- ambulanz · ambulanz
+- Krankenwagen · KRANK-en-va-gen
 
 am:
-- ይደውሉ · ydhewlu
-- አንድ · andh
-- አምቡላንስ · ambulans
+- አምቡላንስ · am-bu-lans
 
 ar:
-- اتصل · atsl
-- ان · an
-- اسعاف · asaaf
+- الإسعاف · al-is-aaf
 
 es:
-- llamada · yamada
-- un · un
-- ambulancia · ambulancia
+- ambulancia · am-bu-LAN-thya
 
 ja:
-- 通話 · tsuuwa
-- 一つの · hitotsu no
-- 救急車 · kyuukyuusha
+- 救急車 · kyu-kyu-sha
 
 zh:
-- 致電 · zhì diàn
-- 一个 · yí gè
-- 救護車 · jiù hù chē
+- 救护车 · jiù hù chē
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-b2-causative · Causatives (have, get, make, let)
+- snippet-a1-imperative · The imperative
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

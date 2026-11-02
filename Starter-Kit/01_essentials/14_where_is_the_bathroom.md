@@ -78,5 +78,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-two-way-prepositions · Place and direction

@@ -3,96 +3,80 @@ order: 11
 ---
 
 en:
-- Say the numbers from one to ten
-- Count from one to ten
+- Count from one to ten.
+- Count the numbers from one to ten.
 
 fr:
-- Dis les nombres de un à dix.
-- Comptez de un à dix .
+- Compte de un à dix.
+- Compte les nombres de un à dix.
 
 de:
-- Sag die Zahlen von eins bis zehn.
-- Zählen Sie von eins bis zehn.
+- Zähl von eins bis zehn.
+- Zähl die Zahlen von eins bis zehn.
 
 am:
-- ከ1 እስከ 10 ያሉትን ቁጥሮች ይናገሩ
-- ከአንድ እስከ አሥር ቆጠር
+- ከአንድ እስከ አሥር ቁጠር።
+- ቁጥሮቹን ከአንድ እስከ አሥር ቁጠር።
 
 ar:
-- قل الأرقام من واحد إلى عشرة
-- عد من واحد إلى عشرة
+- عد من واحد إلى عشرة.
+- عد الأرقام من واحد إلى عشرة.
 
 es:
-- Di los números del uno al diez.
 - Cuenta de uno a diez.
+- Cuenta los números de uno a diez.
 
 ja:
-- 1から10までの数字を言って
-- 1から10まで数える
+- 一から十まで数えてください。
+- 一から十までの数字を数えてください。
 
 zh:
-- 说出从一个到十个的数字
-- 从一个到十个数
+- 从一数到十。
+- 把数字从一数到十。
 
 ## vocabulary
 
 en:
-- count · count
-- from · from
+- count · kount
 - one · wun
-- to · too
 - ten · ten
 
 fr:
-- compter · compter
-- de · duh
+- compte · kont
 - un · uhn
-- à · ah
 - dix · dees
 
 de:
-- zählung · zehhlung
-- von · ows
-- eins · ines
-- zu · zu
+- zähl · tsayl
+- eins · yns
 - zehn · tsayn
 
 am:
-- መቁጠር · mequther
-- ከ · ke
+- ቁጠር · kuter
 - አንድ · and
-- ወደ · we-de
-- አስር · asir
+- አሥር · asir
 
 ar:
-- كونت · kwnt
-- من · min
-- واحد · wa-hid
-- إلى · i-la
+- عد · udd
+- واحد · wahid
 - عشرة · ashara
 
 es:
-- conde · conde
-- de · de
-- uno · OO: no
-- a · a
-- diez · dyeth
+- cuenta · KWEN-ta
+- uno · OO-no
+- diez · dyes
 
 ja:
-- カウント · kaunto
-- から · kara
+- 数え · kazoe
 - 一 · ichi
-- に · ni
-- 十 · juu
+- 十 · jū
 
 zh:
-- 數 · shù
-- 从 · lái zì
+- 数 · shǔ
 - 一 · yī
-- 到 · dào
 - 十 · shí
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a2-countable-quantity · Countable and uncountable
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

@@ -7,84 +7,68 @@ en:
 - It is hot today.
 
 fr:
-- Il fait chaud aujourd'hui.
+- Aujourd'hui, il fait chaud.
 - Il fait chaud aujourd'hui.
 
 de:
 - Heute ist es heiß.
-- Heute ist es heiß.
+- Es ist heiß heute.
 
 am:
-- ዛሬ ሞቃት ስሜት ይሰማኛል።
+- ዛሬ ሞቃት ይመስላል።
 - ዛሬ ሞቃት ነው።
 
 ar:
-- اليوم أشعر بالحرارة
-- الجو حار اليوم
+- اليوم يبدو حاراً.
+- الجو حار اليوم.
 
 es:
 - Hoy hace calor.
-- Hoy hace calor.
+- Hace calor hoy.
 
 ja:
-- 今日は暑い.
-- 今日は暑い.
+- 今日は暑く感じます。
+- 今日は暑いです。
 
 zh:
-- 今天很热.
-- 今天很热.
+- 今天感觉很热。
+- 今天很热。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
 - hot · hot
-- today · today
+- today · tuh-DAY
 
 fr:
-- il · il
-- est · est
 - chaud · sho
-- hui · hui
+- aujourd'hui · o-zhoor-DWEE
 
 de:
-- es · es
-- ist · ist
 - heiß · hice
-- heutige · hoytige
+- heute · HOY-te
 
 am:
-- እሱ · i-su
-- ነው · new
-- ሞቅ ያለ · moq yale
-- ዛሬ · zare
+- ሞቃት · mo-kat
+- ዛሬ · za-re
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- ساخن · sakhin
+- حار · haar
 - اليوم · al-yawm
 
 es:
-- ello · eyo
-- es · es
-- caliente · ka: LYEN: te
-- today · today
+- calor · ka-LOR
+- hoy · oy
 
 ja:
-- それ · sore
-- です · desu
-- ホット · hotto
-- トゥデイ · toudei
+- 暑い · a-tsui
+- 今日 · kyo-o
 
 zh:
-- 它 · tā
-- 是 · shì
-- 热的 · rè de
-- 今日 · jīn rì
+- 热 · rè
+- 今天 · jīn tiān
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal address
-- snippet-a2-present-continuous · Present continuous
+- snippet-a2-impersonal-verbs · Impersonal verbs
+- snippet-a1-adjective-endings · Adjectives

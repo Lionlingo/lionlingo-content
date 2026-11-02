@@ -4,95 +4,79 @@ order: 9
 
 en:
 - Best of luck in your new job!
-- Good luck at your new job!
+- I wish you the best of luck in your new job!
 
 fr:
-- Bonne chance dans votre nouveau travail !
 - Bonne chance pour ton nouveau travail !
+- Je te souhaite bonne chance pour ton nouveau travail !
 
 de:
-- Viel Glück mit deinem neuen Job!
-- Viel Glück bei deinem neuen Job!
+- Viel Glück für deinen neuen Job!
+- Viel Glück im neuen Job!
 
 am:
-- በአዲሱ ሥራህ መልካም ዕድል!
-- በአዲሱ ሥራህ መልካም ዕድል!
+- በአዲሱ ሥራህ መልካም እድል!
+- መልካም እድል በአዲሱ ሥራህ!
 
 ar:
-- حظاً موفقاً في عملك الجديد
-- حظاً موفقاً في عملك الجديد
+- حظاً موفقاً في وظيفتك الجديدة!
+- أتمنى لك حظاً موفقاً في وظيفتك الجديدة!
 
 es:
-- ¡Mucha suerte en tu nuevo trabajo!
 - ¡Buena suerte en tu nuevo trabajo!
+- ¡Te deseo buena suerte en tu nuevo trabajo!
 
 ja:
-- 新しい仕事で幸運を!
-- 新しい仕事で頑張れ!
+- 新しい仕事で幸運を祈ります。
+- 新しい仕事の幸運を祈ります。
 
 zh:
-- 在你的新工作中祝你好运!
-- 在你的新工作中祝你好运!
+- 祝你新工作好运！
+- 祝你在新工作中好运！
 
 ## vocabulary
 
 en:
-- good luck · gud luck
-- at · at
-- your · yor
-- new · new
+- luck · luk
+- new · noo
 - job · job
 
 fr:
-- bonne chance · bonne shance
-- à · ah
-- ton · ton
-- nouveau · noovoh
-- emploi · emplwah
+- chance · shons
+- nouveau · noo-VOH
+- travail · tra-VAY
 
 de:
-- viel Glück · veel glueck
-- an · an
-- dein · deyen
-- neuer · noyer
-- job · job
+- Glück · gluck
+- neuen · NOY-en
+- Job · job
 
 am:
-- መልካም እድል · melkam edhl
-- በ · be
-- ያንተ · yante
-- አዲስ · adhis
-- ሥራ · szra
+- እድል · idl
+- አዲሱ · a-di-su
+- ሥራ · si-ra
 
 ar:
-- حظاً سعيداً · hzaan saydaan
-- في · fee
-- لك · lk
+- حظ · haz
 - جديد · ja-deed
-- الوظيفة · alwzyfa
+- وظيفتك · wa-zee-fa-tak
 
 es:
-- buena suerte · buena suerte
-- en · en
-- tu · tu
-- novedad · novedad
-- job · khob
+- suerte · SWER-te
+- nuevo · NWE-vo
+- trabajo · tra-BA-kho
 
 ja:
-- 頑張って · ganbatsu te
-- で · de
-- あなたの · anatano
-- 新しい · atarashii
-- 職業 · shokugyou
+- 幸運 · ko-un
+- 新しい · a-ta-ra-shii
+- 仕事 · shi-go-to
 
 zh:
-- 祝你好运 · zhù nǐ hǎo yùn
-- 在 · zài
-- 你的 · nǐ de
+- 好运 · hǎo yùn
 - 新 · xīn
 - 工作 · gōng zuò
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal address
-- snippet-b1-adjective-prepositions · Adjectives + prepositions
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-prepositions · Prepositions

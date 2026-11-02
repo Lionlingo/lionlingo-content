@@ -8,7 +8,7 @@ en:
 
 fr:
 - Le mariage est samedi.
-- Le mariage est samedi.
+- Le mariage a lieu samedi.
 
 de:
 - Die Hochzeit ist am Samstag.
@@ -16,75 +16,59 @@ de:
 
 am:
 - ሠርጉ ቅዳሜ ነው።
-- ሠርጉ ቅዳሜ ነው።
+- ሠርጉ ቅዳሜ ላይ ነው።
 
 ar:
-- الزفاف يوم السبت
-- الزفاف يوم السبت
+- الزفاف يوم السبت.
+- الزفاف في يوم السبت.
 
 es:
 - La boda es el sábado.
-- La boda es el sábado.
+- La boda es en sábado.
 
 ja:
-- 結婚式は土曜日だ.
-- 結婚式は土曜日だ.
+- 結婚式は土曜日です。
+- 結婚式は土曜です。
 
 zh:
-- 婚礼是星期六.
-- 婚礼是星期六.
+- 婚礼是星期六。
+- 婚礼在星期六。
 
 ## vocabulary
 
 en:
-- the · thuh
-- wedding · wedding
-- is · iz
-- saturday · saturday
+- wedding · WED-ing
+- Saturday · SAT-ur-day
 
 fr:
-- le · luh
-- mariage · mariage
-- est · est
-- samedi · samedi
+- mariage · ma-ree-AZH
+- samedi · sam-DEE
 
 de:
-- der · dehr
-- heirat · heyerat
-- ist · ist
-- samstag · samstag
+- Hochzeit · HOKH-tsyt
+- Samstag · ZAMS-tahk
 
 am:
-- የ · ye
-- ሰርግ · serg
-- ነው · new
-- ቅዳሜ · qdhame
+- ሠርጉ · ser-gu
+- ቅዳሜ · kid-a-me
 
 ar:
-- ال · al
-- العرس · alars
-- هو · hu-wa
-- سبت · sbt
+- الزفاف · az-za-faaf
+- السبت · as-sabt
 
 es:
-- el · el
-- boda · boda
-- es · es
-- sábados · sahbados
+- boda · BO-da
+- sábado · SA-ba-do
 
 ja:
-- その · sono
-- ウェディング · uedingu
-- です · desu
-- 土曜日 · doyoubi
+- 結婚式 · kek-kon-shi-ki
+- 土曜 · do-yo-o
 
 zh:
-- 这 · zhè
-- 婚禮 · hūn lǐ
-- 是 · shì
+- 婚礼 · hūn lǐ
 - 星期六 · xīng qī liù
 
 ## grammar
 
-- snippet-a1-time-days · Days of the week and simple time
-- snippet-b2-future-perfect · Future perfect
+- snippet-a1-prepositions · Prepositions
+- snippet-a1-sein · To be

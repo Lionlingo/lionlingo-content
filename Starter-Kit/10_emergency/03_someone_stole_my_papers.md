@@ -3,11 +3,11 @@ order: 3
 ---
 
 en:
-- Someone stole my papers.
+- Someone has stolen my papers.
 - My papers have been stolen.
 
 fr:
-- Quelqu'un m'a volé mes papiers.
+- Quelqu'un a volé mes papiers.
 - Mes papiers ont été volés.
 
 de:
@@ -19,80 +19,56 @@ am:
 - ወረቀቶቼ ተሰርቀዋል።
 
 ar:
-- شخص ما سرق أوراقي.
-- لقد سرقت أوراقي
+- شخص سرق أوراقي.
+- أوراقي سرقت.
 
 es:
-- Alguien robó mis papeles.
-- Me han robado los papeles.
+- Alguien ha robado mis papeles.
+- Mis papeles han sido robados.
 
 ja:
-- 誰かが私の書類を盗んだ.
-- 私の書類が盗まれました.
+- 誰かが私の書類を盗みました。
+- 私の書類が盗まれました。
 
 zh:
-- 有人偷了我的文件.
-- 我的文件被偷了.
+- 有人偷了我的文件。
+- 我的文件被偷了。
 
 ## vocabulary
 
 en:
-- my · my
-- papers · papers
-- have · hav
-- been · been
-- stolen · stolen
+- papers · PAY-perz
+- stolen · STO-len
 
 fr:
-- mon · mon
-- papiers · papiers
-- avoir · avwahr
-- a été · a aytay
-- volée · volaye
+- papiers · pa-PYAY
+- volé · vo-LAY
 
 de:
-- mein · meyen
-- zeitungen · zeyetungen
-- haben · haben
-- gewesen · gewesen
-- gestohlene · gestohlene
+- Papiere · pa-PEE-re
+- gestohlen · ge-SHTO-len
 
 am:
-- የእኔ · yeene
-- ወረቀቶች · wereqetoch
-- አለኝ · aleny
-- ቆይቷል · qoytwal
-- ተሰርቋል · teserqwal
+- ወረቀቶቼ · we-re-qe-to-che
+- ሰረቀ · se-re-qe
 
 ar:
-- لي · ly
-- الاوراق · alawraq
-- يملك · ymlk
-- كان · kan
-- سرقت · srqt
+- أوراق · aw-raaq
+- سرق · sa-raq
 
 es:
-- mi · mi
-- ponencias · ponencias
-- tener · tener
-- sido · sido
-- robada · robada
+- papeles · pa-PE-les
+- robado · rro-BA-do
 
 ja:
-- 私の · watashi no
-- 書類 · shorui
-- 持つ · motsu
-- された · sareta
-- 盗まれた · nusuma reta
+- 書類 · sho-rui
+- 盗 · nusu
 
 zh:
-- 我的 · wǒ de
-- 論文 · lùn wén
-- 有 · yǒu
-- 到过 · dào guò
-- 被盗 · bèi dào
+- 文件 · wén jiàn
+- 偷 · tōu
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-a1-have-possession · Have for possession
+- snippet-a2-perfekt · Present perfect
+- snippet-b1-passive-past · The passive in the past

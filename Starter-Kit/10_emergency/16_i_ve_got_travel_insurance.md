@@ -8,83 +8,67 @@ en:
 
 fr:
 - J'ai une assurance voyage.
-- J'ai une assurance voyage.
+- Je possède une assurance voyage.
 
 de:
 - Ich habe eine Reiseversicherung.
-- Ich habe eine Reiseversicherung.
+- Eine Reiseversicherung habe ich.
 
 am:
-- የጉዞ ኢንሹራንስ አለኝ።
-- የጉዞ ኢንሹራንስ አለኝ።
+- የጉዞ መድን አለኝ።
+- የጉዞ መድን ይዤአለሁ።
 
 ar:
-- لدي تأمين سفر
-- لدي تأمين سفر
+- لدي تأمين سفر.
+- عندي تأمين سفر.
 
 es:
 - Tengo un seguro de viaje.
-- Tengo un seguro de viaje.
+- Tengo seguro de viaje.
 
 ja:
-- 旅行保険がある
-- 私は旅行保険を持っている.
+- 旅行保険があります。
+- 旅行保険に入っています。
 
 zh:
-- 我有旅行保险.
-- 我有旅行保险.
+- 我有旅行保险。
+- 我带着旅行保险。
 
 ## vocabulary
 
 en:
-- i · eye
-- have · hav
-- travel · travel
-- insurance · insurance
+- travel · TRAV-el
+- insurance · in-SHOOR-ens
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- voyage · voyage
-- assurances · assurances
+- voyage · vwa-YAZH
+- assurance · a-su-RONS
 
 de:
-- ich · ikh
-- haben · haben
-- reise · ry-ze
-- versicherung · versikherung
+- Reise · RY-ze
+- Versicherung · fer-ZIKH-er-ung
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
-- ጉዞ · guzo
-- ኢንሹራንስ · inshurans
+- ጉዞ · gu-zo
+- መድን · me-din
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- سفر · sfr
-- التامين · altamyn
+- سفر · sa-far
+- تأمين · ta-meen
 
 es:
-- yo · yo
-- tener · tener
-- viajar · viakhar
-- aseguradoras · aseguradoras
+- viaje · VYA-khe
+- seguro · se-GU-ro
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 旅行 · ryokou
-- 保険 · hoken
+- 旅行 · ryo-ko
+- 保険 · ho-ken
 
 zh:
-- 我 · wǒ
-- 有 · yǒu
 - 旅行 · lǚ xíng
-- 保險費 · bǎo xiǎn fèi
+- 保险 · bǎo xiǎn
 
 ## grammar
 
-- snippet-b2-second-conditional · Second conditional
-- snippet-b1-first-conditional · First conditional
+- snippet-a1-haben · To have
+- snippet-a1-ein-forms · a, an, some, no

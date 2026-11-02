@@ -4,79 +4,71 @@ order: 20
 
 en:
 - Here is my passport.
-- My passport, please.
+- My passport is here.
 
 fr:
 - Voici mon passeport.
-- Mon passeport, s'il vous plaît.
+- Mon passeport est ici.
 
 de:
-- Hier ist mein Pass.
-- Mein Reisepass, bitte.
+- Hier ist mein Reisepass.
+- Mein Reisepass ist hier.
 
 am:
 - ፓስፖርቴ እዚህ አለ።
-- ፓስፖርቴን እባክህ።
+- ፓስፖርቴ እዚህ ነው።
 
 ar:
-- ها هو جواز سفري
-- جواز سفري من فضلك
+- هذا جواز سفري.
+- جواز سفري هنا.
 
 es:
 - Aquí está mi pasaporte.
-- Mi pasaporte, por favor.
+- Mi pasaporte está aquí.
 
 ja:
-- ここに私のパスポートがあります.
-- パスポートを
+- ここに私のパスポートがあります。
+- 私のパスポートはここにあります。
 
 zh:
-- 这是我的护照.
-- 请提供我的护照.
+- 我的护照在这里。
+- 我的护照在这儿。
 
 ## vocabulary
 
 en:
-- my · my
-- passport · passport
-- please · pleez
+- here · heer
+- passport · PAS-port
 
 fr:
-- mon · mon
-- passeport · passeport
-- s'il vous plaît · sil vu play
+- ici · ee-SEE
+- passeport · pahs-POR
 
 de:
-- mein · meyen
-- pässe · pehsse
-- bitte · BI: te
+- hier · heer
+- Reisepass · RĪ-zeh-pahs
 
 am:
-- የእኔ · yeene
-- ፓስፖርት · pasport
-- እባክህ · i-bak-ih
+- እዚህ · əzih
+- ፓስፖርቴ · pasportte
 
 ar:
-- لي · ly
-- الجواز · aljwaz
-- من فضلك · min fadlak
+- هنا · hunā
+- جواز سفري · jawāz safarī
 
 es:
-- mi · mi
-- pasaporte · pasaporte
-- por favor · por fa: VOR
+- aquí · ah-KEE
+- pasaporte · pah-sah-POR-teh
 
 ja:
-- 私の · watashi no
-- パスポート · pasupooto
-- お願いします · onegai shimasu
+- ここに · koko ni
+- パスポート · pasupōto
 
 zh:
-- 我的 · wǒ de
-- 護照 · hù zhào
-- 请 · qǐng
+- 这里 · zhèlǐ
+- 护照 · hùzhào
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-two-way-prepositions · Place and direction

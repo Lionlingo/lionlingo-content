@@ -86,5 +86,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-lexical-grammar-collocation · Lexical grammar and collocation
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-zu-infinitive · Infinitive with to

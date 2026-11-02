@@ -11,7 +11,7 @@ fr:
 - Où est le marché ?
 
 de:
-- Wo finde ich den Markt?
+- Wo kann ich den Markt finden?
 - Wo ist der Markt?
 
 am:
@@ -27,64 +27,48 @@ es:
 - ¿Dónde está el mercado?
 
 ja:
-- 市場はどこで見つけられる?
-- 市場はどこですか.
+- 市場はどこで見つけられますか？
+- 市場はどこですか？
 
 zh:
-- 在哪里可以找到市场?
-- 市场在哪里?
+- 我在哪里可以找到市场？
+- 市场在哪里？
 
 ## vocabulary
 
 en:
 - where · wair
-- is · iz
-- the · thuh
-- market · MAR: ket
+- market · MAR-kit
 
 fr:
 - où · oo
-- est · est
-- le · luh
-- marché · mar: SHAY
+- marché · mar-SHAY
 
 de:
-- wo · vo
-- ist · ist
-- der · dehr
+- wo · voh
 - Markt · markt
 
 am:
 - የት · yet
-- ነው · new
-- የ · ye
-- ገበያ · gebeya
+- ገበያ · ge-be-ya
 
 ar:
 - أين · ay-na
-- هو · hu-wa
-- ال · al
-- سوق · suuq
+- السوق · as-sooq
 
 es:
-- dónde · DON: de
-- es · es
-- el · el
-- mercado · mer: KA: do
+- dónde · DON-de
+- mercado · mer-KA-do
 
 ja:
-- どこ · doko
-- です · desu
-- その · sono
-- 市場 · ichiba / shijou
+- どこ · do-ko
+- 市場 · i-chi-ba
 
 zh:
 - 哪里 · nǎ lǐ
-- 是 · shì
-- 这 · zhè
 - 市场 · shì chǎng
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-two-way-prepositions · Place and direction

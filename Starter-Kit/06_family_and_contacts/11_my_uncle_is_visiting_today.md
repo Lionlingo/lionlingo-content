@@ -8,83 +8,75 @@ en:
 
 fr:
 - Mon oncle est en visite aujourd'hui.
-- Mon oncle vient me voir aujourd'hui.
+- Mon oncle visite aujourd'hui.
 
 de:
-- Mein Onkel kommt heute zu Besuch.
+- Mein Onkel ist heute zu Besuch.
 - Mein Onkel kommt heute zu Besuch.
 
 am:
 - አጎቴ ዛሬ እየጎበኘ ነው።
-- አጎቴ ዛሬ ጎብኝቷል።
+- አጎቴ ዛሬ ጉብኝት አለው።
 
 ar:
-- عمي في زيارة اليوم
-- عمي يزورني اليوم
+- عمي في زيارة اليوم.
+- عمي يزور اليوم.
 
 es:
 - Mi tío está de visita hoy.
-- Mi tío viene hoy.
+- Mi tío visita hoy.
 
 ja:
-- 今日は叔父さんが来ています.
-- 今日は叔父さんが来ます.
+- 今日、私のおじが訪ねてきています。
+- 今日、私のおじが訪ねてきます。
 
 zh:
-- 我叔叔今天要来看望.
-- 我叔叔今天来拜访.
+- 我的叔叔今天正在拜访。
+- 我的叔叔今天来拜访。
 
 ## vocabulary
 
 en:
-- my · my
-- uncle · uncle
-- visits · visits
-- today · today
+- uncle · UNG-kul
+- visit · VIZ-it
+- today · tuh-DAY
 
 fr:
-- mon · mon
-- tonton · tonton
-- visites · visites
-- hui · hui
+- oncle · onkl
+- visite · vee-ZEET
+- aujourd'hui · o-zhoor-DWEE
 
 de:
-- mein · meyen
-- onkel · onkel
-- besuche · besukhe
-- heutige · hoytige
+- Onkel · ONG-kel
+- Besuch · be-ZOOK
+- heute · HOY-te
 
 am:
-- የእኔ · yeene
-- አጎቴ · agote
-- ጉብኝቶች · gubnytoch
-- ዛሬ · zare
+- አጎቴ · a-go-te
+- ጉብኝት · gu-bnyet
+- ዛሬ · za-re
 
 ar:
-- لي · ly
-- عمو · amw
-- زيارات · zyarat
+- عمي · am-mee
+- زيارة · zi-yaa-ra
 - اليوم · al-yawm
 
 es:
-- mi · mi
-- tio · tio
-- visitas · visitas
-- today · today
+- tío · TEE-o
+- visita · bee-SEE-ta
+- hoy · oy
 
 ja:
-- 私の · watashi no
-- 叔父 · oji
-- 訪問 · houmon
-- トゥデイ · toudei
+- おじ · o-ji
+- 訪ねて · ta-zu-ne-te
+- 今日 · kyo-o
 
 zh:
-- 我的 · wǒ de
-- 舅舅 · jiù jiù
-- 訪問 · fǎng wèn
-- 今日 · jīn rì
+- 叔叔 · shū shu
+- 拜访 · bài fǎng
+- 今天 · jīn tiān
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-b2-reduced-relatives · Reduced relative clauses
+- snippet-a1-present · Present tense
+- snippet-a1-possessives · my, your, his, her

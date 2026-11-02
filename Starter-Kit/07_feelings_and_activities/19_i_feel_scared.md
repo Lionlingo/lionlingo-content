@@ -7,76 +7,60 @@ en:
 - I am scared.
 
 fr:
-- Je me sens effrayée.
-- Je suis effrayée.
+- J'ai peur.
+- Je me sens effrayé.
 
 de:
 - Ich habe Angst.
-- Ich habe Angst.
+- Ich spüre Angst.
 
 am:
 - ፍርሃት ይሰማኛል።
-- ፈርቻለሁ።
+- ፍርሃት አለብኝ።
 
 ar:
-- أشعر بالخوف
-- أنا خائفة
+- أشعر أنني خائف.
+- أنا خائف.
 
 es:
-- Me siento asustada.
-- Estoy asustada.
+- Me siento asustado.
+- Estoy asustado.
 
 ja:
-- 怖がってる
-- 怖がってる
+- 私は怖いです。
+- 私は怖がっています。
 
 zh:
-- 我感到害怕.
-- 我很害怕.
+- 我感到害怕。
+- 我很害怕。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- scared · scared
+- scared · skaird
 
 fr:
-- je · zhuh
-- suis · suis
-- peur · peur
+- peur · puhr
 
 de:
-- ich · ikh
-- bin · bin
-- angst · angst
+- Angst · angst
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ፈራ · fera
+- ፍርሃት · fir-hat
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- خائفة · khayfa
+- خائف · khaa-if
 
 es:
-- yo · yo
-- soy · soy
-- asustados · asustados
+- asustado · a-soos-TA-do
 
 ja:
-- 私 · watashi
-- です · desu
-- 怖がる · kowaga ru
+- 怖 · ko-wa
 
 zh:
-- 我 · wǒ
-- 是 · shì
 - 害怕 · hài pà
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b2-second-conditional · Second conditional
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

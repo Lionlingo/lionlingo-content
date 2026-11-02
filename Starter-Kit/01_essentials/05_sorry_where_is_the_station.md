@@ -94,5 +94,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-there-is-existence · There is / There are
+- snippet-a1-wh-questions · Question words
+- snippet-a1-two-way-prepositions · Place and direction

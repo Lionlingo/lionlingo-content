@@ -3,72 +3,64 @@ order: 6
 ---
 
 en:
-- Go left.
 - Turn left.
+- Go left.
 
 fr:
-- Allez à gauche.
-- Tournez à gauche.
+- Tourne à gauche.
+- Va à gauche.
 
 de:
-- - Gehen Sie links.
-- Links abbiegen.
+- Biege links ab.
+- Geh nach links.
 
 am:
-- ወደ ግራ ሂድ።
 - ወደ ግራ ዞር በል።
+- ወደ ግራ ሂድ።
 
 ar:
-- إذهب يساراً
-- اتجه يساراً
+- انعطف يساراً.
+- اذهب يساراً.
 
 es:
+- Gira a la izquierda.
 - Ve a la izquierda.
-- Gire a la izquierda.
 
 ja:
-- 左へ
-- 左に曲がって
+- 左に曲がってください。
+- 左へ行ってください。
 
 zh:
-- 往左走.
-- 转向左边.
+- 往左拐。
+- 往左走。
 
 ## vocabulary
 
 en:
-- turn · turn
 - left · left
 
 fr:
-- tourne · toorne
 - gauche · gohsh
 
 de:
-- drehen · drehen
 - links · links
 
 am:
-- መዞር · mezor
 - ግራ · gira
 
 ar:
-- دور · dwr
-- يسار · yasar
+- يساراً · yasaran
 
 es:
-- turn · turn
-- izquierda · ith: KYER: da
+- izquierda · eeth-KYER-da
 
 ja:
-- ターン · taan
 - 左 · hidari
 
 zh:
-- 轉 · zhuǎn
 - 左 · zuǒ
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-c1-fronting · Fronting for emphasis
+- snippet-a1-imperative · The imperative
+- snippet-a2-direction-words · Direction words

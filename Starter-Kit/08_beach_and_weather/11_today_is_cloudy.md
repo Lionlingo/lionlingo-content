@@ -7,84 +7,68 @@ en:
 - It is cloudy today.
 
 fr:
-- Aujourd'hui, il fait nuageux.
-- Il fait nuageux aujourd'hui.
+- Aujourd'hui, le ciel est nuageux.
+- Il y a des nuages aujourd'hui.
 
 de:
 - Heute ist es bewölkt.
-- Heute ist es bewölkt.
+- Der Himmel ist heute bewölkt.
 
 am:
 - ዛሬ ደመናማ ነው።
-- ዛሬ ደመናማ ነው።
+- ዛሬ ሰማዩ ደመናማ ነው።
 
 ar:
 - اليوم غائم.
-- اليوم غائم.
+- السماء غائمة اليوم.
 
 es:
 - Hoy está nublado.
-- Hoy está nublado.
+- Hoy el cielo está nublado.
 
 ja:
-- 今日は曇りだ.
-- 今日は曇りです.
+- 今日は曇りです。
+- 今日、空は曇りです。
 
 zh:
-- 今天天气阴.
-- 今天天空多云.
+- 今天多云。
+- 今天天空多云。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
-- cloudy · KLOW: dee
-- today · today
+- today · tuh-DAY
+- cloudy · KLOW-dee
 
 fr:
-- il · il
-- est · est
-- nuageux · nü: a-ZHÖ
-- hui · hui
+- aujourd'hui · o-zhoor-DWEE
+- nuages · nwaazh
 
 de:
-- es · es
-- ist · ist
-- bewölkt · be: VÖLKT
-- heutige · hoytige
+- heute · HOY-te
+- bewölkt · be-VURLKT
 
 am:
-- እሱ · i-su
-- ነው · new
-- ደመናማ · demenama
-- ዛሬ · zare
+- ዛሬ · za-re
+- ደመናማ · de-me-na-ma
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- غائم · gha'im
 - اليوم · al-yawm
+- غائم · ghaa-im
 
 es:
-- ello · eyo
-- es · es
-- nublado · nu: BLA: do
-- today · today
+- hoy · oy
+- nublado · nu-BLA-do
 
 ja:
-- それ · sore
-- です · desu
-- くもり · kumori
-- トゥデイ · toudei
+- 今日 · kyo-o
+- 曇り · ku-mo-ri
 
 zh:
-- 它 · tā
-- 是 · shì
+- 今天 · jīn tiān
 - 多云 · duō yún
-- 今日 · jīn rì
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-a1-informal-greetings · Informal address
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

@@ -3,104 +3,88 @@ order: 4
 ---
 
 en:
-- I've got many aunts and uncles
-- I have many aunts and uncles
+- I've got many aunts and uncles.
+- I have many aunts and uncles.
 
 fr:
-- J'ai beaucoup de tantes et de oncles
-- J' ai beaucoup de tantes et de oncles .
+- J'ai beaucoup de tantes et d'oncles.
+- J'ai de nombreuses tantes et de nombreux oncles.
 
 de:
-- Ich habe viele Onkel und Tanten.
-- Ich habe viele Onkel und Tanten.
+- Ich habe viele Tanten und Onkel.
+- Ich habe viele Tanten und Onkel.
 
 am:
-- ብዙ አክስቶችና አጎቶች አሉኝ
+- ብዙ አክስቶችና አጎቶች አሉኝ።
 - ብዙ አክስቶችና አጎቶች አሉኝ።
 
 ar:
-- لدي العديد من الخالة والعم
-- لدي العديد من الخالة والعم
+- لدي كثير من العمات والأعمام.
+- عندي كثير من العمات والأعمام.
 
 es:
-- Tengo muchas tías y tíos
-- Tengo muchas tías y tíos.
+- Tengo muchas tías y muchos tíos.
+- Tengo muchas tías y muchos tíos.
 
 ja:
-- 叔母や叔母さんがたくさんいる
-- 叔母さんや叔母さんがたくさんいる
+- 私はおばとおじがたくさんいます。
+- 私にはおばとおじがたくさんいます。
 
 zh:
-- 我有很多阿和叔叔.
-- 我有很多阿和叔叔.
+- 我有很多阿姨和叔叔。
+- 我有许多阿姨和叔叔。
 
 ## vocabulary
 
 en:
-- i · eye
 - have · hav
-- many · many
-- aunts · aunts
-- and · and
-- uncles · uncles
+- many · MEN-ee
+- aunts · ants
+- uncles · UNG-kulz
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- nombreux · nombreux
-- tantes · tantes
-- et · et
-- oncles · oncles
+- ai · ay
+- beaucoup · bo-KOO
+- tantes · tahnt
+- oncles · onkl
 
 de:
-- ich · ikh
-- haben · haben
-- viele · veele
-- tanten · tanten
-- und · und
-- onkel · onkel
+- habe · HAH-be
+- viele · FEE-le
+- Tanten · TAN-ten
+- Onkel · ONG-kel
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
+- አሉኝ · a-lu-ny
 - ብዙ · bzu
-- አክስቴ · akste
-- እና · ena
-- አጎቶች · agotoch
+- አክስቶች · ak-stoch
+- አጎቶች · a-go-toch
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- كثير · kthyr
-- العمات · alamat
-- و · w
-- أعمام · aamam
+- لدي · la-day-ya
+- كثير · ka-theer
+- العمات · al-am-maat
+- الأعمام · al-a-maam
 
 es:
-- yo · yo
-- tener · tener
-- muchas · muchas
-- tías · teeas
-- y · y
-- tíos · teeos
+- tengo · TEN-go
+- muchas · MOO-chas
+- tías · TEE-as
+- tíos · TEE-os
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 多数 · tasuu
-- おば · oba
-- と · to
-- おじ · oji
+- います · i-ma-su
+- たくさん · taku-san
+- おば · o-ba
+- おじ · o-ji
 
 zh:
-- 我 · wǒ
 - 有 · yǒu
-- 許多 · xǔ duō
-- 阿姨们 · ā yí men
-- 和 · hé
-- 叔叔们 · shū shū men
+- 很多 · hěn duō
+- 阿姨 · ā yí
+- 叔叔 · shū shu
 
 ## grammar
 
-- snippet-a1-have-possession · Have for possession
-- snippet-b1-relative-clauses · Relative clauses
+- snippet-a1-haben · To have
+- snippet-a1-plural · Plural nouns

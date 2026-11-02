@@ -7,84 +7,76 @@ en:
 - You can call her.
 
 fr:
-- Vous pouvez l'appeler.
-- Vous pouvez l'appeler.
+- Tu peux l'appeler.
+- Tu peux lui téléphoner.
 
 de:
-- Sie können sie anrufen.
 - Du kannst sie anrufen.
+- Du darfst sie anrufen.
 
 am:
 - ልትደውልላት ትችላለህ።
-- ልትደውልላት ትችላለህ።
+- ወደ እሷ መደወል ትችላለህ።
 
 ar:
-- يمكنك الاتصال بها
-- يمكنك الاتصال بها
+- يمكنك الاتصال بها.
+- تستطيع الاتصال بها.
 
 es:
 - Puedes llamarla.
-- Puedes llamarla.
+- La puedes llamar.
 
 ja:
-- 彼女を呼べよ
-- 彼女に電話して
+- 彼女に電話してもいいです。
+- 彼女に電話できます。
 
 zh:
-- 你可以打电话给她.
-- 你可以打电话给她.
+- 你可以给她打电话。
+- 你能给她打电话。
 
 ## vocabulary
 
 en:
-- you · yoo
 - can · kan
-- call · call
+- call · kawl
 - her · her
 
 fr:
-- tu · tu
-- pouvoir · poo: VWAR
-- appeler · appeler
-- her · her
+- peux · puh
+- appeler · a-puh-LAY
+- lui · lwee
 
 de:
-- du · du
-- können · KER: nen
-- aufruf · aufruf
-- ihr · ihr
+- kannst · kanst
+- anrufen · AN-roo-fen
+- sie · zee
 
 am:
-- አንተ · an-te
-- መቻል · mechal
-- ይደውሉ · ydhewlu
-- እሷን · eswan
+- ትችላለህ · tich-la-leh
+- መደወል · me-de-wel
+- እሷ · i-swa
 
 ar:
-- أنت · an-ta
-- يستطيع · yastatee'
-- اتصل · atsl
-- لها · lha
+- يمكنك · yum-ki-nuk
+- الاتصال · al-it-ti-saal
+- بها · bi-haa
 
 es:
-- tú · too
-- poder · po: DER
-- llamada · yamada
-- ella · eya
+- puedes · PWE-des
+- llamar · ya-MAR
+- la · la
 
 ja:
-- あなた · anata
-- できる · dekiru
-- 通話 · tsuuwa
-- 彼女 · kanojo
+- できます · de-ki-ma-su
+- 電話 · den-wa
+- 彼女 · ka-no-jo
 
 zh:
-- 你 · nǐ
-- 能 · néng / huì
-- 致電 · zhì diàn
-- 她的 · tā de
+- 可以 · kě yǐ
+- 打电话 · dǎ diàn huà
+- 她 · tā
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-a2-ability-can · can for ability
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-pronouns · Pronouns

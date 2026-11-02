@@ -3,8 +3,8 @@ order: 7
 ---
 
 en:
-- I like blue with green
-- I like blue and green together
+- I like blue with green.
+- I like blue and green together.
 
 fr:
 - J'aime le bleu avec le vert.
@@ -15,92 +15,68 @@ de:
 - Ich mag Blau und Grün zusammen.
 
 am:
-- ሰማያዊን ከአረንጓዴ ጋር እወዳለሁ
-- ሰማያዊ እና አረንጓዴን አንድ ላይ እወዳለሁ
+- ሰማያዊን ከአረንጓዴ ጋር እወዳለሁ።
+- ሰማያዊ እና አረንጓዴን አንድ ላይ እወዳለሁ።
 
 ar:
-- أحب الأزرق مع الأخضر
-- أحب الأزرق والأخضر معاً
+- أحب الأزرق مع الأخضر.
+- أحب الأزرق والأخضر معاً.
 
 es:
-- Me gusta el azul con el verde
-- Me gusta el azul y el verde juntos
+- Me gusta el azul con el verde.
+- Me gusta el azul y el verde juntos.
 
 ja:
-- 青と緑が好きなんだ
-- 青と緑が合っているのが好き
+- 青を緑と合わせるのが好きです。
+- 青と緑が合っているのが好きです。
 
 zh:
-- 我喜欢蓝色和绿色.
-- 我喜欢蓝色和绿色在一起
+- 我喜欢蓝色配绿色。
+- 我喜欢蓝色和绿色在一起。
 
 ## vocabulary
 
 en:
-- i · eye
-- like · like
+- like · lyk
 - blue · bloo
-- and · and
 - green · green
-- together · together
 
 fr:
-- je · zhuh
-- aimer · aimer
+- aime · em
 - bleu · bluh
-- et · et
-- verte · verte
-- ensemble · ensemble
+- vert · vair
 
 de:
-- ich · ikh
-- mögen · mergen
-- blaue · blaue
-- und · und
-- grün · gruen
-- zusammen · zusammen
+- mag · mahk
+- Blau · blau
+- Grün · grewn
 
 am:
-- እኔ · i-ne
-- መውደድ · mewdhedh
+- እወዳለሁ · ewedalehu
 - ሰማያዊ · semayawi
-- እና · ena
-- አረንጓዴ · arengwadhe
-- አንድ ላየ · andh laye
+- አረንጓዴ · arenguade
 
 ar:
-- أنا · a-na
-- يحب · yu-hib
-- بلو · blw
-- و · w
-- اخضر · akhdr
-- سويا · swya
+- أحب · uhibb
+- الأزرق · al-azraq
+- الأخضر · al-akhdar
 
 es:
-- yo · yo
-- gustar · gustar
-- azules · azules
-- y · y
-- verde · verde
-- juntos · khuntos
+- gusta · GUS-ta
+- azul · a-SUL
+- verde · BER-de
 
 ja:
-- 私 · watashi
 - 好き · suki
-- 青い · aoi
-- と · to
-- グリーン · guriin
-- 一緒に · isshoni
+- 青 · ao
+- 緑 · midori
 
 zh:
-- 我 · wǒ
 - 喜欢 · xǐ huān
-- 蓝色的 · lán sè de
-- 和 · hé
-- 綠色 · lǜ sè
-- 在一起 · zài yì qǐ
+- 蓝色 · lán sè
+- 绿色 · lǜ sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a1-prepositions · Prepositions
+- snippet-a1-present · Present tense

@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a1-plurals-quantity · Plurals and quantity
+- snippet-a1-wh-questions · Question words
+- snippet-a1-sein · To be

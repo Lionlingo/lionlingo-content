@@ -3,96 +3,80 @@ order: 16
 ---
 
 en:
-- This is the first time I visit
-- This is my first visit
+- This is the first time I visit.
+- This is my first visit.
 
 fr:
-- C'est la première fois que je viens .
-- C' est ma première visite .
+- C'est la première fois que je visite.
+- C'est ma première visite.
 
 de:
-- Das ist das erste Mal , dass ich Sie besuche .
+- Das ist das erste Mal, dass ich zu Besuch bin.
 - Das ist mein erster Besuch.
 
 am:
-- ለመጀመሪያ ጊዜ ነው እዚህ የመጣሁት
-- ይህ የመጀመሪያ ጉብኝቴ ነው
+- ይህ የመጀመሪያ ጊዜ ነው ጉብኝት የማደርገው።
+- ይህ የመጀመሪያ ጉብኝቴ ነው።
 
 ar:
-- هذه هي المرة الأولى التي أزور
-- هذه زيارتي الأولى
+- هذه هي المرة الأولى التي أقوم فيها بزيارة.
+- هذه زيارتي الأولى.
 
 es:
-- Esta es la primera vez que visito
+- Esta es la primera vez que hago una visita.
 - Esta es mi primera visita.
 
 ja:
-- 初めての訪問です
-- これは私の最初の訪問
+- これが初めての訪問です。
+- これは私にとって初めての訪問です。
 
 zh:
-- 这是我第一次来这里.
-- 这是我第一次来这里
+- 这是我第一次访问这里。
+- 这是我的第一次访问。
 
 ## vocabulary
 
 en:
-- this · this
-- is · iz
-- my · my
-- first · first
-- visit · visit
+- this is · this iz
+- first · furst
+- visit · VIZ-it
 
 fr:
-- ce · suh: SEE / suh
-- est · est
-- mon · mon
-- première · premiehre
-- visite · visite
+- c'est · seh
+- première · prem-YAIR
+- visite · vee-ZEET
 
 de:
-- dies · dees
-- ist · ist
-- mein · meyen
-- erste · erste
-- besuch · besukh
+- das ist · das ist
+- erste · ER-ste
+- Besuch · be-ZOOKH
 
 am:
 - ይህ · yih
-- ነው · new
-- የእኔ · yeene
-- አንደኛ · andhenya
-- መጎብኘት። · megobnyet
+- የመጀመሪያ · yemejemeriya
+- ጉብኝት · gubnyit
 
 ar:
-- هذا · ha-dha
-- هو · hu-wa
-- لي · ly
-- اول · awl
-- زور · zwr
+- هذه · hadhihi
+- الأولى · al-ula
+- زيارة · ziyara
 
 es:
-- este · ES: te
-- es · es
-- mi · mi
-- primera · primera
-- visite · visite
+- esta es · ES-ta es
+- primera · pri-ME-ra
+- visita · bi-SI-ta
 
 ja:
 - これ · kore
-- です · desu
-- 私の · watashi no
-- ファースト · faasuto
-- 訪問 · houmon
+- 初めて · hajimete
+- 訪問 · hōmon
 
 zh:
-- 这 · zhè
-- 是 · shì
-- 我的 · wǒ de
-- 首先 · shǒu xiān
-- 參觀 · cān guān
+- 这是 · zhè shì
+- 第一次 · dì yī cì
+- 访问 · fǎng wèn
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-c1-apposition · Apposition
+- snippet-a1-adjective-endings · Adjectives
+- snippet-a1-present · Present tense

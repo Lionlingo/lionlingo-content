@@ -4,87 +4,71 @@ order: 11
 
 en:
 - I've lost my passport.
-- I lost my passport.
+- I have lost my passport.
 
 fr:
 - J'ai perdu mon passeport.
-- J'ai perdu mon passeport.
+- Mon passeport, je l'ai perdu.
 
 de:
 - Ich habe meinen Pass verloren.
-- Ich habe meinen Pass verloren.
+- Meinen Pass habe ich verloren.
 
 am:
 - ፓስፖርቴን አጣሁ።
-- ፓስፖርቴን አጣሁ።
+- አጣሁ ፓስፖርቴን።
 
 ar:
-- لقد فقدت جواز سفري
-- لقد فقدت جواز سفري
+- فقدت جواز سفري.
+- جواز سفري فقدته.
 
 es:
 - He perdido mi pasaporte.
-- He perdido mi pasaporte.
+- Mi pasaporte lo he perdido.
 
 ja:
-- パスポートをなくした
-- パスポートをなくした.
+- パスポートをなくしました。
+- 私はパスポートをなくしました。
 
 zh:
-- 我失去了护照.
-- 我失去了护照.
+- 我的护照丢了。
+- 我把护照弄丢了。
 
 ## vocabulary
 
 en:
-- i · eye
+- passport · PAS-port
 - lost · lost
-- my · my
-- passport · passport
 
 fr:
-- je · zhuh
-- perdu · perdu
-- mon · mon
-- passeport · passeport
+- passeport · pas-POR
+- perdu · per-DU
 
 de:
-- ich · ikh
-- verlor · verlor
-- mein · meyen
-- pässe · pehsse
+- Pass · pas
+- verloren · fer-LOR-en
 
 am:
-- እኔ · i-ne
-- ጠፋ · thefa
-- የእኔ · yeene
-- ፓስፖርት · pasport
+- ፓስፖርቴን · pas-por-ten
+- አጣሁ · a-ta-hu
 
 ar:
-- أنا · a-na
-- خسرت · khsrt
-- لي · ly
-- الجواز · aljwaz
+- جواز · ja-waaz
+- فقد · fa-qad
 
 es:
-- yo · yo
-- perdido · perdido
-- mi · mi
-- pasaporte · pasaporte
+- pasaporte · pa-sa-POR-te
+- perdido · per-DI-do
 
 ja:
-- 私 · watashi
-- ロスト · rosuto
-- 私の · watashi no
-- パスポート · pasupooto
+- パスポート · pa-su-po-to
+- なくし · na-ku-shi
 
 zh:
-- 我 · wǒ
-- 失 · shī
-- 我的 · wǒ de
-- 護照 · hù zhào
+- 护照 · hù zhào
+- 丢 · diū
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-b1-present-perfect · Present perfect
+- snippet-a2-perfekt · Present perfect
+- snippet-a1-possessives · my, your, his, her

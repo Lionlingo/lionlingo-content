@@ -7,76 +7,60 @@ en:
 - Enjoy the festival!
 
 fr:
-- Amusez-vous bien au festival !
-- Profitez du festival !
+- Amuse-toi bien au festival !
+- Profite du festival !
 
 de:
 - Viel Spaß beim Festival!
-- Genießen Sie das Festival!
+- Genieß das Festival!
 
 am:
-- በበዓሉ ላይ ጥሩ ጊዜ አሳልፉ!
-- በበዓሉ ይደሰቱ!
+- በበዓሉ ተደሰት!
+- በዓሉን ተደሰትበት!
 
 ar:
+- استمتع بالمهرجان!
 - استمتع في المهرجان!
-- استمتع بالمهرجان
 
 es:
 - ¡Diviértete en el festival!
 - ¡Disfruta del festival!
 
 ja:
-- フェスティバルで楽しんで!
-- フェスティバルを楽しんで!
+- 祭りを楽しんで。
+- 祭りで楽しんでね。
 
 zh:
-- 在节日上好玩吧!
-- 享受节日!
+- 好好享受这个节日！
+- 享受这个节日吧！
 
 ## vocabulary
 
 en:
-- enjoy · enjoy
-- the · thuh
-- festival · festival
+- festival · FES-ti-vul
 
 fr:
-- enjoy · enjoy
-- le · luh
-- festival · festival
+- festival · fes-ti-VAL
 
 de:
-- genießen · geneessen
-- der · dehr
-- festival · festival
+- Festival · FES-ti-val
 
 am:
-- ተደሰት · tedheset
-- የ · ye
-- በዓል · beäl
+- በዓሉ · be-a-lu
 
 ar:
-- استمتع · astmta
-- ال · al
-- المهرجان · almhrjan
+- المهرجان · al-mah-ra-jaan
 
 es:
-- disfrute · disfrute
-- el · el
-- festival · festival
+- festival · fes-ti-VAL
 
 ja:
-- 楽しむ · tanoshi mu
-- その · sono
-- フェスティバル · fesuteibaru
+- 祭り · mat-su-ri
 
 zh:
-- 享受 · xiǎng shòu
-- 这 · zhè
-- 節 · jié
+- 节日 · jié rì
 
 ## grammar
 
-- snippet-b1-gerunds-infinitives · Gerunds and infinitives after verbs
-- snippet-a1-yes-no-questions · Yes/no questions
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

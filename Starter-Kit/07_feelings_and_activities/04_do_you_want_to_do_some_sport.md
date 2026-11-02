@@ -8,7 +8,7 @@ en:
 
 fr:
 - Tu veux faire du sport ?
-- Tu veux faire du sport ?
+- Tu aimerais faire du sport ?
 
 de:
 - Willst du Sport treiben?
@@ -16,99 +16,51 @@ de:
 
 am:
 - ስፖርት መሥራት ትፈልጋለህ?
-- ስፖርት መሥራት ትፈልጋለህ?
+- ስፖርት መሥራት ትወዳለህ?
 
 ar:
-- أتريدين ممارسة الرياضة؟
-- هل ترغبين في ممارسة الرياضة؟
+- هل تريد ممارسة الرياضة؟
+- هل تود ممارسة الرياضة؟
 
 es:
-- ¿Quieres hacer algo de deporte?
-- ¿Te gustaría hacer algo de deporte?
+- ¿Quieres hacer deporte?
+- ¿Te gustaría hacer deporte?
 
 ja:
-- スポーツをしたい?
-- スポーツをしたいですか.
+- スポーツをしたいですか？
+- 運動をしたいですか？
 
 zh:
-- 你想做一些运动吗?
-- 你想去运动吗?
+- 你想做运动吗？
+- 你愿意做运动吗？
 
 ## vocabulary
 
 en:
-- would · would
-- you · yoo
-- like · like
-- to · too
-- do · do
-- some · some
 - sport · sport
 
 fr:
-- voudrais · voodrais
-- tu · tu
-- aimer · aimer
-- à · ah
-- faire · faire
-- certains · certains
-- sportif · sportif
+- sport · spor
 
 de:
-- würde · wuerde
-- du · du
-- mögen · mergen
-- zu · zu
-- tun · tun
-- einige · eyenige
-- sportarten · sportarten
+- Sport · shport
 
 am:
-- እፈልጋለሁ · efelgalehu
-- አንተ · an-te
-- መውደድ · mewdhedh
-- ወደ · we-de
-- ማድረግ · madhreg
-- አንዳንድ · andhandh
 - ስፖርት · sport
 
 ar:
-- سوف · sawf
-- أنت · an-ta
-- يحب · yu-hib
-- إلى · i-la
-- يفعل · yfal
-- البعض · albad
-- رياضة · ryada
+- الرياضة · ar-ri-ya-da
 
 es:
-- haría · hareea
-- tú · too
-- gustar · gustar
-- a · a
-- hacer · hacer
-- algunas · algunas
-- deportes · deportes
+- deporte · de-POR-te
 
 ja:
-- だろう · darou
-- あなた · anata
-- 好き · suki
-- に · ni
-- する · suru
-- いくつか · ikutsuka
-- スポーツ · supootsu
+- スポーツ · su-po-tsu
 
 zh:
-- 会 · huì
-- 你 · nǐ
-- 喜欢 · xǐ huān
-- 到 · dào
-- 做 · zuò
-- 一些 · yī xiē
-- 體育 · tǐ yù
+- 运动 · yùn dòng
 
 ## grammar
 
-- snippet-a2-want-like · Want and like
-- snippet-a2-ability-can · can for ability
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-zu-infinitive · Infinitive with to

@@ -4,95 +4,63 @@ order: 10
 
 en:
 - I'm going to the supermarket.
-- I go to the supermarket.
+- I'm on my way to the supermarket.
 
 fr:
 - Je vais au supermarché.
-- Je vais au supermarché.
+- Je me rends au supermarché.
 
 de:
-- Ich gehe in den Supermarkt.
-- Ich gehe in den Supermarkt.
+- Ich gehe zum Supermarkt.
+- Ich bin auf dem Weg zum Supermarkt.
 
 am:
-- ወደ ሱፐር ማርኬት እሄዳለሁ።
-- ወደ ሱፐር ማርኬት እሄዳለሁ።
+- ወደ ሱፐርማርኬት እየሄድኩ ነው።
+- ሱፐርማርኬት እያመራሁ ነው።
 
 ar:
-- أنا ذاهب إلى السوبر ماركت.
-- أذهب إلى السوبر ماركت
+- أنا ذاهب إلى السوبرماركت.
+- أنا في طريقي إلى السوبرماركت.
 
 es:
-- Voy al supermercado.
-- Voy al supermercado.
+- Estoy yendo al supermercado.
+- Voy camino al supermercado.
 
 ja:
-- スーパーマーケットに行く.
-- スーパーマーケットに行きます.
+- スーパーに行っています。
+- スーパーへ向かっています。
 
 zh:
-- 我要去超市.
-- 我去超市.
+- 我正在去超市。
+- 我往超市去。
 
 ## vocabulary
 
 en:
-- i · eye
-- go · go
-- to · too
-- the · thuh
-- supermarket · supermarket
+- supermarket · SOO-per-mar-kit
 
 fr:
-- je · zhuh
-- aller · aller
-- à · ah
-- le · luh
-- supermarché · supermarshay
+- supermarché · su-per-mar-SHAY
 
 de:
-- ich · ikh
-- gehen · gehen
-- zu · zu
-- der · dehr
-- supermarkt · supermarkt
+- Supermarkt · ZU-per-markt
 
 am:
-- እኔ · i-ne
-- ሂድ · hidh
-- ወደ · we-de
-- የ · ye
-- ሱፐርማርኬት · supermarket
+- ሱፐርማርኬት · su-per-mar-ket
 
 ar:
-- أنا · a-na
-- يذهب · ydhhb
-- إلى · i-la
-- ال · al
-- ماركت · markt
+- السوبرماركت · as-su-ber-mar-ket
 
 es:
-- yo · yo
-- ir · ir
-- a · a
-- el · el
-- supermercado · supermercado
+- supermercado · su-per-mer-KA-do
 
 ja:
-- 私 · watashi
-- 行く · iku
-- に · ni
-- その · sono
-- スーパーマーケット · suupaamaaketto
+- スーパー · suu-paa
 
 zh:
-- 我 · wǒ
-- 去 · qù
-- 到 · dào
-- 这 · zhè
-- 超级市场 · chāo jí shì chǎng
+- 超市 · chāo shì
 
 ## grammar
 
-- snippet-a1-word-order-statements · Basic word order in statements
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-present · Present tense
+- snippet-a1-two-way-prepositions · Place and direction

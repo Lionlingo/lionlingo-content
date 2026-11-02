@@ -7,84 +7,76 @@ en:
 - My parents live here.
 
 fr:
-- Mes parents vivent ici.
+- Mes parents vivent dans cet endroit.
 - Mes parents habitent ici.
 
 de:
-- Meine Eltern wohnen hier.
+- Meine Eltern wohnen an diesem Ort.
 - Meine Eltern wohnen hier.
 
 am:
-- ወላጆቼ እዚህ ይኖራሉ።
+- ወላጆቼ በዚህ ቦታ ይኖራሉ።
 - ወላጆቼ እዚህ ይኖራሉ።
 
 ar:
-- والديّ يعيشان هنا.
-- والداي يعيشان هنا
+- والداي يعيشان في هذا المكان.
+- والداي يعيشان هنا.
 
 es:
 - Mis padres viven en este lugar.
 - Mis padres viven aquí.
 
 ja:
-- 私の両親はこの場所で暮らしている.
-- 私の両親はここに住んでいます.
+- 私の両親はこの場所に住んでいます。
+- 私の両親はここに住んでいます。
 
 zh:
-- 我的父母住在这个地方.
-- 我的父母住在这里.
+- 我的父母住在这个地方。
+- 我的父母住在这里。
 
 ## vocabulary
 
 en:
-- my · my
-- parents · PAIR: ents
+- parents · PAIR-ents
 - live · liv
 - here · heer
 
 fr:
-- mon · mon
-- parents · pa: RAN
-- habiter · a: bee: TAY
-- ici · ee: SEE
+- parents · pa-RAHN
+- vivent · veev
+- ici · ee-SEE
 
 de:
-- mein · meyen
-- Eltern · EL: tern
-- wohnen · VOH: nen
+- Eltern · EL-tern
+- wohnen · VOH-nen
 - hier · heer
 
 am:
-- የእኔ · yeene
-- ወላጆች · welajoch
-- መኖር · menor
-- እዚህ · izi
+- ወላጆቼ · we-la-jo-che
+- ይኖራሉ · yi-no-ra-lu
+- እዚህ · i-zih
 
 ar:
-- لي · ly
-- والدان · walidan
-- يسكن · yaskun
-- هنا · huna
+- والداي · waa-li-daa-ya
+- يعيشان · ya-ee-shaa-ni
+- هنا · hu-naa
 
 es:
-- mi · mi
-- padres · PA: dres
-- vivir · bee: VEER
-- aquí · a: KEE
+- padres · PA-dres
+- viven · BEE-ben
+- aquí · a-KEE
 
 ja:
-- 私の · watashi no
-- 両親 · ryōshin
-- 住む · sumu
-- ここ · koko
+- 両親 · ryo-o-shin
+- 住んでいます · sun-de i-ma-su
+- ここ · ko-ko
 
 zh:
-- 我的 · wǒ de
 - 父母 · fù mǔ
 - 住 · zhù
 - 这里 · zhè lǐ
 
 ## grammar
 
-- snippet-b1-relative-clauses · Relative clauses
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-two-way-prepositions · Place and direction

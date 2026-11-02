@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-adverbs-frequency · Adverbs of frequency
-- snippet-c1-hedging · Hedging
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-adverbs · Adverbs

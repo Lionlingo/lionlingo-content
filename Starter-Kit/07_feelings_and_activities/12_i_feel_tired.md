@@ -7,76 +7,60 @@ en:
 - I am tired.
 
 fr:
-- Je me sens fatiguée.
-- Je suis fatiguée.
+- Je me sens fatigué.
+- Je suis fatigué.
 
 de:
 - Ich fühle mich müde.
 - Ich bin müde.
 
 am:
-- ደክሞኛል።
-- ደክሞኛል።
+- ድካም ይሰማኛል።
+- ድካም አለብኝ።
 
 ar:
-- أشعر بالتعب
+- أشعر بالتعب.
 - أنا متعب.
 
 es:
-- Estoy cansada.
+- Me siento cansado.
 - Estoy cansado.
 
 ja:
-- 疲れた気がする.
-- 疲れた
+- 私は疲れを感じています。
+- 私は疲れています。
 
 zh:
-- 我觉得自己很累.
-- 我已经累了.
+- 我感到累。
+- 我很累。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- tired · tired
+- tired · TY-erd
 
 fr:
-- je · zhuh
-- suis · suis
-- fatigué · fatiguay
+- fatigué · fa-tee-GAY
 
 de:
-- ich · ikh
-- bin · bin
-- erschöpft · ersherpft
+- müde · MUE-de
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ደክሞኝል · dhekmonyl
+- ድካም · di-kam
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- تعبت · tabt
+- التعب · at-ta-ab
 
 es:
-- yo · yo
-- soy · soy
-- cansada · cansada
+- cansado · kan-SA-do
 
 ja:
-- 私 · watashi
-- です · desu
-- 疲れた · tsukare ta
+- 疲れ · tsu-ka-re
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 累了 · lèi le
+- 累 · lèi
 
 ## grammar
 
-- snippet-b1-reported-speech · Reported speech
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

@@ -27,64 +27,40 @@ es:
 - ¿Qué tan lejos está?
 
 ja:
-- 距離は?
-- どこまで?
+- 距離はどれくらいですか。
+- どのくらい遠いですか。
 
 zh:
-- 距离是多少?
-- 距离多远?
+- 距离是多少？
+- 有多远？
 
 ## vocabulary
 
 en:
-- how · how
-- far · far
-- is · iz
-- it · it
+- distance · DIS-təns
 
 fr:
-- comment · comment
-- loin · lwan
-- est · est
-- il · il
+- distance · dees-TAHNS
 
 de:
-- wie · wee
-- weit · vite
-- ist · ist
-- es · es
+- Entfernung · ent-FER-noong
 
 am:
-- እንዴት · in-det
-- ሩቅ · ruk
-- ነው · new
-- እሱ · i-su
+- ርቀቱ · rəqätu
 
 ar:
-- كيف · kay-fa
-- بعيد · ba'eed
-- هو · hu-wa
-- هو · hu-wa
+- المسافة · al-masāfa
 
 es:
-- cómo · cohmo
-- lejos · LE: hos
-- es · es
-- ello · eyo
+- distancia · dees-TAHN-syah
 
 ja:
-- どう · dou
-- 遠い · toi
-- です · desu
-- それ · sore
+- 距離 · kyori
 
 zh:
-- 怎么 · zěn me
-- 远 · yuǎn
-- 是 · shì
-- 它 · tā
+- 距离 · jùlí
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-b1-indirect-questions · Indirect questions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-sein · To be

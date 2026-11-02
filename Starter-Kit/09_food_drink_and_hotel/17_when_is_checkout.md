@@ -7,84 +7,60 @@ en:
 - What time is checkout?
 
 fr:
-- À quelle heure est la caisse ?
-- À quelle heure est la caisse ?
+- C'est quand le départ ?
+- À quelle heure est le départ ?
 
 de:
-- Wann ist die Kasse?
-- Um wie viel Uhr geht's ab?
+- Wann ist die Abreise?
+- Um wie viel Uhr ist die Abreise?
 
 am:
-- መቼ ነው የሚወጣው?
-- ስንት ሰዓት ላይ ነው የሚወጣው?
+- መውጫ መቼ ነው?
+- መውጫ ስንት ሰዓት ነው?
 
 ar:
-- متى موعد الخروج؟
-- متى موعد الخروج؟
+- متى موعد المغادرة؟
+- في أي ساعة المغادرة؟
 
 es:
 - ¿Cuándo es la salida?
-- ¿A qué hora sale?
+- ¿A qué hora es la salida?
 
 ja:
-- チェックアウトはいつ?
-- チェックアウトは何時?
+- チェックアウトはいつですか？
+- チェックアウトは何時ですか？
 
 zh:
-- 什么时候会结账?
-- 报名时间是什么时候?
+- 退房是什么时候？
+- 退房是几点？
 
 ## vocabulary
 
 en:
-- what · wot
-- time · time
-- is · iz
-- checkout · checkout
+- checkout · CHEK-owt
 
 fr:
-- quoi · kuh / kwa
-- temps · temps
-- est · est
-- vérifier · vayrifier
+- départ · day-PAR
 
 de:
-- was · vas
-- zeit · zeyet
-- ist · ist
-- auslesen · auslesen
+- Abreise · AP-ry-ze
 
 am:
-- ምን · min
-- ጊዜ · gize
-- ነው · new
-- ተመዝግቦ መውጣት · temezgbo mewthat
+- መውጫ · mew-cha
 
 ar:
-- ماذا · ma-dha
-- وقت · wqt
-- هو · hu-wa
-- الدفع · aldfa
+- المغادرة · al-mu-ghaa-da-ra
 
 es:
-- qué · keh
-- hora · hora
-- es · es
-- verificar · verificar
+- salida · sa-LEE-da
 
 ja:
-- 何 · nani
-- タイム · taimu
-- です · desu
-- 精算 · seisan
+- チェックアウト · chek-ku-a-u-to
 
 zh:
-- 什么 · shén me
-- 時光 · shí guāng
-- 是 · shì
-- 結賬 · jié zhàng
+- 退房 · tuì fáng
 
 ## grammar
 
-- snippet-a2-time-prepositions · Time prepositions: in, on, at
-- snippet-a1-time-days · Days of the week and simple time
+- snippet-a1-wh-questions · Question words
+- snippet-a1-time · Telling time

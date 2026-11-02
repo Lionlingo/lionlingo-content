@@ -3,88 +3,72 @@ order: 4
 ---
 
 en:
-- The sun looks yellow
-- The sun is yellow
+- The sun looks yellow.
+- The sun appears yellow.
 
 fr:
-- Le soleil est jaune.
-- Le soleil est jaune
+- Le soleil a l'air jaune.
+- Le soleil semble jaune.
 
 de:
-- Die Sonne sieht gelb aus
-- Die Sonne ist gelb
+- Die Sonne sieht gelb aus.
+- Die Sonne wirkt gelb.
 
 am:
-- ፀሐይ ቢጫ ትመስላለች
-- ፀሐይ ቢጫ ናት
+- ፀሐይ ቢጫ ትመስላለች።
+- ፀሐይ ቢጫ ሆና ትታያለች።
 
 ar:
-- الشمس تبدو صفراء
-- الشمس صفراء
+- الشمس تبدو صفراء.
+- الشمس تظهر صفراء.
 
 es:
-- El sol parece amarillo
-- El sol es amarillo
+- El sol parece amarillo.
+- El sol se ve amarillo.
 
 ja:
-- 太陽は黄色に見える
-- 太陽は黄色だ
+- 太陽は黄色に見えます。
+- 太陽は黄色く見えます。
 
 zh:
-- 太阳看起来很黄色.
-- 太阳是黄色的
+- 太阳看起来是黄色的。
+- 太阳看上去是黄色的。
 
 ## vocabulary
 
 en:
-- the · thuh
 - sun · sun
-- is · iz
-- yellow · yel-oh
+- yellow · YEL-oh
 
 fr:
-- le · luh
-- dim · dim
-- est · est
-- jaunes · jaunes
+- soleil · so-LAY
+- jaune · zhohn
 
 de:
-- der · dehr
-- sonne · sonne
-- ist · ist
-- gelbes · gelbes
+- Sonne · ZON-ne
+- gelb · gelp
 
 am:
-- የ · ye
-- ፀሐይ · tzehhey
-- ነው · new
-- ቢጫ · bichaa
+- ፀሐይ · tsehay
+- ቢጫ · bicha
 
 ar:
-- ال · al
-- صن · sn
-- هو · hu-wa
-- الاصفر · alasfr
+- الشمس · ash-shams
+- صفراء · safra'
 
 es:
-- el · el
-- sun · sun
-- es · es
-- amarillos · amariyos
+- sol · sol
+- amarillo · a-ma-REE-yo
 
 ja:
-- その · sono
-- 太陽 · taiyou
-- です · desu
-- イエロー · ieroo
+- 太陽 · taiyō
+- 黄色 · kiiro
 
 zh:
-- 这 · zhè
-- 太陽 · tài yáng
-- 是 · shì
-- 黃色 · huáng sè
+- 太阳 · tài yáng
+- 黄色 · huáng sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-c2-subjunctive-mood · Mandative and formulaic subjunctive
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

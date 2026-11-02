@@ -19,80 +19,64 @@ am:
 - ይህች ትንሽ መንደር ናት።
 
 ar:
-- هذه القرية صغيرة
-- إنها قرية صغيرة
+- هذه القرية صغيرة.
+- إنها قرية صغيرة.
 
 es:
 - Este pueblo es pequeño.
 - Es un pueblo pequeño.
 
 ja:
-- この村は小さい.
-- それは小さな村です.
+- この村は小さいです。
+- それは小さな村です。
 
 zh:
-- 这个村庄很小.
-- 这是一个小村庄.
+- 这个村庄很小。
+- 这是一个小村庄。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
-- a · uh
+- this · this
 - small · smawl
-- village · village
+- village · VIL-ij
 
 fr:
-- il · il
-- est · est
-- un · un
-- petit · pe: TEE
-- village · village
+- ce · suh
+- petit · puh-TEE
+- village · vee-LAHZH
 
 de:
-- es · es
-- ist · ist
-- ein · eyen
-- klein · kline
-- dorf · dorf
+- dieses · DEE-ses
+- klein · klīn
+- Dorf · dorf
 
 am:
-- እሱ · i-su
-- ነው · new
-- አንድ · andh
-- ትንሽ · tinish
-- መንደር · mendher
+- ይህች · yih-ch
+- ትንሽ · tənəsh
+- መንደር · mändär
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- Ø · 
-- صغير · sa-gheer
-- قرية · qrya
+- هذه · ha-dhi-hi
+- صغيرة · sa-ghee-ra
+- قرية · qarya
 
 es:
-- ello · eyo
-- es · es
-- un · un
-- pequeño · pe: KE: nyo
-- pueblo · pueblo
+- este · ES-te
+- pequeño · peh-KEH-nyoh
+- pueblo · PWEH-bloh
 
 ja:
-- それ · sore
-- です · desu
-- 一つの · hitotsu no
+- この · ko-no
 - 小さい · chiisai
-- 村落 · sonraku
+- 村 · mura
 
 zh:
-- 它 · tā
-- 是 · shì
-- 一个 · yí gè
+- 这个 · zhè ge
 - 小 · xiǎo
-- 村 · cūn
+- 村庄 · cūn zhuāng
 
 ## grammar
 
-- snippet-a1-there-is-existence · There is / There are
-- snippet-a2-comparatives · Comparatives
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

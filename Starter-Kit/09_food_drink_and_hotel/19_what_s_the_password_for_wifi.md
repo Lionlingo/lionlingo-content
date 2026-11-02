@@ -3,96 +3,72 @@ order: 19
 ---
 
 en:
-- What's the password for WiFi?
-- What is the WiFi password?
+- What's the password for the Wi-Fi?
+- What is the Wi-Fi password?
 
 fr:
-- Quel est le mot de passe pour le WiFi ?
-- C'est quoi le mot de passe WiFi ?
+- Quel est le mot de passe du Wi-Fi ?
+- Quel est le mot de passe pour le Wi-Fi ?
 
 de:
 - Was ist das Passwort für das WLAN?
-- Was ist das WLAN-Passwort?
+- Wie lautet das WLAN-Passwort?
 
 am:
-- ለWiFi የይለፍ ቃሉ ምንድን ነው?
-- የ WiFi የይለፍ ቃል ምንድነው?
+- የዋይፋይ የይለፍ ቃል ምንድን ነው?
+- ለዋይፋይ የይለፍ ቃሉ ምንድን ነው?
 
 ar:
-- ما هي كلمة السر لـ (واي فاي) ؟
-- ما هي كلمة مرور الواي فاي؟
+- ما هي كلمة السر للواي فاي؟
+- ما كلمة السر الخاصة بالواي فاي؟
 
 es:
-- ¿Cuál es la contraseña para WiFi?
-- ¿Cuál es la contraseña de WiFi?
+- ¿Cuál es la contraseña del wifi?
+- ¿Cuál es la contraseña para el wifi?
 
 ja:
-- Wi-Fiのパスワードは?
-- Wi-Fi パスワードは?
+- Wi-Fiのパスワードは何ですか？
+- Wi-Fiのパスワードを教えてください。
 
 zh:
-- 无线网络的密码是什么?
-- 什么是WiFi密码?
+- 无线网的密码是什么？
+- 请问无线网的密码。
 
 ## vocabulary
 
 en:
-- what · wot
-- is · iz
-- the · thuh
-- wifi · wifi
-- password · password
+- password · PAS-werd
+- Wi-Fi · WY-fy
 
 fr:
-- quoi · kuh / kwa
-- est · est
-- le · luh
-- wifi · wifi
-- mot de passe · mot de passe
+- mot de passe · mo duh PAS
+- Wi-Fi · wee-fee
 
 de:
-- was · vas
-- ist · ist
-- der · dehr
-- wifi · wifi
-- kennwort · kennwort
+- Passwort · PAS-vort
+- WLAN · VAY-lahn
 
 am:
-- ምን · min
-- ነው · new
-- የ · ye
-- ዋይፋይ · wayfay
-- የይለፍ ቃል · yeylef qal
+- የይለፍ ቃል · ye-yi-lef qal
+- ዋይፋይ · wai-fai
 
 ar:
-- ماذا · ma-dha
-- هو · hu-wa
-- ال · al
-- واي فاي · way fay
-- كلمة المرور · klma almrwr
+- كلمة السر · ka-li-ma as-sir
+- واي فاي · wai fai
 
 es:
-- qué · keh
-- es · es
-- el · el
-- wifi · wifi
-- contraseñas · contrasenyas
+- contraseña · kon-tra-SE-nya
+- wifi · WEE-fee
 
 ja:
-- 何 · nani
-- です · desu
-- その · sono
-- Wi-Fi · wi-fi
-- パスワード · pasuwaado
+- パスワード · pa-su-waa-do
+- Wi-Fi · wai-fai
 
 zh:
-- 什么 · shén me
-- 是 · shì
-- 这 · zhè
-- 无线上网 · wú xiàn shàng wǎng
-- 密碼 · mì mǎ
+- 密码 · mì mǎ
+- 无线网 · wú xiàn wǎng
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-prepositions · Prepositions

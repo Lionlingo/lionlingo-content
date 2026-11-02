@@ -4,79 +4,63 @@ order: 19
 
 en:
 - I'm feeling unwell.
-- I feel sick.
+- I feel unwell.
 
 fr:
-- Je ne me sens pas bien.
-- Je me sens malade.
+- Je me sens mal.
+- Je me porte mal.
 
 de:
-- Mir geht es nicht gut.
-- Mir ist schlecht.
+- Mir ist unwohl.
+- Ich fühle mich unwohl.
 
 am:
-- ጥሩ ስሜት አይሰማኝም።
-- በሽታ ይሰማኛል።
+- አልተመቻችኩም።
+- ሰውነቴ አልተመቻችም።
 
 ar:
-- أنا لا أشعر بتحسن
-- أشعر بالغثيان
+- أشعر أنني متوعك.
+- أنا متوعك.
 
 es:
-- No me siento bien.
-- Me siento enferma.
+- Me siento mal.
+- Estoy mal.
 
 ja:
-- 私は体調が悪い.
-- 気分が悪い
+- 気分が悪いです。
+- 体調が悪いです。
 
 zh:
-- 我感觉不好.
-- 我感觉不舒服.
+- 我感觉不舒服。
+- 我不舒服。
 
 ## vocabulary
 
 en:
-- i · eye
-- feel · feel
-- sick · sick
+- unwell · un-WEL
 
 fr:
-- je · zhuh
-- sentir · sentir
-- malades · malades
+- mal · mal
 
 de:
-- ich · ikh
-- feel · feel
-- kranke · kranke
+- unwohl · UN-vol
 
 am:
-- እኔ · i-ne
-- ስሜት · smet
-- የታመመ · yetameme
+- አልተመቻች · al-te-me-chach
 
 ar:
-- أنا · a-na
-- تحس · ths
-- مريض · mryd
+- متوعك · mu-ta-wa-ik
 
 es:
-- yo · yo
-- sentir · sentir
-- enfermo · enfermo
+- mal · mal
 
 ja:
-- 私 · watashi
-- 感じる · kanji ru
-- 病気 · byouki
+- 悪い · wa-ru-i
 
 zh:
-- 我 · wǒ
-- 感受 · gǎn shòu
-- 病 · bìng
+- 不舒服 · bù shū fu
 
 ## grammar
 
-- snippet-a1-yes-no-questions · Yes/no questions
-- snippet-b2-participles-as-adjectives · Participles as adjectives
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-present · Present tense

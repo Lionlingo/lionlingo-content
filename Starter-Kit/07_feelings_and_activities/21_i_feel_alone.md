@@ -7,76 +7,60 @@ en:
 - I feel lonely.
 
 fr:
-- Je me sens seule.
-- Je me sens seule.
+- Je me sens seul.
+- Je me sens esseulé.
 
 de:
-- Ich fühle mich einsam.
+- Ich fühle mich allein.
 - Ich fühle mich einsam.
 
 am:
 - ብቸኝነት ይሰማኛል።
-- ብቸኝነት ይሰማኛል።
+- ብቸኛ እንደሆንኩ ይሰማኛል።
 
 ar:
-- أشعر بالوحدة
-- أشعر بالوحدة
+- أشعر بالوحدة.
+- أحس بالوحدة.
 
 es:
 - Me siento solo.
-- Me siento solo.
+- Me siento solitario.
 
 ja:
-- 私は孤独を感じています.
-- 私は孤独を感じています.
+- 私は孤独を感じています。
+- 孤独な気持ちです。
 
 zh:
-- 我感到孤独.
-- 我感到孤独.
+- 我感到孤独。
+- 我有种孤独的感觉。
 
 ## vocabulary
 
 en:
-- i · eye
-- feel · feel
-- lonely · lonely
+- alone · uh-LOHN
 
 fr:
-- je · zhuh
-- sentir · sentir
-- solitude · solitude
+- seul · suhl
 
 de:
-- ich · ikh
-- feel · feel
-- einsamer · eyensamer
+- allein · a-LINE
 
 am:
-- እኔ · i-ne
-- ስሜት · smet
-- ብቸኝነት · bchenynet
+- ብቸኝነት · bi-che-nyet
 
 ar:
-- أنا · a-na
-- تحس · ths
-- وحيدة · whyda
+- الوحدة · al-wah-da
 
 es:
-- yo · yo
-- sentir · sentir
-- solitaria · solitaria
+- solo · SO-lo
 
 ja:
-- 私 · watashi
-- 感じる · kanji ru
-- 孤独 · kodoku
+- 孤独 · ko-doku
 
 zh:
-- 我 · wǒ
-- 感受 · gǎn shòu
-- 孤單 · gū dān
+- 孤独 · gū dú
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
-- snippet-b2-participles-as-adjectives · Participles as adjectives
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

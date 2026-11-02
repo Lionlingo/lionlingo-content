@@ -7,7 +7,7 @@ en:
 - I am happy and I love this country.
 
 fr:
-- Je suis heureuse et j'aime ce pays.
+- Je me sens heureux et j'aime ce pays.
 - Je suis heureux et j'aime ce pays.
 
 de:
@@ -15,100 +15,68 @@ de:
 - Ich bin glücklich und liebe dieses Land.
 
 am:
-- ደስተኛ እንደሆንኩ ይሰማኛል፤ እንዲሁም ይህን አገር እወዳለሁ።
-- ደስተኛ ነኝ፤ እንዲሁም ይህን አገር እወዳለሁ።
+- ደስተኛ ይሰማኛል፣ ይህን አገርም እወዳለሁ።
+- ደስተኛ ነኝ፣ ይህን አገርም እወዳለሁ።
 
 ar:
-- أشعر بالسعادة وأحب هذا البلد
-- أنا سعيدة وأحب هذا البلد
+- أشعر أنني سعيد وأحب هذا البلد.
+- أنا سعيد وأحب هذا البلد.
 
 es:
 - Me siento feliz y amo este país.
-- Soy feliz y amo este país.
+- Estoy feliz y amo este país.
 
 ja:
-- 私は幸せで この国を愛しています
-- 私は幸せで この国を愛しています
+- 私は幸せに感じて、この国を愛しています。
+- 私は幸せで、この国を愛しています。
 
 zh:
-- 我感到幸福,我爱这个国家.
-- 我很开心,我爱这个国家.
+- 我感到快乐，而且我爱这个国家。
+- 我很快乐，而且我爱这个国家。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- happy · hap-ee
-- and · and
-- love · love
-- this · this
-- country · country
+- happy · HAP-ee
+- love · luv
+- country · KUN-tree
 
 fr:
-- je · zhuh
-- suis · suis
-- heureuses · heureuses
-- et · et
-- aime · aime
-- ce · suh: SEE / suh
-- pays · pays
+- heureux · uh-RUH
+- aime · em
+- pays · pay-ee
 
 de:
-- ich · ikh
-- bin · bin
-- gerne · gerne
-- und · und
-- love · love
-- dies · dees
-- land · land
+- glücklich · GLUEK-likh
+- liebe · LEE-be
+- Land · lant
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ደስተኛ · dhestenya
-- እና · ena
-- ፍቅር · fqr
-- ይህ · yih
-- ሀገር · heger
+- ደስተኛ · des-ta-nya
+- እወዳለሁ · i-wo-da-le-hu
+- አገር · a-ger
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- يسعد · ysad
-- و · w
-- العشق · alashq
-- هذا · ha-dha
-- بلد · bld
+- سعيد · sa-eed
+- أحب · u-hib
+- البلد · al-ba-lad
 
 es:
-- yo · yo
-- soy · soy
-- feliz · feliz
-- y · y
-- amor · amor
-- este · ES: te
-- pais · pais
+- feliz · fe-LEES
+- amo · A-mo
+- país · pa-EES
 
 ja:
-- 私 · watashi
-- です · desu
-- ハッピー · happii
-- と · to
-- ラヴ · ravu
-- これ · kore
-- 国名 · kokumei
+- 幸せ · shi-a-wa-se
+- 愛しています · ai-shi-te i-ma-su
+- 国 · ku-ni
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 開心 · kāi xīn
-- 和 · hé
-- 戀愛 · liàn ài
-- 这 · zhè
-- 國家 · guó jiā
+- 快乐 · kuài lè
+- 爱 · ài
+- 国家 · guó jiā
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-b1-present-perfect · Present perfect
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-conjunctions · Conjunctions

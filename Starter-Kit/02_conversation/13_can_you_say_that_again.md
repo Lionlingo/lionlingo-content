@@ -4,71 +4,71 @@ order: 13
 
 en:
 - Could you repeat that?
-- Could you please repeat that?
+- Could you say that again?
 
 fr:
 - Pourrais-tu répéter ça ?
-- Pourrais-tu répéter ça, s'il te plaît ?
+- Pourrais-tu redire ça ?
 
 de:
 - Könntest du das wiederholen?
-- Könntest du das bitte wiederholen?
+- Könntest du das noch einmal sagen?
 
 am:
 - ይህን መድገም ትችላለህ?
-- እባክህ ይህን መድገም ትችላለህ?
+- ይህን እንደገና መናገር ትችላለህ?
 
 ar:
 - هل يمكنك أن تكرر ذلك؟
-- هل يمكنك أن تكرر ذلك من فضلك؟
+- هل يمكنك أن تقول ذلك مرة أخرى؟
 
 es:
 - ¿Podrías repetir eso?
-- ¿Podrías repetir eso, por favor?
+- ¿Podrías decir eso otra vez?
 
 ja:
 - それを繰り返してくれませんか?
-- それを繰り返していただけませんか?
+- それをもう一度言ってくれませんか?
 
 zh:
-- 你能重复一下吗?
-- 你能重复一遍吗?
+- 你能把那个重复一下吗？
+- 你能把那个再说一次吗？
 
 ## vocabulary
 
 en:
 - could you · kud yoo
-- repeat · ri-PEET
+- that · that
 
 fr:
 - pourrais-tu · poo-reh-TU
-- répéter · ray-pay-TAY
+- ça · sa
 
 de:
 - könntest du · KUHN-test doo
-- wiederholen · vee-der-HOH-len
+- das · das
 
 am:
 - ትችላለህ · tichilaleh
-- መድገም · medgem
+- ይህን · yihin
 
 ar:
 - هل يمكنك · hal yumkinuk
-- تكرر · tukarrir
+- ذلك · dhalika
 
 es:
 - podrías · po-DREE-as
-- repetir · re-pe-TIR
+- eso · e-so
 
 ja:
 - ませんか · masen ka
-- 繰り返して · kurikaeshite
+- それ · sore
 
 zh:
 - 你能 · nǐ néng
-- 重复 · chóngfù
+- 那个 · nà ge
 
 ## grammar
 
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
-- snippet-c1-hedging · Hedging
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-imperative · The imperative

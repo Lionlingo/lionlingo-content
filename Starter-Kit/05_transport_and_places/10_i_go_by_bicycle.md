@@ -1,90 +1,74 @@
 ---
-order: 10
+order: 11
 ---
 
 en:
-- I go by bicycle.
-- I ride a bicycle.
+- Do you have a map?
+- Have you got a map?
 
 fr:
-- Je vais à vélo.
-- Je fais du vélo.
+- Vous avez une carte ?
+- Avez-vous une carte ?
 
 de:
-- Ich fahre mit dem Fahrrad.
-- Ich fahre Fahrrad.
+- Haben Sie eine Karte?
+- Haben Sie denn eine Karte?
 
 am:
-- በብስክሌት እሄዳለሁ።
-- ብስክሌት እጋልባለሁ።
+- ካርታ አለህ?
+- ካርታ ይኖርሃል?
 
 ar:
-- أنا أذهب بالدراجة.
-- أنا أركب دراجة.
+- هل لديك خريطة؟
+- هل عندك خريطة؟
 
 es:
-- Voy en bicicleta.
-- Yo uso una bicicleta.
+- ¿Tienes un mapa?
+- ¿Tú tienes un mapa?
 
 ja:
-- 私は自転車で行く.
-- 私は自転車に乗っている.
+- 地図を持っていますか？
+- 地図はお持ちですか？
 
 zh:
-- 我骑自行车去.
-- 我骑自行车.
+- 你有地图吗？
+- 你有没有地图？
 
 ## vocabulary
 
 en:
-- i · eye
-- ride · ride
-- a · uh
-- bicycle · bicycle
+- have · hav
+- map · map
 
 fr:
-- je · zhuh
-- chevaucher · shevausher
-- un · un
-- bicyclettes · bicyclettes
+- avez · a: VAY
+- carte · kart
 
 de:
-- ich · ikh
-- ride · ride
-- ein · eyen
-- fahrräder · fahrrehder
+- haben · HAH: ben
+- Karte · KAR: tuh
 
 am:
-- እኔ · i-ne
-- ማሽከርከር · mashkerker
-- አንድ · andh
-- ብስክሌት · bsklet
+- አለህ · a-leh
+- ካርታ · kar-ta
 
 ar:
-- أنا · a-na
-- ركوب · rkwb
-- Ø · 
-- الدراجة · aldraja
+- لديك · la-dayk
+- خريطة · kha-ree-ta
 
 es:
-- yo · yo
-- cabalgata · cabalgata
-- un · un
-- bici · bici
+- tienes · TYE: nes
+- mapa · MA: pa
 
 ja:
-- 私 · watashi
-- 乗る · noru
-- 一つの · hitotsu no
-- 自転車 · jitensha
+- 持っています · mot-te i-ma-su
+- 地図 · chi-zu
 
 zh:
-- 我 · wǒ
-- 乘車 · chéng chē
-- 一个 · yí gè
-- 單車 · dān chē
+- 有 · yǒu
+- 地图 · dì tú
 
 ## grammar
 
-- snippet-a2-adverbs-frequency · Adverbs of frequency
-- snippet-a1-have-possession · Have for possession
+- snippet-a1-haben · To have
+- snippet-a1-interrogation · Questions

@@ -3,120 +3,88 @@ order: 15
 ---
 
 en:
-- Say the tens from sixty to one hundred
-- Count by tens from sixty to one hundred
+- Count by tens from sixty to one hundred.
+- Count the tens from sixty to one hundred.
 
 fr:
-- Dis les dizaines de soixante à cent
-- Comptez par dizaines de soixante à cent
+- Compte par dizaines de soixante à cent.
+- Compte les dizaines de soixante à cent.
 
 de:
-- Sag die Zehner von 60 bis 100.
-- Zählen Sie nach Zehnern von 60 bis 100.
+- Zähl in Zehnern von sechzig bis hundert.
+- Zähl die Zehner von sechzig bis hundert.
 
 am:
-- ከ60 እስከ 100 ያሉትን አሥሮች ይናገሩ
-- ከ60 እስከ 100 ድረስ በአስር ይቁጠሩ
+- በአሥር ከስልሳ እስከ መቶ ቁጠር።
+- አሥሮቹን ከስልሳ እስከ መቶ ቁጠር።
 
 ar:
-- قل العشرات من 60 إلى 100
-- عد بالعشرات من ستين إلى مئة
+- عد بالعشرات من ستين إلى مئة.
+- عد العشرات من ستين إلى مئة.
 
 es:
-- Di las decenas de 60 a 100
-- Cuenta por decenas de 60 a 100
+- Cuenta por decenas de sesenta a cien.
+- Cuenta las decenas de sesenta a cien.
 
 ja:
-- 60から100までの10を言って
-- 60 から 100 まで 数える
+- 六十から百まで十ずつ数えてください。
+- 六十から百まで十を数えてください。
 
 zh:
-- 从60到100的数量
-- 从60到100数以10
+- 从六十数到一百，每次数十。
+- 把十位数从六十数到一百。
 
 ## vocabulary
 
 en:
-- count · count
-- by · by
-- tens · tens
-- from · from
-- sixty · sixty
-- to · too
-- one · wun
-- hundred · hundred
+- count · kount
+- tens · tenz
+- sixty · SIK-stee
+- hundred · HUN-dred
 
 fr:
-- compter · compter
-- par · par
-- rte · rte
-- de · duh
-- sixty · sixty
-- à · ah
-- un · uhn
-- hundred · hundred
+- compte · kont
+- dizaines · dee-ZEN
+- soixante · swa-SONT
+- cent · son
 
 de:
-- zählung · zehhlung
-- von · von
-- zehntausende · zehntausende
-- von · ows
-- sixty · sixty
-- zu · zu
-- eins · ines
-- hundred · hundred
+- zähl · tsayl
+- Zehner · TSAY-ner
+- sechzig · ZEKH-tsikh
+- hundert · HUN-dert
 
 am:
-- መቁጠር · mequther
-- በ · be
-- በአስር · beasr
-- ከ · ke
-- ስልሳ · slsa
-- ወደ · we-de
-- አንድ · and
+- ቁጠር · kuter
+- አሥር · asir
+- ስልሳ · silsa
 - መቶ · meto
 
 ar:
-- كونت · kwnt
-- بواسطة · bwasta
-- عشرات · ashrat
-- من · min
-- ستين · styn
-- إلى · i-la
-- واحد · wa-hid
-- مائة · maya
+- عد · udd
+- العشرات · al-ashrat
+- ستين · sittin
+- مئة · mi'a
 
 es:
-- conde · conde
-- por · por
-- rte · rte
-- de · de
-- sixty · sixty
-- a · a
-- uno · OO: no
-- cien · cien
+- cuenta · KWEN-ta
+- decenas · de-SE-nas
+- sesenta · se-SEN-ta
+- cien · syen
 
 ja:
-- カウント · kaunto
-- によって · niyotte
-- 十 · juu
-- から · kara
-- 六十 · rokujuu
-- に · ni
-- 一 · ichi
+- 数え · kazoe
+- 十 · jū
+- 六十 · rokujū
 - 百 · hyaku
 
 zh:
-- 數 · shù
-- 由 · yóu
-- 数十 · shù shí
-- 从 · lái zì
+- 数 · shǔ
+- 十 · shí
 - 六十 · liù shí
-- 到 · dào
-- 一 · yī
-- 百 · bǎi
+- 一百 · yì bǎi
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

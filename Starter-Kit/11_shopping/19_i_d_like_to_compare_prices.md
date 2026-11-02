@@ -4,95 +4,71 @@ order: 19
 
 en:
 - I'd like to compare prices.
-- I want to compare prices.
+- I would like to compare prices.
 
 fr:
 - Je voudrais comparer les prix.
-- Je veux comparer les prix.
+- J'aimerais comparer les prix.
 
 de:
 - Ich möchte die Preise vergleichen.
-- Ich möchte die Preise vergleichen.
+- Ich würde die Preise gern vergleichen.
 
 am:
-- ዋጋዎችን ማወዳደር እፈልጋለሁ።
-- ዋጋዎችን ማወዳደር እፈልጋለሁ።
+- ዋጋዎችን ማወዳደር እሻለሁ።
+- እሻለሁ ዋጋዎችን ማወዳደር።
 
 ar:
-- أودّ مقارنة الأسعار
-- أريد مقارنة الأسعار.
+- أود مقارنة الأسعار.
+- أرغب في مقارنة الأسعار.
 
 es:
 - Me gustaría comparar precios.
-- Quiero comparar precios.
+- Quisiera comparar precios.
 
 ja:
-- 価格を比較したい
-- 価格を比較したい.
+- 価格を比較したいです。
+- 比較したいです、価格を。
 
 zh:
-- 想比较价格.
-- 我想比较价格.
+- 我想比较一下价格。
+- 我想把价格比较一下。
 
 ## vocabulary
 
 en:
-- i · eye
-- want · wont
-- to · too
-- compare · compare
-- prices · prices
+- compare · kum-PAIR
+- prices · PRY-siz
 
 fr:
-- je · zhuh
-- vouloir · voo: LWAR
-- à · ah
-- comparez · comparez
-- tarifs · tarifs
+- comparer · kom-pa-RAY
+- prix · pree
 
 de:
-- ich · ikh
-- wollen / möchten · VO: len
-- zu · zu
-- vergleich · vergleyekh
-- preise · preyese
+- vergleich · fer-GLYK
+- Preise · PRY-ze
 
 am:
-- እኔ · i-ne
-- መፈለግ · mefelag
-- ወደ · we-de
-- አወዳድር · awedhadhr
-- ዋጋዎች · wagawoch
+- ማወዳደር · ma-we-da-der
+- ዋጋ · wa-ga
 
 ar:
-- أنا · a-na
-- يريد · yureed
-- إلى · i-la
-- مقارنة · mqarna
-- اسعار · asaar
+- مقارنة · mu-qaa-ra-na
+- الأسعار · al-as-aar
 
 es:
-- yo · yo
-- querer · ke: RER
-- a · a
-- comparar · comparar
-- precios · precios
+- comparar · kom-pa-RAR
+- precios · PRE-thyos
 
 ja:
-- 私 · watashi
-- したい／ほしい · shitai / hoshii
-- に · ni
-- 比較 · hikaku
-- 価格 · kakaku
+- 比較 · hi-ka-ku
+- 価格 · ka-ka-ku
 
 zh:
-- 我 · wǒ
-- 想 · xiǎng
-- 到 · dào
-- 比較 · bǐ jiào
-- 物價 · wù jià
+- 比较 · bǐ jiào
+- 价格 · jià gé
 
 ## grammar
 
-- snippet-a2-comparatives · Comparatives
-- snippet-a1-numbers-basic · Basic numbers 1–20
+- snippet-a1-comparison · Comparison
+- snippet-a2-zu-infinitive · Infinitive with to

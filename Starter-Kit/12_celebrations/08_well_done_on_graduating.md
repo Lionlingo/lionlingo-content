@@ -7,76 +7,60 @@ en:
 - Congratulations on graduating!
 
 fr:
-- Bravo pour le diplôme !
-- Félicitations pour le diplôme !
+- Bravo pour ton diplôme !
+- Félicitations pour ton diplôme !
 
 de:
-- Gut gemacht mit dem Abschluss!
+- Gut gemacht zum Abschluss!
 - Herzlichen Glückwunsch zum Abschluss!
 
 am:
-- የተመረቅሽበት ቀን ጥሩ ነበር!
-- በተመረቅክበት ቀን እንኳን ደስ አለህ!
+- በምረቃህ እንኳን ደስ አለህ!
+- ስለምረቃህ እንኳን ደስ አለህ!
 
 ar:
-- أحسنت في التخرج!
+- أحسنت على التخرج!
 - تهانينا على التخرج!
 
 es:
-- ¡Bien hecho con la graduación!
-- ¡Felicitaciones por la graduación!
+- ¡Felicitaciones por tu graduación!
+- ¡Bien hecho por tu graduación!
 
 ja:
-- 卒業してよかった!
-- 卒業おめでとう!
+- 卒業おめでとう。
+- 卒業、よくやった。
 
 zh:
-- 毕业的好工作!
-- 恭喜你的毕业!
+- 毕业了，恭喜你！
+- 恭喜你毕业！
 
 ## vocabulary
 
 en:
-- congratulations · congratulations
-- on · on
-- graduating · graduating
+- graduating · GRAJ-oo-ay-ting
 
 fr:
-- félicitations · faylicitasyons
-- sur · sur
-- diplômé · diplohmay
+- diplôme · dee-PLOM
 
 de:
-- gratuliere · gratuleere
-- auf · auf
-- Abschluss · abshluss
+- Abschluss · AP-shloos
 
 am:
-- እንኳን ደስ አለህ · enkwan dhes aleh
-- ላይ · lay
-- መመረቅ · memereq
+- ምረቃ · mir-qa
 
 ar:
-- مبروك · mbrwk
-- على · a-la
-- التخرج · altkhrj
+- التخرج · at-ta-khar-ruj
 
 es:
-- felicitaciones · felicitaciones
-- en · en
-- graduarse · graduarse
+- graduación · gra-dwa-THYON
 
 ja:
-- おめでとう · omedetou
-- の上に · no ueni
-- 卒業 · sotsugyou
+- 卒業 · so-tsu-gyo
 
 zh:
-- 恭喜 · gōng xǐ
-- 在 · zài
-- 即将毕业 · jí jiāng bì yè
+- 毕业 · bì yè
 
 ## grammar
 
-- snippet-b1-gerunds-infinitives · Gerunds and infinitives after verbs
-- snippet-a2-near-future · going to
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a2-participles · Participles

@@ -7,84 +7,60 @@ en:
 - A storm is coming.
 
 fr:
-- Une tempête arrive.
+- Une tempête est en route.
 - Une tempête arrive.
 
 de:
 - Ein Sturm ist unterwegs.
-- Es kommt ein Sturm.
+- Ein Sturm kommt.
 
 am:
-- አውሎ ነፋስ እየመጣ ነው።
+- አውሎ ነፋስ በመንገድ ላይ ነው።
 - አውሎ ነፋስ እየመጣ ነው።
 
 ar:
 - العاصفة في الطريق.
-- العاصفة قادمة
+- العاصفة قادمة.
 
 es:
 - Una tormenta está en camino.
 - Se acerca una tormenta.
 
 ja:
-- 嵐が来る
-- 嵐が来る
+- 嵐が近づいています。
+- 嵐が来ます。
 
 zh:
-- 一场风暴即将到来.
-- 一场风暴即将到来.
+- 暴风雨要来了。
+- 暴风雨正在靠近。
 
 ## vocabulary
 
 en:
-- a · uh
 - storm · storm
-- is · iz
-- coming · coming
 
 fr:
-- un · un
-- orage · orage
-- est · est
-- venir · venir
+- tempête · tahn-PET
 
 de:
-- ein · eyen
-- unwetter · unwetter
-- ist · ist
-- komme · komme
+- Sturm · shtoorm
 
 am:
-- አንድ · andh
-- ማዕበል · mabel
-- ነው · new
-- መምጣት · memthat
+- አውሎ ነፋስ · aw-lo ne-fas
 
 ar:
-- Ø · 
-- عاصفة · aasfa
-- هو · hu-wa
-- ات · at
+- العاصفة · al-aa-si-fa
 
 es:
-- un · un
-- tormenta · tormenta
-- es · es
-- viene · viene
+- tormenta · tor-MEN-ta
 
 ja:
-- 一つの · hitotsu no
-- ストーム · sutoomu
-- です · desu
-- 来る · kuru
+- 嵐 · a-ra-shi
 
 zh:
-- 一个 · yí gè
-- 暴風 · bào fēng
-- 是 · shì
-- 未来 · wèi lái
+- 暴风雨 · bào fēng yǔ
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-b2-future-perfect · Future perfect
+- snippet-a1-present · Present tense
+- snippet-a2-future · The future

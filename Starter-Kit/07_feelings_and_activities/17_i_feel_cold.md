@@ -7,76 +7,60 @@ en:
 - I am cold.
 
 fr:
-- Je me sens froid.
-- Je suis froid.
+- J'ai froid.
+- Je sens le froid.
 
 de:
 - Mir ist kalt.
-- Mir ist kalt.
+- Ich spüre die Kälte.
 
 am:
-- ቀዝቃዛ ስሜት ይሰማኛል።
-- ቀዝቃዛ ነኝ።
+- ብርድ ይሰማኛል።
+- ብርድ ብሎኛል።
 
 ar:
-- أشعر بالبرد
-- أنا أشعر بالبرد
+- أشعر بالبرد.
+- أنا بارد.
 
 es:
 - Tengo frío.
-- Tengo frío.
+- Siento frío.
 
 ja:
-- 寒い
-- 私は寒い.
+- 私は寒いです。
+- 私は寒さを感じています。
 
 zh:
-- 我感觉很冷.
-- 我感觉很冷.
+- 我感到冷。
+- 我很冷。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
 - cold · kohld
 
 fr:
-- je · zhuh
-- suis · suis
-- froid · frwa
+- froid · frwah
 
 de:
-- ich · ikh
-- bin · bin
 - kalt · kalt
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ቀዝቃዛ · qezqaza
+- ብርድ · bird
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- بارد · barid
+- البرد · al-bard
 
 es:
-- yo · yo
-- soy · soy
-- frío · FREE: o
+- frío · FREE-o
 
 ja:
-- 私 · watashi
-- です · desu
-- 寒い · samui
+- 寒い · sa-mui
 
 zh:
-- 我 · wǒ
-- 是 · shì
 - 冷 · lěng
 
 ## grammar
 
-- snippet-b1-tag-questions · Tag questions
-- snippet-a1-word-order-statements · Basic word order in statements
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

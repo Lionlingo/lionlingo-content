@@ -3,88 +3,72 @@ order: 3
 ---
 
 en:
-- The grass looks green
-- The grass is green
+- The grass is green.
+- The color of the grass is green.
 
 fr:
 - L'herbe est verte.
-- L'herbe est verte
+- La couleur de l'herbe est verte.
 
 de:
-- Das Gras sieht grün aus.
 - Das Gras ist grün.
+- Die Farbe vom Gras ist grün.
 
 am:
-- ሣሩ አረንጓዴ ይመስላል
-- ሣሩ አረንጓዴ ነው
+- ሣሩ አረንጓዴ ነው።
+- የሣሩ ቀለም አረንጓዴ ነው።
 
 ar:
-- العشب يبدو أخضر
-- العشب أخضر
+- العشب أخضر.
+- لون العشب أخضر.
 
 es:
-- El césped parece verde
-- El césped es verde
+- El césped es verde.
+- El color del césped es verde.
 
 ja:
-- 草が緑に見える
-- 草は緑だ
+- 草は緑です。
+- 草の色は緑です。
 
 zh:
-- 草原看起来很绿色.
-- 草是绿色的
+- 草是绿色的。
+- 草的颜色是绿色的。
 
 ## vocabulary
 
 en:
-- the · thuh
 - grass · grass
-- is · iz
 - green · green
 
 fr:
-- le · luh
-- pelouse · peloose
-- est · est
-- verte · verte
+- herbe · erb
+- verte · vert
 
 de:
-- der · dehr
-- gras · gras
-- ist · ist
-- grün · gruen
+- Gras · grahs
+- grün · gryn
 
 am:
-- የ · ye
-- ሣር · szar
-- ነው · new
-- አረንጓዴ · arengwadhe
+- ሣሩ · sarou
+- አረንጓዴ · arenguade
 
 ar:
-- ال · al
-- العشب · alashb
-- هو · hu-wa
-- اخضر · akhdr
+- العشب · al-ushb
+- أخضر · akhdar
 
 es:
-- el · el
-- césped · cehsped
-- es · es
-- verde · verde
+- césped · SES-ped
+- verde · BER-de
 
 ja:
-- その · sono
 - 草 · kusa
-- です · desu
-- グリーン · guriin
+- 緑 · midori
 
 zh:
-- 这 · zhè
 - 草 · cǎo
-- 是 · shì
-- 綠色 · lǜ sè
+- 绿色 · lǜ sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-b1-first-conditional · First conditional
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

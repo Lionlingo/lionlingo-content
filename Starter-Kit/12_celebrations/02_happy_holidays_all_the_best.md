@@ -3,72 +3,72 @@ order: 2
 ---
 
 en:
-- Happy Holidays - all the best.
-- Happy Holidays! Best wishes.
+- Happy holidays, all the best.
+- Happy holidays, and best wishes.
 
 fr:
-- Joyeuses Fêtes, tout le meilleur.
-- Joyeuses fêtes, avec les meilleurs vœux.
+- Joyeuses fêtes, et tous mes vœux.
+- Joyeuses fêtes, avec mes meilleurs vœux.
 
 de:
+- Frohe Feiertage, alles Gute.
 - Alles Gute zu den Feiertagen.
-- Alles Gute zum Feiertag.
 
 am:
-- መልካም በዓላት - መልካም ዕድል።
-- መልካም በዓል! መልካም ምኞቶች!
+- መልካም በዓላት፣ መልካም ምኞት።
+- መልካም ምኞት ለበዓላት።
 
 ar:
-- عطلة سعيدة - كل أفضل.
-- عيد ميلاد سعيد، أفضل التمنيات
+- أعياد سعيدة، وأطيب التمنيات.
+- أطيب التمنيات في الأعياد.
 
 es:
-- Feliz Navidad, todo lo mejor.
-- ¡Feliz Navidad y mejores deseos!
+- Felices fiestas y todo lo mejor.
+- Felices fiestas y mis mejores deseos.
 
 ja:
-- ハッピーホリデー - すべて最高の.
-- ハッピーホリデー!
+- 良い休日を。幸運を祈ります。
+- 休日が良くなりますように。幸運を。
 
 zh:
-- 祝你节日快乐,祝你一切顺利.
-- 祝你们节日快乐!
+- 节日快乐，一切顺利。
+- 节日快乐，祝你一切都好。
 
 ## vocabulary
 
 en:
-- happy holidays · hap-ee holidays
-- best wishes · best wishes
+- holidays · HOL-i-dayz
+- best · best
 
 fr:
-- bonnes fêtes · bonnes fehtes
-- meilleures salutations · meilleures salutasyons
+- fêtes · fet
+- vœux · vuh
 
 de:
-- frohe Feiertage · frohe feyeertage
-- beste Grüße · beste gruesse
+- Feiertage · FY-er-ta-ge
+- Gute · GOO-te
 
 am:
-- መልካም በዓላት · melkam beälat
-- መልካም ምኞት · melkam mnyot
+- በዓላት · be-a-lat
+- ምኞት · min-nyot
 
 ar:
-- عطلة سعيدة · atla sayda
-- أطيب التمنيات · atyb altmnyat
+- أعياد · a-yaad
+- التمنيات · at-ta-man-ni-yaat
 
 es:
-- felices fiestas · felices fiestas
-- saludos cordiales · saludos cordiales
+- fiestas · FYES-tas
+- mejor · me-KHOR
 
 ja:
-- 良い休暇を · yoi kyuuka wo
-- ご多幸を · go takou wo
+- 休日 · kyu-jitsu
+- 幸運 · ko-un
 
 zh:
-- 节日快乐 · jié rì kuài lè
-- 祝好 · zhù hǎo
+- 节日 · jié rì
+- 一切 · yí qiè
 
 ## grammar
 
-- snippet-b2-wish-unreal · wish and if only
-- snippet-b2-future-perfect · Future perfect
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-conjunctions · Conjunctions

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-negation · Negation with not
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-sein · To be
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

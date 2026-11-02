@@ -4,103 +4,71 @@ order: 4
 
 en:
 - I'll take fish with vegetables.
-- I will have fish with vegetables.
+- I'll have fish with vegetables.
 
 fr:
+- Je prends du poisson avec des légumes.
 - Je vais prendre du poisson avec des légumes.
-- Je prendrai du poisson avec des légumes.
 
 de:
 - Ich nehme Fisch mit Gemüse.
-- Ich will Fisch mit Gemüse.
+- Ich bestelle Fisch mit Gemüse.
 
 am:
-- ዓሣ ከስጋ ጋር እበላለሁ።
-- ዓሳ ከስጋ ጋር እበላለሁ።
+- ዓሣ ከአትክልት ጋር እወስዳለሁ።
+- ዓሣ ከአትክልት ጋር ይሁንልኝ።
 
 ar:
-- سأتناول السمك مع الخضروات
-- سآخذ سمك مع الخضروات
+- سآخذ السمك مع الخضار.
+- سأتناول السمك مع الخضار.
 
 es:
 - Tomaré pescado con verduras.
-- Quiero pescado con verduras.
+- Voy a tomar pescado con verduras.
 
 ja:
-- 野菜と一緒に魚を食べる
-- 私は魚と野菜を食べます.
+- 魚を野菜と一緒にお願いします。
+- 野菜と一緒に魚にします。
 
 zh:
-- 我会吃鱼和蔬菜.
-- 我会吃鱼和蔬菜.
+- 我要鱼配蔬菜。
+- 我点鱼配蔬菜。
 
 ## vocabulary
 
 en:
-- i · eye
-- will · will
-- have · hav
 - fish · fish
-- with · with
-- vegetables · vegetables
+- vegetables · VEJ-tuh-bulz
 
 fr:
-- je · zhuh
-- va · va
-- avoir · avwahr
-- poissons · pwahssons
-- avec · avec
-- légumes · laygumes
+- poisson · pwa-SON
+- légumes · lay-GUM
 
 de:
-- ich · ikh
-- wird · wird
-- haben · haben
-- meeresfrüchte · meeresfruekhte
-- mit · mit
-- gemüse · gemuese
+- Fisch · fish
+- Gemüse · ge-MU-ze
 
 am:
-- እኔ · i-ne
-- ይሆናል · yhonal
-- አለኝ · aleny
-- አሳ · asa
-- ከ · ke
-- አትክልቶች · atkltoch
+- ዓሣ · a-sa
+- አትክልት · a-tiklt
 
 ar:
-- أنا · a-na
-- سوف · sawf
-- يملك · ymlk
-- مكه · mkh
-- مع · ma-a
-- الخضار · alkhdar
+- السمك · as-samak
+- الخضار · al-khu-dar
 
 es:
-- yo · yo
-- va a · va a
-- tener · tener
-- pescado · pescado
-- con · con
-- verduras · verduras
+- pescado · pes-KA-do
+- verduras · ver-DU-ras
 
 ja:
-- 私 · watashi
-- でしょう · deshou
-- 持つ · motsu
-- 魚類 · gyorui
-- と · to
-- 野菜 · yasai
+- 魚 · sa-ka-na
+- 野菜 · ya-sai
 
 zh:
-- 我 · wǒ
-- 将 · jiāng
-- 有 · yǒu
-- 魚類 · yú lèi
-- 和 · hé
+- 鱼 · yú
 - 蔬菜 · shū cài
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
-- snippet-b1-first-conditional · First conditional
+- snippet-a2-future · The future
+- snippet-a1-prepositions · Prepositions

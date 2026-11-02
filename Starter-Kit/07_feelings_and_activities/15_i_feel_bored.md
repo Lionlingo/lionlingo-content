@@ -7,76 +7,60 @@ en:
 - I am bored.
 
 fr:
-- Je m'ennuie.
-- Je m'ennuie.
+- Je me sens ennuyé.
+- Je suis ennuyé.
 
 de:
-- Ich langweile mich.
-- Ich langweile mich.
+- Ich fühle mich gelangweilt.
+- Ich bin gelangweilt.
 
 am:
-- አሰልቺ ስሜት ይሰማኛል።
-- አሰልቺ ነው.
+- መሰልቸት ይሰማኛል።
+- ሰልቾኛል።
 
 ar:
-- أشعر بالملل
-- أنا أشعر بالملل
+- أشعر بالملل.
+- أنا ضجر.
 
 es:
 - Me siento aburrido.
 - Estoy aburrido.
 
 ja:
-- 退屈している.
-- 退屈だ
+- 私は退屈を感じています。
+- 私は退屈しています。
 
 zh:
-- 我感到无聊.
-- 我很无聊.
+- 我感到无聊。
+- 我很无聊。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- bored · bored
+- bored · bord
 
 fr:
-- je · zhuh
-- suis · suis
-- ennui · ennui
+- ennuyé · ahn-nwee-YAY
 
 de:
-- ich · ikh
-- bin · bin
-- langweilen · langweyelen
+- gelangweilt · ge-LANG-vylt
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ሰለቸኝ · selecheny
+- መሰልቸት · me-sel-chet
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- بالملل · balmll
+- الملل · al-ma-lal
 
 es:
-- yo · yo
-- soy · soy
-- aburrida · aburrida
+- aburrido · a-bu-REE-do
 
 ja:
-- 私 · watashi
-- です · desu
-- 退屈 · taikutsu
+- 退屈 · tai-kutsu
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 無聊 · wú liáo
+- 无聊 · wú liáo
 
 ## grammar
 
-- snippet-a1-subject-pronouns-be · Subject + be
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

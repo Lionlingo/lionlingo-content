@@ -3,96 +3,72 @@ order: 5
 ---
 
 en:
-- Where can I find the bus stop?
 - Where is the bus stop?
+- Where can I find the bus stop?
 
 fr:
+- Où est l'arrêt de bus ?
 - Où puis-je trouver l'arrêt de bus ?
-- Où se trouve l'arrêt de bus ?
 
 de:
-- Wo finde ich die Bushaltestelle?
 - Wo ist die Bushaltestelle?
+- Wo finde ich die Bushaltestelle?
 
 am:
-- የአውቶቡስ ማቆሚያውን የት ማግኘት እችላለሁ?
 - የአውቶቡስ ማቆሚያ የት ነው?
+- የአውቶቡስ ማቆሚያውን የት ማግኘት እችላለሁ?
 
 ar:
-- أين يمكنني أن أجد محطة الحافلة؟
 - أين محطة الحافلة؟
+- أين يمكنني أن أجد محطة الحافلة؟
 
 es:
-- ¿Dónde puedo encontrar la parada de autobús?
 - ¿Dónde está la parada de autobús?
+- ¿Dónde puedo encontrar la parada de autobús?
 
 ja:
-- バス停はどこだ?
-- バス停はどこですか.
+- バス停はどこですか?
+- バス停はどこにありますか?
 
 zh:
-- 我在哪里找到公交车站?
-- 公交车站在哪里?
+- 公交车站在哪里？
+- 我在哪里能找到公交车站？
 
 ## vocabulary
 
 en:
 - where · wair
-- is · iz
-- the · thuh
-- bus · bus
-- stop · stop
+- bus stop · bus stop
 
 fr:
 - où · oo
-- est · est
-- le · luh
-- bus · boos
-- arrêt · arreht
+- arrêt de bus · a-reh duh boos
 
 de:
-- wo · vo
-- ist · ist
-- der · dehr
-- busbahnhof · busbahnhof
-- stopp · stopp
+- wo · voh
+- Bushaltestelle · BOOS-hal-te-shte-le
 
 am:
 - የት · yet
-- ነው · new
-- የ · ye
-- አውቶቡስ · awtobus
-- ተወ · tewe
+- የአውቶቡስ ማቆሚያ · ye-awtobus makomiya
 
 ar:
-- أين · ay-na
-- هو · hu-wa
-- ال · al
-- حافلة · hafla
-- وقف · wqf
+- أين · ayna
+- محطة الحافلة · mahattat al-hafila
 
 es:
-- dónde · DON: de
-- es · es
-- el · el
-- bus · bus
-- parada · parada
+- dónde · DON-de
+- parada de autobús · pa-RA-da de ow-to-BUS
 
 ja:
 - どこ · doko
-- です · desu
-- その · sono
-- バス · basu
-- 停止 · teishi
+- バス停 · basutei
 
 zh:
 - 哪里 · nǎ lǐ
-- 是 · shì
-- 这 · zhè
-- 公車 · gōng chē
-- 停止 · tíng zhǐ
+- 公交车站 · gōng jiāo chē zhàn
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-b2-purpose-clauses · Purpose clauses
+- snippet-a1-wh-questions · Question words
+- snippet-a1-two-way-prepositions · Place and direction

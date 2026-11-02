@@ -4,79 +4,63 @@ order: 13
 
 en:
 - I'm losing blood.
-- I am bleeding.
+- My blood is flowing.
 
 fr:
 - Je perds du sang.
-- Je saigne.
+- Du sang coule.
 
 de:
 - Ich verliere Blut.
-- Ich bin blutend.
+- Ich blute.
 
 am:
 - ደም እያጣሁ ነው።
-- ደም እየፈሰሰኝ ነው።
+- ደም እየፈሰሰ ነው።
 
 ar:
-- أنا أفقد الدم
-- أنا أنزف
+- أنا أفقد الدم.
+- الدم يخرج مني.
 
 es:
 - Estoy perdiendo sangre.
-- Estoy sangrando.
+- Sale sangre.
 
 ja:
-- 血が流れてる
-- 血が出てる
+- 血が出ています。
+- 血が流れています。
 
 zh:
-- 我正在流血.
-- 我开始流血.
+- 我在流血。
+- 血在往外流。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- bleeding · bleeding
+- blood · blud
 
 fr:
-- je · zhuh
-- suis · suis
-- saignement · sainyement
+- sang · son
 
 de:
-- ich · ikh
-- bin · bin
-- blutung · blutung
+- Blut · bloot
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- የደም መፍሰስ · yedhem mefses
+- ደም · dem
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- نزيف · nzyf
+- الدم · ad-dam
 
 es:
-- yo · yo
-- soy · soy
-- hemorragias · hemorrakhias
+- sangre · SAN-gre
 
 ja:
-- 私 · watashi
-- です · desu
-- 出血 · shukketsu
+- 血 · chi
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 流血 · liú xiě
+- 血 · xiě
 
 ## grammar
 
-- snippet-a1-subject-pronouns-be · Subject + be
-- snippet-b2-contrast-connectors · Contrast connectors
+- snippet-a1-present · Present tense
+- snippet-a1-possessives · my, your, his, her

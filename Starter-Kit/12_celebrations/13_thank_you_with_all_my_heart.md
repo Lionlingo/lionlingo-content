@@ -4,87 +4,71 @@ order: 13
 
 en:
 - Thank you with all my heart.
-- Thank you from my heart.
+- Thank you from all my heart.
 
 fr:
 - Merci de tout mon cœur.
-- Merci de tout mon cœur.
+- De tout mon cœur, merci.
 
 de:
-- Ich danke Ihnen von ganzem Herzen.
-- Ich danke Ihnen von ganzem Herzen.
+- Ich danke dir von ganzem Herzen.
+- Von ganzem Herzen danke ich dir.
 
 am:
 - ከልቤ አመሰግናለሁ።
-- ከልቤ አመሰግናለሁ።
+- አመሰግናለሁ ከልቤ።
 
 ar:
-- شكراً لك من كل قلبي
-- أشكرك من قلبي
+- أشكرك من كل قلبي.
+- من كل قلبي أشكرك.
 
 es:
-- Gracias con todo mi corazón.
 - Gracias de todo corazón.
+- Te doy las gracias de todo corazón.
 
 ja:
-- 心から感謝します
-- 心から感謝します
+- 心から感謝します。
+- 感謝します、心から。
 
 zh:
-- 非常感谢你.
-- 非常感谢你.
+- 我衷心感谢你。
+- 衷心感谢你。
 
 ## vocabulary
 
 en:
-- thank you · THANK yoo
-- from · from
-- my · my
-- heart · heart
+- heart · hart
+- thank · thank
 
 fr:
-- merci · mer: SI
-- de · duh
-- mon · mon
-- heart · heart
+- cœur · kur
+- merci · mer-SEE
 
 de:
-- danke · DAN: ke
-- von · ows
-- mein · meyen
-- herz · herz
+- Herzen · HER-tsen
+- danke · DAN-ke
 
 am:
-- አመሰግናለሁ · a-me-seg-na-le-hu
-- ከ · ke
-- የእኔ · yeene
-- ልብ · lb
+- ከልቤ · ke-li-be
+- አመሰግናለሁ · a-me-se-gi-na-le-hu
 
 ar:
-- شكراً · shukran
-- من · min
-- لي · ly
-- القلب · alqlb
+- قلبي · qal-bee
+- أشكر · ash-kur
 
 es:
-- gracias · GRA: syas
-- de · de
-- mi · mi
-- corazón · corazohn
+- corazón · ko-ra-SON
+- gracias · GRA-thyas
 
 ja:
-- ありがとう · arigatou
-- から · kara
-- 私の · watashi no
-- 心臓 · shinzou
+- 心 · ko-ko-ro
+- 感謝 · kan-sha
 
 zh:
-- 谢谢 · xiè xie
-- 从 · lái zì
-- 我的 · wǒ de
-- 心 · xīn
+- 衷心 · zhōng xīn
+- 感谢 · gǎn xiè
 
 ## grammar
 
-- snippet-c1-fronting · Fronting for emphasis
-- snippet-a2-object-pronouns · Object pronouns
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-prepositions · Prepositions

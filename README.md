@@ -46,7 +46,7 @@ Eight languages, from first greetings through C2. Exercises, notes, the starter 
 Exercise/A1/vocabulary/lesson_01/01_morning.md
 Notes/A1/vocabulary/topic_01_greetings_and_introductions/
 Starter-Kit/01_essentials/01_hi_how_are_you.md
-Grammar-Snippets/A1/01_subject_be.md
+Grammar-Snippets/01_noun_declension.md
 ```
 
 | Path | Unit of authorship |

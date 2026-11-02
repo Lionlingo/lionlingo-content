@@ -3,96 +3,80 @@ order: 8
 ---
 
 en:
-- The room is not bright enough
-- The room is too dark
+- The room is too dark.
+- It is too dark in the room.
 
 fr:
-- La pièce n'est pas assez lumineuse.
 - La pièce est trop sombre.
+- Il fait trop sombre dans la pièce.
 
 de:
-- Der Raum ist nicht hell genug.
-- Der Raum ist zu dunkel .
+- Der Raum ist zu dunkel.
+- Es ist zu dunkel im Raum.
 
 am:
-- ክፍሉ በቂ ብርሃን የለውም
 - ክፍሉ በጣም ጨለማ ነው።
+- በክፍሉ ውስጥ በጣም ጨለማ ነው።
 
 ar:
-- الغرفة ليست مشرقة بما فيه الكفاية
-- الغرفة مظلمة جداً
+- الغرفة مظلمة جداً.
+- هذه الغرفة مظلمة جداً.
 
 es:
-- La habitación no es lo suficientemente luminosa
-- La habitación está muy oscura.
+- La habitación está demasiado oscura.
+- Está demasiado oscura la habitación.
 
 ja:
-- 部屋は明るくない
-- 部屋は暗すぎる
+- 部屋は暗すぎます。
+- 部屋の中は暗すぎます。
 
 zh:
-- 房间没有足够的光.
-- 房间太黑暗了.
+- 房间太暗了。
+- 房间里太暗了。
 
 ## vocabulary
 
 en:
-- the · thuh
 - room · room
-- is · iz
 - too · too
 - dark · dark
 
 fr:
-- le · luh
-- salle · salle
-- est · est
-- trop · trop
-- noir · nwar
+- pièce · pyess
+- trop · troh
+- sombre · sombr
 
 de:
-- der · dehr
-- raum · raum
-- ist · ist
-- zu · zu
-- dunkle · dunkle
+- Raum · rowm
+- zu · tsoo
+- dunkel · DUN-kel
 
 am:
-- የ · ye
-- ክፍል · kfl
-- ነው · new
-- እንዲሁም · endhihum
-- ጨለማ · chaelema
+- ክፍሉ · kifilu
+- በጣም · betam
+- ጨለማ · chelema
 
 ar:
-- ال · al
-- غرفة · ghrfa
-- هو · hu-wa
-- ايضا · ayda
-- ظلام · zlam
+- الغرفة · al-ghurfa
+- جداً · jiddan
+- مظلمة · muzlima
 
 es:
-- el · el
-- cuarto · cuarto
-- es · es
-- también · tambiehn
-- dark · dark
+- habitación · a-bee-ta-SYON
+- demasiado · de-ma-SYA-do
+- oscura · os-KOO-ra
 
 ja:
-- その · sono
 - 部屋 · heya
-- です · desu
-- あまりにも · amarinimo
-- ダーク · daaku
+- すぎ · sugi
+- 暗 · kura
 
 zh:
-- 这 · zhè
-- 房間 · fáng jiān
-- 是 · shì
+- 房间 · fáng jiān
 - 太 · tài
-- 黑 · hēi
+- 暗 · àn
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a2-comparatives · Comparatives
+- snippet-a1-adjective-endings · Adjectives
+- snippet-a1-adverbs · Adverbs

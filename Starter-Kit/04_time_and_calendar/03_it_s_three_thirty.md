@@ -3,96 +3,72 @@ order: 3
 ---
 
 en:
-- It's three thirty.
-- It is half past three.
+- It is three thirty.
+- The time is three thirty.
 
 fr:
-- Il est 3 h 30.
-- Il est 3 h 30.
+- Il est trois heures trente.
+- L'heure est trois heures trente.
 
 de:
-- Es ist halb drei.
-- Es ist halb drei.
+- Es ist drei Uhr dreißig.
+- Die Uhrzeit ist drei Uhr dreißig.
 
 am:
-- ሦስት ሰዓት ተኩል ነው።
-- 3፡30 ሰዓት ነው።
+- ሦስት ሰዓት ሰላሳ ደቂቃ ነው።
+- ሰዓቱ ሦስት ሰዓት ሰላሳ ደቂቃ ነው።
 
 ar:
-- إنها الثالثة والنصف
-- إنها الثالثة والنصف
+- الساعة الثالثة وثلاثون دقيقة.
+- الوقت هو الساعة الثالثة وثلاثون دقيقة.
 
 es:
-- Son las tres y media.
-- Son las 3:30.
+- Son las tres y treinta.
+- La hora es las tres y treinta.
 
 ja:
-- 3時半だ
-- 3時半だ.
+- 三時三十分です。
+- 時刻は三時三十分です。
 
 zh:
-- 现在是三点半.
-- 现在是三点半.
+- 现在是三点三十分。
+- 时间是三点三十分。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
-- half · half
-- past · past
 - three · three
+- thirty · THUR-tee
 
 fr:
-- il · il
-- est · est
-- moitié · mwahtiay
-- passées · passayes
 - trois · trwa
+- trente · tront
 
 de:
-- es · es
-- ist · ist
-- hälfte · hehlfte
-- vergangenheit · vergangenheyet
 - drei · dry
+- dreißig · DRY-sikh
 
 am:
-- እሱ · i-su
-- ነው · new
-- ግማሽ · gmash
-- ያለፈው · yalefew
 - ሦስት · sost
+- ሰላሳ · selasa
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- نصف · nsf
-- الماضى · almada
-- ثلاثة · tha-la-tha
+- الثالثة · ath-thalitha
+- ثلاثون · thalathun
 
 es:
-- ello · eyo
-- es · es
-- mitad · mitad
-- pasadas · pasadas
 - tres · tres
+- treinta · TREYN-ta
 
 ja:
-- それ · sore
-- です · desu
-- 半分 · hanbun
-- 過去 · kako
-- 三 · san
+- 三時 · sanji
+- 三十分 · sanjuppun
 
 zh:
-- 它 · tā
-- 是 · shì
-- 一半 · yí bàn
-- 過往 · guò wǎng
-- 三 · sān
+- 三点 · sān diǎn
+- 三十分 · sān shí fēn
 
 ## grammar
 
-- snippet-a1-time-days · Days of the week and simple time
-- snippet-b2-third-conditional · Third conditional
+- snippet-a1-time · Telling time
+- snippet-a1-sein · To be

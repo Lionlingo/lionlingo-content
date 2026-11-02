@@ -3,11 +3,11 @@ order: 10
 ---
 
 en:
-- Someone stole my bag.
-- My bag was stolen.
+- Someone has stolen my bag.
+- My bag has been stolen.
 
 fr:
-- Quelqu'un m'a volé mon sac.
+- Quelqu'un a volé mon sac.
 - Mon sac a été volé.
 
 de:
@@ -15,76 +15,60 @@ de:
 - Meine Tasche wurde gestohlen.
 
 am:
-- አንድ ሰው ሻንጣዬን ሰረቀ።
+- አንድ ሰው ቦርሳዬን ሰረቀ።
 - ቦርሳዬ ተሰርቋል።
 
 ar:
-- شخص ما سرق حقيبتي
-- لقد سرقت حقيبتي
+- شخص سرق حقيبتي.
+- حقيبتي سرقت.
 
 es:
-- Alguien robó mi bolso.
-- Me robaron el bolso.
+- Alguien ha robado mi bolso.
+- Mi bolso ha sido robado.
 
 ja:
-- 誰かが私のバッグを盗んだ.
-- 私のバッグが盗まれた.
+- 誰かが私のバッグを盗みました。
+- 私のバッグが盗まれました。
 
 zh:
-- 有人偷了我的包.
-- 我的包被偷了.
+- 有人偷了我的包。
+- 我的包被偷了。
 
 ## vocabulary
 
 en:
-- my · my
 - bag · bag
-- was · was
-- stolen · stolen
+- stolen · STO-len
 
 fr:
-- mon · mon
 - sac · sak
-- était · aytait
-- volée · volaye
+- volé · vo-LAY
 
 de:
-- mein · meyen
-- Tasche · TA: she
-- war · war
-- gestohlene · gestohlene
+- Tasche · TA-she
+- gestohlen · ge-SHTO-len
 
 am:
-- የእኔ · yeene
-- ቦርሳ · borsa
-- ነበር · neber
-- ተሰርቋል · teserqwal
+- ቦርሳ · bor-sa
+- ሰረቀ · se-re-qe
 
 ar:
-- لي · ly
-- حقيبة · haqeeba
-- كان · kan
-- سرقت · srqt
+- حقيبتي · ha-qee-ba-tee
+- سرق · sa-raq
 
 es:
-- mi · mi
-- bolsa · BOL: sa
-- era · era
-- robada · robada
+- bolso · BOL-so
+- robado · rro-BA-do
 
 ja:
-- 私の · watashi no
-- かばん · kaban
-- だった · datta
-- 盗まれた · nusuma reta
+- バッグ · bak-ku
+- 盗 · nusu
 
 zh:
-- 我的 · wǒ de
 - 包 · bāo
-- 是 · shì
-- 被盗 · bèi dào
+- 偷 · tōu
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
-- snippet-a2-past-simple · Past simple
+- snippet-a2-perfekt · Present perfect
+- snippet-b1-passive · The passive

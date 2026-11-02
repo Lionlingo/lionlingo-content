@@ -7,7 +7,7 @@ en:
 - The lake is beautiful.
 
 fr:
-- Le lac est magnifique.
+- Le lac semble magnifique.
 - Le lac est magnifique.
 
 de:
@@ -19,72 +19,64 @@ am:
 - ሐይቁ ውብ ነው።
 
 ar:
-- البحيرة تبدو جميلة
-- البحيرة جميلة
+- البحيرة تبدو جميلة.
+- البحيرة جميلة.
 
 es:
 - El lago se ve hermoso.
 - El lago es hermoso.
 
 ja:
-- 湖は美しい.
-- その湖は美しい.
+- 湖は美しく見えます。
+- 湖は美しいです。
 
 zh:
-- 湖面看起来很漂亮.
-- 湖泊是美丽的.
+- 这个湖看起来很漂亮。
+- 这个湖很漂亮。
 
 ## vocabulary
 
 en:
-- the · thuh
 - lake · layk
-- is · iz
-- beautiful · beautiful
+- looks · looks
+- beautiful · BYOO-ti-ful
 
 fr:
-- le · luh
 - lac · lak
-- est · est
-- beau · boh
+- semble · SAHM-bluh
+- magnifique · mah-nyee-FEEK
 
 de:
-- der · dehr
 - See · zay
-- ist · ist
-- wunderschön · wundershern
+- sieht · zeet
+- wunderschön · VOON-der-shurn
 
 am:
-- የ · ye
-- ሐይቅ · hayq
-- ነው · new
-- ቆንጆ · qonjao
+- ሐይቁ · hayqu
+- ይመስላል · yimäsəlal
+- ውብ · wub
 
 ar:
-- ال · al
-- بحيرة · buhayra
-- هو · hu-wa
-- جميلة · jmyla
+- البحيرة · al-buḥayra
+- تبدو · tabdū
+- جميلة · jamīla
 
 es:
-- el · el
-- lago · LA: go
-- es · es
-- hermoso · hermoso
+- lago · LAH-goh
+- se ve · seh VEH
+- hermoso · er-MOH-soh
 
 ja:
-- その · sono
 - 湖 · mizuumi
-- です · desu
+- 見えます · miemasu
 - 美しい · utsukushii
 
 zh:
-- 这 · zhè
 - 湖 · hú
-- 是 · shì
-- 漂亮 · piào liàng
+- 看起来 · kàn qǐlái
+- 漂亮 · piàoliang
 
 ## grammar
 
-- snippet-b1-tag-questions · Tag questions
-- snippet-a1-colors-adjectives · Colors as adjectives
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

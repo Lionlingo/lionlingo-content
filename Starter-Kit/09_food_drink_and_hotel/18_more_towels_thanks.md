@@ -4,79 +4,71 @@ order: 18
 
 en:
 - More towels, thanks.
-- More towels, please.
+- Thanks, more towels.
 
 fr:
 - Plus de serviettes, merci.
-- Plus de serviettes, s'il vous plaît.
+- Merci, plus de serviettes.
 
 de:
 - Mehr Handtücher, danke.
-- Mehr Handtücher, bitte.
+- Danke, mehr Handtücher.
 
 am:
-- ተጨማሪ ፎጣዎች, አመሰግናለሁ.
-- ተጨማሪ ፎጣዎች፣ እባክህ።
+- ተጨማሪ ፎጣዎች፣ አመሰግናለሁ።
+- አመሰግናለሁ፣ ተጨማሪ ፎጣዎች።
 
 ar:
 - المزيد من المناشف، شكراً.
-- المزيد من المناشف من فضلك
+- شكراً، المزيد من المناشف.
 
 es:
 - Más toallas, gracias.
-- Más toallas, por favor.
+- Gracias, más toallas.
 
 ja:
-- ほらタオル
-- もっとタオルをお願い
+- もっとタオルを、ありがとうございます。
+- ありがとうございます、もっとタオルを。
 
 zh:
-- 更多的毛巾,谢谢.
-- 更多的毛巾,请.
+- 更多毛巾，谢谢。
+- 谢谢，更多毛巾。
 
 ## vocabulary
 
 en:
-- more · more
-- towels · towels
-- please · pleez
+- more · mor
+- towels · TOW-elz
 
 fr:
-- davantage · davantage
-- serviettes · serviettes
-- s'il vous plaît · sil vu play
+- plus · plu
+- serviettes · sair-VYET
 
 de:
-- weiteres · weyeteres
-- handtuch · handtukh
-- bitte · BI: te
+- mehr · mair
+- Handtücher · HANT-tu-kher
 
 am:
-- ተጨማሪ · techaemari
-- ፎጣዎች · fothawoch
-- እባክህ · i-bak-ih
+- ተጨማሪ · te-che-ma-ri
+- ፎጣዎች · fo-tha-woch
 
 ar:
-- المزيد · almzyd
-- المناشف · almnashf
-- من فضلك · min fadlak
+- المزيد · al-ma-zeed
+- المناشف · al-ma-naa-shif
 
 es:
-- más · mahs
-- toallas · toayas
-- por favor · por fa: VOR
+- más · mas
+- toallas · to-A-yas
 
 ja:
-- もっと · motto
-- タオル · taoru
-- お願いします · onegai shimasu
+- もっと · mot-to
+- タオル · ta-o-ru
 
 zh:
-- 多 · duō
+- 更多 · gèng duō
 - 毛巾 · máo jīn
-- 请 · qǐng
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-comparison · Comparison
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

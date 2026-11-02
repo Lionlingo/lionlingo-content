@@ -4,35 +4,35 @@ order: 6
 
 en:
 - I understand.
-- I do understand.
+- I understand that.
 
 fr:
 - Je comprends.
-- Je comprends bien.
+- Je comprends ça.
 
 de:
 - Ich verstehe.
-- Ich verstehe schon.
+- Ich verstehe das.
 
 am:
 - እኔ ተረድቻለሁ።
-- እኔ በደንብ ተረድቻለሁ።
+- እኔ ይህን ተረድቻለሁ።
 
 ar:
 - أنا أفهم.
-- أنا أفهم تماماً.
+- أنا أفهم ذلك.
 
 es:
 - Yo entiendo.
-- Yo sí entiendo.
+- Yo entiendo eso.
 
 ja:
 - 私は分かっています。
-- 私は本当に分かっています。
+- 私はそれを分かっています。
 
 zh:
 - 我明白了。
-- 我真的明白了。
+- 我明白这个了。
 
 ## vocabulary
 
@@ -62,7 +62,7 @@ es:
 
 ja:
 - 私 · watashi
-- 分かっています · wakatte imasu
+- 分かって · wakatte
 
 zh:
 - 我 · wǒ
@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-emphasis-do-does · Emphatic do / does / did
-- snippet-b1-tag-questions · Tag questions
+- snippet-a1-present · Present tense
+- snippet-a1-pronouns · Pronouns

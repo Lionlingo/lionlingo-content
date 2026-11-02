@@ -3,80 +3,64 @@ order: 20
 ---
 
 en:
-- I feel light-headed.
 - I feel dizzy.
+- I feel light-headed.
 
 fr:
-- Je me sens étourdi.
-- Je me sens étourdi.
+- J'ai la tête qui tourne.
+- La tête me tourne.
 
 de:
 - Mir ist schwindlig.
-- Mir ist schwindlig.
+- Ich bin schwindlig.
 
 am:
-- አእምሮዬ ይዞኛል።
 - ማዞር ይሰማኛል።
+- ራሴ ማዞር ይሰማኛል።
 
 ar:
 - أشعر بالدوار.
-- أشعر بالدوار
+- لدي دوار.
 
 es:
-- Me siento mareada.
-- Me siento mareada.
+- Me siento mareado.
+- Estoy mareado.
 
 ja:
-- 気が狂っている.
-- めまいがする.
+- めまいがします。
+- めまいを感じます。
 
 zh:
-- 我感到头.
-- 我感到头.
+- 我感到头晕。
+- 我头晕。
 
 ## vocabulary
 
 en:
-- i · eye
-- feel · feel
-- dizzy · dizzy
+- dizzy · DIZ-ee
 
 fr:
-- je · zhuh
-- sentir · sentir
-- étourdi · aytoordi
+- tourne · toorn
 
 de:
-- ich · ikh
-- feel · feel
-- schwindlig · shwindlig
+- schwindlig · SHVIND-likh
 
 am:
-- እኔ · i-ne
-- ስሜት · smet
-- መፍዘዝ · mefzez
+- ማዞር · ma-zor
 
 ar:
-- أنا · a-na
-- تحس · ths
-- دوار · dwar
+- دوار · du-waar
 
 es:
-- yo · yo
-- sentir · sentir
-- mareado · mareado
+- mareado · ma-re-A-do
 
 ja:
-- 私 · watashi
-- 感じる · kanji ru
-- 目眩 · memai
+- めまい · me-ma-i
 
 zh:
-- 我 · wǒ
-- 感受 · gǎn shòu
-- 暈 · yūn
+- 头晕 · tóu yūn
 
 ## grammar
 
-- snippet-c2-hypotaxis-parataxis · Hypotaxis and parataxis
-- snippet-c2-aspect-nuance · Simple, continuous, and perfect aspect
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

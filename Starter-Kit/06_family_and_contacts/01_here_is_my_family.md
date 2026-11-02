@@ -3,88 +3,72 @@ order: 1
 ---
 
 en:
-- Here is my family
-- This is my family
+- Here is my family.
+- My family is here.
 
 fr:
-- Voici ma famille .
-- C' est ma famille.
+- Voici ma famille.
+- Ma famille est ici.
 
 de:
-- Das ist meine Familie.
-- Das ist meine Familie.
+- Hier ist meine Familie.
+- Meine Familie ist hier.
 
 am:
-- ቤተሰቦቼ እዚህ አሉ
-- ይህ ቤተሰቤ ነው
+- ቤተሰቤ እዚህ አለ።
+- ቤተሰቤ እዚህ ነው።
 
 ar:
-- ها هي عائلتي
-- هذه عائلتي
+- عائلتي هنا.
+- ها هي عائلتي.
 
 es:
 - Aquí está mi familia.
-- Esta es mi familia.
+- Mi familia está aquí.
 
 ja:
-- これが私の家族です
-- これは私の家族です
+- ここに私の家族がいます。
+- 私の家族はここにいます。
 
 zh:
-- 这是我的家人.
-- 这就是我的家人.
+- 我的家人在这里。
+- 我的家人在这儿。
 
 ## vocabulary
 
 en:
-- this · this
-- is · iz
-- my · my
-- family · FAM: uh: lee
+- here · heer
+- family · FAM-uh-lee
 
 fr:
-- ce · suh: SEE / suh
-- est · est
-- mon · mon
-- famille · fa: MEE
+- ici · ee-SEE
+- famille · fah-MEE
 
 de:
-- dies · dees
-- ist · ist
-- mein · meyen
-- Familie · fa: MEE: lee: e
+- hier · heer
+- Familie · fah-MEE-lee-e
 
 am:
-- ይህ · yih
-- ነው · new
-- የእኔ · yeene
-- ቤተሰብ · beteseb
+- እዚህ · əzih
+- ቤተሰቤ · betäsäbe
 
 ar:
-- هذا · ha-dha
-- هو · hu-wa
-- لي · ly
-- عائلة · a'ila
+- هنا · hunā
+- عائلتي · ʿāʾilatī
 
 es:
-- este · ES: te
-- es · es
-- mi · mi
-- familia · fa: MEE: lya
+- aquí · ah-KEE
+- familia · fah-MEE-lyah
 
 ja:
-- これ · kore
-- です · desu
-- 私の · watashi no
+- ここに · koko ni
 - 家族 · kazoku
 
 zh:
-- 这 · zhè
-- 是 · shì
-- 我的 · wǒ de
-- 家人 · jiā rén
+- 这里 · zhèlǐ
+- 家人 · jiārén
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-two-way-prepositions · Place and direction

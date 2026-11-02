@@ -3,64 +3,72 @@ order: 1
 ---
 
 en:
-- What's the time?
 - What time is it?
+- What's the time?
 
 fr:
 - Quelle heure est-il ?
-- Quelle heure est-il ?
+- Il est quelle heure ?
 
 de:
 - Wie spät ist es?
-- Wie spät ist es?
+- Wie spät haben wir?
 
 am:
+- ስንት ሰዓት ነው?
 - ሰዓቱ ስንት ነው?
-- ሰዓት ስንት ነው?
 
 ar:
-- ما هو الوقت؟
 - كم الساعة الآن؟
+- كم تشير الساعة؟
 
 es:
 - ¿Qué hora es?
-- ¿Qué hora es?
+- ¿Qué hora tienes?
 
 ja:
-- 何時になったの?
-- 何時になったの?
+- いま何時ですか?
+- いま何時になりますか?
 
 zh:
-- 时间多了?
-- 现在几点了?
+- 现在几点了？
+- 现在是几点？
 
 ## vocabulary
 
 en:
-- what time is it · wot time iz it
+- what · wot
+- time · tym
 
 fr:
-- quelle heure est-il · quelle heure est-il
+- quelle · kel
+- heure · ur
 
 de:
-- wie spät ist es · wee speht ist es
+- wie · vee
+- spät · shpayt
 
 am:
-- ስንት ሰዓት ነው · snt seät new
+- ስንት · sint
+- ሰዓት · se'at
 
 ar:
-- كم الساعة · km alsaaa
+- كم · kam
+- الساعة · as-sa'a
 
 es:
-- qué hora es · keh hora es
+- qué · keh
+- hora · O-ra
 
 ja:
-- 今何時ですか · ima nanji desuka
+- 何 · nan
+- 時 · ji
 
 zh:
-- 几点了 · jǐ diǎn le
+- 几 · jǐ
+- 点 · diǎn
 
 ## grammar
 
-- snippet-a2-time-prepositions · Time prepositions: in, on, at
-- snippet-a1-time-days · Days of the week and simple time
+- snippet-a1-time · Telling time
+- snippet-a1-wh-questions · Question words

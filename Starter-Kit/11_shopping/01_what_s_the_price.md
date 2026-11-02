@@ -4,63 +4,63 @@ order: 1
 
 en:
 - What's the price?
-- How much does it cost?
+- How much is the price?
 
 fr:
 - Quel est le prix ?
-- Combien ça coûte ?
+- Le prix est de combien ?
 
 de:
 - Wie hoch ist der Preis?
-- Wie viel kostet das?
+- Wie viel ist der Preis?
 
 am:
+- ዋጋው ስንት ነው?
 - ዋጋው ምን ያህል ነው?
-- ምን ያህል ያስከፍላል?
 
 ar:
 - ما هو السعر؟
-- كم سيكلف؟
+- كم السعر؟
 
 es:
 - ¿Cuál es el precio?
-- ¿Cuánto cuesta?
+- ¿Cuánto es el precio?
 
 ja:
-- 値段は?
-- 費用は?
+- 値段はいくらですか？
+- この値段はいくらですか？
 
 zh:
-- 价格是多少?
-- 这需要多少钱?
+- 价格是多少？
+- 这个价格是多少钱？
 
 ## vocabulary
 
 en:
-- how much does it cost · how much does it cost
+- price · price
 
 fr:
-- combien ça coûte · combien sa cooote
+- prix · pree
 
 de:
-- wie viel kostet das · wee veel kostet dahs
+- Preis · price
 
 am:
-- ስንት ያስከፍላል · snt yaskeflal
+- ዋጋ · wa-ga
 
 ar:
-- كم يكلف · km yklf
+- السعر · as-si-r
 
 es:
-- cuánto cuesta · cuahnto cuesta
+- precio · PRE-thyo
 
 ja:
-- いくらですか · ikuradesuka
+- 値段 · ne-dan
 
 zh:
-- 多少钱 · duō shǎo qián
+- 价格 · jià gé
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-sein · To be

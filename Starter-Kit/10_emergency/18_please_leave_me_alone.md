@@ -3,80 +3,64 @@ order: 18
 ---
 
 en:
-- Please leave me alone!
-- Leave me alone!
+- Please leave me alone.
+- Leave me alone, please.
 
 fr:
-- S'il vous plaît laissez-moi tranquille !
-- Laissez-moi tranquille !
+- Laissez-moi tranquille, s'il vous plaît.
+- S'il vous plaît, laissez-moi tranquille.
 
 de:
-- Bitte lassen Sie mich in Ruhe!
-- Lasst mich in Ruhe!
+- Bitte lassen Sie mich in Ruhe.
+- Lassen Sie mich in Ruhe, bitte.
 
 am:
-- እባካችሁ ብቻዬን ተዉኝ!
-- ብቻዬን ተዉኝ!
+- እባክዎ ብቻዬን ተዉኝ።
+- ብቻዬን ተዉኝ እባክዎ።
 
 ar:
-- ارجوك اتركني لوحدي
-- اتركني وشأني!
+- من فضلك، اتركني وحدي.
+- اتركني وحدي، من فضلك.
 
 es:
-- ¡Por favor déjame en paz!
-- ¡Deja que me deje en paz!
+- Por favor, déjeme en paz.
+- Déjeme en paz, por favor.
 
 ja:
-- 頼むから ほっといてくれ!
-- ほっといてくれ!
+- 一人にしてください。
+- お願いですから、一人にしてください。
 
 zh:
-- 请让我一个人吧!
-- 让我一个人吧!
+- 请让我一个人。
+- 让我一个人，请。
 
 ## vocabulary
 
 en:
-- leave · leave
-- me · me
-- alone · alone
+- alone · uh-LOHN
 
 fr:
-- congés · congays
-- moi · mwah
-- seul · seul
+- tranquille · tron-KEEL
 
 de:
-- verlassen · verlassen
-- mich · mikh
-- allein · alleyen
+- Ruhe · ROO-e
 
 am:
-- ተወው · tewew
-- እኔን · enen
-- ብቻውን · bchawn
+- ብቻዬን · bi-cha-yen
 
 ar:
-- غادر · ghadr
-- لي · ly
-- لوحدي · lwhdy
+- وحدي · wah-dee
 
 es:
-- dejar · dekhar
-- me · me
-- alone · alone
+- paz · path
 
 ja:
-- 離れる · hanare ru
-- 私 · watashi
-- 一人で · hitori de
+- 一人 · hi-to-ri
 
 zh:
-- 休假 · xiū jià
-- 我 · wǒ
-- 独自的 · dú zì de
+- 一个人 · yí gè rén
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-a1-negation · Negation with not
+- snippet-a1-imperative · The imperative
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

@@ -3,88 +3,72 @@ order: 1
 ---
 
 en:
-- The car has a red color
-- The car is red
+- The car is red.
+- The color of the car is red.
 
 fr:
-- La voiture est de couleur rouge.
 - La voiture est rouge.
+- La couleur de la voiture est rouge.
 
 de:
-- Das Auto hat eine rote Farbe.
 - Das Auto ist rot.
+- Die Farbe vom Auto ist rot.
 
 am:
-- መኪናው ቀይ ቀለም አለው
 - መኪናው ቀይ ነው።
+- የመኪናው ቀለም ቀይ ነው።
 
 ar:
-- السيارة لها لون أحمر
-- السيارة حمراء
+- السيارة حمراء.
+- السيارة حمراء اللون.
 
 es:
-- El coche tiene un color rojo.
 - El coche es rojo.
+- El color del coche es rojo.
 
 ja:
-- 車は赤い色だ.
-- 車は赤だ
+- 車は赤いです。
+- 車の色は赤いです。
 
 zh:
-- 这辆车是红色的.
-- 这辆车是红色的
+- 这辆车是红色的。
+- 这辆车的颜色是红色的。
 
 ## vocabulary
 
 en:
-- the · thuh
-- car · car
-- is · iz
+- car · kar
 - red · red
 
 fr:
-- le · luh
-- voitures · vwahtures
-- est · est
-- rouges · rooges
+- voiture · vwa-TUR
+- rouge · roozh
 
 de:
-- der · dehr
-- mietwagen · meetwagen
-- ist · ist
-- rotwein · rotweyen
+- Auto · OW-to
+- rot · roht
 
 am:
-- የ · ye
-- መኪና · mekina
-- ነው · new
+- መኪናው · mekinaw
 - ቀይ · qey
 
 ar:
-- ال · al
-- السيارة · alsyara
-- هو · hu-wa
-- حمراء · hmra
+- السيارة · as-sayyara
+- حمراء · hamra'
 
 es:
-- el · el
-- coches · coches
-- es · es
-- rojo · rokho
+- coche · KO-che
+- rojo · RO-ho
 
 ja:
-- その · sono
-- 自動車 · jidousha
-- です · desu
+- 車 · kuruma
 - 赤い · akai
 
 zh:
-- 这 · zhè
-- 車 · chē
-- 是 · shì
-- 紅 · hóng
+- 车 · chē
+- 红色 · hóng sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-b2-passive-advanced · Reporting and event passives
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

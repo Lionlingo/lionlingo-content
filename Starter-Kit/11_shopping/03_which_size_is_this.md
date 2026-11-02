@@ -7,16 +7,16 @@ en:
 - What size is this?
 
 fr:
-- C'est quelle taille ?
-- C'est quelle taille ?
+- Quelle taille est ceci ?
+- Ceci est quelle taille ?
 
 de:
 - Welche Größe ist das?
-- Welche Größe ist das?
+- Was für eine Größe ist das?
 
 am:
 - ይህ ምን መጠን ነው?
-- ይህ ምን ያህል ነው?
+- ይህ የትኛው መጠን ነው?
 
 ar:
 - أي مقاس هذا؟
@@ -24,67 +24,51 @@ ar:
 
 es:
 - ¿Qué talla es esta?
-- ¿Qué talla es esta?
+- ¿Cuál es esta talla?
 
 ja:
-- これは何サイズですか?
-- これは何サイズ?
+- これは何サイズですか？
+- これのサイズは何ですか？
 
 zh:
-- 这是什么尺寸?
-- 这是什么尺寸?
+- 这是什么尺码？
+- 这个尺码是什么？
 
 ## vocabulary
 
 en:
-- what · wot
 - size · size
-- is · iz
 - this · this
 
 fr:
-- quoi · kuh / kwa
-- taille · taille
-- est · est
-- ce · suh: SEE / suh
+- taille · tie
+- ceci · suh-SEE
 
 de:
-- was · vas
-- größe · grersse
-- ist · ist
-- dies · dees
+- Größe · GRUR-se
+- das · das
 
 am:
-- ምን · min
-- መጠን · methen
-- ነው · new
+- መጠን · me-ten
 - ይህ · yih
 
 ar:
-- ماذا · ma-dha
-- المقاس · almqas
-- هو · hu-wa
-- هذا · ha-dha
+- مقاس · ma-qaas
+- هذا · haa-dha
 
 es:
-- qué · keh
-- size · size
-- es · es
-- este · ES: te
+- talla · TA-ya
+- esta · ES-ta
 
 ja:
-- 何 · nani
-- サイズ · saizu
-- です · desu
-- これ · kore
+- サイズ · sa-i-zu
+- これ · ko-re
 
 zh:
-- 什么 · shén me
-- 大小 · dà xiǎo
-- 是 · shì
+- 尺码 · chǐ mǎ
 - 这 · zhè
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a1-articles-definiteness · a / an / the
+- snippet-a1-wh-questions · Question words
+- snippet-a1-sein · To be

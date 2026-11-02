@@ -8,67 +8,67 @@ en:
 
 fr:
 - Au revoir, à demain.
-- Au revoir, et à demain.
+- Au revoir, on se voit demain.
 
 de:
 - Auf Wiedersehen, bis morgen.
-- Auf Wiedersehen, dann bis morgen.
+- Auf Wiedersehen, wir sehen uns morgen.
 
 am:
 - ደህና ሁኑ፣ ነገ እንገናኛለን።
-- ደህና ሁኑ፣ እንግዲያውስ ነገ እንገናኛለን።
+- ደህና ሁኑ፣ ነገ እንገናኝ።
 
 ar:
 - إلى اللقاء، أراك غداً.
-- إلى اللقاء، أراك غداً إن شاء الله.
+- إلى اللقاء، نلتقي غداً.
 
 es:
 - Adiós, hasta mañana.
-- Adiós, y hasta mañana.
+- Adiós, nos vemos mañana.
 
 ja:
 - さようなら、また明日。
-- さようなら、それではまた明日。
+- さようなら、明日会いましょう。
 
 zh:
 - 再见，明天见。
-- 再见，我们明天见。
+- 再见，我们明天再见。
 
 ## vocabulary
 
 en:
 - goodbye · good-BYE
-- see you tomorrow · see yoo tuh-MOR-oh
+- tomorrow · tuh-MOR-oh
 
 fr:
 - au revoir · o ruh-VWAR
-- à demain · a duh-MAN
+- demain · duh-MAN
 
 de:
 - auf Wiedersehen · owf VEE-der-zay-en
-- bis morgen · bis MOR-gen
+- morgen · MOR-gen
 
 am:
 - ደህና ሁኑ · dehna hunu
-- ነገ እንገናኛለን · nege engenanyalen
+- ነገ · nege
 
 ar:
 - إلى اللقاء · ila al-liqa'
-- أراك غداً · arak ghadan
+- غداً · ghadan
 
 es:
 - adiós · a-DYOS
-- hasta mañana · AS-ta ma-NYA-na
+- mañana · ma-NYA-na
 
 ja:
 - さようなら · sayōnara
-- また明日 · mata ashita
+- 明日 · ashita
 
 zh:
 - 再见 · zài jiàn
-- 明天见 · míng tiān jiàn
+- 明天 · míng tiān
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal address
-- snippet-a2-past-simple · Past simple
+- snippet-a2-future · The future
+- snippet-a1-adverbs · Adverbs

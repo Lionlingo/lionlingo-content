@@ -3,80 +3,72 @@ order: 9
 ---
 
 en:
-- You're right about that
-- I agree with you
+- You're right about that.
+- You are right about that.
 
 fr:
-- Vous avez raison .
-- Je suis d'accord avec toi.
+- Tu as raison à propos de cela.
+- Tu as raison sur cela.
 
 de:
-- Da hast du recht.
-- Ich stimme dir zu.
+- Darüber hast du recht.
+- Du hast recht darüber.
 
 am:
-- በዚህ ረገድ ትክክል ነህ
-- እኔ እስማማለሁ
+- በዚያ ትክክል ነህ።
+- በዚያ ረገድ ትክክል ነህ።
 
 ar:
-- أنتِ محقة بشأن ذلك
-- أنا أتفق معك
+- أنت محق في ذلك.
+- أنت على حق في ذلك.
 
 es:
-- Tienes razón al respecto.
-- Estoy de acuerdo contigo.
+- Tienes razón en eso.
+- Tienes razón sobre eso.
 
 ja:
-- その通りだ
-- 賛成する
+- それについて、あなたは正しいです。
+- あなたはそれについて正しいです。
 
 zh:
-- 你是对的
-- 我同意你的观点.
+- 你在那一点上是对的。
+- 关于那件事，你是对的。
 
 ## vocabulary
 
 en:
-- i · eye
-- agree with · agree with
-- you · yoo
+- right · rite
+- that · that
 
 fr:
-- je · zhuh
-- être d'accord avec · ehtre d'accord avec
-- tu · tu
+- raison · reh-ZON
+- cela · suh-LA
 
 de:
-- ich · ikh
-- zustimmen · zustimmen
-- du · du
+- recht · rekht
+- darüber · da-RUE-ber
 
 am:
-- እኔ · i-ne
-- መስማማት · mesmamat
-- አንተ · an-te
+- ትክክል · ti-kikil
+- በዚያ · be-zi-ya
 
 ar:
-- أنا · a-na
-- يوافق · ywafq
-- أنت · an-ta
+- حق · haq
+- ذلك · dha-lik
 
 es:
-- yo · yo
-- estar de acuerdo con · estar de acuerdo con
-- tú · too
+- razón · ra-SON
+- eso · E-so
 
 ja:
-- 私 · watashi
-- 賛成する · sansei suru
-- あなた · anata
+- 正しい · ta-da-shee
+- それ · so-re
 
 zh:
-- 我 · wǒ
-- 同意 · tóng yì
-- 你 · nǐ
+- 对 · duì
+- 那 · nà
 
 ## grammar
 
-- snippet-c2-hypotaxis-parataxis · Hypotaxis and parataxis
-- snippet-c1-evaluative-language · Evaluative language
+- snippet-a1-sein · To be
+- snippet-b1-verbs-prepositions-nach-auf-an · Verb + preposition: for, about, to, on

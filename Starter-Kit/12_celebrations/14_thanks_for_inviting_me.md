@@ -4,87 +4,63 @@ order: 14
 
 en:
 - Thanks for inviting me.
-- Thank you for the invitation.
+- Thanks for the invitation.
 
 fr:
 - Merci de m'avoir invité.
 - Merci pour l'invitation.
 
 de:
-- Danke, dass Sie mich eingeladen haben.
 - Danke für die Einladung.
+- Ich danke dir für die Einladung.
 
 am:
-- ስለጋበዙኝ አመሰግናለሁ።
-- ስለ ግብዣው አመሰግናለሁ።
+- ስለግብዣህ አመሰግናለሁ።
+- አመሰግናለሁ ስለ ግብዣው።
 
 ar:
-- شكراً لدعوتي
-- شكراً على الدعوة
+- شكراً على الدعوة.
+- أشكرك على الدعوة.
 
 es:
-- Gracias por invitarme.
 - Gracias por la invitación.
+- Te agradezco la invitación.
 
 ja:
-- 招待してくれてありがとう
-- 招待してくれてありがとう.
+- 招待してくれてありがとう。
+- 招待ありがとう。
 
 zh:
-- 谢谢你邀请了我.
-- 谢谢你的邀请.
+- 谢谢你邀请我。
+- 谢谢你的邀请。
 
 ## vocabulary
 
 en:
-- thank you · THANK yoo
-- for · for
-- the · thuh
-- invitation · invitation
+- invit · in-VYT
 
 fr:
-- merci · mer: SI
-- pour · poor
-- le · luh
-- invitation · invitasyon
+- invit · an-VEET
 
 de:
-- danke · DAN: ke
-- für · fuer
-- der · dehr
-- ausschreibung · ausshreyebung
+- Einladung · AYN-la-dung
 
 am:
-- አመሰግናለሁ · a-me-seg-na-le-hu
-- ለ · le
-- የ · ye
-- ግብዣ · gbdza
+- ግብዣ · gib-za
 
 ar:
-- شكراً · shukran
-- لـ · l
-- ال · al
-- دعوة · dawa
+- الدعوة · ad-da-wa
 
 es:
-- gracias · GRA: syas
-- para · para
-- el · el
-- invitación · invitaciohn
+- invitación · in-vi-ta-THYON
 
 ja:
-- ありがとう · arigatou
-- のために · notameni
-- その · sono
-- 招聘 · shouhei
+- 招待 · sho-tai
 
 zh:
-- 谢谢 · xiè xie
-- 为 · wèi
-- 这 · zhè
-- 邀請 · yāo qǐng
+- 邀请 · yāo qǐng
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal address
-- snippet-a1-informal-greetings · Informal address
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a2-participles · Participles

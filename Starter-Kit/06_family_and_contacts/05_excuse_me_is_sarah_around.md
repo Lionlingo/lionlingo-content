@@ -7,84 +7,76 @@ en:
 - Excuse me, is Sarah here?
 
 fr:
-- Excusez-moi, est-ce que Sarah est là ?
-- Excusez-moi, est-ce que Sarah est là ?
+- Excusez-moi, est-ce que Sarah est dans les parages ?
+- Excusez-moi, est-ce que Sarah est ici ?
 
 de:
+- Entschuldigung, ist Sarah in der Nähe?
 - Entschuldigung, ist Sarah hier?
-- Entschuldigen Sie, ist Sarah hier?
 
 am:
-- ይቅርታ፣ ሳራ እዚህ አለች?
+- ይቅርታ፣ ሳራ በአቅራቢያ አለች?
 - ይቅርታ፣ ሳራ እዚህ አለች?
 
 ar:
-- عذراً، هل (سارة) بالجوار؟
-- عذراً، هل (سارة) هنا؟
+- عذراً، هل سارة في الجوار؟
+- عذراً، هل سارة هنا؟
 
 es:
 - Disculpe, ¿está Sarah por aquí?
 - Disculpe, ¿está Sarah aquí?
 
 ja:
-- サラはいるの?
-- すみません サラって?
+- すみません、サラは近くにいますか？
+- すみません、サラはここにいますか？
 
 zh:
-- 抱歉,莎拉在附近吗?
-- 抱歉,莎拉在这里吗?
+- 不好意思，莎拉在附近吗？
+- 不好意思，莎拉在这里吗？
 
 ## vocabulary
 
 en:
-- excuse me · ek: SKYOOZ mee
-- is · iz
-- sarah · sarah
+- excuse me · ek-SKYOOZ mee
+- Sarah · SAIR-uh
 - here · heer
 
 fr:
-- excusez-moi · ek: skew: zay MWA
-- est · est
-- sarah · sarah
-- ici · ee: SEE
+- excusez-moi · ek-skew-zay MWA
+- Sarah · sa-RA
+- ici · ee-SEE
 
 de:
-- entschuldigung · ent: SHOOL: di: gung
-- ist · ist
-- sarah · sarah
+- Entschuldigung · ent-SHOOL-di-gung
+- Sarah · SA-ra
 - hier · heer
 
 am:
-- ይቅርታ · yik-ir-ta
-- ነው · new
-- ሳራ · sara
-- እዚህ · izi
+- ይቅርታ · yi-kir-ta
+- ሳራ · sa-ra
+- እዚህ · i-zih
 
 ar:
-- عفواً · afwan
-- هو · hu-wa
-- ساره · sarh
-- هنا · huna
+- عذراً · udh-ran
+- سارة · saa-ra
+- هنا · hu-naa
 
 es:
-- perdón · dis: KOOL: pe
-- es · es
-- sarah · sarah
-- aquí · a: KEE
+- disculpe · dis-KOOL-pe
+- Sarah · SA-ra
+- aquí · a-KEE
 
 ja:
-- すみません · sumimasen
-- です · desu
-- サラ · sara
-- ここ · koko
+- すみません · su-mi-ma-sen
+- サラ · sa-ra
+- ここ · ko-ko
 
 zh:
-- 不好意思 · qǐng wèn
-- 是 · shì
+- 不好意思 · bù hǎo yì si
 - 莎拉 · shā lā
 - 这里 · zhè lǐ
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-a1-yes-no-questions · Yes/no questions
+- snippet-a1-interrogation · Questions
+- snippet-a1-two-way-prepositions · Place and direction

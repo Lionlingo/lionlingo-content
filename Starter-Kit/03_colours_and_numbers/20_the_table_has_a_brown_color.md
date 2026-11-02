@@ -3,88 +3,72 @@ order: 20
 ---
 
 en:
-- The table has a brown color.
 - The table is brown.
+- The color of the table is brown.
 
 fr:
-- La table est de couleur brune.
 - La table est brune.
+- La couleur de la table est brune.
 
 de:
-- Der Tisch hat eine braune Farbe.
 - Der Tisch ist braun.
+- Die Farbe vom Tisch ist braun.
 
 am:
-- ጠረጴዛው ቡናማ ቀለም አለው።
 - ጠረጴዛው ቡናማ ነው።
+- የጠረጴዛው ቀለም ቡናማ ነው።
 
 ar:
-- الطاولة لها لون بني.
 - الطاولة بنية.
+- الطاولة بنية اللون.
 
 es:
-- La mesa tiene un color marrón.
 - La mesa es marrón.
+- El color de la mesa es marrón.
 
 ja:
-- テーブルは茶色い色がある.
-- テーブルは茶色だ.
+- テーブルは茶色です。
+- テーブルの色は茶色です。
 
 zh:
-- 这张桌子是棕色的.
-- 这张桌子是棕色的.
+- 这张桌子是棕色的。
+- 这张桌子的颜色是棕色的。
 
 ## vocabulary
 
 en:
-- the · thuh
-- table · TAY: bul
-- is · iz
+- table · TAY-bul
 - brown · brown
 
 fr:
-- le · luh
 - table · tabl
-- est · est
-- brown · brown
+- brune · brun
 
 de:
-- der · dehr
 - Tisch · tish
-- ist · ist
-- brown · brown
+- braun · braun
 
 am:
-- የ · ye
-- ጠረጴዛ · terep'eza
-- ነው · new
-- ብናማ · bnama
+- ጠረጴዛው · tereppezaw
+- ቡናማ · bunama
 
 ar:
-- ال · al
-- طاولة · tawila
-- هو · hu-wa
-- اسمر · asmr
+- الطاولة · at-tawila
+- بنية · bunniyya
 
 es:
-- el · el
-- mesa · ME: sa
-- es · es
-- brown · brown
+- mesa · ME-sa
+- marrón · ma-RRON
 
 ja:
-- その · sono
 - テーブル · teeburu
-- です · desu
-- 褐色 · kasshoku
+- 茶色 · chairo
 
 zh:
-- 这 · zhè
 - 桌子 · zhuō zi
-- 是 · shì
-- 棕 · zōng
+- 棕色 · zōng sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

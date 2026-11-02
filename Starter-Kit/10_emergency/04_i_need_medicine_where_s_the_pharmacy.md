@@ -4,111 +4,79 @@ order: 4
 
 en:
 - I need medicine. Where's the pharmacy?
-- I need medicine. Where is the pharmacy?
+- Where is the pharmacy? I need medicine.
 
 fr:
 - J'ai besoin de médicaments. Où est la pharmacie ?
-- J'ai besoin de médicaments. Où est la pharmacie ?
+- Où est la pharmacie ? J'ai besoin de médicaments.
 
 de:
-- Wo ist die Apotheke?
 - Ich brauche Medikamente. Wo ist die Apotheke?
+- Wo ist die Apotheke? Ich brauche Medikamente.
 
 am:
-- መድሃኒት እፈልጋለሁ ፋርማሲው የት ነው?
-- መድሃኒት እፈልጋለሁ ፋርማሲው የት ነው?
+- መድኃኒት እፈልጋለሁ። ፋርማሲው የት ነው?
+- ፋርማሲው የት ነው? መድኃኒት እፈልጋለሁ።
 
 ar:
-- أحتاج إلى دواء، أين الصيدلية؟
-- أحتاج إلى دواء، أين الصيدلية؟
+- أحتاج دواء. أين الصيدلية؟
+- أين الصيدلية؟ أحتاج دواء.
 
 es:
 - Necesito medicina. ¿Dónde está la farmacia?
-- Necesito medicina. ¿Dónde está la farmacia?
+- ¿Dónde está la farmacia? Necesito medicina.
 
 ja:
-- 薬が必要だ.薬局はどこだ?
-- 薬が必要だ.薬局はどこだ?
+- 薬が必要です。薬局はどこですか？
+- 薬局はどこですか？薬が必要です。
 
 zh:
-- 我需要药物.药房在哪里?
-- 我需要药物.药房在哪里?
+- 我需要药。药店在哪里？
+- 药店在哪里？我需要药。
 
 ## vocabulary
 
 en:
-- i · eye
-- need · need
-- medicine · medicine
+- medicine · MED-i-sin
+- pharmacy · FAR-muh-see
 - where · wair
-- is · iz
-- the · thuh
-- pharmacy · FAR: muh: see
 
 fr:
-- je · zhuh
-- avoir besoin · a: vwar buh: ZWAN
-- médecine · maydecine
+- médicaments · may-dee-ka-MON
+- pharmacie · far-ma-SEE
 - où · oo
-- est · est
-- le · luh
-- pharmacie · far: ma: SEE
 
 de:
-- ich · ikh
-- brauchen / müssen · BROW: khen
-- medikament · medikament
-- wo · vo
-- ist · ist
-- der · dehr
-- Apotheke · a: po: TE: ke
+- Medikamente · me-di-ka-MEN-te
+- Apotheke · a-po-TE-ke
+- wo · voh
 
 am:
-- እኔ · i-ne
-- ማስፈለግ · masfelag
-- መድሃኒት · medhhanit
+- መድኃኒት · med-ha-nit
+- ፋርማሲ · far-ma-si
 - የት · yet
-- ነው · new
-- የ · ye
-- መድኃኒት ቤት · medhanit bet
 
 ar:
-- أنا · a-na
-- يحتاج · yahtaaj
-- الطب · altb
+- دواء · da-waa
+- الصيدلية · as-say-da-lee-ya
 - أين · ay-na
-- هو · hu-wa
-- ال · al
-- صيدلية · saydaliyya
 
 es:
-- yo · yo
-- necesitar · ne: se: see: TAR
-- medicina · medicina
-- dónde · DON: de
-- es · es
-- el · el
-- farmacia · far: MA: thya
+- medicina · me-di-SI-na
+- farmacia · far-MA-thya
+- dónde · DON-de
 
 ja:
-- 私 · watashi
-- 必要 · hitsuyou
-- 医学 · igaku
-- どこ · doko
-- です · desu
-- その · sono
-- 薬局 · yakkyoku
+- 薬 · ku-su-ri
+- 薬局 · yak-kyo-ku
+- どこ · do-ko
 
 zh:
-- 我 · wǒ
-- 需要 · xū yào
-- 藥品 · yào pǐn
-- 哪里 · nǎ lǐ
-- 是 · shì
-- 这 · zhè
+- 药 · yào
 - 药店 · yào diàn
+- 哪里 · nǎ lǐ
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-there-is-existence · There is / There are
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-wh-questions · Question words

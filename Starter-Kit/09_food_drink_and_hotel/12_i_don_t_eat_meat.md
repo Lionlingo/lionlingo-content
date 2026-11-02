@@ -4,79 +4,71 @@ order: 12
 
 en:
 - I don't eat meat.
-- I am vegetarian.
+- I do not eat meat.
 
 fr:
 - Je ne mange pas de viande.
-- Je suis végétarienne.
+- La viande, je ne la mange pas.
 
 de:
 - Ich esse kein Fleisch.
-- Ich bin Vegetarierin.
+- Fleisch esse ich nicht.
 
 am:
-- ሥጋ አልበላም።
-- እኔ ቬጀቴሪያን ነኝ።
+- ስጋ አልበላም።
+- ስጋ አይደለም የምበላው።
 
 ar:
-- أنا لا آكل اللحم
-- أنا نباتي.
+- أنا لا آكل اللحم.
+- اللحم لا آكله.
 
 es:
-- Yo no como carne.
-- Soy vegetariano.
+- No como carne.
+- Carne no como.
 
 ja:
-- 私は肉を食べない.
-- 私はベジタリアンです.
+- 肉は食べません。
+- 肉を食べません。
 
 zh:
-- 我不吃肉.
-- 我是一个素食者.
+- 我不吃肉。
+- 肉我不吃。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- vegetarian · vegetarian
+- eat · eet
+- meat · meet
 
 fr:
-- je · zhuh
-- suis · suis
-- végétariens · vaygaytariens
+- mange · mahnzh
+- viande · vyahnd
 
 de:
-- ich · ikh
-- bin · bin
-- vegetarische · vegetarishe
+- esse · ES-e
+- Fleisch · flysh
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ቬጀቴሪያን · vejaeteriyan
+- በላ · be-la
+- ስጋ · si-ga
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- نباتية · nbatya
+- آكل · a-kul
+- اللحم · al-lahm
 
 es:
-- yo · yo
-- soy · soy
-- vegetarianos · vekhetarianos
+- como · KO-mo
+- carne · KAR-ne
 
 ja:
-- 私 · watashi
-- です · desu
-- ベジタリアン · bejitarian
+- 食べ · ta-be
+- 肉 · ni-ku
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 吃素 · chī sù
+- 吃 · chī
+- 肉 · ròu
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-a1-negation · Negation with not
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a1-present · Present tense

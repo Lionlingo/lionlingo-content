@@ -401,14 +401,12 @@ def parse_grammar_text(text: str) -> dict:
     return {"title": title, "description": description, "rules": rules}
 
 
-def load_grammar_file(path: Path, level: str) -> dict:
+def load_grammar_file(path: Path) -> dict:
     meta, body = parse_front_matter(path.read_text(encoding="utf-8"))
     content = {}
     for lang, lines in language_blocks(body.split("\n")).items():
         content[lang] = parse_grammar_text(undent(lines))
-    levels = [part.strip() for part in (meta.get("levels") or level).split(",") if part.strip()]
-    if level not in levels:
-        levels.insert(0, level)
+    levels = [part.strip() for part in (meta.get("levels") or "").split(",") if part.strip()]
     tags = [part.strip() for part in (meta.get("tags") or "").split(",") if part.strip()]
     return {
         "id": meta.get("id") or path.stem,
@@ -590,11 +588,8 @@ def build_json(content_root: Path, out_root: Path) -> dict:
 
     snippets = []
     grammar_root = content_root / "Grammar-Snippets"
-    for level in LEVELS:
-        level_dir = grammar_root / level
-        if not level_dir.is_dir():
-            continue
-        files = [path for path in level_dir.glob("*.md") if path.name != "README.md"]
+    if grammar_root.is_dir():
+        files = [path for path in grammar_root.glob("*.md") if path.name != "README.md"]
 
         def grammar_key(path: Path):
             meta, _ = parse_front_matter(path.read_text(encoding="utf-8"))
@@ -603,7 +598,7 @@ def build_json(content_root: Path, out_root: Path) -> dict:
         for path in sorted(files, key=grammar_key):
             try:
                 meta, _ = parse_front_matter(path.read_text(encoding="utf-8"))
-                snippets.append((int(meta.get("index") or 0), load_grammar_file(path, level)))
+                snippets.append((int(meta.get("index") or 0), load_grammar_file(path)))
             except Exception as exc:
                 raise RuntimeError(f"{path}: {exc}") from exc
     snippets.sort(key=lambda pair: pair[0])
@@ -693,25 +688,18 @@ def export_from_studio(studio: Path, grammar_seed: Path, content_root: Path) -> 
             counts["notes"] += 1
 
     snippets = read_json(grammar_seed)
-    grouped: dict[str, list[tuple[int, dict]]] = {level: [] for level in LEVELS}
+    dest = content_root / "Grammar-Snippets"
+    dest.mkdir(parents=True, exist_ok=True)
     for index, snippet in enumerate(snippets):
-        level = (snippet.get("levels") or ["A1"])[0]
-        grouped.setdefault(level, []).append((index, snippet))
-    for level, pairs in grouped.items():
-        dest = content_root / "Grammar-Snippets" / level
-        dest.mkdir(parents=True, exist_ok=True)
-        running = 1
-        for index, snippet in pairs:
-            stem = _unique_name(dest, f"{running:02d}_{slugify(snippet['content']['en']['title'], 'snippet')}")
-            running += 1
-            tags = ", ".join(snippet.get("tags") or [])
-            levels = ", ".join(snippet.get("levels") or [])
-            (dest / f"{stem}.md").write_text(
-                render_file(
-                    {"id": snippet["id"], "index": index, "levels": levels, "tags": tags},
-                    grammar_body(snippet),
-                ),
-                encoding="utf-8",
-            )
-            counts["snippets"] += 1
+        stem = _unique_name(dest, f"{index + 1:02d}_{slugify(snippet['content']['en']['title'], 'snippet')}")
+        tags = ", ".join(snippet.get("tags") or [])
+        levels = ", ".join(snippet.get("levels") or [])
+        (dest / f"{stem}.md").write_text(
+            render_file(
+                {"id": snippet["id"], "index": index, "levels": levels, "tags": tags},
+                grammar_body(snippet),
+            ),
+            encoding="utf-8",
+        )
+        counts["snippets"] += 1
     return counts

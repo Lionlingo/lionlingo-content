@@ -3,112 +3,80 @@ order: 6
 ---
 
 en:
-- A room with a bathtub and balcony, please.
-- A room with bathtub and balcony, please.
+- A room with a bathtub and a balcony, please.
+- I'd like a room with a bathtub and a balcony, please.
 
 fr:
 - Une chambre avec baignoire et balcon, s'il vous plaît.
-- Une chambre avec baignoire et balcon, s'il vous plaît.
+- Je voudrais une chambre avec baignoire et balcon, s'il vous plaît.
 
 de:
 - Ein Zimmer mit Badewanne und Balkon, bitte.
-- Ein Zimmer mit Badewanne und Balkon, bitte.
+- Ich hätte gern ein Zimmer mit Badewanne und Balkon, bitte.
 
 am:
-- ባን እና ባልካን ያለው ክፍል፣ እባክህ።
-- የመታጠቢያ ገንዳና በረንዳ ያለው ክፍል፣ እባክህ።
+- የመታጠቢያ ገንዳ እና በረንዳ ያለው ክፍል እፈልጋለሁ፣ እባክዎ።
+- እባክዎ፣ የመታጠቢያ ገንዳ እና በረንዳ ያለው ክፍል።
 
 ar:
-- غرفة بحوض استحمام و شرفة من فضلك
-- غرفة بحوض الاستحمام والشرفة من فضلك
+- غرفة فيها حوض استحمام وشرفة، من فضلك.
+- أود غرفة بحوض استحمام وشرفة، من فضلك.
 
 es:
 - Una habitación con bañera y balcón, por favor.
-- Una habitación con bañera y balcón, por favor.
+- Quisiera una habitación con bañera y balcón, por favor.
 
 ja:
-- 浴槽とバルコニーのある部屋,お願いします.
-- 浴槽とバルコニーのある部屋,お願いします.
+- 浴槽とバルコニーのある部屋をお願いします。
+- 部屋は浴槽とバルコニー付きでお願いします。
 
 zh:
-- 有浴和阳台的房间,请.
-- 有浴和阳台的房间,请.
+- 请给我一间有浴缸和阳台的房间。
+- 请给我一间带浴缸和阳台的房间。
 
 ## vocabulary
 
 en:
-- a · uh
 - room · room
-- with · with
-- bathtub · bathtub
-- and · and
-- balcony · balcony
-- please · pleez
+- bathtub · BATH-tub
+- balcony · BAL-kuh-nee
 
 fr:
-- un · un
-- salle · salle
-- avec · avec
-- baignoire · bainywahre
-- et · et
-- balcon · balcon
-- s'il vous plaît · sil vu play
+- chambre · SHAHN-br
+- baignoire · ben-WAR
+- balcon · bal-KON
 
 de:
-- ein · eyen
-- raum · raum
-- mit · mit
-- wanne · wanne
-- und · und
-- balkon · balkon
-- bitte · BI: te
+- Zimmer · TSIM-er
+- Badewanne · BA-de-van-e
+- Balkon · bal-KON
 
 am:
-- አንድ · andh
-- ክፍል · kfl
-- ከ · ke
-- የመታጠቢያ ገንዳ · yemetathebiya gendha
-- እና · ena
-- በረንዳ · berendha
-- እባክህ · i-bak-ih
+- ክፍል · kifl
+- የመታጠቢያ ገንዳ · ye-me-ta-te-bi-ya gen-da
+- በረንዳ · be-ren-da
 
 ar:
-- Ø · 
-- غرفة · ghrfa
-- مع · ma-a
-- حوض الاستحمام · hwd alasthmam
-- و · w
-- الشرفة · alshrfa
-- من فضلك · min fadlak
+- غرفة · ghur-fa
+- حوض · hawd
+- شرفة · shur-fa
 
 es:
-- un · un
-- cuarto · cuarto
-- con · con
-- bañera · banyera
-- y · y
-- balcón · balcohn
-- por favor · por fa: VOR
+- habitación · a-bi-ta-THYON
+- bañera · ba-NYE-ra
+- balcón · bal-KON
 
 ja:
-- 一つの · hitotsu no
-- 部屋 · heya
-- と · to
-- バスタブ · basutabu
-- と · to
-- バルコニー · barukonii
-- お願いします · onegai shimasu
+- 部屋 · he-ya
+- 浴槽 · yoku-so
+- バルコニー · ba-ru-ko-nii
 
 zh:
-- 一个 · yí gè
-- 房間 · fáng jiān
-- 和 · hé
+- 房间 · fáng jiān
 - 浴缸 · yù gāng
-- 和 · hé
-- 露台 · lù tái
-- 请 · qǐng
+- 阳台 · yáng tái
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-prepositions · Prepositions
+- snippet-a1-conjunctions · Conjunctions

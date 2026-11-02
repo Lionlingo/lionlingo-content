@@ -7,19 +7,19 @@ en:
 - Can you call a doctor, please?
 
 fr:
-- S'il vous plaît, appelez un médecin.
-- Pouvez-vous appeler un médecin, s'il vous plaît?
+- Appelez un médecin, s'il vous plaît.
+- Pouvez-vous appeler un médecin, s'il vous plaît ?
 
 de:
 - Bitte rufen Sie einen Arzt.
 - Können Sie bitte einen Arzt rufen?
 
 am:
-- እባካችሁ አንድ ዶክተር ጠይቁ።
-- እባካችሁ አንድ ዶክተር መጥራት ትችላላችሁ?
+- እባክዎ ሐኪም ይጥሩ።
+- እባክዎ ሐኪም መጥራት ይችላሉ?
 
 ar:
-- من فضلك اتصل بالطبيب
+- من فضلك، اتصل بطبيب.
 - هل يمكنك الاتصال بطبيب، من فضلك؟
 
 es:
@@ -27,80 +27,40 @@ es:
 - ¿Puede llamar a un médico, por favor?
 
 ja:
-- 医者を呼んでください.
-- 医者を呼べますか?
+- 医者を呼んでください。
+- 医者を呼んでいただけますか？
 
 zh:
-- 请叫一个医生.
-- 请打电话给医生吗?
+- 请叫医生。
+- 请您叫一下医生。
 
 ## vocabulary
 
 en:
-- can · kan
-- you · yoo
-- call · call
-- a · uh
-- doctor · DOK: ter
-- please · pleez
+- doctor · DOK-ter
 
 fr:
-- pouvoir · poo: VWAR
-- tu · tu
-- appeler · appeler
-- un · un
-- médecin · mayd: SAN
-- s'il vous plaît · sil vu play
+- médecin · mayd-SAN
 
 de:
-- können · KER: nen
-- du · du
-- aufruf · aufruf
-- ein · eyen
-- Arzt/Ärztin · artst
-- bitte · BI: te
+- Arzt · artst
 
 am:
-- መቻል · mechal
-- አንተ · an-te
-- ይደውሉ · ydhewlu
-- አንድ · andh
-- ሐኪም · hakim
-- እባክህ · i-bak-ih
+- ሐኪም · ha-kim
 
 ar:
-- يستطيع · yastatee'
-- أنت · an-ta
-- اتصل · atsl
-- Ø · 
-- طبيب · tabib
-- من فضلك · min fadlak
+- طبيب · ta-beeb
 
 es:
-- poder · po: DER
-- tú · too
-- llamada · yamada
-- un · un
-- médico/a · ME: dee: ko
-- por favor · por fa: VOR
+- médico · ME-di-ko
 
 ja:
-- できる · dekiru
-- あなた · anata
-- 通話 · tsuuwa
-- 一つの · hitotsu no
-- 医者 · isha
-- お願いします · onegai shimasu
+- 医者 · i-sha
 
 zh:
-- 能 · néng / huì
-- 你 · nǐ
-- 致電 · zhì diàn
-- 一个 · yí gè
 - 医生 · yī shēng
-- 请 · qǐng
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-b1-indirect-questions · Indirect questions
+- snippet-a1-imperative · The imperative
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

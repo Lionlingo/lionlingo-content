@@ -7,76 +7,60 @@ en:
 - I am hungry.
 
 fr:
-- Je me sens affamée.
-- Je suis affamée.
+- J'ai faim.
+- Je ressens la faim.
 
 de:
-- Ich fühle mich hungrig.
-- Ich bin hungrig.
+- Ich habe Hunger.
+- Ich fühle Hunger.
 
 am:
 - ረሃብ ይሰማኛል።
-- ተርቤአለሁ።
+- ረሃብ አለብኝ።
 
 ar:
-- أشعر بالجوع
+- أشعر بالجوع.
 - أنا جائع.
 
 es:
 - Tengo hambre.
-- Tengo hambre.
+- Siento hambre.
 
 ja:
-- お腹が空いてる
-- お腹が空いてる
+- 私は空腹を感じています。
+- 私は空腹です。
 
 zh:
-- 我感到饿了.
-- 我饿了.
+- 我感到饿。
+- 我饿了。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- hungry · hungry
+- hungry · HUNG-gree
 
 fr:
-- je · zhuh
-- suis · suis
-- faim · faim
+- faim · fan
 
 de:
-- ich · ikh
-- bin · bin
-- hungernden · hungernden
+- Hunger · HOONG-er
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- የተራበ · yeterabe
+- ረሃብ · re-hab
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- جائع · jaya
+- الجوع · al-joo
 
 es:
-- yo · yo
-- soy · soy
-- hambrienta · hambrienta
+- hambre · AM-bre
 
 ja:
-- 私 · watashi
-- です · desu
-- 空腹 · kuufuku
+- 空腹 · kuu-fuku
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 餓 · è
+- 饿 · è
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a2-imperatives · Imperatives for requests and instructions
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

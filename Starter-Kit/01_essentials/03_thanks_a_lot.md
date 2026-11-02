@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-b2-future-perfect · Future perfect
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adverbs · Adverbs

@@ -7,68 +7,60 @@ en:
 - Happy anniversary!
 
 fr:
-- Je vous souhaite un bon anniversaire !
-- Joyeux anniversaire !
+- Bon anniversaire de mariage !
+- Je te souhaite un bon anniversaire de mariage !
 
 de:
-- Viel Glück zum Hochzeitstag!
 - Alles Gute zum Hochzeitstag!
+- Ich wünsche dir alles Gute zum Hochzeitstag!
 
 am:
-- መልካም ዓመት ይሁንልህ!
-- መልካም ዓመት!
+- መልካም የጋብቻ በዓል!
+- የጋብቻ በዓልህ መልካም ይሁንልህ!
 
 ar:
-- عيد ميلاد سعيد!
-- عيد ميلاد سعيد!
+- ذكرى زواج سعيدة!
+- أتمنى لك ذكرى زواج سعيدة!
 
 es:
+- ¡Feliz aniversario!
 - ¡Que tengas un feliz aniversario!
-- ¡Feliz cumpleaños!
 
 ja:
-- 誕生日おめでとう!
-- 誕生日おめでとう!
+- 記念日おめでとう。
+- 結婚記念日おめでとう。
 
 zh:
-- 一个快乐的纪念日!
-- 祝你生日快乐!
+- 纪念日快乐！
+- 祝你纪念日快乐！
 
 ## vocabulary
 
 en:
-- happy · hap-ee
-- anniversary · anniversary
+- anniversary · an-i-VUR-suh-ree
 
 fr:
-- heureuses · heureuses
-- anniversaire · anniversaire
+- anniversaire · a-nee-ver-SAIR
 
 de:
-- gerne · gerne
-- jubiläum · jubilehum
+- Hochzeitstag · HOKH-tsyts-tak
 
 am:
-- ደስተኛ · dhestenya
-- አመታዊ በአል · ametawi beal
+- ጋብቻ · gab-cha
 
 ar:
-- يسعد · ysad
-- ذكرى · dhkra
+- زواج · za-waaj
 
 es:
-- feliz · feliz
-- aniversario · aniversario
+- aniversario · a-ni-ver-SA-ryo
 
 ja:
-- ハッピー · happii
-- 周年 · shuunen
+- 記念日 · ki-nen-bi
 
 zh:
-- 開心 · kāi xīn
-- 週年紀念 · zhōu nián jì niàn
+- 纪念日 · jì niàn rì
 
 ## grammar
 
-- snippet-b1-present-perfect · Present perfect
-- snippet-b2-perfect-continuous · Present perfect continuous
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

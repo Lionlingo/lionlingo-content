@@ -4,71 +4,71 @@ order: 18
 
 en:
 - Do you deliver to homes?
-- Home delivery?
+- Do you do home delivery?
 
 fr:
-- Vous faites des livraisons à domicile ?
-- Livraison à domicile ?
+- La livraison à domicile, vous la faites ?
+- Vous faites la livraison à domicile ?
 
 de:
-- Liefern Sie zu Hause?
-- Lieferung zu Hause?
+- Liefern Sie ins Haus?
+- Gibt es Lieferung ins Haus?
 
 am:
-- ቤት ለቤት ትልካለህ?
-- የቤት አቅርቦት?
+- የቤት አቅርቦት አለዎት?
+- የቤት አቅርቦት ታደርጋላችሁ?
 
 ar:
-- هل تقومون بتوصيل البضائع إلى المنازل؟
-- التوصيل المنزلي؟
+- هل لديكم توصيل إلى المنازل؟
+- هل التوصيل إلى المنازل متوفر؟
 
 es:
-- ¿Entregas a domicilio?
-- ¿Envío al hogar?
+- ¿Hay entrega a domicilio?
+- ¿Tienen entrega a domicilio?
 
 ja:
-- 宅配はするんですか?
-- 宅配で?
+- 自宅に配送しますか？
+- 自宅への配送はありますか？
 
 zh:
-- 您是否会在家中送货?
-- 在家送货吗?
+- 你们送货上门吗？
+- 有上门送货吗？
 
 ## vocabulary
 
 en:
 - home · home
-- delivery · delivery
+- deliver · di-LIV-er
 
 fr:
-- maison · maison
-- livraison · livraison
+- domicile · do-mee-SEEL
+- livraison · lee-vray-ZON
 
 de:
-- startseite · startseyete
-- lieferbedingungen · leeferbedingungen
+- Haus · hows
+- Liefer · LEE-fer
 
 am:
 - ቤት · bet
-- ማድረስ · madhres
+- አቅርቦት · a-qir-bot
 
 ar:
-- المنزل · almnzl
-- التسليم · altslym
+- المنازل · al-ma-naa-zil
+- توصيل · taw-seel
 
 es:
-- hogar · hogar
-- entrega · entrega
+- domicilio · do-mi-SI-lyo
+- entrega · en-TRE-ga
 
 ja:
-- 自宅 · jitaku
-- 配達 · haitatsu
+- 自宅 · ji-ta-ku
+- 配送 · hai-so
 
 zh:
-- 首頁 · shǒu yè
-- 送貨 · sòng huò
+- 上门 · shàng mén
+- 送货 · sòng huò
 
 ## grammar
 
-- snippet-c1-participle-clauses · Participle clauses
-- snippet-b2-future-perfect · Future perfect
+- snippet-a1-interrogation · Questions
+- snippet-a1-prepositions · Prepositions

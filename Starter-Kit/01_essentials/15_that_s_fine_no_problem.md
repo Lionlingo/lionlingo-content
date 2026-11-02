@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-tag-questions · Tag questions
-- snippet-a2-near-future · going to
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a1-sein · To be

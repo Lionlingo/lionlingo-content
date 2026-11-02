@@ -4,22 +4,22 @@ order: 1
 
 en:
 - Please take me to the airport.
-- Can you take me to the airport, please?
+- Could you take me to the airport, please?
 
 fr:
-- Veuillez m'emmener à l'aéroport.
-- Pouvez-vous m'emmener à l'aéroport, s'il vous plaît ?
+- S'il te plaît, emmène-moi à l'aéroport.
+- Peux-tu m'emmener à l'aéroport, s'il te plaît ?
 
 de:
-- Bitte bringen Sie mich zum Flughafen.
+- Bitte bring mich zum Flughafen.
 - Kannst du mich bitte zum Flughafen bringen?
 
 am:
-- እባካችሁ ወደ አውሮፕላን ማረፊያው ውሰዱኝ።
+- እባክህ ወደ አውሮፕላን ማረፊያው ውሰደኝ።
 - እባክህ ወደ አውሮፕላን ማረፊያው ልትወስደኝ ትችላለህ?
 
 ar:
-- من فضلك خذني إلى المطار
+- من فضلك، خذني إلى المطار.
 - هل يمكنك أن تأخذني إلى المطار، من فضلك؟
 
 es:
@@ -27,96 +27,48 @@ es:
 - ¿Puedes llevarme al aeropuerto, por favor?
 
 ja:
-- 空港まで連れて行ってください.
-- 空港まで連れて行ってくれないか?
+- 空港までお願いします。
+- 空港までお願いできますか?
 
 zh:
-- 请带我去机场.
-- 请带我去机场吗?
+- 麻烦你带我去机场。
+- 麻烦你，能带我去机场吗？
 
 ## vocabulary
 
 en:
-- can · kan
-- you · yoo
-- take · take
-- me · me
-- to · too
-- the · thuh
-- airport · airport
 - please · pleez
+- airport · AIR-port
 
 fr:
-- pouvoir · poo: VWAR
-- tu · tu
-- prend · prend
-- moi · mwah
-- à · ah
-- le · luh
-- aéroports · aayroports
-- s'il vous plaît · sil vu play
+- s'il te plaît · sil tuh play
+- aéroport · a-ay-ro-POR
 
 de:
-- können · KER: nen
-- du · du
-- nehmen · nehmen
-- mich · mikh
-- zu · zu
-- der · dehr
-- flugplatz · flugplatz
-- bitte · BI: te
+- bitte · BIT-te
+- Flughafen · FLOOG-hah-fen
 
 am:
-- መቻል · mechal
-- አንተ · an-te
-- ውሰድ · wsedh
-- እኔን · enen
-- ወደ · we-de
-- የ · ye
-- አየር ማረፊያ · ayer marefiya
-- እባክህ · i-bak-ih
+- እባክህ · ibakih
+- አውሮፕላን ማረፊያ · awroplan marefiya
 
 ar:
-- يستطيع · yastatee'
-- أنت · an-ta
-- خذ · khdh
-- لي · ly
-- إلى · i-la
-- ال · al
-- مطار · mtar
 - من فضلك · min fadlak
+- المطار · al-matar
 
 es:
-- poder · po: DER
-- tú · too
-- tomar · tomar
-- me · me
-- a · a
-- el · el
-- aeropuertos · aeropuertos
-- por favor · por fa: VOR
+- por favor · por fa-VOR
+- aeropuerto · a-e-ro-PWER-to
 
 ja:
-- できる · dekiru
-- あなた · anata
-- 取る · toru
-- 私 · watashi
-- に · ni
-- その · sono
-- 空港 · kuukou
-- お願いします · onegai shimasu
+- お願い · onegai
+- 空港 · kūkō
 
 zh:
-- 能 · néng / huì
-- 你 · nǐ
-- 拿 · ná
-- 我 · wǒ
-- 到 · dào
-- 这 · zhè
-- 機場 · jī chǎng
-- 请 · qǐng
+- 麻烦 · má fan
+- 机场 · jī chǎng
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b1-indirect-questions · Indirect questions
+- snippet-a1-imperative · The imperative
+- snippet-a1-two-way-prepositions · Place and direction

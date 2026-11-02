@@ -3,36 +3,36 @@ order: 7
 ---
 
 en:
-- One ticket, thanks.
 - One ticket, please.
+- Please, one ticket.
 
 fr:
-- Un billet, merci.
 - Un billet, s'il vous plaît.
+- S'il vous plaît, un billet.
 
 de:
-- Ein Ticket, danke.
 - Ein Ticket, bitte.
+- Bitte, ein Ticket.
 
 am:
-- አንድ ትኬት፣ አመሰግናለሁ።
 - አንድ ትኬት፣ እባክህ።
+- እባክህ፣ አንድ ትኬት።
 
 ar:
-- تذكرة واحدة، شكراً.
-- تذكرة واحدة من فضلك
+- تذكرة واحدة، من فضلك.
+- من فضلك، تذكرة واحدة.
 
 es:
-- Un boleto, gracias.
 - Un boleto, por favor.
+- Por favor, un boleto.
 
 ja:
-- チケット1枚,ありがとう
-- チケットを1枚お願いします.
+- チケットを1枚、お願いします。
+- お願いします、チケットを1枚。
 
 zh:
-- 一张票,谢谢.
-- 一张票,请.
+- 一张票，请。
+- 请，一张票。
 
 ## vocabulary
 
@@ -44,39 +44,39 @@ en:
 fr:
 - un · uhn
 - billet · bee: YAY
-- s'il vous plaît · sil vu play
+- s'il vous plaît · seel voo PLAY
 
 de:
-- eins · ines
-- Ticket / Fahrkarte · TI: ket
+- ein · ine
+- Ticket · TI: ket
 - bitte · BI: te
 
 am:
 - አንድ · and
-- ትኬት · tiket
-- እባክህ · i-bak-ih
+- ትኬት · ti-ket
+- እባክህ · i-ba-kih
 
 ar:
-- واحد · wa-hid
-- تذكرة · tadhkira
-- من فضلك · min fadlak
+- واحدة · wa-hi-da
+- تذكرة · tadh-ki-ra
+- من فضلك · min fad-lak
 
 es:
-- uno · OO: no
-- billete · bee: YE: te
+- un · oon
+- boleto · bo: LE: to
 - por favor · por fa: VOR
 
 ja:
-- 一 · ichi
-- 切符 · kippu
-- お願いします · onegai shimasu
+- 1枚 · ichi-mai
+- チケット · chi-ket-to
+- お願いします · o-ne-gai shi-ma-su
 
 zh:
-- 一 · yī
+- 一张 · yī zhāng
 - 票 · piào
 - 请 · qǐng
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
-- snippet-a1-numbers-basic · Basic numbers 1–20
+- snippet-a1-ein-forms · a, an, some, no
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

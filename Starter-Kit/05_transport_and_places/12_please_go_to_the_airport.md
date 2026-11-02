@@ -4,87 +4,79 @@ order: 12
 
 en:
 - Please go to the airport.
-- To the airport, please.
+- Could you go to the airport, please?
 
 fr:
-- Allez à l'aéroport.
-- À l'aéroport, s'il vous plaît.
+- S'il vous plaît, allez à l'aéroport.
+- Pourriez-vous aller à l'aéroport, s'il vous plaît ?
 
 de:
 - Bitte gehen Sie zum Flughafen.
-- Zum Flughafen, bitte.
+- Könnten Sie bitte zum Flughafen gehen?
 
 am:
 - እባካችሁ ወደ አውሮፕላን ማረፊያው ሂዱ።
-- ወደ አውሮፕላን ማረፊያው እባክህ
+- እባካችሁ ወደ አውሮፕላን ማረፊያው መሄድ ትችላላችሁ?
 
 ar:
-- ارجوك اذهب الى المطار
-- إلى المطار من فضلك
+- من فضلك، اذهب إلى المطار.
+- هل يمكنك الذهاب إلى المطار، من فضلك؟
 
 es:
 - Por favor, vaya al aeropuerto.
-- Al aeropuerto, por favor.
+- ¿Podría ir al aeropuerto, por favor?
 
 ja:
-- 空港へ行ってください.
-- 空港へ
+- 空港へ行ってください。
+- 空港へ行っていただけますか？
 
 zh:
-- 请去机场.
-- 机场,请.
+- 请去机场。
+- 可以请您去机场吗？
 
 ## vocabulary
 
 en:
-- to · too
-- the · thuh
-- airport · airport
+- go · goh
+- airport · AIR: port
 - please · pleez
 
 fr:
-- à · ah
-- le · luh
-- aéroports · aayroports
-- s'il vous plaît · sil vu play
+- allez · a: LAY
+- aéroport · a: ay: ro: POR
+- s'il vous plaît · seel voo PLAY
 
 de:
-- zu · zu
-- der · dehr
-- flugplatz · flugplatz
+- gehen · GAY: en
+- Flughafen · FLOOK: hah: fen
 - bitte · BI: te
 
 am:
-- ወደ · we-de
-- የ · ye
-- አየር ማረፊያ · ayer marefiya
-- እባክህ · i-bak-ih
+- ሂዱ · hi-du
+- አውሮፕላን ማረፊያው · aw-ro-plan ma-re-fi-ya-u
+- እባካችሁ · i-ba-ka-chihu
 
 ar:
-- إلى · i-la
-- ال · al
-- مطار · mtar
-- من فضلك · min fadlak
+- اذهب · idh-hab
+- المطار · al-ma-taar
+- من فضلك · min fad-lak
 
 es:
-- a · a
-- el · el
-- aeropuertos · aeropuertos
+- vaya · VA: ya
+- aeropuerto · a: e: ro: PWER: to
 - por favor · por fa: VOR
 
 ja:
-- に · ni
-- その · sono
-- 空港 · kuukou
-- お願いします · onegai shimasu
+- 行って · it-te
+- 空港 · kū-kō
+- ください · ku-da-sai
 
 zh:
-- 到 · dào
-- 这 · zhè
-- 機場 · jī chǎng
+- 去 · qù
+- 机场 · jī chǎng
 - 请 · qǐng
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-a2-near-future · going to
+- snippet-a1-imperative · The imperative
+- snippet-a1-two-way-prepositions · Place and direction

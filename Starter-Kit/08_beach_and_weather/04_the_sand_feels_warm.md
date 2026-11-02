@@ -7,7 +7,7 @@ en:
 - The sand is warm.
 
 fr:
-- Le sable est chaud.
+- Le sable est chaud au toucher.
 - Le sable est chaud.
 
 de:
@@ -15,76 +15,60 @@ de:
 - Der Sand ist warm.
 
 am:
+- አሸዋው ሲነካ ሞቅ ያለ ነው።
 - አሸዋው ሞቅ ያለ ነው።
-- አሸዋው ሞቃት ነው።
 
 ar:
-- الرمل يشعر بالدفء
-- الرمال دافئة
+- ملمس الرمل دافئ.
+- الرمل دافئ.
 
 es:
-- La arena se siente caliente.
-- La arena está caliente.
+- La arena se siente tibia.
+- La arena está tibia.
 
 ja:
-- 砂は温かい感じがする.
-- 砂は温かい.
+- 砂は温かく感じます。
+- 砂は温かいです。
 
 zh:
-- 沙子感觉很温暖.
-- 沙子是温暖的.
+- 沙子感觉温暖。
+- 沙子是温暖的。
 
 ## vocabulary
 
 en:
-- the · thuh
 - sand · sand
-- is · iz
-- warm · warm
+- warm · worm
 
 fr:
-- le · luh
-- sables · sables
-- est · est
-- chaud · shaud
+- sable · SAH-bl
+- chaud · sho
 
 de:
-- der · dehr
-- sandstrand · sandstrand
-- ist · ist
-- warmen · warmen
+- Sand · zant
+- warm · varm
 
 am:
-- የ · ye
-- አሸዋ · ashewa
-- ነው · new
-- ሞቃት · moqat
+- አሸዋው · a-she-waw
+- ሞቅ · mok
 
 ar:
-- ال · al
-- الرمال · alrmal
-- هو · hu-wa
-- دافئة · dafya
+- الرمل · ar-raml
+- دافئ · daa-fi
 
 es:
-- el · el
-- arena · arena
-- es · es
-- cálido · cahlido
+- arena · a-RE-na
+- tibia · TEE-bya
 
 ja:
-- その · sono
-- 砂塵 · sajin
-- です · desu
-- あったかい · attakai
+- 砂 · su-na
+- 温かい · a-ta-ta-kai
 
 zh:
-- 这 · zhè
-- 沙 · shā
-- 是 · shì
-- 溫暖 · wēn nuǎn
+- 沙子 · shā zi
+- 温暖 · wēn nuǎn
 
 ## grammar
 
-- snippet-a1-articles-definiteness · a / an / the
-- snippet-b1-first-conditional · First conditional
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

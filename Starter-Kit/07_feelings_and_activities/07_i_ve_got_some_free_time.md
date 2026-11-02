@@ -3,88 +3,72 @@ order: 7
 ---
 
 en:
-- I've got some free time
-- I have free time
+- I've got some free time.
+- I have some free time.
 
 fr:
-- J' ai du temps libre
-- J' ai du temps libre .
+- J'ai du temps libre.
+- J'ai un peu de temps libre.
 
 de:
 - Ich habe etwas Freizeit.
-- Ich habe Freizeit.
+- Ich habe etwas freie Zeit.
 
 am:
-- ነፃ ጊዜ አለኝ
-- ነፃ ጊዜ አለኝ
+- ትንሽ ነፃ ጊዜ አለኝ።
+- ጥቂት ነፃ ጊዜ አለኝ።
 
 ar:
-- لدي بعض الوقت
-- لدي وقت فراغ
+- لدي بعض وقت الفراغ.
+- عندي بعض وقت الفراغ.
 
 es:
 - Tengo algo de tiempo libre.
-- Tengo tiempo libre.
+- Tengo un poco de tiempo libre.
 
 ja:
-- 自由時間がある
-- 暇な時間がある
+- 少し自由な時間があります。
+- いくらか自由な時間があります。
 
 zh:
-- 我有点空时间
-- 我有空时间.
+- 我有一点空闲时间。
+- 我有一些空闲时间。
 
 ## vocabulary
 
 en:
-- i · eye
 - have · hav
-- free · free
-- time · time
+- free time · free time
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- libre · LEE: br
-- temps · temps
+- ai · ay
+- temps libre · tahn LEE-br
 
 de:
-- ich · ikh
-- haben · haben
-- frei · fry
-- zeit · zeyet
+- habe · HAH-be
+- Freizeit · FRY-tsyt
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
-- ነፃ · netsa
-- ጊዜ · gize
+- አለኝ · a-leny
+- ነፃ ጊዜ · ne-tsa gi-ze
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- متفرّغ · mutafarrigh
-- وقت · wqt
+- لدي · la-day-ya
+- وقت الفراغ · waqt al-fa-ragh
 
 es:
-- yo · yo
-- tener · tener
-- libre · LEE: bre
-- hora · hora
+- tengo · TEN-go
+- tiempo libre · TYEM-po LEE-bre
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- ひま · hima
-- タイム · taimu
+- あります · a-ri-ma-su
+- 自由な時間 · ji-yuu na ji-kan
 
 zh:
-- 我 · wǒ
 - 有 · yǒu
-- 有空 · yǒu kòng
-- 時光 · shí guāng
+- 空闲时间 · kòng xián shí jiān
 
 ## grammar
 
-- snippet-c1-participle-clauses · Participle clauses
-- snippet-b2-causative · Causatives (have, get, make, let)
+- snippet-a1-haben · To have
+- snippet-a1-ein-forms · a, an, some, no

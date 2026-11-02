@@ -11,72 +11,56 @@ fr:
 - Le menu, s'il vous plaît.
 
 de:
-- Könnte ich bitte die Speisekarte sehen?
-- Das Menü, bitte.
+- Könnte ich die Speisekarte sehen, bitte?
+- Die Speisekarte, bitte.
 
 am:
-- ምናሌውን ማየት እችላለሁ?
-- ምናሌውን እባክህ።
+- ምናሌውን ማየት እችላለሁ፣ እባክዎ?
+- ምናሌውን እባክዎ።
 
 ar:
-- أيمكنني رؤية القائمة من فضلك؟
-- القائمة من فضلك
+- هل يمكنني رؤية القائمة، من فضلك؟
+- القائمة، من فضلك.
 
 es:
-- ¿Puedo ver el menú, por favor?
+- ¿Podría ver el menú, por favor?
 - El menú, por favor.
 
 ja:
-- メニューを見てもらえますか?
-- メニューをお願いします
+- メニューを見せてください。
+- メニューをお願いします。
 
 zh:
-- 请让我看看菜单.
-- 菜单,请.
+- 请让我看一下菜单。
+- 菜单，请。
 
 ## vocabulary
 
 en:
-- the · thuh
-- menu · menu
-- please · pleez
+- menu · MEN-yoo
 
 fr:
-- le · luh
-- menu · menu
-- s'il vous plaît · sil vu play
+- menu · muh-NU
 
 de:
-- der · dehr
-- menü · menue
-- bitte · BI: te
+- Speisekarte · SHPY-ze-kar-te
 
 am:
-- የ · ye
-- ምናሌ · mnale
-- እባክህ · i-bak-ih
+- ምናሌ · mi-na-le
 
 ar:
-- ال · al
-- قائمة · qayma
-- من فضلك · min fadlak
+- القائمة · al-qaa-i-ma
 
 es:
-- el · el
-- menu · menu
-- por favor · por fa: VOR
+- menú · me-NU
 
 ja:
-- その · sono
-- メニュー · menyuu
-- お願いします · onegai shimasu
+- メニュー · me-nyu
 
 zh:
-- 这 · zhè
-- 選單 · xuǎn dān
-- 请 · qǐng
+- 菜单 · cài dān
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

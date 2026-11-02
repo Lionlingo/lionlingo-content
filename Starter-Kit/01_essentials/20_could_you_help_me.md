@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-c1-apposition · Apposition
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-interrogation · Questions

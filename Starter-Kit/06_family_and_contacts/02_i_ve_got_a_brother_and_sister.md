@@ -3,104 +3,80 @@ order: 2
 ---
 
 en:
-- I've got a brother and sister
-- I have a brother and sister
+- I've got a brother and a sister.
+- I have a brother and a sister.
 
 fr:
-- J'ai un frère et une sœur
-- J' ai un frère et une sœur .
+- J'ai un frère et une sœur.
+- J'ai un frère et une sœur.
 
 de:
 - Ich habe einen Bruder und eine Schwester.
 - Ich habe einen Bruder und eine Schwester.
 
 am:
-- ወንድምና እህት አለኝ
-- ወንድምና እህት አለኝ
+- ወንድምና እህት አሉኝ።
+- ወንድምና እህት አሉኝ።
 
 ar:
-- لدي أخ وأخت
-- لدي أخ وأخت
+- لدي أخ وأخت.
+- لدي أخ وأخت.
 
 es:
 - Tengo un hermano y una hermana.
 - Tengo un hermano y una hermana.
 
 ja:
-- 兄弟と妹がいる
-- 兄弟と妹がいる
+- 兄と妹がいます。
+- 兄と妹がいます。
 
 zh:
-- 我有一个兄弟姐妹.
-- 我有一个兄弟姐妹.
+- 我有一个哥哥和一个妹妹。
+- 我有一个哥哥和一个妹妹。
 
 ## vocabulary
 
 en:
-- i · eye
+- brother · BRUH-ther
+- sister · SIS-ter
 - have · hav
-- a · uh
-- brother · BRUH: ther
-- and · and
-- sister · SIS: ter
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- un · un
 - frère · frehr
-- et · et
 - sœur · sur
+- ai · ay
 
 de:
-- ich · ikh
-- haben · haben
-- ein · eyen
-- Bruder · BROO: der
-- und · und
-- Schwester · SHVES: ter
+- Bruder · BROO-der
+- Schwester · SHVES-ter
+- habe · HAH-be
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
-- አንድ · andh
-- ወንድም · wendim
-- እና · ena
-- እህት · ihit
+- ወንድም · wändəm
+- እህት · əhət
+- አሉኝ · aluñ
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- Ø · 
 - أخ · akh
-- و · w
 - أخت · ukht
+- لدي · ladayya
 
 es:
-- yo · yo
-- tener · tener
-- un · un
-- hermano · er: MA: no
-- y · y
-- hermana · er: MA: na
+- hermano · er-MAH-noh
+- hermana · er-MAH-nah
+- tengo · TEN-goh
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 一つの · hitotsu no
-- 兄・弟 · ani / otōto
-- と · to
-- 姉・妹 · ane / imōto
+- 兄 · ani
+- 妹 · imōto
+- います · imasu
 
 zh:
-- 我 · wǒ
+- 哥哥 · gēge
+- 妹妹 · mèimei
 - 有 · yǒu
-- 一个 · yí gè
-- 哥哥／弟弟 · gē ge / dì di
-- 和 · hé
-- 姐姐／妹妹 · jiě jie / mèi mei
 
 ## grammar
 
-- snippet-a1-have-possession · Have for possession
-- snippet-b1-relative-clauses · Relative clauses
+- snippet-a1-haben · To have
+- snippet-a1-conjunctions · Conjunctions

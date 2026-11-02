@@ -4,71 +4,71 @@ order: 17
 
 en:
 - What's your phone number?
-- What's your phone number, please?
+- Could I have your phone number?
 
 fr:
 - Quel est ton numéro de téléphone ?
-- Quel est ton numéro de téléphone, s'il te plaît ?
+- Je peux avoir ton numéro de téléphone ?
 
 de:
 - Wie ist deine Telefonnummer?
-- Wie ist deine Telefonnummer, bitte?
+- Kann ich deine Telefonnummer haben?
 
 am:
 - ስልክ ቁጥርህ ምንድን ነው?
-- ስልክ ቁጥርህ ምንድን ነው እባክህ?
+- ስልክ ቁጥርህን ልታካፍለኝ ትችላለህ?
 
 ar:
 - ما هو رقم هاتفك؟
-- ما هو رقم هاتفك من فضلك؟
+- هل يمكنني الحصول على رقم هاتفك؟
 
 es:
 - ¿Cuál es tu número de teléfono?
-- ¿Cuál es tu número de teléfono, por favor?
+- ¿Me das tu número de teléfono?
 
 ja:
 - 電話番号は何ですか?
-- あなたの電話番号は何ですか?
+- 電話番号を教えてもらえますか?
 
 zh:
 - 你的电话号码是多少？
-- 你的电话号码是多少呢？
+- 可以告诉我你的电话号码吗？
 
 ## vocabulary
 
 en:
-- what's your · wots yor
-- phone number · fohn NUM-ber
+- phone · fohn
+- number · NUM-ber
 
 fr:
-- quel est ton · kel e ton
-- numéro de téléphone · nu-may-ro duh tay-lay-fon
+- téléphone · tay-lay-fon
+- numéro · nu-may-ro
 
 de:
-- wie ist deine · vee ist DY-ne
-- Telefonnummer · te-le-FOHN-nu-mer
+- Telefon · te-le-FOHN
+- nummer · NU-mer
 
 am:
-- ምንድን ነው · mindin new
-- ስልክ ቁጥርህ · silk kutirih
+- ስልክ · silk
+- ቁጥር · kutir
 
 ar:
-- ما هو · ma huwa
-- رقم هاتفك · raqm hatifik
+- هاتف · hatif
+- رقم · raqm
 
 es:
-- cuál es tu · kwal es too
-- número de teléfono · NU-me-ro de te-LE-fo-no
+- teléfono · te-LE-fo-no
+- número · NU-me-ro
 
 ja:
-- 何ですか · nan desu ka
-- 電話番号 · denwa bangō
+- 電話 · denwa
+- 番号 · bangō
 
 zh:
-- 是多少 · shì duōshao
-- 电话号码 · diànhuà hàomǎ
+- 电话 · diàn huà
+- 号码 · hào mǎ
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a1-wh-questions · Question words
+- snippet-a1-possessives · my, your, his, her

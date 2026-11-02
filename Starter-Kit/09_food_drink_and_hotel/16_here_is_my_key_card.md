@@ -4,87 +4,63 @@ order: 16
 
 en:
 - Here is my key card.
-- My key card, please.
+- This is my key card.
 
 fr:
-- Voici ma carte de crédit.
-- Ma carte, s'il vous plaît.
+- Voici ma carte-clé.
+- C'est ma carte-clé.
 
 de:
 - Hier ist meine Schlüsselkarte.
-- Meine Karte, bitte.
+- Das ist meine Schlüsselkarte.
 
 am:
-- እዚህ ላይ የእኔን ካርድ ነው.
-- የእኔን ካርድ፣ እባክህ።
+- እነሆ የኔ ቁልፍ ካርድ።
+- ይህ የኔ ቁልፍ ካርድ ነው።
 
 ar:
-- هذه بطاقة المفتاح الخاصة بي
-- بطاقتي، من فضلك.
+- هذه بطاقة مفتاحي.
+- بطاقة مفتاحي هذه.
 
 es:
-- Aquí está mi tarjeta.
-- Mi tarjeta, por favor.
+- Aquí está mi tarjeta llave.
+- Esta es mi tarjeta llave.
 
 ja:
-- これが私のカードです.
-- 鍵カードを
+- これが私のカードキーです。
+- こちらが私のカードキーです。
 
 zh:
-- 这里是我的钥匙卡.
-- 请把我的卡片.
+- 这是我的钥匙卡。
+- 我的钥匙卡在这里。
 
 ## vocabulary
 
 en:
-- my · my
-- key · key
-- card · card
-- please · pleez
+- key card · KEE kard
 
 fr:
-- mon · mon
-- touche · tooshe
-- carte · carte
-- s'il vous plaît · sil vu play
+- carte-clé · kart-KLAY
 
 de:
-- mein · meyen
-- taste · taste
-- visitenkarte · visitenkarte
-- bitte · BI: te
+- Schlüsselkarte · SHLUS-el-kar-te
 
 am:
-- የእኔ · yeene
-- ቁልፍ · qulf
-- ካርድ · kardh
-- እባክህ · i-bak-ih
+- ቁልፍ ካርድ · qulf kard
 
 ar:
-- لي · ly
-- المفتاح · almftah
-- بطاقة · btaqa
-- من فضلك · min fadlak
+- بطاقة مفتاحي · bi-taa-qa mif-taa-hi
 
 es:
-- mi · mi
-- llaves · yaves
-- tarjeta · tarkheta
-- por favor · por fa: VOR
+- tarjeta llave · tar-KHE-ta YA-ve
 
 ja:
-- 私の · watashi no
-- キー · kii
-- カード · kaado
-- お願いします · onegai shimasu
+- カードキー · kaa-do-kii
 
 zh:
-- 我的 · wǒ de
-- 鑰匙 · yào shi
-- 卡 · kǎ
-- 请 · qǐng
+- 钥匙卡 · yào shi kǎ
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a2-imperatives · Imperatives for requests and instructions
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-two-way-prepositions · Place and direction

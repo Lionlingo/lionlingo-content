@@ -3,15 +3,15 @@ order: 18
 ---
 
 en:
-- I have two kids
-- I have two children
+- I have two kids.
+- I have two children.
 
 fr:
-- J' ai deux enfants .
-- J' ai deux enfants .
+- J'ai deux gamins.
+- J'ai deux enfants.
 
 de:
-- Ich habe zwei Kinder.
+- Ich habe zwei Kids.
 - Ich habe zwei Kinder.
 
 am:
@@ -19,72 +19,56 @@ am:
 - ሁለት ልጆች አሉኝ።
 
 ar:
-- لدي طفلين
-- لدي طفلين
+- لدي طفلان.
+- لدي ولدان.
 
 es:
-- Tengo dos hijos.
+- Tengo dos niños.
 - Tengo dos hijos.
 
 ja:
-- 子供は2人いる
-- 私には2人の子供がいる
+- 子供が二人います。
+- 私には子供が二人います。
 
 zh:
-- 我有两个孩子.
-- 我有两个孩子.
+- 我有两个孩子。
+- 我有两个小孩。
 
 ## vocabulary
 
 en:
-- i · eye
 - have · hav
 - two · too
-- children · children
 
 fr:
-- je · zhuh
-- avoir · avwahr
+- ai · eh
 - deux · duh
-- enfants · enfants
 
 de:
-- ich · ikh
-- haben · haben
-- zwei · tsvai
-- kinder · kinder
+- habe · HAH-be
+- zwei · tsvy
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
+- አሉኝ · alugn
 - ሁለት · hulet
-- ልጆች · ljaoch
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- اثنان · ith-nan
-- الاطفال · alatfal
+- لدي · ladayya
+- ـان · -aan
 
 es:
-- yo · yo
-- tener · tener
+- tengo · TEN-go
 - dos · dos
-- niñez · ninyez
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 二 · ni
-- 子供 · kodomo
+- います · imasu
+- 二人 · futari
 
 zh:
-- 我 · wǒ
 - 有 · yǒu
-- 二 · èr
-- 兒童 · ér tóng
+- 两个 · liǎng gè
 
 ## grammar
 
-- snippet-a1-have-possession · Have for possession
-- snippet-b2-second-conditional · Second conditional
+- snippet-a1-haben · To have
+- snippet-a1-plural · Plural nouns

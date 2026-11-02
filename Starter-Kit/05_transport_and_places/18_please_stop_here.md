@@ -7,32 +7,32 @@ en:
 - Stop here, please.
 
 fr:
-- S'il vous plaît, arrêtez-vous ici.
-- Arrêtez ici, s'il vous plaît.
+- Veuillez vous arrêter ici, s'il vous plaît.
+- Arrêtez-vous ici, s'il vous plaît.
 
 de:
 - Bitte halten Sie hier an.
-- Bleiben Sie bitte hier.
+- Halten Sie bitte hier an.
 
 am:
 - እባክህ እዚህ አቁም።
 - እዚህ አቁም እባክህ።
 
 ar:
-- أرجوك توقف هنا
-- توقف هنا من فضلك
+- أرجوك توقف هنا.
+- توقف هنا من فضلك.
 
 es:
 - Por favor, deténgase aquí.
-- Detente aquí, por favor.
+- Deténgase aquí, por favor.
 
 ja:
-- ここで止まって下さい.
-- ここで止まって下さい
+- ここで止まってください。
+- ここで止まってください。
 
 zh:
-- 请停在这里.
-- 请停在这里.
+- 请停在这里。
+- 请停在这里。
 
 ## vocabulary
 
@@ -42,41 +42,41 @@ en:
 - please · pleez
 
 fr:
-- arrêt · arreht
-- ici · ee: SEE
-- s'il vous plaît · sil vu play
+- arrêter · ah-reh-TAY
+- ici · ee-SEE
+- s'il vous plaît · seel voo pleh
 
 de:
-- stopp · stopp
+- halten · HAL-ten
 - hier · heer
-- bitte · BI: te
+- bitte · BIT-te
 
 am:
-- ተወ · tewe
-- እዚህ · izi
-- እባክህ · i-bak-ih
+- አቁም · aqum
+- እዚህ · əzih
+- እባክህ · əbakkih
 
 ar:
-- وقف · wqf
-- هنا · huna
-- من فضلك · min fadlak
+- توقف · tawaqqaf
+- هنا · hunā
+- من فضلك · min faḍlik
 
 es:
-- parada · parada
-- aquí · a: KEE
-- por favor · por fa: VOR
+- deténgase · deh-TEN-gah-seh
+- aquí · ah-KEE
+- por favor · por fah-VOR
 
 ja:
-- 停止 · teishi
+- 止まって · tomattte
 - ここ · koko
-- お願いします · onegai shimasu
+- ください · kudasai
 
 zh:
-- 停止 · tíng zhǐ
-- 这里 · zhè lǐ
+- 停 · tíng
+- 这里 · zhèlǐ
 - 请 · qǐng
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-b2-causative · Causatives (have, get, make, let)
+- snippet-a1-imperative · The imperative
+- snippet-a1-two-way-prepositions · Place and direction

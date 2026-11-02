@@ -11,80 +11,64 @@ fr:
 - Je veux nager.
 
 de:
-- Ich würde gerne schwimmen.
+- Ich möchte schwimmen.
 - Ich will schwimmen.
 
 am:
-- መዋኘት እወዳለሁ።
+- መዋኘት እሻለሁ።
 - መዋኘት እፈልጋለሁ።
 
 ar:
-- أود السباحة
-- أريد السباحة
+- أود أن أسبح.
+- أريد أن أسبح.
 
 es:
 - Me gustaría nadar.
 - Quiero nadar.
 
 ja:
-- 泳ぎに行きたい
-- 泳ぎたい.
+- 泳ぎたいです。
+- 泳ぎたいと思っています。
 
 zh:
-- 我喜欢游泳.
-- 我想游泳.
+- 我想游泳。
+- 我想要游泳。
 
 ## vocabulary
 
 en:
-- i · eye
 - want · wont
-- to · too
 - swim · swim
 
 fr:
-- je · zhuh
-- vouloir · voo: LWAR
-- à · ah
-- nager · nager
+- veux · vuh
+- nager · na-ZHAY
 
 de:
-- ich · ikh
-- wollen / möchten · VO: len
-- zu · zu
-- schwimmen · shwimmen
+- will · vil
+- schwimmen · SHVIM-en
 
 am:
-- እኔ · i-ne
-- መፈለግ · mefelag
-- ወደ · we-de
-- ዋና · wana
+- እፈልጋለሁ · i-fel-ga-le-hu
+- መዋኘት · me-wa-nyet
 
 ar:
-- أنا · a-na
-- يريد · yureed
-- إلى · i-la
-- سباحة · sbaha
+- أريد · u-reed
+- أسبح · as-bah
 
 es:
-- yo · yo
-- querer · ke: RER
-- a · a
-- natación · nataciohn
+- quiero · KYE-ro
+- nadar · na-DAR
 
 ja:
-- 私 · watashi
-- したい／ほしい · shitai / hoshii
-- に · ni
-- 泳ぐ · oyogu
+- たい · ta-i
+- 泳ぎ · o-yo-gi
 
 zh:
-- 我 · wǒ
 - 想 · xiǎng
-- 到 · dào
 - 游泳 · yóu yǒng
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-b1-gerunds-infinitives · Gerunds and infinitives after verbs
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-zu-infinitive · Infinitive with to

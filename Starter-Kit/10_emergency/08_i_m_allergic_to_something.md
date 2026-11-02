@@ -3,88 +3,72 @@ order: 8
 ---
 
 en:
-- I'm allergic to something.
-- I have an allergy.
+- I have an allergy to something.
+- Something gives me an allergy.
 
 fr:
-- Je suis allergique à quelque chose.
-- Je suis allergique.
+- J'ai une allergie à quelque chose.
+- Quelque chose me donne une allergie.
 
 de:
-- Ich bin allergisch gegen etwas.
-- Ich habe eine Allergie.
+- Ich habe eine Allergie gegen etwas.
+- Etwas löst bei mir eine Allergie aus.
 
 am:
 - ለአንድ ነገር አለርጂ አለብኝ።
-- አለርጂ አለብኝ።
+- አንድ ነገር አለርጂ ያመጣብኛል።
 
 ar:
-- لدي حساسية من شيء ما
-- لديّ حساسية
+- لدي حساسية من شيء.
+- شيء يسبب لي حساسية.
 
 es:
-- Soy alérgico a algo.
-- Tengo una alergia.
+- Tengo alergia a algo.
+- Algo me causa alergia.
 
 ja:
-- 何かにアレルギーがある.
-- 私はアレルギーがある.
+- 何かアレルギーがあります。
+- 何かにアレルギーがあります。
 
 zh:
-- 我对某种东西过敏.
-- 我有过敏.
+- 我对某种东西过敏。
+- 某种东西使我过敏。
 
 ## vocabulary
 
 en:
-- i · eye
-- have · hav
-- an · an
-- allergy · allergy
+- allergy · AL-er-jee
+- something · SUM-thing
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- un · un
-- allergie · allergie
+- allergie · a-lair-ZHEE
+- quelque chose · kel-kuh SHOZ
 
 de:
-- ich · ikh
-- haben · haben
-- ein · eyen
-- allergische · allergishe
+- Allergie · a-lair-GEE
+- etwas · ET-vas
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
-- አንድ · andh
-- አለርጂ · alerjai
+- አለርጂ · a-ler-ji
+- ነገር · ne-ger
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- ان · an
-- حساسية · hsasya
+- حساسية · ha-sa-see-ya
+- شيء · shay
 
 es:
-- yo · yo
-- tener · tener
-- un · un
-- alergia · alerkhia
+- alergia · a-LER-hya
+- algo · AL-go
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 一つの · hitotsu no
-- アレルギー · arerugii
+- アレルギー · a-re-ru-gii
+- 何 · na-ni
 
 zh:
-- 我 · wǒ
-- 有 · yǒu
-- 一个 · yí gè
-- 過敏症 · guò mǐn zhèng
+- 过敏 · guò mǐn
+- 某种 · mǒu zhǒng
 
 ## grammar
 
-- snippet-c1-mixed-conditionals · Mixed conditionals
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a1-haben · To have
+- snippet-a1-prepositions · Prepositions

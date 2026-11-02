@@ -3,88 +3,64 @@ order: 5
 ---
 
 en:
-- Is there a price reduction?
 - Is there a discount?
+- Do you have a discount?
 
 fr:
-- Il y a une réduction de prix ?
 - Il y a une réduction ?
+- Vous avez une réduction ?
 
 de:
-- Gibt es eine Preissenkung?
 - Gibt es einen Rabatt?
+- Haben Sie einen Rabatt?
 
 am:
-- የዋጋ ቅናሽ አለ?
 - ቅናሽ አለ?
+- ቅናሽ አለዎት?
 
 ar:
-- هل هناك تخفيض في السعر؟
 - هل هناك خصم؟
+- هل لديكم خصم؟
 
 es:
-- ¿Hay una reducción de precio?
 - ¿Hay un descuento?
+- ¿Tienen un descuento?
 
 ja:
-- 値下げはあるのか.
-- 割引はある?
+- 割引はありますか？
+- 何か割引はありますか？
 
 zh:
-- 有没有降价?
-- 有没有折扣?
+- 有折扣吗？
+- 有没有折扣？
 
 ## vocabulary
 
 en:
-- is · iz
-- there · thair
-- a · uh
-- discount · discount
+- discount · DIS-kownt
 
 fr:
-- est · est
-- là · la
-- un · un
-- escompte · escompte
+- réduction · ray-duk-SYON
 
 de:
-- ist · ist
-- dort · dort
-- ein · eyen
-- ermäßigung · ermehssigung
+- Rabatt · ra-BAT
 
 am:
-- ነው · new
-- እዚያ · iziya
-- አንድ · andh
-- ቅናሽ · qnash
+- ቅናሽ · qi-nash
 
 ar:
-- هو · hu-wa
-- هناك · hunak
-- Ø · 
-- تخفيض · tkhfyd
+- خصم · khas-m
 
 es:
-- es · es
-- allí · a: YEE
-- un · un
-- descuentos · descuentos
+- descuento · des-KWEN-to
 
 ja:
-- です · desu
-- そこ · soko
-- 一つの · hitotsu no
-- 割引 · waribiki
+- 割引 · wa-ri-bi-ki
 
 zh:
-- 是 · shì
-- 那里 · nà lǐ
-- 一个 · yí gè
 - 折扣 · zhé kòu
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a2-impersonal-verbs · Impersonal verbs
+- snippet-a1-interrogation · Questions

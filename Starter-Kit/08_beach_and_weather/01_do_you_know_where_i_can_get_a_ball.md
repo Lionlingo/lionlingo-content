@@ -7,11 +7,11 @@ en:
 - Do you know where I can buy a ball?
 
 fr:
-- Tu sais où je peux trouver une balle ?
+- Tu sais où je peux avoir une balle ?
 - Tu sais où je peux acheter une balle ?
 
 de:
-- Weißt du, wo ich einen Ball kriegen kann?
+- Weißt du, wo ich einen Ball bekommen kann?
 - Weißt du, wo ich einen Ball kaufen kann?
 
 am:
@@ -27,96 +27,48 @@ es:
 - ¿Sabes dónde puedo comprar una pelota?
 
 ja:
-- ボールをどこで買えるか知ってる?
-- ボールをどこで買えるか知っていますか.
+- ボールをどこで入手できるか知っていますか？
+- ボールをどこで買えるか知っていますか？
 
 zh:
-- 你知道我能从哪里得到一个球吗?
-- 你知道我在哪里可以买球吗?
+- 你知道我在哪里能弄到球吗？
+- 你知道我在哪里能买到球吗？
 
 ## vocabulary
 
 en:
-- do · do
-- you know · yoo know
 - where · wair
-- i · eye
-- can · kan
-- buy · buy
-- a · uh
-- ball · ball
+- ball · bawl
 
 fr:
-- faire · faire
-- Vous savez · voos savez
 - où · oo
-- je · zhuh
-- pouvoir · poo: VWAR
-- acheter · asheter
-- un · un
-- boule · boole
+- balle · bal
 
 de:
-- tun · tun
-- Du weisst · du weyesst
-- wo · vo
-- ich · ikh
-- können · KER: nen
-- kaufen · kaufen
-- ein · eyen
-- ball · ball
+- wo · voh
+- Ball · bal
 
 am:
-- ማድረግ · madhreg
-- ታውቃለህ · tawqaleh
 - የት · yet
-- እኔ · i-ne
-- መቻል · mechal
-- ግዛ · gza
-- አንድ · andh
 - ኳስ · kwas
 
 ar:
-- يفعل · yfal
-- أنت تعرف · ant tarf
 - أين · ay-na
-- أنا · a-na
-- يستطيع · yastatee'
-- اشتري · ashtry
-- Ø · 
-- كرة · kra
+- كرة · ku-ra
 
 es:
-- hacer · hacer
-- sabes · sabes
-- dónde · DON: de
-- yo · yo
-- poder · po: DER
-- compra · compra
-- un · un
-- bola · bola
+- dónde · DON-de
+- pelota · pe-LO-ta
 
 ja:
-- する · suru
-- あなたが知っている · anataga shitte iru
-- どこ · doko
-- 私 · watashi
-- できる · dekiru
-- 買う · kau
-- 一つの · hitotsu no
-- ボール · booru
+- どこ · do-ko
+- ボール · bo-o-ru
 
 zh:
-- 做 · zuò
-- 你知道 · nǐ zhī dào
 - 哪里 · nǎ lǐ
-- 我 · wǒ
-- 能 · néng / huì
-- 購買 · gòu mǎi
-- 一个 · yí gè
 - 球 · qiú
 
 ## grammar
 
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
-- snippet-b1-relative-clauses · Relative clauses
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-a1-wh-questions · Question words

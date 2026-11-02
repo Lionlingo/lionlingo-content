@@ -7,84 +7,60 @@ en:
 - I need an interpreter.
 
 fr:
-- J'ai besoin de quelqu'un pour interpréter.
 - J'ai besoin d'un interprète.
+- Il me faut un interprète.
 
 de:
 - Ich brauche jemanden zum Dolmetschen.
 - Ich brauche einen Dolmetscher.
 
 am:
-- አስተርጓሚ የሚያስፈልገኝ ሰው እፈልጋለሁ
-- አስተርጓሚ እፈልጋለሁ
+- አስተርጓሚ እፈልጋለሁ።
+- አስተርጓሚ ያስፈልገኛል።
 
 ar:
-- أنا بحاجة لشخص ما لترجمة
 - أحتاج إلى مترجم.
+- أحتاج مترجماً.
 
 es:
-- Necesito a alguien que interprete.
 - Necesito un intérprete.
+- Me hace falta un intérprete.
 
 ja:
-- 誰か通訳が必要だ
-- 通訳が必要だ
+- 通訳する人が必要です。
+- 通訳者が必要です。
 
 zh:
-- 我需要一个翻译.
-- 我需要一个翻译.
+- 我需要口译。
+- 我需要一个口译员。
 
 ## vocabulary
 
 en:
-- i · eye
-- need · need
-- an · an
-- interpreter · interpreter
+- interpret · in-TER-prit
 
 fr:
-- je · zhuh
-- avoir besoin · a: vwar buh: ZWAN
-- un · un
-- interprète · interprehte
+- interprète · an-ter-PRET
 
 de:
-- ich · ikh
-- brauchen / müssen · BROW: khen
-- ein · eyen
-- dolmetscher · dolmekher
+- Dolmetsch · DOL-mech
 
 am:
-- እኔ · i-ne
-- ማስፈለግ · masfelag
-- አንድ · andh
-- አስተርጓሚ · astergwami
+- አስተርጓሚ · as-ter-gwa-mi
 
 ar:
-- أنا · a-na
-- يحتاج · yahtaaj
-- ان · an
-- مترجم · mtrjm
+- مترجم · mu-tar-jim
 
 es:
-- yo · yo
-- necesitar · ne: se: see: TAR
-- un · un
-- interprete · interprete
+- intérprete · in-TER-pre-te
 
 ja:
-- 私 · watashi
-- 必要 · hitsuyou
-- 一つの · hitotsu no
-- インタプリタ · intapurita
+- 通訳 · tsu-ya-ku
 
 zh:
-- 我 · wǒ
-- 需要 · xū yào
-- 一个 · yí gè
-- 口譯員 · kǒu yì yuán
+- 口译 · kǒu yì
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-a2-ability-can · can for ability
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-zu-infinitive · Infinitive with to

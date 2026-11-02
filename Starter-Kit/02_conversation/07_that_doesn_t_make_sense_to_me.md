@@ -4,79 +4,79 @@ order: 7
 
 en:
 - That doesn't make sense to me.
-- That just doesn't make sense to me.
+- That makes no sense to me.
 
 fr:
 - Ça n'a aucun sens pour moi.
-- Ça n'a vraiment aucun sens pour moi.
+- Ça n'a pas de sens pour moi.
 
 de:
 - Das ergibt für mich keinen Sinn.
-- Das ergibt für mich einfach keinen Sinn.
+- Das macht für mich keinen Sinn.
 
 am:
-- ይህ ለእኔ ምንም ትርጉም የለውም።
 - ይህ ለእኔ ትርጉም የለውም።
+- ይህ ለእኔ ትርጉም አይሰጥም።
 
 ar:
-- هذا ليس منطقياً بالنسبة لي.
-- بالنسبة لي، هذا ليس منطقياً.
+- هذا لا معنى له بالنسبة لي.
+- هذا بلا معنى بالنسبة لي.
 
 es:
 - Eso no tiene sentido para mí.
-- Para mí, eso no tiene sentido.
+- Eso carece de sentido para mí.
 
 ja:
-- それは私には意味不明です。
-- 私にはそれは意味不明です。
+- それは私には意味がありません。
+- それは私には意味が分かりません。
 
 zh:
+- 这对我来说没有意义。
 - 这对我来说毫无意义。
-- 对我来说,这毫无意义。
 
 ## vocabulary
 
 en:
 - that · that
-- doesn't make sense · duh-zunt mayk sens
+- sense · sens
 - to me · too mee
 
 fr:
 - ça · sa
-- aucun sens · o-kuhn sons
+- sens · sons
 - pour moi · poor mwa
 
 de:
 - das · das
-- keinen Sinn · KY-nen zin
+- Sinn · zin
 - für mich · fuer mikh
 
 am:
 - ይህ · yih
-- ትርጉም የለውም · tirgum yelewm
+- ትርጉም · tirgum
 - ለእኔ · le-ene
 
 ar:
 - هذا · hadha
-- ليس منطقياً · laysa mantiqiyyan
+- معنى · ma'na
 - بالنسبة لي · bin-nisba li
 
 es:
 - eso · e-so
-- no tiene sentido · no TYE-ne sen-TEE-do
+- sentido · sen-TEE-do
 - para mí · pa-ra mee
 
 ja:
 - それ · sore
-- 意味不明 · imi fumei
+- 意味 · imi
 - 私には · watashi ni wa
 
 zh:
 - 这 · zhè
-- 毫无意义 · háo wú yì yì
+- 意义 · yì yì
 - 对我来说 · duì wǒ lái shuō
 
 ## grammar
 
-- snippet-c2-modality-nuance · Epistemic versus deontic modality
-- snippet-c2-hypotaxis-parataxis · Hypotaxis and parataxis
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-b1-verbs-with-prepositions · Verb + preposition

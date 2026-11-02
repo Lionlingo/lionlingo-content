@@ -4,87 +4,71 @@ order: 5
 
 en:
 - The sea looks calm.
-- The sea is calm.
+- The sea seems calm.
 
 fr:
+- La mer a l'air calme.
 - La mer semble calme.
-- La mer est calme.
 
 de:
 - Das Meer sieht ruhig aus.
-- Das Meer ist ruhig.
+- Das Meer wirkt ruhig.
 
 am:
 - ባሕሩ የተረጋጋ ይመስላል።
-- ባሕሩ ጸጥ ያለ ነው።
+- ባሕሩ የተረጋጋ ይታያል።
 
 ar:
-- البحر يبدو هادئاً
-- البحر هادئ
+- البحر يبدو هادئاً.
+- البحر يظهر هادئاً.
 
 es:
 - El mar parece tranquilo.
-- El mar está tranquilo.
+- El mar se ve tranquilo.
 
 ja:
-- 海は静かに見える.
-- 海は静かだ.
+- 海は穏やかに見えます。
+- 海は穏やかに思えます。
 
 zh:
-- 海面似乎平静.
-- 海洋已经平静了.
+- 海看起来很平静。
+- 海显得很平静。
 
 ## vocabulary
 
 en:
-- the · thuh
-- sea · sea
-- is · iz
-- calm · calm
+- sea · see
+- calm · kahm
 
 fr:
-- le · luh
-- mer · mer
-- est · est
-- calme · calme
+- mer · mair
+- calme · kalm
 
 de:
-- der · dehr
-- meer · meer
-- ist · ist
-- beruhigen · beruhigen
+- Meer · mair
+- ruhig · ROO-ikh
 
 am:
-- የ · ye
-- ባሕር · bahhr
-- ነው · new
-- ተረጋጋ · teregaga
+- ባሕሩ · ba-hi-ru
+- የተረጋጋ · ye-te-re-ga-ga
 
 ar:
-- ال · al
-- البحر · albhr
-- هو · hu-wa
-- هادئ · hady
+- البحر · al-bahr
+- هادئ · haa-di
 
 es:
-- el · el
 - mar · mar
-- es · es
-- tranquilo · trankilo
+- tranquilo · tran-KEE-lo
 
 ja:
-- その · sono
-- 海 · umi
-- です · desu
-- 落ち着いた · ochitsui ta
+- 海 · u-mi
+- 穏やか · o-da-ya-ka
 
 zh:
-- 这 · zhè
-- 大海 · dà hǎi
-- 是 · shì
-- 平靜 · píng jìng
+- 海 · hǎi
+- 平静 · píng jìng
 
 ## grammar
 
-- snippet-c1-concessive-clauses · Concessive clauses
-- snippet-c2-irony-understatement · Irony and understatement
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

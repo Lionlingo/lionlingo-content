@@ -8,83 +8,59 @@ en:
 
 fr:
 - J'ai une réservation.
-- J'ai une réservation.
+- Je dispose d'une réservation.
 
 de:
 - Ich habe eine Reservierung.
-- Ich habe eine Reservierung.
+- Meine Reservierung steht.
 
 am:
-- ቦታ አስይዣለሁ።
-- ቦታ አስይዣለሁ።
+- ማስያዣ አለኝ።
+- ማስያዣ አድርጌያለሁ።
 
 ar:
-- لدي حجز
-- لدي حجز
+- لدي حجز.
+- عندي حجز.
 
 es:
 - Tengo una reserva.
-- Tengo una reserva.
+- Tengo hecha una reserva.
 
 ja:
-- 予約がある
-- 予約がある
+- 予約があります。
+- 予約してあります。
 
 zh:
-- 我已经预订了.
-- 我有一个预订.
+- 我有预订。
+- 预订在我名下。
 
 ## vocabulary
 
 en:
-- i · eye
-- have · hav
-- a · uh
-- reservation · reservation
+- reservation · rez-er-VAY-shun
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- un · un
-- réserve · rayserve
+- réservation · ray-zer-va-SYON
 
 de:
-- ich · ikh
-- haben · haben
-- ein · eyen
-- buchung · bukhung
+- Reservierung · re-zer-VEE-rung
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
-- አንድ · andh
-- ቦታ ማስያዝ · bota masyaz
+- ማስያዣ · mas-ya-zha
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- Ø · 
-- حجز · hjz
+- حجز · hajz
 
 es:
-- yo · yo
-- tener · tener
-- un · un
-- reservación · reservaciohn
+- reserva · re-SER-va
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 一つの · hitotsu no
-- 留保 · ryuuho
+- 予約 · yo-ya-ku
 
 zh:
-- 我 · wǒ
-- 有 · yǒu
-- 一个 · yí gè
-- 預訂 · yù dìng
+- 预订 · yù dìng
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
-- snippet-a1-formal-greetings · Formal address
+- snippet-a1-haben · To have
+- snippet-a1-ein-forms · a, an, some, no

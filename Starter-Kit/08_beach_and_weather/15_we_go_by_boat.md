@@ -16,75 +16,51 @@ de:
 
 am:
 - በጀልባ እንሄዳለን።
-- በጀልባ እንጓዛለን።
+- ጀልባ እንጋልባለን።
 
 ar:
-- سنذهب بالقارب
-- سنأخذ قارب
+- نذهب بالقارب.
+- نركب قارباً.
 
 es:
 - Vamos en barco.
 - Tomamos un barco.
 
 ja:
-- 船で行く.
-- ボートに乗る
+- 船で行きます。
+- 船に乗ります。
 
 zh:
-- 我们乘船去.
-- 我们乘船.
+- 我们坐船去。
+- 我们乘船去。
 
 ## vocabulary
 
 en:
-- we · wee
-- take · take
-- a · uh
-- boat · boat
+- boat · boht
 
 fr:
-- nous · noos
-- prend · prend
-- un · un
-- bateau · batoh
+- bateau · ba-TOH
 
 de:
-- wir · wir
-- nehmen · nehmen
-- ein · eyen
-- boote · boote
+- Boot · boht
 
 am:
-- እኛ · enya
-- ውሰድ · wsedh
-- አንድ · andh
-- ጀልባ · jaelba
+- ጀልባ · jel-ba
 
 ar:
-- نحن · nah-nu
-- خذ · khdh
-- Ø · 
-- المركب · almrkb
+- القارب · al-qaa-rib
 
 es:
-- nosotros · nosotros
-- tomar · tomar
-- un · un
-- barca · barca
+- barco · BAR-ko
 
 ja:
-- 私たち · watashitachi
-- 取る · toru
-- 一つの · hitotsu no
-- ボート · booto
+- 船 · fu-ne
 
 zh:
-- 我们 · wǒ men
-- 拿 · ná
-- 一个 · yí gè
 - 船 · chuán
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b1-first-conditional · First conditional
+- snippet-a1-prepositions · Prepositions
+- snippet-a1-present · Present tense

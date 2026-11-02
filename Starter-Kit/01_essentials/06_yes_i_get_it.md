@@ -78,5 +78,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
-- snippet-b1-tag-questions · Tag questions
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a1-present · Present tense

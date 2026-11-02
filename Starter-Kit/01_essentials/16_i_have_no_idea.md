@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b2-passive-advanced · Reporting and event passives
+- snippet-a1-haben · To have
+- snippet-a1-negation-affirmation · Negation and affirmation
