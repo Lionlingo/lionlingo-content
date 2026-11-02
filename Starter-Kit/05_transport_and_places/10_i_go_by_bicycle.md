@@ -1,74 +1,66 @@
 ---
-order: 11
+order: 10
 ---
 
 en:
-- Do you have a map?
-- Have you got a map?
+- I go by bicycle.
+- I ride a bicycle.
 
 fr:
-- Vous avez une carte ?
-- Avez-vous une carte ?
+- Je vais à vélo.
+- Je roule à vélo.
 
 de:
-- Haben Sie eine Karte?
-- Haben Sie denn eine Karte?
+- Ich fahre mit dem Fahrrad.
+- Ich nehme das Fahrrad.
 
 am:
-- ካርታ አለህ?
-- ካርታ ይኖርሃል?
+- በብስክሌት እሄዳለሁ።
+- ብስክሌት እጋልባለሁ።
 
 ar:
-- هل لديك خريطة؟
-- هل عندك خريطة؟
+- أذهب بالدراجة.
+- أركب الدراجة.
 
 es:
-- ¿Tienes un mapa?
-- ¿Tú tienes un mapa?
+- Voy en bicicleta.
+- Monto en bicicleta.
 
 ja:
-- 地図を持っていますか？
-- 地図はお持ちですか？
+- 自転車で行きます。
+- 自転車に乗ります。
 
 zh:
-- 你有地图吗？
-- 你有没有地图？
+- 我骑自行车去。
+- 我用自行车去。
 
 ## vocabulary
 
 en:
-- have · hav
-- map · map
+- bicycle · BY-si-kul
 
 fr:
-- avez · a: VAY
-- carte · kart
+- vélo · vay-LO
 
 de:
-- haben · HAH: ben
-- Karte · KAR: tuh
+- Fahrrad · FAR-raht
 
 am:
-- አለህ · a-leh
-- ካርታ · kar-ta
+- ብስክሌት · bis-ki-let
 
 ar:
-- لديك · la-dayk
-- خريطة · kha-ree-ta
+- الدراجة · ad-dar-ra-ja
 
 es:
-- tienes · TYE: nes
-- mapa · MA: pa
+- bicicleta · bee-see-KLE-ta
 
 ja:
-- 持っています · mot-te i-ma-su
-- 地図 · chi-zu
+- 自転車 · ji-ten-sha
 
 zh:
-- 有 · yǒu
-- 地图 · dì tú
+- 自行车 · zì xíng chē
 
 ## grammar
 
-- snippet-a1-haben · To have
-- snippet-a1-interrogation · Questions
+- snippet-a1-present · Present tense
+- snippet-a1-prepositions · Prepositions
