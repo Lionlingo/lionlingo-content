@@ -4,87 +4,63 @@ order: 17
 
 en:
 - I found a seashell.
-- I found a shell.
+- I picked up a seashell.
 
 fr:
-- J'ai trouvé une coquille.
-- J'ai trouvé une coquille.
+- J'ai trouvé un coquillage.
+- J'ai ramassé un coquillage.
 
 de:
 - Ich habe eine Muschel gefunden.
-- Ich habe eine Muschel gefunden.
+- Ich habe eine Muschel aufgelesen.
 
 am:
-- አንድ ሽሪምፕ አገኘሁ።
-- አንድ ቅርፊት አገኘሁ።
+- የባሕር ዛጎል አገኘሁ።
+- የባሕር ዛጎል አነሳሁ።
 
 ar:
-- لقد وجدت صدفة
-- لقد وجدت قذيفة
+- وجدت صدفة.
+- التقطت صدفة.
 
 es:
-- Encontré una concha.
-- Encontré una cáscara.
+- Encontré una concha de mar.
+- Recogí una concha de mar.
 
 ja:
-- 貝を見つけた
-- 弾丸を見つけた
+- 貝殻を拾いました。
+- 貝殻を見つけました。
 
 zh:
-- 我发现了一只.
-- 我发现了一个.
+- 我发现了一个贝壳。
+- 我捡到了一个贝壳。
 
 ## vocabulary
 
 en:
-- i · eye
-- found · found
-- a · uh
-- shell · shell
+- seashell · SEE-shel
 
 fr:
-- je · zhuh
-- trouvée · troovaye
-- un · un
-- coquillage · coquillage
+- coquillage · ko-kee-YAZH
 
 de:
-- ich · ikh
-- gefunden · gefunden
-- ein · eyen
-- muschel · mushel
+- Muschel · MU-shel
 
 am:
-- እኔ · i-ne
-- ተገኝቷል · tegenytwal
-- አንድ · andh
-- ቅርፊት · qrfit
+- ዛጎል · za-gol
 
 ar:
-- أنا · a-na
-- وجد · wjd
-- Ø · 
-- شيل · shyl
+- صدفة · sa-da-fa
 
 es:
-- yo · yo
-- encontrada · encontrada
-- un · un
-- concha · concha
+- concha · KON-cha
 
 ja:
-- 私 · watashi
-- 見つかった · mitsu katta
-- 一つの · hitotsu no
-- シェル · shieru
+- 貝殻 · kai-ga-ra
 
 zh:
-- 我 · wǒ
-- 找到 · zhǎo dào
-- 一个 · yí gè
-- 貝殼 · bèi ké
+- 贝壳 · bèi ké
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-c2-idiomatic-structures · Idiomatic clause patterns
+- snippet-a2-preterite · Past simple
+- snippet-a1-separable-verbs · Phrasal verbs

@@ -7,84 +7,60 @@ en:
 - Do you have change?
 
 fr:
-- Vous avez du changement ?
-- Vous avez du changement ?
+- Vous avez de la monnaie ?
+- Avez-vous de la monnaie ?
 
 de:
-- Hast du Kleingeld?
 - Haben Sie Kleingeld?
+- Ist Kleingeld da?
 
 am:
-- መቀያየር አለህ?
-- መቀያየር አለህ?
+- ትንሽ ገንዘብ አለዎት?
+- ገንዘብ ትንሽ አለዎት?
 
 ar:
-- ألديكِ فكة؟
-- هل لديكِ فكة؟
+- هل لديكم فكة؟
+- هل عندكم فكة؟
 
 es:
-- ¿Tienes cambio?
-- ¿Tienes cambio?
+- ¿Tiene cambio?
+- ¿Tiene usted cambio?
 
 ja:
-- お金持ってる?
-- お金持ってる?
+- 小銭はありますか？
+- 小銭をお持ちですか？
 
 zh:
-- 你有更换吗?
-- 你有更换吗?
+- 您有零钱吗？
+- 您有没有零钱？
 
 ## vocabulary
 
 en:
-- do · do
-- you · yoo
-- have · hav
-- change · change
+- change · chaynj
 
 fr:
-- faire · faire
-- tu · tu
-- avoir · avwahr
-- modifier · modifier
+- monnaie · mo-NAY
 
 de:
-- tun · tun
-- du · du
-- haben · haben
-- ändern · ehndern
+- Kleingeld · KLINE-gelt
 
 am:
-- ማድረግ · madhreg
-- አንተ · an-te
-- አለኝ · aleny
-- መለወጥ · meleweth
+- ትንሽ ገንዘብ · ti-nish gen-zeb
 
 ar:
-- يفعل · yfal
-- أنت · an-ta
-- يملك · ymlk
-- التغير · altghyr
+- فكة · fak-ka
 
 es:
-- hacer · hacer
-- tú · too
-- tener · tener
-- cambios · cambios
+- cambio · KAM-byo
 
 ja:
-- する · suru
-- あなた · anata
-- 持つ · motsu
-- チェンジ · chenji
+- 小銭 · ko-ze-ni
 
 zh:
-- 做 · zuò
-- 你 · nǐ
-- 有 · yǒu
-- 改變 · gǎi biàn
+- 零钱 · líng qián
 
 ## grammar
 
-- snippet-a1-have-possession · Have for possession
-- snippet-c2-aspect-nuance · Simple, continuous, and perfect aspect
+- snippet-a1-haben · To have
+- snippet-a1-interrogation · Questions

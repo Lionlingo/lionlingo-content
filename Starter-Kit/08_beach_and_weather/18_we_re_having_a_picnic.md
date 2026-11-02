@@ -4,87 +4,63 @@ order: 18
 
 en:
 - We're having a picnic.
-- We have a picnic.
+- We're at a picnic.
 
 fr:
-- On faisait un pique-nique.
-- On a un pique-nique.
+- On fait un pique-nique.
+- On pique-nique.
 
 de:
-- Wir hatten ein Picknick.
-- Wir haben ein Picknick.
+- Wir machen ein Picknick.
+- Wir sind beim Picknick.
 
 am:
 - ፒክኒክ እያደረግን ነው።
-- ፒክኒክ አለን።
+- ፒክኒክ ላይ ነን።
 
 ar:
-- كنا نقيم نزهة
-- لدينا نزهة
+- نحن نقوم ببيكنيك.
+- نحن في بيكنيك.
 
 es:
-- Estábamos haciendo un picnic.
-- Tenemos un picnic.
+- Estamos haciendo un picnic.
+- Estamos de picnic.
 
 ja:
-- ピクニックを
-- ピクニックだ
+- ピクニックをしています。
+- ピクニック中です。
 
 zh:
-- 我们在野餐.
-- 我们有一个野餐.
+- 我们正在野餐。
+- 我们在野餐。
 
 ## vocabulary
 
 en:
-- we · wee
-- have · hav
-- a · uh
-- picnic · picnic
+- picnic · PIK-nik
 
 fr:
-- nous · noos
-- avoir · avwahr
-- un · un
-- nique · nique
+- pique-nique · peek-NEEK
 
 de:
-- wir · wir
-- haben · haben
-- ein · eyen
-- picknick · picknick
+- Picknick · PIK-nik
 
 am:
-- እኛ · enya
-- አለኝ · aleny
-- አንድ · andh
-- ሽርሽር · shrshr
+- ፒክኒክ · pik-nik
 
 ar:
-- نحن · nah-nu
-- يملك · ymlk
-- Ø · 
-- نزهة · nzha
+- بيكنيك · beek-neek
 
 es:
-- nosotros · nosotros
-- tener · tener
-- un · un
-- picnic · picnic
+- picnic · PIK-nik
 
 ja:
-- 私たち · watashitachi
-- 持つ · motsu
-- 一つの · hitotsu no
-- ピクニック · pikunikku
+- ピクニック · pi-ku-nik-ku
 
 zh:
-- 我们 · wǒ men
-- 有 · yǒu
-- 一个 · yí gè
 - 野餐 · yě cān
 
 ## grammar
 
-- snippet-b2-causative · Causatives (have, get, make, let)
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a1-present · Present tense
+- snippet-a1-haben · To have

@@ -3,7 +3,7 @@
 Reusable grammar notes linked from exercises and the starter kit by `snippetId`.
 
 ```text
-Grammar-Snippets/A1/01_subject_be.md
+Grammar-Snippets/01_noun_declension.md
 ```
 
-A snippet is filed under its first CEFR level. Other levels it also applies to are listed in the front matter. Each language has a title, a short description, and rule bullets.
+Snippets sit in this folder, not in A1–C2 subfolders. The levels a snippet applies to are listed in the front matter. Each language has a title, a short description, and rule bullets.

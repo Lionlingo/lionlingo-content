@@ -7,7 +7,7 @@ en:
 - It is going to rain tomorrow.
 
 fr:
-- Demain il va pleuvoir.
+- Demain, il va pleuvoir.
 - Il va pleuvoir demain.
 
 de:
@@ -16,91 +16,59 @@ de:
 
 am:
 - ነገ ዝናብ ይዘንባል።
-- ነገ ዝናብ ይዘንባል።
+- ነገ ዝናብ ይመጣል።
 
 ar:
-- غدا ستمطر.
-- سوف تمطر غداً
+- غداً ستمطر.
+- سوف تمطر غداً.
 
 es:
 - Mañana va a llover.
 - Va a llover mañana.
 
 ja:
-- 明日は雨が降る.
-- 明日は雨が降る.
+- 明日は雨が降ります。
+- 明日、雨が降ります。
 
 zh:
-- 明天会下雨.
-- 明天会下雨.
+- 明天会下雨。
+- 明天要下雨。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
-- going · going
-- to · too
+- tomorrow · tuh-MOR-oh
 - rain · rayn
-- tomorrow · tomorrow
 
 fr:
-- il · il
-- est · est
-- aller · aller
-- à · ah
-- pluie · plwee
-- demain · demain
+- demain · duh-MAN
+- pleuvoir · pluh-VWAR
 
 de:
-- es · es
-- ist · ist
-- gehe · gehe
-- zu · zu
-- Regen · RAY: gen
-- morgen · morgen
+- morgen · MOR-gen
+- regnen · RAYG-nen
 
 am:
-- እሱ · i-su
-- ነው · new
-- እየሄደ ነው። · eyehedhe new
-- ወደ · we-de
-- ዝናብ · zinab
-- ነገ · nege
+- ነገ · ne-ge
+- ዝናብ · zi-nab
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- ذهاب · dhhab
-- إلى · i-la
-- مطر · matar
-- الغد · alghd
+- غداً · gha-dan
+- تمطر · tum-tir
 
 es:
-- ello · eyo
-- es · es
-- va · va
-- a · a
-- lluvia · YOO: vya
-- manana · manana
+- mañana · ma-NYA-na
+- llover · yo-VER
 
 ja:
-- それ · sore
-- です · desu
-- 行く · iku
-- に · ni
-- 雨 · ame
-- 明日 · ashita
+- 明日 · a-shi-ta
+- 雨 · a-me
 
 zh:
-- 它 · tā
-- 是 · shì
-- 去 · qù
-- 到 · dào
-- 雨 · yǔ
 - 明天 · míng tiān
+- 下雨 · xià yǔ
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-b1-future-will-predictions · Will for predictions
+- snippet-a2-future · The future
+- snippet-a2-impersonal-verbs · Impersonal verbs

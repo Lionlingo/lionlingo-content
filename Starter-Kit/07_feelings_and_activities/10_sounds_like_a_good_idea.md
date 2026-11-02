@@ -3,96 +3,72 @@ order: 10
 ---
 
 en:
-- Sounds like a good idea
-- That is a good idea
+- Sounds like a good idea.
+- That is a good idea.
 
 fr:
-- Ça me semble une bonne idée.
-- C' est une bonne idée.
+- Ça a l'air d'une bonne idée.
+- C'est une bonne idée.
 
 de:
 - Klingt nach einer guten Idee.
 - Das ist eine gute Idee.
 
 am:
-- ጥሩ ሀሳብ ይመስላል
-- ይህ ጥሩ ሀሳብ ነው
+- ጥሩ ሀሳብ ይመስላል።
+- ይህ ጥሩ ሀሳብ ነው።
 
 ar:
-- تبدو فكرة جيدة
-- هذه فكرة جيدة
+- تبدو فكرة جيدة.
+- هذه فكرة جيدة.
 
 es:
-- Parece una buena idea.
+- Suena a una buena idea.
 - Esa es una buena idea.
 
 ja:
-- いい考えだ
-- いい考えだ
+- いい考えのように聞こえます。
+- それはいい考えです。
 
 zh:
-- 听起来是一个好主意
-- 这是一个好主意.
+- 听起来是个好主意。
+- 这是个好主意。
 
 ## vocabulary
 
 en:
-- that · that
-- is · iz
-- a · uh
 - good · good
-- idea · idea
+- idea · eye-DEE-uh
 
 fr:
-- cela · suh: LA / suh
-- est · est
-- un · un
-- bons · bons
-- idée · idaye
+- bonne · bon
+- idée · ee-DAY
 
 de:
-- das · das
-- ist · ist
-- ein · eyen
-- guten · guten
-- idee · idee
+- gute · GOO-te
+- Idee · ee-DAY
 
 am:
-- ያ · ya
-- ነው · new
-- አንድ · andh
-- ጥሩ · thru
-- ሀሳብ · hesab
+- ጥሩ · ti-ru
+- ሀሳብ · ha-sab
 
 ar:
-- ذلك · thalika
-- هو · hu-wa
-- Ø · 
-- خير · khyr
-- فكره · fkrh
+- جيدة · jay-yi-da
+- فكرة · fik-ra
 
 es:
-- eso · E: se
-- es · es
-- un · un
-- buenas · buenas
-- idea · idea
+- buena · BWE-na
+- idea · i-DE-a
 
 ja:
-- それ · sore
-- です · desu
-- 一つの · hitotsu no
-- 良い · yoi
-- アイデア · aidea
+- いい · i-i
+- 考え · kan-ga-e
 
 zh:
-- 那 · nà
-- 是 · shì
-- 一个 · yí gè
-- 好的 · hǎo de
-- 主意 · zhǔ yì
+- 好 · hǎo
+- 主意 · zhǔ yi
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
-- snippet-a2-near-future · going to
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-reported-speech · Reported speech
-- snippet-c1-discourse-reference · Discourse reference (this, that, such, the former…)
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-pronouns · Pronouns

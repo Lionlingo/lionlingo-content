@@ -7,60 +7,60 @@ en:
 - Get well soon!
 
 fr:
-- J'espère que tu vas vite te rétablir !
-- Sois bientôt guérie !
+- Bon rétablissement !
+- Je te souhaite un bon rétablissement !
 
 de:
-- Ich hoffe, du wirst bald wieder gesund!
-- Gehen Sie bald wieder gesund!
+- Gute Besserung!
+- Ich wünsche dir gute Besserung!
 
 am:
-- ቶሎ እንድትሻል ተስፋ አደርጋለሁ!
-- ቶሎ ተሻገር!
+- ቶሎ ተሻል!
+- ቶሎ እንድትሻል እመኛለሁ!
 
 ar:
-- أتمنى أن تتعافى قريباً
-- ! اصحى قريباً
+- أتمنى لك الشفاء العاجل.
+- الشفاء العاجل لك.
 
 es:
-- ¡Espero que se recupere pronto!
-- ¡Cómprate pronto!
+- ¡Que te recuperes pronto!
+- ¡Recupérate pronto!
 
 ja:
-- 早く元気になってほしい!
-- 早く治ってくれ!
+- お大事に。
+- どうぞお大事に。
 
 zh:
-- 我希望你很快就能康复!
-- 快好起来吧!
+- 祝你早日康复！
+- 早日康复！
 
 ## vocabulary
 
 en:
-- get well soon · get well soon
+- soon · soon
 
 fr:
-- prompt rétablissement · prompt raytablissement
+- rétablissement · ray-ta-blees-MON
 
 de:
-- gute Besserung · gute besserung
+- Besserung · BES-se-rung
 
 am:
-- በቶሎ አገግም · betolo agegm
+- ተሻል · te-shal
 
 ar:
-- الشفاء العاجل · alshfa alaajl
+- الشفاء · ash-shi-faa
 
 es:
-- que te mejores · ke te mekhores
+- pronto · PRON-to
 
 ja:
-- お大事に · o daiji ni
+- お大事に · o-dai-ji-ni
 
 zh:
-- 早日康复 · zǎo rì kāng fù
+- 康复 · kāng fù
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
-- snippet-a2-near-future · going to
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-imperative · The imperative

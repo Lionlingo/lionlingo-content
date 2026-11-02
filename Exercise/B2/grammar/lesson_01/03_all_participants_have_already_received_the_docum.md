@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-present-perfect · Present perfect
-- snippet-b1-passive-intro · Passive voice
+- snippet-a2-perfekt · Present perfect
+- snippet-b1-passive · The passive

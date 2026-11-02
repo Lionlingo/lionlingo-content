@@ -4,79 +4,71 @@ order: 13
 
 en:
 - He looks angry.
-- He is angry.
+- He seems angry.
 
 fr:
 - Il a l'air en colère.
-- Il est en colère.
+- Il semble en colère.
 
 de:
 - Er sieht wütend aus.
-- Er ist wütend.
+- Er wirkt wütend.
 
 am:
-- የተናደደ ይመስላል።
-- በጣም ተናድዷል።
+- እሱ የተናደደ ይመስላል።
+- እሱ የተናደደ ይታያል።
 
 ar:
-- يبدو غاضباً
-- إنه غاضب
+- إنه يبدو غاضباً.
+- إنه يظهر غاضباً.
 
 es:
-- Parece enojado.
-- Él está enojado.
+- Él parece enojado.
+- Él se ve enojado.
 
 ja:
-- 彼は怒っているようだ.
-- 彼は怒っている.
+- 彼は怒っているように見えます。
+- 彼は怒っているように思えます。
 
 zh:
-- 他看起来很生气.
-- 他很生气.
+- 他看起来很生气。
+- 他显得很生气。
 
 ## vocabulary
 
 en:
 - he · hee
-- is · iz
-- angry · angry
+- angry · ANG-gree
 
 fr:
-- il · il
-- est · est
-- énervé · aynervay
+- il · eel
+- colère · ko-LAIR
 
 de:
-- er · er
-- ist · ist
-- wütend · wuetend
+- er · air
+- wütend · VUE-tent
 
 am:
 - እሱ · i-su
-- ነው · new
-- ተናደደ · tenadhedhe
+- ተናደደ · te-na-de-de
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- غاضبة · ghadba
+- إنه · in-na-hu
+- غاضب · gha-dib
 
 es:
-- él · ehl
-- es · es
-- enfadado · enfadado
+- él · el
+- enojado · e-no-HA-do
 
 ja:
-- 彼 · kare
-- です · desu
-- 怒り · ikari
+- 彼 · ka-re
+- 怒って · okot-te
 
 zh:
 - 他 · tā
-- 是 · shì
-- 生氣 · shēng qì
+- 生气 · shēng qì
 
 ## grammar
 
-- snippet-b2-reduced-relatives · Reduced relative clauses
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

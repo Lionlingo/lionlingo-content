@@ -3,80 +3,64 @@ order: 8
 ---
 
 en:
-- How interesting
-- That is interesting
+- How interesting.
+- That is interesting.
 
 fr:
-- C' est intéressant .
-- C' est intéressant.
+- Comme c'est intéressant.
+- C'est intéressant.
 
 de:
 - Wie interessant.
 - Das ist interessant.
 
 am:
-- ምንኛ አስደሳች ነው!
-- ይህ አስደሳች ነው።
+- ምንኛ የሚስብ ነው።
+- ይህ የሚስብ ነው።
 
 ar:
-- كم هو مثير للاهتمام
-- هذا مثير للاهتمام
+- كم هذا مثير للاهتمام.
+- هذا مثير للاهتمام.
 
 es:
 - Qué interesante.
 - Eso es interesante.
 
 ja:
-- 面白い
-- 興味深い
+- 面白いですね。
+- それは面白いです。
 
 zh:
-- 这真是太有趣了.
-- 这很有趣.
+- 真有趣。
+- 这很有趣。
 
 ## vocabulary
 
 en:
-- that · that
-- is · iz
-- interesting · interesting
+- interesting · IN-tres-ting
 
 fr:
-- cela · suh: LA / suh
-- est · est
-- intéressante · intayressante
+- intéressant · an-tay-ray-SAHN
 
 de:
-- das · das
-- ist · ist
-- interessanten · interessanten
+- interessant · in-te-re-SANT
 
 am:
-- ያ · ya
-- ነው · new
-- የሚስብ · yemisb
+- የሚስብ · ye-mi-sib
 
 ar:
-- ذلك · thalika
-- هو · hu-wa
-- للاهتمام · llahtmam
+- للاهتمام · lil-ih-ti-mam
 
 es:
-- eso · E: se
-- es · es
-- interesante · interesante
+- interesante · in-te-re-SAN-te
 
 ja:
-- それ · sore
-- です · desu
-- 興味深い · kyoumibukai
+- 面白い · o-mo-shi-ro-i
 
 zh:
-- 那 · nà
-- 是 · shì
 - 有趣 · yǒu qù
 
 ## grammar
 
-- snippet-b1-relative-clauses · Relative clauses
-- snippet-c1-hedging · Hedging
+- snippet-a1-adjective-endings · Adjectives
+- snippet-a1-adverbs · Adverbs

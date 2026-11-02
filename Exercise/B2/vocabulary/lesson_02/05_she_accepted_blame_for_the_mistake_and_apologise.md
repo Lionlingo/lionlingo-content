@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-causative · Causatives (have, get, make, let)
-- snippet-c1-modal-perfect · Modal perfect (must have, might have…)
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-modals-past · could, had to, wanted to

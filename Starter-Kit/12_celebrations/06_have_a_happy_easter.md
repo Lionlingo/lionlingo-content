@@ -7,68 +7,60 @@ en:
 - Happy Easter!
 
 fr:
-- Bonne fête de Pâques !
-- Bonne fête de Pâques !
+- Joyeuses Pâques !
+- Je te souhaite de joyeuses Pâques !
 
 de:
-- Ein glückliches Osterfest!
-- Alles Gute zum Osterfest!
+- Frohe Ostern!
+- Ich wünsche dir frohe Ostern!
 
 am:
-- መልካም የፋሲካ በዓል ይሁንላችሁ!
+- መልካም ፋሲካ ይሁንልህ!
 - መልካም ፋሲካ!
 
 ar:
 - عيد فصح سعيد!
-- عيد فصح سعيد
+- أتمنى لك عيد فصح سعيد!
 
 es:
 - ¡Que tengas una feliz Pascua!
 - ¡Feliz Pascua!
 
 ja:
-- ハッピーイースター!
-- ハッピーイースター!
+- イースターおめでとう。
+- 良いイースターを。
 
 zh:
-- 祝你一个快乐的复活节!
-- 快乐的复活节!
+- 复活节快乐！
+- 祝你复活节快乐！
 
 ## vocabulary
 
 en:
-- happy · hap-ee
-- easter · easter
+- Easter · EE-ster
 
 fr:
-- heureuses · heureuses
-- pâque · pahque
+- Pâques · pak
 
 de:
-- gerne · gerne
-- ostern · ostern
+- Ostern · OS-tern
 
 am:
-- ደስተኛ · dhestenya
-- ፋሲካ · fasika
+- ፋሲካ · fa-si-ka
 
 ar:
-- يسعد · ysad
-- الفصح · alfsh
+- فصح · fis-h
 
 es:
-- feliz · feliz
-- pascua · pascua
+- Pascua · PAS-kwa
 
 ja:
-- ハッピー · happii
-- イースター · iisutaa
+- イースター · ii-su-taa
 
 zh:
-- 開心 · kāi xīn
-- 復活節 · fù huó jié
+- 复活节 · fù huó jié
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

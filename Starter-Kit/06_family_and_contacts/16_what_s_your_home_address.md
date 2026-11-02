@@ -4,87 +4,79 @@ order: 16
 
 en:
 - What's your home address?
-- What is your address?
+- What is your home address?
 
 fr:
-- Quelle est votre adresse ?
-- Quelle est votre adresse ?
+- Quelle est l'adresse de ton domicile ?
+- C'est quoi, l'adresse de ton domicile ?
 
 de:
-- Wie lautet Ihre Adresse?
-- Wie lautet Ihre Adresse?
+- Wie lautet deine Heimadresse?
+- Was ist deine Heimadresse?
 
 am:
-- የመኖሪያ ቤትህ አድራሻ ምንድን ነው?
-- አድራሻችሁ ምንድን ነው?
+- የቤት አድራሻህ ምንድን ነው?
+- የቤትህ አድራሻ ምንድን ነው?
 
 ar:
 - ما هو عنوان منزلك؟
-- ما هو عنوانك؟
+- ما هو عنوان بيتك؟
 
 es:
-- ¿Cuál es su dirección?
-- ¿Cuál es su dirección?
+- ¿Cuál es la dirección de tu casa?
+- ¿Cuál es tu dirección de casa?
 
 ja:
-- あなたの住所は何ですか?
-- あなたの住所は何ですか?
+- あなたの自宅の住所は何ですか？
+- あなたの家の住所は何ですか？
 
 zh:
-- 你的住址是什么?
-- 你的地址是什么?
+- 你的家庭住址是什么？
+- 你家庭的住址是什么？
 
 ## vocabulary
 
 en:
 - what · wot
 - is · iz
-- your · yor
-- address · address
+- address · uh-DRES
 
 fr:
-- quoi · kuh / kwa
-- est · est
-- ton · ton
-- allocution · allocusyon
+- quelle · kel
+- est · eh
+- adresse · a-DRES
 
 de:
 - was · vas
 - ist · ist
-- dein · deyen
-- anschrift · anshrift
+- Heimadresse · HAYM-a-dre-se
 
 am:
-- ምን · min
+- ምንድን · min-din
 - ነው · new
-- ያንተ · yante
-- አድራሻ · adhrasha
+- አድራሻ · ad-ra-sha
 
 ar:
-- ماذا · ma-dha
+- ما · maa
 - هو · hu-wa
-- لك · lk
-- العنوان · alanwan
+- عنوان · un-waan
 
 es:
-- qué · keh
+- cuál · kwal
 - es · es
-- tu · tu
-- dirección · direcciohn
+- dirección · dee-rek-SYON
 
 ja:
-- 何 · nani
-- です · desu
-- あなたの · anatano
-- アドレス · adoresu
+- 何 · na-ni
+- です · de-su
+- 住所 · juu-sho
 
 zh:
 - 什么 · shén me
 - 是 · shì
-- 你的 · nǐ de
-- 地址 · dì zhǐ
+- 住址 · zhù zhǐ
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
-- snippet-c1-apposition · Apposition
+- snippet-a1-wh-questions · Question words
+- snippet-a1-possessives · my, your, his, her

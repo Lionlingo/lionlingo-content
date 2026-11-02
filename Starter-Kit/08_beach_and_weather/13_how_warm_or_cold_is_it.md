@@ -7,84 +7,60 @@ en:
 - What is the temperature?
 
 fr:
-- Il fait chaud ou froid ?
+- Il fait doux ou froid ?
 - Quelle est la température ?
 
 de:
 - Wie warm oder kalt ist es?
-- Wie ist die Temperatur?
+- Was ist die Temperatur?
 
 am:
-- ምን ያህል ሞቃት ወይም ቀዝቃዛ ነው?
-- ሙቀቱ ምን ያህል ነው?
+- ሞቅ ያለ ነው ወይስ ቀዝቃዛ?
+- የሙቀት መጠኑ ስንት ነው?
 
 ar:
-- كم هو دافئ أو بارد؟
-- ما هي درجة الحرارة؟
+- هل الجو دافئ أم بارد؟
+- ما درجة الحرارة؟
 
 es:
-- ¿Qué tan caliente o frío es?
+- ¿El tiempo está templado o frío?
 - ¿Cuál es la temperatura?
 
 ja:
-- 暖かかか冷たいか?
-- 温度は?
+- 暖かいか、寒いですか？
+- 気温は何度ですか？
 
 zh:
-- 这里有多热,有多冷?
-- 温度是多少?
+- 天气是暖和还是冷？
+- 温度是多少？
 
 ## vocabulary
 
 en:
-- what · wot
-- is · iz
-- the · thuh
-- temperature · temperature
+- temperature · TEM-pruh-chur
 
 fr:
-- quoi · kuh / kwa
-- est · est
-- le · luh
-- température · tempayrature
+- température · tahn-pay-ra-TUR
 
 de:
-- was · vas
-- ist · ist
-- der · dehr
-- temperaturen · temperaturen
+- Temperatur · tem-pe-ra-TOOR
 
 am:
-- ምን · min
-- ነው · new
-- የ · ye
-- የሙቀት መጠን · yemuqet methen
+- ሙቀት · mu-ket
 
 ar:
-- ماذا · ma-dha
-- هو · hu-wa
-- ال · al
-- الحرارة · alhrara
+- الحرارة · al-ha-raa-ra
 
 es:
-- qué · keh
-- es · es
-- el · el
-- temperatura · temperatura
+- temperatura · tem-pe-ra-TU-ra
 
 ja:
-- 何 · nani
-- です · desu
-- その · sono
-- 気温 · kion
+- 気温 · ki-on
 
 zh:
-- 什么 · shén me
-- 是 · shì
-- 这 · zhè
-- 氣溫 · qì wēn
+- 温度 · wēn dù
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-numbers-basic · Basic numbers 1–20
+- snippet-a1-wh-questions · Question words
+- snippet-a1-adjective-endings · Adjectives

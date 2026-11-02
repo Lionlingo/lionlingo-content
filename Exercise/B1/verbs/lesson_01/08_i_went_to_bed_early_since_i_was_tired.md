@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
+- snippet-a2-preterite · Past simple

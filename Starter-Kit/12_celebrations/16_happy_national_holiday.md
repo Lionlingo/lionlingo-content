@@ -4,79 +4,71 @@ order: 16
 
 en:
 - Happy national holiday!
-- Happy national day!
+- Have a happy national holiday!
 
 fr:
 - Bonne fête nationale !
-- Bonne fête nationale !
+- Je te souhaite une bonne fête nationale !
 
 de:
-- Glücklicher Nationalfeiertag!
-- Glücklicher Nationalfeiertag!
+- Einen schönen Nationalfeiertag!
+- Ich wünsche dir einen schönen Nationalfeiertag!
 
 am:
 - መልካም ብሔራዊ በዓል!
-- መልካም ብሔራዊ ቀን!
+- ብሔራዊ በዓልህ መልካም ይሁንልህ!
 
 ar:
-- عيد وطني سعيد
 - عيد وطني سعيد!
+- أتمنى لك عيداً وطنياً سعيداً!
 
 es:
 - ¡Feliz día nacional!
-- ¡Feliz día nacional!
+- ¡Que tengas un feliz día nacional!
 
 ja:
-- お祝い!
-- ハッピー・ナショナル・デー!
+- 国家の祝日おめでとう。
+- おめでとう、国家の祝日。
 
 zh:
-- 快乐的国家节日!
-- 快乐的国家日!
+- 国家节日快乐！
+- 祝你国家节日快乐！
 
 ## vocabulary
 
 en:
-- happy · hap-ee
-- national · national
-- day · day
+- national · NASH-uh-nul
+- holiday · HOL-i-day
 
 fr:
-- heureuses · heureuses
-- nationaux · nasyonaux
-- journée · joornaye
+- nationale · na-syo-NAL
+- fête · fet
 
 de:
-- gerne · gerne
-- nationaler · nationaler
-- tage · tage
+- National · na-tsyo-NAL
+- Feiertag · FY-er-tak
 
 am:
-- ደስተኛ · dhestenya
-- ብሔራዊ · bhherawi
-- ቀን · qen
+- ብሔራዊ · bi-he-ra-wi
+- በዓል · be-al
 
 ar:
-- يسعد · ysad
-- الوطنية · alwtnya
-- اليوم · al-yawm
+- وطني · wa-ta-nee
+- عيد · eed
 
 es:
-- feliz · feliz
-- nacionales · nacionales
-- día · deea
+- nacional · na-thyo-NAL
+- día · DEE-a
 
 ja:
-- ハッピー · happii
-- 国民 · kokumin
-- 日 · nichi
+- 国家 · kok-ka
+- 祝日 · shu-ku-jitsu
 
 zh:
-- 開心 · kāi xīn
-- 国家的 · guó jiā de
-- 日 · rì
+- 国家 · guó jiā
+- 节日 · jié rì
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

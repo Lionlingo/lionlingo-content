@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-yes-no-questions · Yes/no questions
-- snippet-a2-ability-can · can for ability
+- snippet-a1-interrogation · Questions
+- snippet-a1-modal-verbs · Modal verbs

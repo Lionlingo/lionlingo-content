@@ -8,91 +8,67 @@ en:
 
 fr:
 - Je vais voir mes beaux-parents.
-- Je vais voir mes beaux-parents.
+- Je rends visite à mes beaux-parents.
 
 de:
-- Ich gehe zu meinen Schwiegereltern.
+- Ich gehe meine Schwiegereltern sehen.
 - Ich besuche meine Schwiegereltern.
 
 am:
-- ወደ አማቶቼ እሄዳለሁ።
-- አማቶቼን ጎበኘኋቸው።
+- አማቶቼን ለማየት እሄዳለሁ።
+- አማቶቼን እጎበኛለሁ።
 
 ar:
-- سأذهب لرؤية أهلي
-- أنا أزور أهل زوجتي.
+- أذهب لرؤية أصهاري.
+- أزور أصهاري.
 
 es:
 - Voy a ver a mis suegros.
 - Visito a mis suegros.
 
 ja:
-- 私は義理の家を訪ねる.
-- 私は義理の家を訪ねる.
+- 私は義両親に会いに行きます。
+- 私は義両親を訪ねます。
 
 zh:
-- 我去看我的岳母.
-- 我去拜访我的岳母.
+- 我去看我的岳父母。
+- 我去拜访我的岳父母。
 
 ## vocabulary
 
 en:
-- i · eye
-- visit · visit
-- my · my
-- in · in
-- laws · laws
+- visit · VIZ-it
+- in-laws · IN-lawz
 
 fr:
-- je · zhuh
-- visite · visite
-- mon · mon
-- dans · dans
-- lois · lwahs
+- visite · vee-ZEET
+- beaux-parents · bo pa-RAHN
 
 de:
-- ich · ikh
-- besuch · besukh
-- mein · meyen
-- in · in
-- gesetze · gesetze
+- besuche · be-ZOO-ke
+- Schwiegereltern · SHVEE-ger-el-tern
 
 am:
-- እኔ · i-ne
-- መጎብኘት። · megobnyet
-- የእኔ · yeene
-- ውስጥ · wsth
-- ህጎች · hgoch
+- እጎበኛለሁ · i-go-be-nya-le-hu
+- አማቶቼ · a-ma-to-che
 
 ar:
-- أنا · a-na
-- زور · zwr
-- لي · ly
-- في · fee
-- قوانين · qwanyn
+- أزور · a-zoor
+- أصهاري · a-s-haa-ree
 
 es:
-- yo · yo
-- visite · visite
-- mi · mi
-- en · en
-- leyes · leyes
+- visito · bee-SEE-to
+- suegros · SWE-gros
 
 ja:
-- 私 · watashi
-- 訪問 · houmon
-- 私の · watashi no
-- で · de
-- 法律 · houritsu
+- 訪ねます · ta-zu-ne-ma-su
+- 義両親 · gi-ryo-o-shin
 
 zh:
-- 我 · wǒ
-- 參觀 · cān guān
-- 我的 · wǒ de
-- 在 · zài
-- 法律 · fǎ lǜ
+- 拜访 · bài fǎng
+- 岳父母 · yuè fù mǔ
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a2-possessives · Possessives
+- snippet-a2-zu-infinitive · Infinitive with to
+- snippet-a1-possessives · my, your, his, her

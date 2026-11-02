@@ -4,95 +4,63 @@ order: 6
 
 en:
 - Could I get a receipt?
-- Can I have a receipt?
+- Could I have a receipt?
 
 fr:
-- Je peux avoir un reçu ?
-- Je peux avoir un reçu ?
+- Puis-je avoir un reçu ?
+- Pourrais-je avoir un reçu ?
 
 de:
-- Kann ich eine Quittung haben?
-- Kann ich eine Quittung haben?
+- Könnte ich eine Quittung haben?
+- Eine Quittung, bitte?
 
 am:
-- ደረሰኝ ማግኘት እችላለሁ?
+- ደረሰኝ ልግኝ እችላለሁ?
 - ደረሰኝ ማግኘት እችላለሁ?
 
 ar:
 - هل يمكنني الحصول على إيصال؟
-- هل يمكنني الحصول على إيصال؟
+- هل أستطيع أخذ إيصال؟
 
 es:
-- ¿Puedo obtener un recibo?
+- ¿Me da un recibo?
 - ¿Puedo tener un recibo?
 
 ja:
-- 領収書をもらえる?
-- 領収書をもらえますか?
+- 領収書をもらえますか？
+- 領収書をください。
 
 zh:
-- 可以给我一个收据吗?
-- 可以给我一个收据吗?
+- 可以给我收据吗？
+- 请给我收据。
 
 ## vocabulary
 
 en:
-- can · kan
-- i · eye
-- have · hav
-- a · uh
-- receipt · receipt
+- receipt · ri-SEET
 
 fr:
-- pouvoir · poo: VWAR
-- je · zhuh
-- avoir · avwahr
-- un · un
-- réception · raycepsyon
+- reçu · ruh-SU
 
 de:
-- können · KER: nen
-- ich · ikh
-- haben · haben
-- ein · eyen
-- quittung · quittung
+- Quittung · KVIT-ung
 
 am:
-- መቻል · mechal
-- እኔ · i-ne
-- አለኝ · aleny
-- አንድ · andh
-- ደረሰኝ · dhereseny
+- ደረሰኝ · de-re-seny
 
 ar:
-- يستطيع · yastatee'
-- أنا · a-na
-- يملك · ymlk
-- Ø · 
-- تسلم · tslm
+- إيصال · ee-saal
 
 es:
-- poder · po: DER
-- yo · yo
-- tener · tener
-- un · un
-- recibo · recibo
+- recibo · re-SEE-bo
 
 ja:
-- できる · dekiru
-- 私 · watashi
-- 持つ · motsu
-- 一つの · hitotsu no
-- レシート · reshiito
+- 領収書 · ryo-shu-sho
 
 zh:
-- 能 · néng / huì
-- 我 · wǒ
-- 有 · yǒu
-- 一个 · yí gè
-- 收據 · shōu jù
+- 收据 · shōu jù
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-b2-wish-unreal · wish and if only
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

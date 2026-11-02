@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal greetings
-- snippet-b1-passive-intro · Passive voice
+- snippet-a1-pronouns · Pronouns
+- snippet-b1-passive · The passive

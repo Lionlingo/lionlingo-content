@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a1-articles-definiteness · a / an / the
+- snippet-a1-present · Present tense
+- snippet-a1-article-declension · Articles

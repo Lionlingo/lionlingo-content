@@ -3,80 +3,72 @@ order: 20
 ---
 
 en:
-- Do you have a spouse?
 - Are you married?
+- You are married, right?
 
 fr:
-- Vous êtes mariée ?
-- Vous êtes marié ?
+- Es-tu marié ?
+- Tu es marié, non ?
 
 de:
-- Haben Sie einen Ehepartner?
-- Sind Sie verheiratet?
+- Bist du verheiratet?
+- Du bist verheiratet, oder?
 
 am:
-- የትዳር ጓደኛ አለሽ?
-- ባለትዳሮች ናችሁ?
+- ባለትዳር ነህ?
+- አንተ ባለትዳር ነህ?
 
 ar:
-- هل لديك زوجة؟
-- هل أنتِ متزوجة؟
+- هل أنت متزوج؟
+- أنت متزوج، أليس كذلك؟
 
 es:
-- ¿Tiene una esposa?
 - ¿Estás casado?
+- Estás casado, ¿verdad?
 
 ja:
-- 結婚してるの?
-- 結婚してるの?
+- 結婚していますか?
+- 結婚されていますか?
 
 zh:
-- 你有没有配偶?
-- 你已经结婚了吗?
+- 你结婚了吗？
+- 你结婚了没有？
 
 ## vocabulary
 
 en:
-- are · are
 - you · yoo
-- married · married
+- married · ma-reed
 
 fr:
-- sont · sont
 - tu · tu
-- mariées · mariayes
+- marié · ma-ryay
 
 de:
-- sind · sind
-- du · du
-- verheiratet · verheyeratet
+- du · doo
+- verheiratet · fer-HY-ra-tet
 
 am:
-- ናቸው · nachew
-- አንተ · an-te
-- ባለትዳር · baletdhar
+- ነህ · neh
+- ባለትዳር · baletdar
 
 ar:
-- هم · hm
-- أنت · an-ta
-- متزوجة · mtzwja
+- أنت · anta
+- متزوج · mutazawwij
 
 es:
-- son · son
-- tú · too
-- casadas · casadas
+- estás · es-TAS
+- casado · ka-SA-do
 
 ja:
-- です · desu
-- あなた · anata
-- 既婚 · kikon
+- ていますか · te imasu ka
+- 結婚 · kekkon
 
 zh:
-- 是 · shì
 - 你 · nǐ
-- 已婚 · yǐ hūn
+- 结婚 · jié hūn
 
 ## grammar
 
-- snippet-a1-yes-no-questions · Yes/no questions
-- snippet-a1-have-possession · Have for possession
+- snippet-a1-interrogation · Questions
+- snippet-a1-sein · To be

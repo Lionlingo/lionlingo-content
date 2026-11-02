@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-a2-time-prepositions · Time prepositions: in, on, at
+- snippet-a2-preterite · Past simple
+- snippet-a1-prepositions · Prepositions

@@ -7,76 +7,68 @@ en:
 - How are you feeling today?
 
 fr:
-- Comment vous sentez-vous aujourd'hui ?
-- Comment vous sentez-vous aujourd'hui ?
+- Comment tu te sens aujourd'hui ?
+- Qu'est-ce que tu ressens aujourd'hui ?
 
 de:
 - Wie fühlst du dich heute?
-- Wie geht es dir heute?
+- Was fühlst du heute?
 
 am:
 - ዛሬ ምን ይሰማሃል?
-- ዛሬ ምን ይሰማሃል?
+- ዛሬ ስሜትህ ምንድን ነው?
 
 ar:
-- كيف تشعرين اليوم؟
-- كيف تشعرين اليوم؟
+- كيف تشعر اليوم؟
+- ما شعورك اليوم؟
 
 es:
 - ¿Cómo te sientes hoy?
-- ¿Cómo te sientes hoy?
+- ¿Qué tal te sientes hoy?
 
 ja:
-- 今日はどうですか?
-- 今日はどうですか?
+- 今日の気分はどうですか？
+- 今日は気分がどうですか？
 
 zh:
-- 你今天感觉如何?
-- 你今天感觉如何?
+- 你今天感觉如何？
+- 你今天感觉怎么样？
 
 ## vocabulary
 
 en:
-- how are you · how ar yoo
-- feeling · feeling
-- today · today
+- feel · feel
+- today · tuh-DAY
 
 fr:
-- comment allez-vous · ko: mahn ta: lay VOO
-- feeling · feeling
-- hui · hui
+- sens · sahn
+- aujourd'hui · o-zhoor-DWEE
 
 de:
-- wie geht's · vee gayts
-- gefühle · gefuehle
-- heutige · hoytige
+- fühlst · fuelst
+- heute · HOY-te
 
 am:
-- እንደምን ነህ · indeminin alu
-- ስሜት · smet
-- ዛሬ · zare
+- ይሰማሃል · yi-se-ma-hal
+- ዛሬ · za-re
 
 ar:
-- كيف حالك · kayfa haluk
-- شعور · shawr
+- تشعر · tash-ur
 - اليوم · al-yawm
 
 es:
-- ¿cómo estás? · KO: mo es: TAS
-- sensación · sensaciohn
-- today · today
+- sientes · SYEN-tes
+- hoy · oy
 
 ja:
-- お元気ですか · genki desu ka
-- 気分 · kibun
-- トゥデイ · toudei
+- 気分 · ki-bun
+- 今日 · kyo-o
 
 zh:
-- 你好吗 · nǐ hǎo ma
-- 感受 · gǎn shòu
-- 今日 · jīn rì
+- 感觉 · gǎn jué
+- 今天 · jīn tiān
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-a1-wh-questions · Question words
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings

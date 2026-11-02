@@ -3,96 +3,72 @@ order: 17
 ---
 
 en:
-- What's the price of that?
 - How much does that cost?
+- How much is that?
 
 fr:
-- Quel est le prix ?
 - Combien ça coûte ?
+- Ça coûte combien ?
 
 de:
-- Was kostet das?
 - Wie viel kostet das?
+- Was kostet das?
 
 am:
-- ዋጋው ስንት ነው?
-- ምን ያህል ያስከፍላል?
+- ያ ስንት ያስከፍላል?
+- ያ ስንት ነው?
 
 ar:
-- ما هو ثمن ذلك؟
-- كم سيكلف هذا؟
+- كم يكلف ذلك؟
+- كم ثمن ذلك؟
 
 es:
-- ¿Cuál es el precio de eso?
 - ¿Cuánto cuesta eso?
+- ¿Cuánto es eso?
 
 ja:
-- その値段は?
-- その値段は?
+- それはいくらですか?
+- それはおいくらですか?
 
 zh:
-- 这个价格是多少?
-- 这需要多少钱?
+- 那个多少钱？
+- 那个要多少钱？
 
 ## vocabulary
 
 en:
-- how · how
-- much · much
-- does · does
+- how much · how much
 - that · that
-- cost · cost
 
 fr:
-- comment · comment
-- beaucoup · bohcoop
-- fait · fait
-- cela · suh: LA / suh
-- coût · cooot
+- combien · kom-byan
+- ça · sa
 
 de:
-- wie · wee
-- viel · veel
-- tut · tut
+- wie viel · vee feel
 - das · das
-- kosten · kosten
 
 am:
-- እንዴት · in-det
-- ብዙ · bzu
-- ያደርጋል · yadhergal
+- ስንት · sint
 - ያ · ya
-- ወጪ · wechai
 
 ar:
-- كيف · kay-fa
-- كثيراً · kthyraan
-- يفعل · yfal
-- ذلك · thalika
-- الكلفة · alklfa
+- كم · kam
+- ذلك · dhalika
 
 es:
-- cómo · cohmo
-- mucho · mucho
-- hace · hace
-- eso · E: se
-- coste · coste
+- cuánto · KWAN-to
+- eso · E-so
 
 ja:
-- どう · dou
-- たくさん · takusan
-- する · suru
+- いくら · ikura
 - それ · sore
-- 費用 · hiyou
 
 zh:
-- 怎么 · zěn me
-- 很多 · hěn duō
-- 做 · zuò
-- 那 · nà
-- 費用 · fèi yòng
+- 多少 · duō shǎo
+- 那个 · nà ge
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a1-demonstratives · Demonstratives: this, that, these, those
+- snippet-a1-wh-questions · Question words
+- snippet-a1-present · Present tense

@@ -3,64 +3,72 @@ order: 19
 ---
 
 en:
-- What's your age?
 - How old are you?
+- May I ask how old you are?
 
 fr:
-- Quel âge avez-vous ?
-- Quel âge avez-vous ?
+- Quel âge as-tu ?
+- Puis-je te demander quel âge tu as ?
 
 de:
-- Wie alt sind Sie?
-- Wie alt sind Sie? - Vier.
+- Wie alt bist du?
+- Darf ich fragen, wie alt du bist?
 
 am:
-- ስንት ዓመታችሁ ነው?
-- ስንት ዓመታችሁ ነው?
+- ስንት ዓመትህ ነው?
+- ዓመትህ ስንት ነው?
 
 ar:
-- كم عمرك ؟
-- كم عمرك ؟
+- كم عمرك؟
+- هل لي أن أسأل كم عمرك؟
 
 es:
 - ¿Cuántos años tienes?
-- ¿Cuántos años tienes?
+- ¿Puedo preguntar cuántos años tienes?
 
 ja:
 - 何歳ですか?
-- 何歳ですか?
+- お年は何歳ですか?
 
 zh:
-- 你几岁了?
-- 你几岁了?
+- 你多大了？
+- 你今年多大了？
 
 ## vocabulary
 
 en:
-- how old are you · how old are yoo
+- how · how
+- old · ohld
 
 fr:
-- quel âge as-tu · quel ahge as-tu
+- quel · kel
+- âge · ahzh
 
 de:
-- wie alt bist du · wee alt bist du
+- wie · vee
+- alt · alt
 
 am:
-- ስንት አመትህ ነው · snt ameth new
+- ስንት · sint
+- ዓመትህ · ametih
 
 ar:
-- كم عمرك · km amrk
+- كم · kam
+- عمرك · umruk
 
 es:
-- cuántos años tienes · cuahntos anyos tienes
+- cuántos · KWAN-tos
+- años · A-nyos
 
 ja:
-- 何歳ですか · nansai desuka
+- 何 · nan
+- 歳 · sai
 
 zh:
-- 你多大了 · nǐ duō dà le
+- 多 · duō
+- 大 · dà
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a1-wh-questions · Question words
+- snippet-a1-sein · To be

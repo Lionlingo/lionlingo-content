@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-past-continuous · Past continuous
-- snippet-b2-participles-as-adjectives · -ing / -ed adjectives
+- snippet-a2-preterite · Past simple
+- snippet-a2-participles · Participles

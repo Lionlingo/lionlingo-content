@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-mixed-conditionals · Mixed conditionals
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

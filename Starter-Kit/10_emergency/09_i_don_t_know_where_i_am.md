@@ -4,79 +4,71 @@ order: 9
 
 en:
 - I don't know where I am.
-- I'm lost.
+- Where I am, I don't know.
 
 fr:
 - Je ne sais pas où je suis.
-- Je me suis perdu.
+- Où je suis, je ne le sais pas.
 
 de:
 - Ich weiß nicht, wo ich bin.
-- Ich habe mich verlaufen.
+- Wo ich bin, weiß ich nicht.
 
 am:
 - የት እንደሆንኩ አላውቅም።
-- ጠፍቻለሁ።
+- አላውቅም የት እንደሆንኩ።
 
 ar:
 - لا أعرف أين أنا.
-- أنا ضائعة.
+- أين أنا، لا أعرف.
 
 es:
 - No sé dónde estoy.
-- Estoy perdido.
+- Dónde estoy, no lo sé.
 
 ja:
-- どこにいるかわからない
-- 迷子になった
+- 自分がどこにいるか分かりません。
+- どこにいるか、分かりません。
 
 zh:
-- 我不知道自己在哪里.
-- 我迷路了.
+- 我不知道我在哪里。
+- 我在哪里，我不知道。
 
 ## vocabulary
 
 en:
-- i · eye
-- 'm · 'm
-- lost · lost
+- know · noh
+- where · wair
 
 fr:
-- je · zhuh
-- suis · suis
-- perdu · perdu
+- sais · say
+- où · oo
 
 de:
-- ich · ikh
-- bin · bin
-- verlor · verlor
+- weiß · vice
+- wo · voh
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ጠፋ · thefa
+- አላውቅም · a-law-qim
+- የት · yet
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- خسرت · khsrt
+- أعرف · a-rif
+- أين · ay-na
 
 es:
-- yo · yo
-- soy · soy
-- perdido · perdido
+- sé · se
+- dónde · DON-de
 
 ja:
-- 私 · watashi
-- です · desu
-- ロスト · rosuto
+- 分かり · wa-ka-ri
+- どこ · do-ko
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 失 · shī
+- 知道 · zhī dào
+- 哪里 · nǎ lǐ
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b2-third-conditional · Third conditional
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a2-subordinate-clause · Subordinate clauses

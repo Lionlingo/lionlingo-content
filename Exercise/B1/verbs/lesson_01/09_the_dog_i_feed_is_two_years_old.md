@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-present-perfect · Present perfect
-- snippet-b2-causative · Causatives (have, get, make, let)
+- snippet-a2-perfekt · Present perfect
+- snippet-a1-modal-verbs · Modal verbs

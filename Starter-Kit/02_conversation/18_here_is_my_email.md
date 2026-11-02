@@ -3,80 +3,72 @@ order: 18
 ---
 
 en:
-- Here is my email…
-- My email is…
+- Here is my email.
+- This is my email address.
 
 fr:
-- Voici mon courriel...
-- Mon courriel est...
+- Voici mon courriel.
+- Ceci est mon courriel.
 
 de:
-- Hier ist meine E-Mail...
-- Meine E-Mail ist...
+- Hier ist meine E-Mail.
+- Das ist meine E-Mail.
 
 am:
-- የእኔ ኢሜይል ይኸውልዎት...
-- የእኔ ኢሜይል...
+- እነሆ የእኔ ኢሜይል።
+- ይህ የእኔ ኢሜይል ነው።
 
 ar:
-- ها هو بريدي الإلكتروني
-- بريدي الإلكتروني هو...
+- ها هو بريدي الإلكتروني.
+- هذا هو بريدي الإلكتروني.
 
 es:
-- Aquí está mi correo electrónico...
-- Mi correo electrónico es...
+- Aquí está mi correo electrónico.
+- Este es mi correo electrónico.
 
 ja:
-- これが私のメールです
-- 私のメールは...
+- こちらが私のメールです。
+- これは私のメールです。
 
 zh:
-- 这是我的电子邮件...
-- 我的电子邮件是...
+- 这是我的电子邮件。
+- 我的电子邮件在这里。
 
 ## vocabulary
 
 en:
 - my · my
-- email · email
-- is · iz
+- email · ee-mayl
 
 fr:
 - mon · mon
-- email · email
-- est · est
+- courriel · koor-YEL
 
 de:
-- mein · meyen
-- email · email
-- ist · ist
+- meine · MY-ne
+- E-Mail · EE-mayl
 
 am:
 - የእኔ · yeene
 - ኢሜይል · imeyl
-- ነው · new
 
 ar:
-- لي · ly
-- الايميل · alaymyl
-- هو · hu-wa
+- بريدي · baridi
+- الإلكتروني · al-iliktroni
 
 es:
 - mi · mi
-- correo · correo
-- es · es
+- correo · ko-RRE-o
 
 ja:
 - 私の · watashi no
-- メールアドレス · meeruadoresu
-- です · desu
+- メール · mēru
 
 zh:
 - 我的 · wǒ de
-- 電子郵件 · diàn zi yóu jiàn
-- 是 · shì
+- 电子邮件 · diàn zǐ yóu jiàn
 
 ## grammar
 
-- snippet-a1-subject-pronouns-be · Subject + be
-- snippet-a2-present-continuous · Present continuous
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-two-way-prepositions · Place and direction

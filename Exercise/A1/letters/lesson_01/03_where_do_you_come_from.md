@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
-- snippet-a1-informal-greetings · Informal address
+- snippet-a1-wh-questions · Question words
+- snippet-a1-pronouns · Pronouns

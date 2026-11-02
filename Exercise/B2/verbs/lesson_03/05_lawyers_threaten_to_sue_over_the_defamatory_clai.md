@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-hedging · Hedging
-- snippet-c1-evaluative-language · Evaluative language
+- snippet-b2-subjective-modals · Modals for guesses

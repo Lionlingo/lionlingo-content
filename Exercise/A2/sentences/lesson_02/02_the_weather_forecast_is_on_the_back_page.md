@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-time-days · Days & time
-- snippet-b1-future-will-predictions · will (prediction)
+- snippet-a1-time · Telling time
+- snippet-a2-future · The future

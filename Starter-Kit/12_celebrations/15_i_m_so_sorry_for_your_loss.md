@@ -4,71 +4,63 @@ order: 15
 
 en:
 - I'm so sorry for your loss.
-- My condolences.
+- Please accept my condolences for your loss.
 
 fr:
-- Je suis désolée pour votre perte.
-- Je vous présente mes condoléances.
+- Je suis désolé pour ta perte.
+- Toutes mes condoléances pour ta perte.
 
 de:
-- Es tut mir so leid für Ihren Verlust.
-- Mein Beileid.
+- Es tut mir so leid um deinen Verlust.
+- Mein Beileid für deinen Verlust.
 
 am:
-- በደረሰብሽ ሐዘን በጣም አዝናለሁ።
-- የተሰማኝን ሀዘን እገልጻለሁ።
+- ስለ ኪሳራህ በጣም አዝናለሁ።
+- በጣም አዝናለሁ ስለ ኪሳራህ።
 
 ar:
-- أنا آسف جداً لخسارتك
-- تعازي
+- أنا آسف جداً على خسارتك.
+- خسارتك تؤلمني جداً.
 
 es:
-- Lo siento mucho por su pérdida.
-- Mis condolencias.
+- Lo siento mucho por tu pérdida.
+- Mis condolencias por tu pérdida.
 
 ja:
-- 失礼しました
-- 哀悼の意を表します
+- お悔やみ申し上げます。
+- 心よりお悔やみ申し上げます。
 
 zh:
-- 我对你的伤害非常抱歉.
-- 我对你表示哀悼.
+- 我为你的失去深感抱歉。
+- 对你的失去，我深感哀悼。
 
 ## vocabulary
 
 en:
-- my · my
-- condolences · condolences
+- loss · loss
 
 fr:
-- mon · mon
-- condoléances · condolayances
+- perte · pert
 
 de:
-- mein · meyen
-- beileid · beyeleyed
+- Verlust · fer-LUST
 
 am:
-- የእኔ · yeene
-- ሀዘንተኞች · hezentenyoch
+- ኪሳራ · ki-sa-ra
 
 ar:
-- لي · ly
-- التعازي · altaazy
+- خسارتك · kha-saa-ra-tak
 
 es:
-- mi · mi
-- condolencias · condolencias
+- pérdida · PER-di-da
 
 ja:
-- 私の · watashi no
-- お悔やみ · o kuya mi
+- お悔やみ · o-ku-ya-mi
 
 zh:
-- 我的 · wǒ de
-- 慰問 · wèi wèn
+- 失去 · shī qù
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
-- snippet-a2-past-simple · Past simple
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-possessives · my, your, his, her

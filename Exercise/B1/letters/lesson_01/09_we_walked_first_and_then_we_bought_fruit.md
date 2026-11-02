@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-b2-inversion-conditionals · Inversion in conditionals
+- snippet-a2-preterite · Past simple
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

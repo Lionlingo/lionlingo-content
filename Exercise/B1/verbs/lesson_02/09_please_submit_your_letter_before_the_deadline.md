@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-passive-intro · Passive voice
-- snippet-b2-inversion-conditionals · Conditional inversion
+- snippet-b1-passive · The passive
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

@@ -7,76 +7,60 @@ en:
 - The bill, please.
 
 fr:
-- Je peux avoir la facture, s'il vous plaît ?
-- La note, s'il vous plaît.
+- Puis-je avoir l'addition, s'il vous plaît ?
+- L'addition, s'il vous plaît.
 
 de:
-- Könnte ich bitte die Rechnung haben?
+- Kann ich die Rechnung haben, bitte?
 - Die Rechnung, bitte.
 
 am:
-- ሂሳቡን ላገኝ እችላለሁ?
-- ሂሳቡን እባክህ።
+- ሂሳቡን ማግኘት እችላለሁ፣ እባክዎ?
+- ሂሳቡን እባክዎ።
 
 ar:
-- أيمكنني الحصول على الفاتورة، من فضلك؟
-- الفاتورة من فضلك
+- هل يمكنني الحصول على الفاتورة، من فضلك؟
+- الفاتورة، من فضلك.
 
 es:
-- ¿Puedo tener la cuenta, por favor?
+- ¿Me trae la cuenta, por favor?
 - La cuenta, por favor.
 
 ja:
-- 請求書をお願いします.
-- 請求書をお願いします
+- お会計をお願いできますか？
+- お会計をお願いします。
 
 zh:
-- 请给我账单吗?
-- 账单,请.
+- 请给我账单。
+- 账单，请。
 
 ## vocabulary
 
 en:
-- the · thuh
 - bill · bill
-- please · pleez
 
 fr:
-- le · luh
-- bill · bill
-- s'il vous plaît · sil vu play
+- addition · a-dee-SYON
 
 de:
-- der · dehr
-- rechnung · rekhnung
-- bitte · BI: te
+- Rechnung · REKH-nung
 
 am:
-- የ · ye
-- ሂሳብ · hisab
-- እባክህ · i-bak-ih
+- ሂሳቡ · hi-sa-bu
 
 ar:
-- ال · al
-- بيل · byl
-- من فضلك · min fadlak
+- الفاتورة · al-faa-too-ra
 
 es:
-- el · el
-- bill · biy
-- por favor · por fa: VOR
+- cuenta · KWEN-ta
 
 ja:
-- その · sono
-- ビル · biru
-- お願いします · onegai shimasu
+- 会計 · kai-kei
 
 zh:
-- 这 · zhè
 - 账单 · zhàng dān
-- 请 · qǐng
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-a2-object-pronouns · Object pronouns
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-haben · To have

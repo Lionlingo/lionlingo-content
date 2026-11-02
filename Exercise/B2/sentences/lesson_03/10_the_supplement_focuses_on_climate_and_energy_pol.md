@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-discourse-reference · Discourse reference
+- snippet-a1-pronouns · Pronouns

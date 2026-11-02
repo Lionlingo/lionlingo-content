@@ -15,8 +15,8 @@ de:
 - Wo ist der Aufzug, bitte?
 
 am:
-- እባካችሁ ሊፍቱን የት ማግኘት እችላለሁ?
-- እባካችሁ ሊፍት የት አለ?
+- ሊፍቱን የት ማግኘት እችላለሁ፣ እባክዎ?
+- ሊፍቱ የት ነው፣ እባክዎ?
 
 ar:
 - أين يمكنني أن أجد المصعد، من فضلك؟
@@ -27,72 +27,48 @@ es:
 - ¿Dónde está el ascensor, por favor?
 
 ja:
-- エレベーターはどこですか?
-- エレベーターはどこですか?
+- エレベーターはどこにありますか？お願いします。
+- エレベーターはどこですか？お願いします。
 
 zh:
-- 请问我在哪里找到电梯?
-- 电梯在哪里,请?
+- 请问我在哪里可以找到电梯？
+- 请问电梯在哪里？
 
 ## vocabulary
 
 en:
 - where · wair
-- is · iz
-- the · thuh
-- elevator · elevator
-- please · pleez
+- elevator · EL-uh-vay-ter
 
 fr:
 - où · oo
-- est · est
-- le · luh
-- ascenseurs · ascenseurs
-- s'il vous plaît · sil vu play
+- ascenseur · a-sahn-SUR
 
 de:
-- wo · vo
-- ist · ist
-- der · dehr
-- fahrstuhl · fahrstuhl
-- bitte · BI: te
+- wo · voh
+- Aufzug · OWF-tsook
 
 am:
 - የት · yet
-- ነው · new
-- የ · ye
-- ሊፍት · lift
-- እባክህ · i-bak-ih
+- ሊፍቱ · lif-tu
 
 ar:
 - أين · ay-na
-- هو · hu-wa
-- ال · al
-- المصعد · almsad
-- من فضلك · min fadlak
+- المصعد · al-mis-ad
 
 es:
-- dónde · DON: de
-- es · es
-- el · el
-- ascensor · ascensor
-- por favor · por fa: VOR
+- dónde · DON-de
+- ascensor · as-sen-SOR
 
 ja:
-- どこ · doko
-- です · desu
-- その · sono
-- エレベーター · erebeetaa
-- お願いします · onegai shimasu
+- どこ · do-ko
+- エレベーター · e-re-be-e-taa
 
 zh:
 - 哪里 · nǎ lǐ
-- 是 · shì
-- 这 · zhè
-- 升降機 · shēng jiàng jī
-- 请 · qǐng
+- 电梯 · diàn tī
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-two-way-prepositions · Place and direction

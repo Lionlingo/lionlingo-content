@@ -3,104 +3,72 @@ order: 5
 ---
 
 en:
-- Have you got a room free?
-- Do you have a room available?
+- Have you got a free room?
+- Do you have a free room?
 
 fr:
-- Vous avez une chambre libre ?
-- Vous avez une chambre libre ?
+- Avez-vous une chambre libre ?
+- Une chambre libre, vous en avez une ?
 
 de:
 - Haben Sie ein Zimmer frei?
-- Haben Sie ein Zimmer frei?
+- Haben Sie ein freies Zimmer?
 
 am:
-- ክፍት ክፍል አለህ?
-- ክፍሉ ክፍት ነው?
+- ክፍት ክፍል አለዎት?
+- ክፍት የሆነ ክፍል አለዎት?
 
 ar:
-- هل لديك غرفة متاحة؟
-- هل لديك غرفة متاحة؟
+- هل لديكم غرفة فارغة؟
+- هل توجد لديكم غرفة فارغة؟
 
 es:
 - ¿Tiene una habitación libre?
-- ¿Tiene una habitación disponible?
+- ¿Tiene usted una habitación libre?
 
 ja:
-- 部屋がないの?
-- 部屋は空いていますか.
+- 空いている部屋はありますか？
+- 部屋は空いていますか？
 
 zh:
-- 你有空房吗?
-- 你有空房吗?
+- 您有空房间吗？
+- 您有空的房间吗？
 
 ## vocabulary
 
 en:
-- do · do
-- you · yoo
-- have · hav
-- a · uh
 - room · room
-- available · uh: VAY: luh: bul
+- free · free
 
 fr:
-- faire · faire
-- tu · tu
-- avoir · avwahr
-- un · un
-- salle · salle
-- disponible · dis: po: NEE: bl
+- chambre · SHAHN-br
+- libre · LEE-br
 
 de:
-- tun · tun
-- du · du
-- haben · haben
-- ein · eyen
-- raum · raum
-- frei / verfügbar · fry
+- Zimmer · TSIM-er
+- frei · fry
 
 am:
-- ማድረግ · madhreg
-- አንተ · an-te
-- አለኝ · aleny
-- አንድ · andh
-- ክፍል · kfl
-- ነፃ / ያለ · netsa
+- ክፍል · kifl
+- ክፍት · kift
 
 ar:
-- يفعل · yfal
-- أنت · an-ta
-- يملك · ymlk
-- Ø · 
-- غرفة · ghrfa
-- متاح · mutah
+- غرفة · ghur-fa
+- فارغة · faa-ri-gha
 
 es:
-- hacer · hacer
-- tú · too
-- tener · tener
-- un · un
-- cuarto · cuarto
-- disponible · dis: po: NEE: ble
+- habitación · a-bi-ta-THYON
+- libre · LEE-bre
 
 ja:
-- する · suru
-- あなた · anata
-- 持つ · motsu
-- 一つの · hitotsu no
-- 部屋 · heya
-- 空いている · uite iru
+- 部屋 · he-ya
+- 空 · a-ki
 
 zh:
-- 做 · zuò
-- 你 · nǐ
-- 有 · yǒu
-- 一个 · yí gè
-- 房間 · fáng jiān
-- 有空位 · yǒu kòng wèi
+- 房间 · fáng jiān
+- 空 · kòng
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-haben · To have
+- snippet-a1-adjective-endings · Adjectives

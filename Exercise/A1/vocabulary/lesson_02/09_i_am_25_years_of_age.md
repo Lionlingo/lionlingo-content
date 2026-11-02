@@ -62,5 +62,6 @@ zh:
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a1-time · Telling time
+- snippet-a1-pronouns · Pronouns
+- snippet-a1-sein · To be

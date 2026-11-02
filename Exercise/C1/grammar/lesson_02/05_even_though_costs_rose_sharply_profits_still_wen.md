@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-concessive-clauses · Concessive clauses
-- snippet-b2-contrast-connectors · Contrast connectors
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-a1-conjunctions · Conjunctions

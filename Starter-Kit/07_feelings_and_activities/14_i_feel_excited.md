@@ -3,80 +3,64 @@ order: 14
 ---
 
 en:
-- I feel excited!
-- I am excited!
+- I feel excited.
+- I am excited.
 
 fr:
-- Je suis excité !
-- Je suis excité !
+- Je me sens excité.
+- Je suis excité.
 
 de:
-- Ich fühle mich aufgeregt!
-- Ich bin aufgeregt!
+- Ich fühle mich aufgeregt.
+- Ich bin aufgeregt.
 
 am:
-- በጣም ተደስቻለሁ!
-- በጣም ተደስቻለሁ!
+- ጓጉቶኛል።
+- ጓጉቻለሁ።
 
 ar:
-- أشعر بالإثارة!
-- أنا متحمسة!
+- أشعر أنني متحمس.
+- أنا متحمس.
 
 es:
-- ¡Me siento emocionado!
-- ¡Estoy emocionado!
+- Me siento emocionado.
+- Estoy emocionado.
 
 ja:
-- ワクワクしてる!
-- ワクワクしてる!
+- 私は興奮を感じています。
+- 私は興奮しています。
 
 zh:
-- 我感觉很兴奋!
-- 我很兴奋!
+- 我感到兴奋。
+- 我很兴奋。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- excited · excited
+- excited · ek-SY-ted
 
 fr:
-- je · zhuh
-- suis · suis
-- excité · excitay
+- excité · ek-see-TAY
 
 de:
-- ich · ikh
-- bin · bin
-- erregt · erregt
+- aufgeregt · OWF-ge-raykt
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ጓጉተናል · gwagutenal
+- ጓጉ · gwa-gu
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- متحمسة · mthmsa
+- متحمس · mu-ta-ham-mis
 
 es:
-- yo · yo
-- soy · soy
-- emocionada · emocionada
+- emocionado · e-mo-syo-NA-do
 
 ja:
-- 私 · watashi
-- です · desu
-- わくわく · wakuwaku
+- 興奮 · koo-fun
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 興奮 · xìng fèn
+- 兴奋 · xīng fèn
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a2-near-future · going to
+- snippet-a2-reflexive-verbs-list · Daily routine and feelings
+- snippet-a1-adjective-endings · Adjectives

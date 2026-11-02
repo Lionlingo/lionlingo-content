@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-information-structure · Information structure (given → new)
+- snippet-a1-sentence-structure · Sentence structure

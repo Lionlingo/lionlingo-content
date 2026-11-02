@@ -8,91 +8,67 @@ en:
 
 fr:
 - De quelle couleur est ta voiture ?
-- De quelle couleur est ta voiture ?
+- Ta voiture est de quelle couleur ?
 
 de:
 - Welche Farbe hat dein Auto?
-- Welche Farbe hat dein Auto?
+- Was für eine Farbe hat dein Auto?
 
 am:
 - መኪናህ ምን ቀለም አለው?
-- መኪናህ ምን ቀለም አለው?
+- የመኪናህ ቀለም ምንድን ነው?
 
 ar:
 - ما لون سيارتك؟
-- ما لون سيارتك؟
+- ما هو لون سيارتك؟
 
 es:
 - ¿De qué color es tu coche?
-- ¿De qué color es tu coche?
+- ¿Qué color tiene tu coche?
 
 ja:
-- あなたの車はどんな色ですか.
-- あなたの車はどんな色ですか.
+- あなたの車はどんな色ですか?
+- あなたの車は何色ですか?
 
 zh:
-- 你的车是什么颜色的?
-- 你的车是什么颜色的?
+- 你的车是什么颜色的？
+- 你的车是哪种颜色？
 
 ## vocabulary
 
 en:
-- what · wot
-- color · color
-- is · iz
-- your · yor
-- car · car
+- color · KUL-er
+- your car · yor kar
 
 fr:
-- quoi · kuh / kwa
-- couleur · cooleur
-- est · est
-- ton · ton
-- voitures · vwahtures
+- couleur · koo-LUR
+- ta voiture · ta vwa-TUR
 
 de:
-- was · vas
-- farbe · farbe
-- ist · ist
-- dein · deyen
-- mietwagen · meetwagen
+- Farbe · FAR-be
+- dein Auto · dyne OW-to
 
 am:
-- ምን · min
-- ቀለም · qelem
-- ነው · new
-- ያንተ · yante
-- መኪና · mekina
+- ቀለም · kelem
+- መኪናህ · mekinah
 
 ar:
-- ماذا · ma-dha
-- لون · lwn
-- هو · hu-wa
-- لك · lk
-- السيارة · alsyara
+- لون · lawn
+- سيارتك · sayyaratuk
 
 es:
-- qué · keh
-- color · color
-- es · es
-- tu · tu
-- coches · coches
+- color · ko-LOR
+- tu coche · too KO-che
 
 ja:
-- 何 · nani
-- カラー · karaa
-- です · desu
-- あなたの · anatano
-- 自動車 · jidousha
+- 色 · iro
+- あなたの車 · anata no kuruma
 
 zh:
-- 什么 · shén me
-- 色 · sè
-- 是 · shì
-- 你的 · nǐ de
-- 車 · chē
+- 颜色 · yán sè
+- 你的车 · nǐ de chē
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-a1-have-possession · Have for possession
+- snippet-a1-wh-questions · Question words
+- snippet-a1-possessives · my, your, his, her

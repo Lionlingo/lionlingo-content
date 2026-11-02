@@ -3,112 +3,88 @@ order: 14
 ---
 
 en:
-- Say the tens from twenty to fifty
-- Count by tens from twenty to fifty
+- Count by tens from twenty to fifty.
+- Count the tens from twenty to fifty.
 
 fr:
-- Dis les dizaines de vingt à cinquante
-- Comptez par dizaines de vingt à cinquante
+- Compte par dizaines de vingt à cinquante.
+- Compte les dizaines de vingt à cinquante.
 
 de:
-- Sag die Zehner von zwanzig bis fünfzig.
-- Zählen nach Zehner von zwanzig bis fünfzig
+- Zähl in Zehnern von zwanzig bis fünfzig.
+- Zähl die Zehner von zwanzig bis fünfzig.
 
 am:
-- ከሃያ እስከ ሃምሳ ያሉትን አሥሮች ይናገሩ
-- ከሃያ እስከ ሃምሳ በአስር ይቁጠሩ
+- በአሥር ከሃያ እስከ ሃምሳ ቁጠር።
+- አሥሮቹን ከሃያ እስከ ሃምሳ ቁጠር።
 
 ar:
-- قل العشرات من عشرين إلى خمسين
-- عد بالعشرات من عشرين إلى خمسين
+- عد بالعشرات من عشرين إلى خمسين.
+- عد العشرات من عشرين إلى خمسين.
 
 es:
-- Di las decenas de 20 a 50
-- Cuenta por decenas de 20 a 50
+- Cuenta por decenas de veinte a cincuenta.
+- Cuenta las decenas de veinte a cincuenta.
 
 ja:
-- 20から50までの10を言って
-- 20から50まで10で数える
+- 二十から五十まで十ずつ数えてください。
+- 二十から五十まで十を数えてください。
 
 zh:
-- 从20到50的十
-- 从20到50分数以10
+- 从二十数到五十，每次数十。
+- 把十位数从二十数到五十。
 
 ## vocabulary
 
 en:
-- count · count
-- by · by
-- tens · tens
-- from · from
-- twenty · twenty
-- to · too
-- fifty · fifty
+- count · kount
+- tens · tenz
+- twenty · TWEN-tee
+- fifty · FIF-tee
 
 fr:
-- compter · compter
-- par · par
-- rte · rte
-- de · duh
-- twenty · twenty
-- à · ah
-- cinquante · cinquante
+- compte · kont
+- dizaines · dee-ZEN
+- vingt · van
+- cinquante · san-KONT
 
 de:
-- zählung · zehhlung
-- von · von
-- zehntausende · zehntausende
-- von · ows
-- twenty · twenty
-- zu · zu
-- fifty · fifty
+- zähl · tsayl
+- Zehner · TSAY-ner
+- zwanzig · TSVAN-tsikh
+- fünfzig · FUENF-tsikh
 
 am:
-- መቁጠር · mequther
-- በ · be
-- በአስር · beasr
-- ከ · ke
+- ቁጠር · kuter
+- አሥር · asir
 - ሃያ · haya
-- ወደ · we-de
 - ሃምሳ · hamsa
 
 ar:
-- كونت · kwnt
-- بواسطة · bwasta
-- عشرات · ashrat
-- من · min
-- عشرون · ashrwn
-- إلى · i-la
-- خمسين · khmsyn
+- عد · udd
+- العشرات · al-ashrat
+- عشرين · ishrin
+- خمسين · khamsin
 
 es:
-- conde · conde
-- por · por
-- rte · rte
-- de · de
-- twenty · twenty
-- a · a
-- fifty · fifty
+- cuenta · KWEN-ta
+- decenas · de-SE-nas
+- veinte · BEYN-te
+- cincuenta · sin-KWEN-ta
 
 ja:
-- カウント · kaunto
-- によって · niyotte
-- 十 · juu
-- から · kara
-- 二十 · nijuu
-- に · ni
-- 五十 · gojuu
+- 数え · kazoe
+- 十 · jū
+- 二十 · nijū
+- 五十 · gojū
 
 zh:
-- 數 · shù
-- 由 · yóu
-- 数十 · shù shí
-- 从 · lái zì
+- 数 · shǔ
+- 十 · shí
 - 二十 · èr shí
-- 到 · dào
 - 五十 · wǔ shí
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

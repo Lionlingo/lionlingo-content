@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-fronting · Fronting for emphasis
+- snippet-a1-sentence-structure · Sentence structure

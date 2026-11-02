@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-inversion-conditionals · Inversion in conditionals
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

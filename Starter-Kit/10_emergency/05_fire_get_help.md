@@ -4,79 +4,71 @@ order: 5
 
 en:
 - Fire! Get help!
-- Fire! Call help!
+- Fire! Call for help!
 
 fr:
-- Appelle de l'aide !
-- Appelez de l'aide !
+- Au feu ! Appelez à l'aide !
+- Au feu ! Cherchez de l'aide !
 
 de:
-- Brennt, holt Hilfe!
-- Ruft Hilfe!
+- Feuer! Holt Hilfe!
+- Feuer! Ruft um Hilfe!
 
 am:
-- እሳት!
-- እሳት፣ እርዳታ ጠይቁ!
+- እሳት! እርዳታ ጥሩ!
+- እሳት! እርዳታ አምጡ!
 
 ar:
-- اطلقوا على المساعدة
-- اطلقوا على المساعدة
+- حريق! اطلبوا المساعدة!
+- حريق! أحضروا المساعدة!
 
 es:
-- ¡Fuego, busquen ayuda!
-- ¡Fuego, llamen por ayuda!
+- ¡Fuego! ¡Pidan ayuda!
+- ¡Fuego! ¡Busquen ayuda!
 
 ja:
-- 助けて!
-- 火災 助けて!
+- 火事です！助けを呼んでください！
+- 火事です！助けを求めてください！
 
 zh:
-- 消防队,求救!
-- 消防队,求救!
+- 着火了！快去求救！
+- 着火了！快呼叫救援！
 
 ## vocabulary
 
 en:
 - fire · fire
-- call · call
 - help · help
 
 fr:
-- feu · feu
-- appeler · appeler
-- aider · ay: DAY
+- feu · fuh
+- aide · ed
 
 de:
-- feuer · foyer
-- aufruf · aufruf
-- helfen · HEL: fen
+- Feuer · FOY-er
+- Hilfe · HIL-fe
 
 am:
-- እሳት · esat
-- ይደውሉ · ydhewlu
-- መርዳት · merdat
+- እሳት · i-sat
+- እርዳታ · ir-da-ta
 
 ar:
-- النار · alnar
-- اتصل · atsl
-- يساعد · yusaa'id
+- حريق · ha-reeq
+- المساعدة · al-mu-saa-da
 
 es:
-- incendio · incendio
-- llamada · yamada
-- ayudar · a: yu: DAR
+- fuego · FWE-go
+- ayuda · a-YU-da
 
 ja:
-- 火事 · kaji
-- 通話 · tsuuwa
-- 助ける · tetsudau
+- 火事 · ka-ji
+- 助け · ta-su-ke
 
 zh:
-- 消防 · xiāo fáng
-- 致電 · zhì diàn
-- 帮助 · bāng zhù
+- 火 · huǒ
+- 救 · jiù
 
 ## grammar
 
-- snippet-b2-causative · Causatives (have, get, make, let)
-- snippet-b2-purpose-clauses · Purpose clauses
+- snippet-a1-imperative · The imperative
+- snippet-a1-article-declension · Articles

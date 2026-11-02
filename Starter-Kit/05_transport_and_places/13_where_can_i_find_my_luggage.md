@@ -3,88 +3,80 @@ order: 13
 ---
 
 en:
-- Where can I find my luggage?
 - Where is my luggage?
+- Where can I find my luggage?
 
 fr:
-- Où puis-je trouver mes bagages ?
 - Où sont mes bagages ?
+- Où puis-je trouver mes bagages ?
 
 de:
-- Wo finde ich mein Gepäck?
 - Wo ist mein Gepäck?
+- Wo finde ich mein Gepäck?
 
 am:
-- ሻንጣዬን የት ማግኘት እችላለሁ?
 - ሻንጣዬ የት አለ?
+- ሻንጣዬን የት ማግኘት እችላለሁ?
 
 ar:
-- أين يمكنني أن أجد أمتعتي؟
 - أين أمتعتي؟
+- أين يمكنني أن أجد أمتعتي؟
 
 es:
-- ¿Dónde puedo encontrar mi equipaje?
 - ¿Dónde está mi equipaje?
+- ¿Dónde puedo encontrar mi equipaje?
 
 ja:
-- 荷物をどこで見つけられるの?
-- 私の荷物はどこにある?
+- 私の荷物はどこにありますか？
+- 私の荷物はどこで見つけられますか？
 
 zh:
-- 我在哪里找到我的行李?
-- 我的行李在哪里?
+- 我的行李在哪里？
+- 我在哪里可以找到我的行李？
 
 ## vocabulary
 
 en:
 - where · wair
-- is · iz
-- my · my
+- find · fynd
 - luggage · LUG: ij
 
 fr:
 - où · oo
-- est · est
-- mon · mon
+- trouver · troo: VAY
 - bagages · ba: GAZH
 
 de:
 - wo · vo
-- ist · ist
-- mein · meyen
+- finde · FIN: duh
 - Gepäck · ge: PEK
 
 am:
 - የት · yet
-- ነው · new
-- የእኔ · yeene
-- ሻንጣ · shanta
+- ማግኘት · mag-nyet
+- ሻንጣዬ · shan-ta-ye
 
 ar:
 - أين · ay-na
-- هو · hu-wa
-- لي · ly
-- أمتعة · amti'a
+- أجد · a-jid
+- أمتعتي · am-ti-'a-tee
 
 es:
 - dónde · DON: de
-- es · es
-- mi · mi
+- encontrar · en: kon: TRAR
 - equipaje · e: kee: PA: he
 
 ja:
-- どこ · doko
-- です · desu
-- 私の · watashi no
-- 荷物 · nimotsu
+- どこ · do-ko
+- 見つけられます · mi-tsu-ke-ra-re-masu
+- 荷物 · ni-mo-tsu
 
 zh:
 - 哪里 · nǎ lǐ
-- 是 · shì
-- 我的 · wǒ de
+- 找到 · zhǎo dào
 - 行李 · xíng li
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-possessives · my, your, his, her

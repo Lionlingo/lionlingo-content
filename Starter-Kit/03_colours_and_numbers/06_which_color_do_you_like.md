@@ -7,92 +7,68 @@ en:
 - What color do you like?
 
 fr:
-- Tu aimes quelle couleur ?
+- Quelle couleur aimes-tu ?
 - Tu aimes quelle couleur ?
 
 de:
 - Welche Farbe magst du?
-- Welche Farbe magst du?
+- Was für eine Farbe magst du?
 
 am:
 - የትኛውን ቀለም ትወዳለህ?
-- የትኛውን ቀለም ትወዳለህ?
+- ምን ዓይነት ቀለም ትወዳለህ?
 
 ar:
-- أي لون تحبينه؟
-- أي لون تحبينه؟
+- أي لون تحب؟
+- ما اللون الذي تحبه؟
 
 es:
 - ¿Qué color te gusta?
-- ¿Qué color te gusta?
+- ¿Cuál es el color que te gusta?
 
 ja:
-- どちらの色が好きですか.
+- どの色が好きですか?
 - どんな色が好きですか?
 
 zh:
-- 你喜欢哪种颜色?
-- 你喜欢什么颜色?
+- 你喜欢哪种颜色？
+- 你喜欢什么颜色？
 
 ## vocabulary
 
 en:
-- what · wot
-- color · color
-- do · do
-- you · yoo
-- like · like
+- color · KUL-er
+- like · lyk
 
 fr:
-- quoi · kuh / kwa
-- couleur · cooleur
-- faire · faire
-- tu · tu
-- aimer · aimer
+- couleur · koo-LUR
+- aimes · em
 
 de:
-- was · vas
-- farbe · farbe
-- tun · tun
-- du · du
-- mögen · mergen
+- Farbe · FAR-be
+- magst · makst
 
 am:
-- ምን · min
-- ቀለም · qelem
-- ማድረግ · madhreg
-- አንተ · an-te
-- መውደድ · mewdhedh
+- ቀለም · kelem
+- ትወዳለህ · tewedaleh
 
 ar:
-- ماذا · ma-dha
-- لون · lwn
-- يفعل · yfal
-- أنت · an-ta
-- يحب · yu-hib
+- لون · lawn
+- تحب · tuhibb
 
 es:
-- qué · keh
-- color · color
-- hacer · hacer
-- tú · too
-- gustar · gustar
+- color · ko-LOR
+- gusta · GUS-ta
 
 ja:
-- 何 · nani
-- カラー · karaa
-- する · suru
-- あなた · anata
+- 色 · iro
 - 好き · suki
 
 zh:
-- 什么 · shén me
-- 色 · sè
-- 做 · zuò
-- 你 · nǐ
+- 颜色 · yán sè
 - 喜欢 · xǐ huān
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-a2-want-like · Want and like
+- snippet-a1-wh-questions · Question words
+- snippet-a1-present · Present tense

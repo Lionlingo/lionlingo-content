@@ -7,8 +7,8 @@ en:
 - It will be sunny.
 
 fr:
-- Il fera beau.
-- Il fera beau.
+- Il fera du soleil.
+- Il y aura du soleil.
 
 de:
 - Es wird sonnig.
@@ -16,75 +16,51 @@ de:
 
 am:
 - ፀሐያማ ይሆናል።
-- ፀሐያማ ይሆናል።
+- የአየር ሁኔታው ፀሐያማ ይሆናል።
 
 ar:
-- سيكون الجو مشمس
-- سيكون الجو مشمس
+- سيكون الجو مشمساً.
+- سيكون الطقس مشمساً.
 
 es:
 - Estará soleado.
-- Estará soleado.
+- Hará sol.
 
 ja:
-- 晴れる
-- 晴れるでしょう.
+- 晴れます。
+- 晴れになります。
 
 zh:
-- 这将是阳光明的.
-- 这将是阳光明的.
+- 会是晴天。
+- 天气会放晴。
 
 ## vocabulary
 
 en:
-- it · it
-- will · will
-- be · be
-- sunny · SUN: ee
+- sunny · SUN-ee
 
 fr:
-- il · il
-- va · va
-- être · ehtre
-- ensoleillé · an: so: lay: YAY
+- soleil · so-LAY
 
 de:
-- es · es
-- wird · wird
-- sein · seyen
-- sonnig · ZON: ikh
+- sonnig · ZON-ikh
 
 am:
-- እሱ · i-su
-- ይሆናል · yhonal
-- መሆን · mehon
-- ፀሐያማ · tsehayama
+- ፀሐያማ · tse-ha-ya-ma
 
 ar:
-- هو · hu-wa
-- سوف · sawf
-- يكون · ykwn
-- مشمس · mushmis
+- مشمساً · mush-mi-san
 
 es:
-- ello · eyo
-- va a · va a
-- ser · ser
-- soleado · so: le: A-do
+- soleado · so-le-A-do
 
 ja:
-- それ · sore
-- でしょう · deshou
-- である · dearu
-- 晴れ · hare
+- 晴れ · ha-re
 
 zh:
-- 它 · tā
-- 将 · jiāng
-- 是 · shì
-- 晴朗 · qíng lǎng
+- 晴 · qíng
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-b1-future-will-predictions · Will for predictions
+- snippet-a2-future · The future
+- snippet-a1-sein · To be

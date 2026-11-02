@@ -4,87 +4,71 @@ order: 13
 
 en:
 - I need some new clothes.
-- I need new clothes.
+- Some new clothes are what I need.
 
 fr:
 - J'ai besoin de nouveaux vêtements.
-- J'ai besoin de nouveaux vêtements.
+- Il me faut de nouveaux vêtements.
 
 de:
-- Ich brauche neue Klamotten.
-- Ich brauche neue Klamotten.
+- Ich brauche neue Kleidung.
+- Ich benötige neue Kleidung.
 
 am:
-- አዲስ ልብስ እፈልጋለሁ ።
-- አዲስ ልብስ ያስፈልገኛል።
+- ጥቂት አዲስ ልብስ ያስፈልገኛል።
+- አዲስ ልብስ ጥቂት ያስፈልገኛል።
 
 ar:
-- أحتاج إلى بعض الملابس الجديدة
-- أحتاج ملابس جديدة
+- أحتاج إلى بعض الملابس الجديدة.
+- بعض الملابس الجديدة أحتاجها.
 
 es:
-- Necesito ropa nueva.
-- Necesito ropa nueva.
+- Necesito algo de ropa nueva.
+- Me hace falta algo de ropa nueva.
 
 ja:
-- 新しい服が必要だ.
-- 新しい服が必要だ.
+- 新しい服が少し必要です。
+- 少し新しい服が要ります。
 
 zh:
-- 我需要一些新衣服.
-- 我需要新衣服.
+- 我需要一些新衣服。
+- 一些新衣服是我需要的。
 
 ## vocabulary
 
 en:
-- i · eye
-- need · need
-- new · new
-- clothes · clothes
+- new · noo
+- clothes · klohz
 
 fr:
-- je · zhuh
-- avoir besoin · a: vwar buh: ZWAN
-- nouveau · noovoh
-- vêtements · vehtements
+- nouveaux · noo-VOH
+- vêtements · vet-MON
 
 de:
-- ich · ikh
-- brauchen / müssen · BROW: khen
-- neuer · noyer
-- bekleidung · bekleyedung
+- neue · NOY-e
+- Kleidung · KLY-dung
 
 am:
-- እኔ · i-ne
-- ማስፈለግ · masfelag
-- አዲስ · adhis
-- ልብሶች · lbsoch
+- አዲስ · a-dis
+- ልብስ · libs
 
 ar:
-- أنا · a-na
-- يحتاج · yahtaaj
 - جديد · ja-deed
-- ملابس · mlabs
+- ملابس · ma-laa-bis
 
 es:
-- yo · yo
-- necesitar · ne: se: see: TAR
-- novedad · novedad
-- ropa · ropa
+- nueva · NWE-va
+- ropa · RO-pa
 
 ja:
-- 私 · watashi
-- 必要 · hitsuyou
-- 新しい · atarashii
-- 被服 · hifuku
+- 新しい · a-ta-ra-shii
+- 服 · fuku
 
 zh:
-- 我 · wǒ
-- 需要 · xū yào
 - 新 · xīn
-- 服裝 · fú zhuāng
+- 衣服 · yī fu
 
 ## grammar
 
-- snippet-b1-obligation-modals · must, have to, should
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-ein-forms · a, an, some, no

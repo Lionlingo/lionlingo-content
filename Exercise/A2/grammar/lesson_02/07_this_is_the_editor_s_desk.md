@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a1-prepositions · Prepositions

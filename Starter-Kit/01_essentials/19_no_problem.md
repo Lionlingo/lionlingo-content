@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-c2-aspect-nuance · Simple, continuous, and perfect aspect
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

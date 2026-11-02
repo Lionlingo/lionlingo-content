@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a1-formal-greetings · Formal address
+- snippet-a1-present · Present tense
+- snippet-a1-pronouns · Pronouns

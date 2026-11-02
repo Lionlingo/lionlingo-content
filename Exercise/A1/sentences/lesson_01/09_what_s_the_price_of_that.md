@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
+- snippet-a1-time · Telling time

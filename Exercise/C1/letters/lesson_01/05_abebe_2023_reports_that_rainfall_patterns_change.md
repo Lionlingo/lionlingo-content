@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-academic-argument · Academic argument moves
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-b2-nominal-style · Nominalization
+- snippet-a1-pronouns · Pronouns

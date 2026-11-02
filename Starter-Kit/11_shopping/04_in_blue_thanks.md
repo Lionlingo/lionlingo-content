@@ -4,79 +4,71 @@ order: 4
 
 en:
 - In blue, thanks.
-- In blue, please.
+- Thanks, in blue.
 
 fr:
 - En bleu, merci.
-- En bleu, s'il vous plaît.
+- Merci, en bleu.
 
 de:
-- In blau, danke.
-- In Blau, bitte.
+- In Blau, danke.
+- Danke, in Blau.
 
 am:
 - በሰማያዊ፣ አመሰግናለሁ።
-- በሰማያዊ እባክህ።
+- አመሰግናለሁ፣ በሰማያዊ።
 
 ar:
-- بالأزرق، شكراً
-- باللون الأزرق من فضلك
+- بالأزرق، شكراً.
+- شكراً، بالأزرق.
 
 es:
 - En azul, gracias.
-- En azul, por favor.
+- Gracias, en azul.
 
 ja:
-- 青で,ありがとう.
-- 青色でお願いします
+- 青で、ありがとうございます。
+- ありがとうございます、青で。
 
 zh:
-- 在蓝色,谢谢.
-- 请用蓝色.
+- 要蓝色的，谢谢。
+- 谢谢，要蓝色的。
 
 ## vocabulary
 
 en:
-- in · in
 - blue · bloo
-- please · pleez
+- thanks · thanks
 
 fr:
-- dans · dans
 - bleu · bluh
-- s'il vous plaît · sil vu play
+- merci · mair-SEE
 
 de:
-- in · in
-- blaue · blaue
-- bitte · BI: te
+- Blau · blow
+- danke · DAN-ke
 
 am:
-- ውስጥ · wsth
-- ሰማያዊ · semayawi
-- እባክህ · i-bak-ih
+- ሰማያዊ · se-ma-ya-wi
+- አመሰግናለሁ · a-me-se-gi-na-le-hu
 
 ar:
-- في · fee
-- بلو · blw
-- من فضلك · min fadlak
+- أزرق · az-raq
+- شكراً · shuk-ran
 
 es:
-- en · en
-- azules · azules
-- por favor · por fa: VOR
+- azul · a-THUL
+- gracias · GRA-thyas
 
 ja:
-- で · de
-- 青い · aoi
-- お願いします · onegai shimasu
+- 青 · ao
+- ありがとう · a-ri-ga-to
 
 zh:
-- 在 · zài
-- 蓝色的 · lán sè de
-- 请 · qǐng
+- 蓝色 · lán sè
+- 谢谢 · xiè xie
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-c2-hypotaxis-parataxis · Hypotaxis and parataxis
+- snippet-a1-prepositions · Prepositions
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

@@ -4,95 +4,71 @@ order: 20
 
 en:
 - You make me proud.
-- I am proud of you.
+- You make me feel proud.
 
 fr:
-- Je suis fière de toi.
-- Je suis fière de toi.
+- Tu me rends fier.
+- Tu me fais sentir fier.
 
 de:
-- Ich bin stolz auf dich.
-- Ich bin stolz auf dich.
+- Du machst mich stolz.
+- Du erfüllst mich mit Stolz.
 
 am:
-- ኩራት ይሰማኛል።
-- በአንተ እኮራለሁ።
+- አንተ ኩራት ታሰኛለህ።
+- አንተ ኩራት ታመጣልኝ።
 
 ar:
-- أنت تجعلني فخورة.
-- أنا فخورة بك
+- أنت تجعلني فخوراً.
+- أنت تشعرني أنني فخور.
 
 es:
-- Me haces sentir orgulloso.
-- Estoy orgulloso de ti.
+- Tú me haces sentir orgulloso.
+- Tú me haces estar orgulloso.
 
 ja:
-- 誇りに思うよ
-- 誇りに思うよ
+- あなたは私に誇りを感じさせます。
+- あなたは私を誇らしくさせます。
 
 zh:
-- 你让我感到自豪.
-- 我为你感到自豪.
+- 你让我感到自豪。
+- 你使我感到自豪。
 
 ## vocabulary
 
 en:
-- i · eye
-- am · am
-- proud · prowd
-- of · uhv
 - you · yoo
+- proud · prowd
 
 fr:
-- je · zhuh
-- suis · suis
-- fier / fière · fyehr
-- de · de
-- tu · tu
+- tu · tuu
+- fier · fyehr
 
 de:
-- ich · ikh
-- bin · bin
+- du · doo
 - stolz · shtolts
-- von · von
-- du · du
 
 am:
-- እኔ · i-ne
-- ነኝ · neny
-- ኩራተኛ · kurateña
-- የ · ye
 - አንተ · an-te
+- ኩራት · ku-rat
 
 ar:
-- أنا · a-na
-- أنا · a-na
-- فخور · fakhur
-- من · min
 - أنت · an-ta
+- فخور · fakh-oor
 
 es:
-- yo · yo
-- soy · soy
-- orgulloso / orgullosa · or: gu: LYO: so
-- de · de
 - tú · too
+- orgulloso · or-gu-YO-so
 
 ja:
-- 私 · watashi
-- です · desu
-- 誇らしい・誇りに思う · hokori ni omou
-- の · no
-- あなた · anata
+- あなた · a-na-ta
+- 誇り · ho-ko-ri
 
 zh:
-- 我 · wǒ
-- 是 · shì
-- 自豪的 · zì háo de
-- 的 · de
 - 你 · nǐ
+- 自豪 · zì háo
 
 ## grammar
 
-- snippet-b2-wish-unreal · wish and if only
-- snippet-c2-irony-understatement · Irony and understatement
+- snippet-a2-dative-verbs · Verbs with two objects
+- snippet-a1-adjective-endings · Adjectives

@@ -3,80 +3,72 @@ order: 19
 ---
 
 en:
-- This orange fruit is orange.
-- The orange is orange.
+- This fruit is orange.
+- The color of this fruit is orange.
 
 fr:
 - Ce fruit est orange.
-- L'orange est orange.
+- La couleur de ce fruit est orange.
 
 de:
-- Diese orangefarbene Frucht ist orange.
-- Das Orange ist Orange.
+- Diese Frucht ist orange.
+- Die Farbe dieser Frucht ist orange.
 
 am:
-- ይህ ብርቱካናማ ፍሬ ብርቱካናማ ነው።
-- ብርቱካንማ ብርቱካንማ ነው።
+- ይህ ፍሬ ብርቱካናማ ነው።
+- የዚህ ፍሬ ቀለም ብርቱካናማ ነው።
 
 ar:
-- هذه الفاكهة البرتقالية برتقالية
-- البرتقالي هو البرتقالي
+- هذه الفاكهة برتقالية.
+- هذه الفاكهة برتقالية اللون.
 
 es:
-- Esta fruta naranja es naranja.
-- La naranja es naranja.
+- Esta fruta es naranja.
+- El color de esta fruta es naranja.
 
 ja:
-- このオレンジ色の果物はオレンジ色だ.
-- オレンジはオレンジです.
+- この果物はオレンジ色です。
+- この果物の色はオレンジ色です。
 
 zh:
-- 这个色的水果是色的.
-- 色是色的.
+- 这个水果是橙色的。
+- 这个水果的颜色是橙色的。
 
 ## vocabulary
 
 en:
-- the · thuh
-- orange · orange
-- is · iz
+- fruit · froot
+- orange · OR-inj
 
 fr:
-- le · luh
-- orange · orange
-- est · est
+- fruit · frwee
+- orange · o-RONZH
 
 de:
-- der · dehr
-- orange · orange
-- ist · ist
+- Frucht · frookht
+- orange · o-RONZH
 
 am:
-- የ · ye
-- ብርቱካናማ · brtukanama
-- ነው · new
+- ፍሬ · fire
+- ብርቱካናማ · birtukanama
 
 ar:
-- ال · al
-- اورانج · awranj
-- هو · hu-wa
+- الفاكهة · al-fakiha
+- برتقالية · burtuqaliyya
 
 es:
-- el · el
-- orange · orankhe
-- es · es
+- fruta · FROO-ta
+- naranja · na-RAN-kha
 
 ja:
-- その · sono
-- オレンジ · orenji
-- です · desu
+- 果物 · kudamono
+- オレンジ色 · orenji-iro
 
 zh:
-- 这 · zhè
-- 橙 · chéng
-- 是 · shì
+- 水果 · shuǐ guǒ
+- 橙色 · chéng sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-a1-articles-definiteness · a / an / the
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

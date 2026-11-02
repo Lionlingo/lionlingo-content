@@ -4,87 +4,63 @@ order: 10
 
 en:
 - There's a lot of wind.
-- It is very windy.
+- The wind is strong.
 
 fr:
 - Il y a beaucoup de vent.
-- Il y a beaucoup de vent.
+- Le vent est fort.
 
 de:
 - Es weht viel Wind.
-- Es ist sehr windig.
+- Der Wind ist stark.
 
 am:
-- ብዙ ነፋስ ነፋ።
-- በጣም ነፋሻማ ነው።
+- ብዙ ነፋስ አለ።
+- ነፋሱ ጠንካራ ነው።
 
 ar:
-- هناك الكثير من الرياح
 - هناك رياح كثيرة.
+- الرياح قوية.
 
 es:
 - Hay mucho viento.
-- Hace mucho viento.
+- El viento es fuerte.
 
 ja:
-- 風が強く
-- 風が強い.
+- 風がたくさん吹いています。
+- 風が強いです。
 
 zh:
-- 这里有很多风.
-- 这里很有风.
+- 风很大。
+- 风很强。
 
 ## vocabulary
 
 en:
-- it · it
-- is · iz
-- very · very
-- windy · windy
+- wind · wind
 
 fr:
-- il · il
-- est · est
-- très · trehs
-- venteux · venteux
+- vent · vahn
 
 de:
-- es · es
-- ist · ist
-- sehr · sehr
-- windig · windig
+- Wind · vint
 
 am:
-- እሱ · i-su
-- ነው · new
-- በጣም · betham
-- ነፋሻማ · nefashama
+- ነፋስ · ne-fas
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- جداً · jdaan
-- عاصف · aasf
+- رياح · ri-yaah
 
 es:
-- ello · eyo
-- es · es
-- muy · muy
-- viento · viento
+- viento · VYEN-to
 
 ja:
-- それ · sore
-- です · desu
-- とても · totemo
-- 風が強い · kaze ga tsuyoi
+- 風 · ka-ze
 
 zh:
-- 它 · tā
-- 是 · shì
-- 非常 · fēi cháng
-- 有风的 · yǒu fēng de
+- 风 · fēng
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-a2-adverbs-frequency · Adverbs of frequency
+- snippet-a2-impersonal-verbs · Impersonal verbs
+- snippet-a1-ein-forms · a, an, some, no

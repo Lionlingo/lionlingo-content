@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-reporting-verbs · Reporting verbs
-- snippet-c2-information-structure · Information structure (given → new)
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-sentence-structure · Sentence structure

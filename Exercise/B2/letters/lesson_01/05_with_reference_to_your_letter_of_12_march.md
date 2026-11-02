@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-discourse-markers · Discourse markers
-- snippet-b1-passive-intro · Passive voice
+- snippet-b2-modal-particles · Softeners and fillers
+- snippet-b1-passive · The passive

@@ -86,5 +86,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-lexical-grammar-collocation · Lexical grammar and collocation
-- snippet-a1-word-order-statements · Basic word order in statements
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-interrogation · Questions

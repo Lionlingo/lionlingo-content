@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a1-conjunctions · Conjunctions

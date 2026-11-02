@@ -3,88 +3,72 @@ order: 21
 ---
 
 en:
-- What do you like doing?
 - What is your hobby?
+- Can you tell me your hobby?
 
 fr:
-- Qu'est-ce que vous aimez faire ?
-- Quel est votre passe-temps ?
+- Quel est ton passe-temps ?
+- Peux-tu me dire ton passe-temps ?
 
 de:
-- Was machst du gern?
 - Was ist dein Hobby?
+- Kannst du mir dein Hobby nennen?
 
 am:
-- ምን ማድረግ ትወዳለህ?
-- የትርፍ ጊዜ ማሳለፊያህ ምንድን ነው?
+- ያንተ የትርፍ ጊዜ ማሳለፊያ ምንድን ነው?
+- ያንተን የትርፍ ጊዜ ማሳለፊያ ንገረኝ።
 
 ar:
-- ماذا تحبين أن تفعلي؟
-- ما هو هوايتك؟
+- ما هي هوايتك؟
+- هل يمكنك أن تخبرني بهوايتك؟
 
 es:
-- ¿Qué te gusta hacer?
-- ¿Cuál es tu hobby?
+- ¿Cuál es tu pasatiempo?
+- ¿Me dices tu pasatiempo?
 
 ja:
-- 何が好きですか?
-- あなたの趣味は?
+- あなたの趣味は何ですか?
+- あなたの趣味を教えてください。
 
 zh:
-- 你喜欢做什么?
-- 你的爱好是什么?
+- 你的爱好是什么？
+- 能告诉我你的爱好吗？
 
 ## vocabulary
 
 en:
-- what · wot
-- is · iz
 - your · yor
-- hobby · hobby
+- hobby · HOB-ee
 
 fr:
-- quoi · kuh / kwa
-- est · est
 - ton · ton
-- hobby · hobby
+- passe-temps · pas-tom
 
 de:
-- was · vas
-- ist · ist
-- dein · deyen
-- hobby · hobby
+- dein · dyne
+- Hobby · HOB-ee
 
 am:
-- ምን · min
-- ነው · new
 - ያንተ · yante
-- የትርፍ ጊዜ ማሳለፊያ · yetrf gize masalefiya
+- የትርፍ ጊዜ ማሳለፊያ · yetirf gize masalefiya
 
 ar:
-- ماذا · ma-dha
-- هو · hu-wa
-- لك · lk
-- هواية · hwaya
+- ـك · -ka
+- هواية · hiwaya
 
 es:
-- qué · keh
-- es · es
-- tu · tu
-- pasatiempos · pasatiempos
+- tu · too
+- pasatiempo · pa-sa-TYEM-po
 
 ja:
-- 何 · nani
-- です · desu
-- あなたの · anatano
+- あなたの · anata no
 - 趣味 · shumi
 
 zh:
-- 什么 · shén me
-- 是 · shì
 - 你的 · nǐ de
-- 嗜好 · shì hào
+- 爱好 · ài hào
 
 ## grammar
 
-- snippet-b1-gerunds-infinitives · Gerunds and infinitives after verbs
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-wh-questions · Question words
+- snippet-a1-possessives · my, your, his, her

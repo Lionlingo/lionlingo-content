@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-irony-understatement · Irony and understatement
-- snippet-c2-idiomatic-structures · Idiomatic clause patterns
+- snippet-b2-modal-particles · Softeners and fillers
+- snippet-b2-support-verbs · Light verb + noun

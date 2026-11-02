@@ -3,104 +3,80 @@ order: 2
 ---
 
 en:
-- Go right, then keep straight.
-- You go right, then straight on.
+- Go right, then go straight.
+- Turn right, then go straight.
 
 fr:
-- Va à droite, puis reste droit.
-- Tu vas à droite, puis tout droit.
+- Va à droite, puis va tout droit.
+- Tourne à droite, puis va tout droit.
 
 de:
-- Geh nach rechts und dann geradeaus.
-- Du gehst rechts, dann geradeaus.
+- Geh nach rechts und dann geh geradeaus.
+- Biege nach rechts ab und dann geh geradeaus.
 
 am:
-- ወደ ቀኝ ሂድ፣ ከዚያም ቀጥ ብለህ ሂድ።
-- ወደ ቀኝ ሂድ፣ ከዚያም ቀጥ በል።
+- ወደ ቀኝ ሂድ፣ ከዚያም ቀጥታ ሂድ።
+- ወደ ቀኝ ታጠፍ፣ ከዚያም ቀጥታ ሂድ።
 
 ar:
-- إذهب يميناً، ثم إبق مستقيمًا
-- أنت تذهب يميناً ثم مستقيم
+- اذهب يميناً، ثم اذهب مباشرة.
+- انعطف يميناً، ثم اذهب مباشرة.
 
 es:
-- Ve a la derecha, luego sigue recto.
-- Vas a la derecha, luego recto.
+- Ve a la derecha, luego ve recto.
+- Gira a la derecha, luego ve recto.
 
 ja:
-- 右へ そして直ぐに
-- 右へ そして直線
+- 右へ行って、それからまっすぐ行ってください。
+- 右へ曲がって、それからまっすぐ行ってください。
 
 zh:
-- 往右走,然后直行.
-- 你去右边,然后直前.
+- 往右走，然后直走。
+- 往右拐，然后直走。
 
 ## vocabulary
 
 en:
-- you · yoo
-- go · go
 - right · rite
 - then · then
 - straight · strayt
-- on · on
 
 fr:
-- tu · tu
-- aller · aller
-- droit · drwah
-- puis / alors · pwee
+- droite · drwat
+- puis · pwee
 - tout droit · too drwa
-- sur · sur
 
 de:
-- du · du
-- gehen · gehen
-- Recht · rekht
+- rechts · rekhts
 - dann · dan
-- geradeaus · ge: RA: de: ows
-- auf · auf
+- geradeaus · ge-ra-de-OWS
 
 am:
-- አንተ · an-te
-- ሂድ · hidh
-- መብት · mebt
-- ከዚያ · keziya
-- ቀጥታ · keteta
-- ላይ · lay
+- ቀኝ · keny
+- ከዚያም · kezeyam
+- ቀጥታ · ketta
 
 ar:
-- أنت · an-ta
-- يذهب · ydhhb
-- حق · haqq
+- يميناً · yamminan
 - ثم · thumma
 - مباشرة · mubashara
-- على · a-la
 
 es:
-- tú · too
-- ir · ir
-- derecho · de: RE: cho
-- luego · LWE: go
-- recto · REK: to
-- en · en
+- derecha · de-RE-cha
+- luego · LWE-go
+- recto · REK-to
 
 ja:
-- あなた · anata
-- 行く · iku
-- 権利 · kenri
+- 右 · migi
 - それから · sorekara
 - まっすぐ · massugu
-- の上に · no ueni
 
 zh:
-- 你 · nǐ
-- 去 · qù
-- 权利 · quán lì
+- 右 · yòu
 - 然后 · rán hòu
 - 直走 · zhí zǒu
-- 在 · zài
 
 ## grammar
 
-- snippet-b1-tag-questions · Tag questions
-- snippet-a2-imperatives · Imperatives for requests and instructions
+- snippet-a1-imperative · The imperative
+- snippet-a2-direction-words · Direction words

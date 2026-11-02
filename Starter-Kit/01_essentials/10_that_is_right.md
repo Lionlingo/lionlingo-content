@@ -78,5 +78,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-b2-future-perfect · Future perfect
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

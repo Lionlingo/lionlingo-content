@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-a2-imperatives · Imperatives for requests and instructions
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-interrogation · Questions

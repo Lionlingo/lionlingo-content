@@ -4,87 +4,71 @@ order: 7
 
 en:
 - It hurts here.
-- I have pain here.
+- I hurt here.
 
 fr:
 - Ça fait mal ici.
-- Je souffre ici.
+- J'ai mal ici.
 
 de:
-- Hier tut es weh.
+- Hier schmerzt es.
 - Ich habe hier Schmerzen.
 
 am:
-- እዚህ ላይ ይጎዳል.
-- እዚህ ላይ ህመም ይሰማኛል።
+- እዚህ ህመም አለብኝ።
+- እዚህ ህመም ይሰማኛል።
 
 ar:
-- إنه يؤلمني هنا
-- لدي ألم هنا.
+- أشعر بألم هنا.
+- عندي ألم هنا.
 
 es:
-- Me duele aquí.
+- Siento dolor aquí.
 - Tengo dolor aquí.
 
 ja:
-- ここが痛い
-- ここが痛い.
+- ここが痛いです。
+- ここに痛みがあります。
 
 zh:
-- 这里很痛.
-- 我在这里感到疼痛.
+- 这里疼。
+- 我这里疼。
 
 ## vocabulary
 
 en:
-- i · eye
-- have · hav
-- pain · pain
+- hurt · hert
 - here · heer
 
 fr:
-- je · zhuh
-- avoir · avwahr
-- souffrance · sooffrance
-- ici · ee: SEE
+- mal · mal
+- ici · ee-SEE
 
 de:
-- ich · ikh
-- haben · haben
-- schmerz · shmerz
+- Schmerz · shmerts
 - hier · heer
 
 am:
-- እኔ · i-ne
-- አለኝ · aleny
-- ህመም · hmem
-- እዚህ · izi
+- ህመም · himem
+- እዚህ · i-zih
 
 ar:
-- أنا · a-na
-- يملك · ymlk
-- الالم · alalm
-- هنا · huna
+- ألم · a-lam
+- هنا · hu-na
 
 es:
-- yo · yo
-- tener · tener
-- dolores · dolores
-- aquí · a: KEE
+- dolor · do-LOR
+- aquí · a-KEE
 
 ja:
-- 私 · watashi
-- 持つ · motsu
-- 痛み · itami
-- ここ · koko
+- 痛 · ita
+- ここ · ko-ko
 
 zh:
-- 我 · wǒ
-- 有 · yǒu
-- 痛 · tòng
+- 疼 · téng
 - 这里 · zhè lǐ
 
 ## grammar
 
-- snippet-a1-there-is-existence · There is / There are
-- snippet-c1-inversion-emphasis · Negative and limiting inversion
+- snippet-a2-impersonal-verbs · Impersonal verbs
+- snippet-a1-two-way-prepositions · Place and direction

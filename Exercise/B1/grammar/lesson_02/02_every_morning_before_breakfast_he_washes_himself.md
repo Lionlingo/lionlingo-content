@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-adverbs-frequency · Adverbs of frequency
-- snippet-a2-time-prepositions · Time prepositions: in, on, at
+- snippet-a1-adverbs · Adverbs
+- snippet-a1-prepositions · Prepositions

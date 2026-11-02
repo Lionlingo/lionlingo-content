@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-contrast-connectors · Contrast
-- snippet-c1-inversion-emphasis · Inversion
+- snippet-a1-conjunctions · Conjunctions
+- snippet-a1-sentence-structure · Sentence structure

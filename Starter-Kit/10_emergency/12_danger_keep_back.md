@@ -7,76 +7,68 @@ en:
 - Danger! Stay back!
 
 fr:
-- Restez à l'écart !
-- Restez à l'écart !
+- Danger ! En arrière !
+- Danger ! Restez en arrière !
 
 de:
-- Haltet euch zurück!
-- Haltet euch zurück!
+- Gefahr! Zurück!
+- Gefahr! Bleibt zurück!
 
 am:
-- አደጋ! ወደ ኋላ ቁም!
-- አደጋ! ወደ ኋላ ቁም!
+- አደጋ! ወደ ኋላ!
+- አደጋ! ወደ ኋላ ቁሙ!
 
 ar:
-- خطر، تراجعوا
-- خطر، تراجعوا
+- خطر! إلى الخلف!
+- خطر! ابقوا في الخلف!
 
 es:
-- ¡Danger, mantente alejado!
-- ¡Danger! ¡No se acerquen!
+- ¡Peligro! ¡Atrás!
+- ¡Peligro! ¡Quédense atrás!
 
 ja:
-- 危ない!
-- 危ない!
+- 危険です！下がってください！
+- 危険です！後ろへ下がってください！
 
 zh:
-- 危险,退后!
-- 危险! 离开!
+- 危险！往后退！
+- 危险！退到后面！
 
 ## vocabulary
 
 en:
-- danger · danger
-- stay · stay
-- back · back
+- danger · DAYN-jer
+- back · bak
 
 fr:
-- danger · danger
-- reste · reste
-- dos · dos
+- danger · don-ZHAY
+- arrière · a-RYAIR
 
 de:
-- gefahren · gefahren
-- aufenthalt · aufenthalt
-- zurück · zurueck
+- Gefahr · ge-FAR
+- zurück · tsu-RUK
 
 am:
-- አደጋ · adhega
-- መቆየት · meqoyet
-- ተመለስ · temeles
+- አደጋ · a-de-ga
+- ኋላ · hwa-la
 
 ar:
-- الخطر · alkhtr
-- ابقي · abqy
-- الظهر · alzhr
+- خطر · kha-tar
+- الخلف · al-khalf
 
 es:
-- peligro · peligro
-- quédate · kehdate
-- volver · volver
+- peligro · pe-LEE-gro
+- atrás · a-TRAS
 
 ja:
-- 危険 · kiken
-- 滞在 · taizai
-- 戻る · modoru
+- 危険 · ki-ken
+- 下が · sa-ga
 
 zh:
-- 危險 · wēi xiǎn
-- 留 · liú
-- 背 · bèi
+- 危险 · wēi xiǎn
+- 退 · tuì
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-b2-third-conditional · Third conditional
+- snippet-a1-imperative · The imperative
+- snippet-a2-direction-words · Direction words

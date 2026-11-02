@@ -3,88 +3,72 @@ order: 2
 ---
 
 en:
-- The sky looks blue
-- The sky is blue
+- The sky is blue.
+- The color of the sky is blue.
 
 fr:
-- Le ciel est bleu
-- Le ciel est bleu
+- Le ciel est bleu.
+- La couleur du ciel est bleue.
 
 de:
-- Der Himmel sieht blau aus
-- Der Himmel ist blau
+- Der Himmel ist blau.
+- Die Farbe vom Himmel ist blau.
 
 am:
-- ሰማዩ ሰማያዊ ይመስላል
-- ሰማዩ ሰማያዊ ነው
+- ሰማዩ ሰማያዊ ነው።
+- የሰማዩ ቀለም ሰማያዊ ነው።
 
 ar:
-- السماء تبدو زرقاء
-- السماء زرقاء
+- السماء زرقاء.
+- السماء زرقاء اللون.
 
 es:
-- El cielo parece azul
-- El cielo es azul
+- El cielo es azul.
+- El color del cielo es azul.
 
 ja:
-- 空は青く見える
-- 空は青い
+- 空は青いです。
+- 空の色は青いです。
 
 zh:
-- 天空看起来很蓝
-- 天空是蓝色的
+- 天空是蓝色的。
+- 天空的颜色是蓝色的。
 
 ## vocabulary
 
 en:
-- the · thuh
-- sky · sky
-- is · iz
+- sky · skai
 - blue · bloo
 
 fr:
-- le · luh
-- sky · sky
-- est · est
+- ciel · syel
 - bleu · bluh
 
 de:
-- der · dehr
-- himmel · himmel
-- ist · ist
-- blaue · blaue
+- Himmel · HIM-mel
+- blau · blau
 
 am:
-- የ · ye
-- ሰማይ · semay
-- ነው · new
+- ሰማዩ · semayu
 - ሰማያዊ · semayawi
 
 ar:
-- ال · al
-- السما · alsma
-- هو · hu-wa
-- بلو · blw
+- السماء · as-sama'
+- زرقاء · zarqa'
 
 es:
-- el · el
-- cielo · cielo
-- es · es
-- azules · azules
+- cielo · SYE-lo
+- azul · a-SUL
 
 ja:
-- その · sono
 - 空 · sora
-- です · desu
 - 青い · aoi
 
 zh:
-- 这 · zhè
 - 天空 · tiān kōng
-- 是 · shì
-- 蓝色的 · lán sè de
+- 蓝色 · lán sè
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-a1-wh-questions · Wh- questions
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

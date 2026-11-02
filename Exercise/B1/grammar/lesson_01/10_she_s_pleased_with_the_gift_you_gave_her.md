@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-adjective-prepositions · Adjectives + prepositions
+- snippet-b1-verbs-with-prepositions · Verb + preposition
 - snippet-b1-relative-clauses · Relative clauses

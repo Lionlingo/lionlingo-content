@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-result-clauses · Result clauses
-- snippet-b2-causative · Causatives (have, get, make, let)
+- snippet-a2-subordinate-clause · Subordinate clauses
+- snippet-a1-modal-verbs · Modal verbs

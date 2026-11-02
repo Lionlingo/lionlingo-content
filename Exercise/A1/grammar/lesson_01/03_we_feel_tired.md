@@ -62,5 +62,6 @@ zh:
 
 ## grammar
 
-- snippet-a1-subject-pronouns-be · Subject + be
-- snippet-a1-colors-adjectives · Colors as adjectives
+- snippet-a1-pronouns · Pronouns
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

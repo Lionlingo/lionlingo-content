@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b1-indirect-questions · Indirect questions
+- snippet-a2-ob-dass · that, if and whether

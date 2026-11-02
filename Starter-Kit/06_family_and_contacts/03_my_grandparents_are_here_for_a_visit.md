@@ -3,88 +3,72 @@ order: 3
 ---
 
 en:
-- My grandparents are here for a visit
-- My grandparents are visiting
+- My grandparents are here for a visit.
+- My grandparents are visiting.
 
 fr:
-- Mes grands-parents sont venus me voir .
-- Mes grands-parents sont en visite .
+- Mes grands-parents sont ici en visite.
+- Mes grands-parents sont en visite.
 
 de:
-- Meine Großeltern sind zu Besuch.
+- Meine Großeltern sind hier zu Besuch.
 - Meine Großeltern sind zu Besuch.
 
 am:
-- አያቶቼ ሊጠይቁኝ መጥተዋል
-- አያቶቼ ሊጠይቁኝ መጥተዋል
+- አያቶቼ ለጉብኝት እዚህ ናቸው።
+- አያቶቼ እየጎበኙ ናቸው።
 
 ar:
-- جدّي و جدّتي هنا لزيارة
-- جدّي و جدّتي في زيارة
+- أجدادي هنا في زيارة.
+- أجدادي في زيارة.
 
 es:
-- Mis abuelos están aquí en visita.
+- Mis abuelos están aquí de visita.
 - Mis abuelos están de visita.
 
 ja:
-- 祖父母が訪ねて来ました
-- 祖父母が来てる
+- 私の祖父母はここに訪ねてきています。
+- 私の祖父母は訪ねてきています。
 
 zh:
-- 我祖父母来这里来拜访.
-- 我祖父母来这里.
+- 我的祖父母在这里做客。
+- 我的祖父母正在做客。
 
 ## vocabulary
 
 en:
-- my · my
-- grandparents · grandparents
-- are · are
-- visiting · visiting
+- grandparents · GRAND-pair-ents
+- visit · VIZ-it
 
 fr:
-- mon · mon
-- grands-parents · grands-parents
-- sont · sont
-- visiter · visiter
+- grands-parents · grahn pa-RAHN
+- visite · vee-ZEET
 
 de:
-- mein · meyen
-- großeltern · grosseltern
-- sind · sind
-- besuch · besukh
+- Großeltern · GROHS-el-tern
+- Besuch · be-ZOOK
 
 am:
-- የእኔ · yeene
-- አያቶች · ayatoch
-- ናቸው · nachew
-- መጎብኘት · megobnyet
+- አያቶቼ · a-ya-to-che
+- ጉብኝት · gu-bnyet
 
 ar:
-- لي · ly
-- الاجداد · alajdad
-- هم · hm
-- الزيارة · alzyara
+- أجدادي · aj-daa-dee
+- زيارة · zi-yaa-ra
 
 es:
-- mi · mi
-- abuelos · abuelos
-- son · son
-- visitando · visitando
+- abuelos · a-BWE-los
+- visita · bee-SEE-ta
 
 ja:
-- 私の · watashi no
-- 祖父母 · sofubo
-- です · desu
-- 訪問 · houmon
+- 祖父母 · so-fu-bo
+- 訪ねて · ta-zu-ne-te
 
 zh:
-- 我的 · wǒ de
 - 祖父母 · zǔ fù mǔ
-- 是 · shì
-- 造訪 · zào fǎng
+- 做客 · zuò kè
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-b1-relative-clauses · Relative clauses
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-present · Present tense

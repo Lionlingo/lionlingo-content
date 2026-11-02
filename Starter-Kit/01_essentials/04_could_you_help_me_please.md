@@ -78,5 +78,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-place-prepositions · Place prepositions
-- snippet-b1-obligation-modals · must, have to, should
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

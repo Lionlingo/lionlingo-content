@@ -4,71 +4,71 @@ order: 15
 
 en:
 - That jewelry looks beautiful.
-- Beautiful jewelry.
+- Beautiful, that jewelry looks.
 
 fr:
-- Ces bijoux sont magnifiques.
-- Des bijoux magnifiques.
+- Ces bijoux ont l'air beaux.
+- Ces bijoux sont beaux à voir.
 
 de:
-- Der Schmuck sieht wunderschön aus.
-- Schöne Schmuckstücke.
+- Der Schmuck sieht schön aus.
+- Schön sieht der Schmuck aus.
 
 am:
-- ያ ጌጣጌጥ በጣም ቆንጆ ይመስላል።
-- ውብ የሆነ ጌጣጌጥ።
+- ያ ጌጣጌጥ ውብ ይመስላል።
+- ያ ጌጣጌጥ ውብ ይታያል።
 
 ar:
-- تلك المجوهرات تبدو جميلة
-- مجوهرات جميلة
+- تلك المجوهرات تبدو جميلة.
+- جميلة تبدو تلك المجوهرات.
 
 es:
-- Esa joyería se ve hermosa.
-- Qué joyas tan hermosas.
+- Esas joyas se ven hermosas.
+- Hermosas se ven esas joyas.
 
 ja:
-- その宝石は美しい.
-- 美しい宝石だ
+- その宝石は美しく見えます。
+- 美しく見える宝石です、それは。
 
 zh:
-- 这些珠宝看起来很漂亮.
-- 这是一件美丽的珠宝.
+- 那件珠宝看起来漂亮。
+- 那件珠宝看着漂亮。
 
 ## vocabulary
 
 en:
-- beautiful · beautiful
-- jewelry · jewelry
+- jewelry · JOO-el-ree
+- beautiful · BYOO-ti-ful
 
 fr:
-- beau · boh
-- bijouterie · bijooterie
+- bijoux · bee-ZHOO
+- beaux · boh
 
 de:
-- wunderschön · wundershern
-- schmuck · shmuck
+- Schmuck · shmook
+- schön · shurn
 
 am:
-- ቆንጆ · qonjao
-- ጌጣጌጥ · gethageth
+- ጌጣጌጥ · ge-ta-get
+- ውብ · wib
 
 ar:
-- جميلة · jmyla
-- المجوهرات · almjwhrat
+- المجوهرات · al-mu-jaw-ha-raat
+- جميلة · ja-mee-la
 
 es:
-- hermoso · hermoso
-- joyería · khoyereea
+- joyas · KHO-yas
+- hermosas · er-MO-sas
 
 ja:
-- 美しい · utsukushii
-- ジュエリー · juerii
+- 宝石 · ho-se-ki
+- 美し · u-tsu-ku-shi
 
 zh:
-- 漂亮 · piào liàng
-- 珠寶 · zhū bǎo
+- 珠宝 · zhū bǎo
+- 漂亮 · piào liang
 
 ## grammar
 
-- snippet-a1-colors-adjectives · Colors as adjectives
-- snippet-b1-present-perfect · Present perfect
+- snippet-a1-adjective-endings · Adjectives
+- snippet-a1-sein · To be

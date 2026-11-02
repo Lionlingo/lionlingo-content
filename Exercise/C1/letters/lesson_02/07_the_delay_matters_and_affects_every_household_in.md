@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-information-structure · Information structure (given → new)
-- snippet-b2-reduced-relatives · Reduced relative clauses
+- snippet-a1-sentence-structure · Sentence structure
+- snippet-c1-participial-attributes · Participial phrases

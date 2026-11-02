@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-yes-no-questions · Yes/no questions
+- snippet-a1-interrogation · Questions

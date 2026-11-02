@@ -7,76 +7,60 @@ en:
 - Congratulations to you!
 
 fr:
-- Je vous félicite !
-- Je vous félicite !
+- Félicitations !
+- Je te félicite !
 
 de:
-- Ich gratuliere Ihnen.
-- Herzlichen Glückwunsch!
+- Ich gratuliere dir!
+- Dir gratuliere ich!
 
 am:
-- እንኳን ደስ አለዎት!
 - እንኳን ደስ አለህ!
+- ደስ አለህ እንኳን!
 
 ar:
 - تهانينا!
 - تهانينا لك!
 
 es:
-- ¡Estoy muy contento!
+- ¡Felicitaciones!
 - ¡Felicitaciones para ti!
 
 ja:
-- あけましておめでとうございます
-- おめでとうございます
+- おめでとう。
+- 君に、おめでとう。
 
 zh:
-- 恭喜你!
-- 恭喜你!
+- 恭喜你！
+- 恭喜！
 
 ## vocabulary
 
 en:
-- congratulations · congratulations
-- to · too
-- you · yoo
+- congratulations · kun-gra-chu-LAY-shunz
 
 fr:
-- félicitations · faylicitasyons
-- à · ah
-- tu · tu
+- félicit · fay-lee-SEET
 
 de:
-- gratuliere · gratuleere
-- zu · zu
-- du · du
+- gratuliere · gra-tu-LEE-re
 
 am:
-- እንኳን ደስ አለህ · enkwan dhes aleh
-- ወደ · we-de
-- አንተ · an-te
+- እንኳን ደስ አለህ · in-kwan des a-leh
 
 ar:
-- مبروك · mbrwk
-- إلى · i-la
-- أنت · an-ta
+- تهانينا · ta-haa-nee-na
 
 es:
-- felicitaciones · felicitaciones
-- a · a
-- tú · too
+- Felicitaciones · fe-lee-see-ta-THYO-nes
 
 ja:
-- おめでとう · omedetou
-- に · ni
-- あなた · anata
+- おめでとう · o-me-de-to
 
 zh:
 - 恭喜 · gōng xǐ
-- 到 · dào
-- 你 · nǐ
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
-- snippet-b1-present-perfect · Present perfect
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-pronouns · Pronouns

@@ -4,79 +4,71 @@ order: 9
 
 en:
 - Breakfast comes with the stay.
-- Breakfast is included.
+- Breakfast is included in the stay.
 
 fr:
-- Le petit déjeuner est inclus.
-- Le petit déjeuner est inclus.
+- Le petit déjeuner est inclus dans le séjour.
+- Le séjour comprend le petit déjeuner.
 
 de:
-- Das Frühstück gehört zum Aufenthalt.
-- Das Frühstück ist inbegriffen.
+- Das Frühstück ist im Aufenthalt enthalten.
+- Der Aufenthalt umfasst das Frühstück.
 
 am:
-- ቁርስ ከቆይታው ጋር ይመጣል።
-- ቁርስም ተካትቷል።
+- ቁርስ ከቆይታው ጋር ተካትቷል።
+- ቆይታው ቁርስን ያካትታል።
 
 ar:
-- الإفطار يأتي مع الإقامة
-- الإفطار مدرج
+- الإفطار مشمول في الإقامة.
+- الإقامة تشمل الإفطار.
 
 es:
-- El desayuno viene con la estancia.
-- Desayuno incluido.
+- El desayuno está incluido en la estancia.
+- La estancia incluye el desayuno.
 
 ja:
-- 朝食は滞在に含まれます.
-- 朝食は含まれています.
+- 朝食は滞在に含まれています。
+- 滞在には朝食が含まれています。
 
 zh:
-- 早餐是入住的附加品.
-- 早餐包括.
+- 早餐含在住宿里。
+- 住宿包含早餐。
 
 ## vocabulary
 
 en:
-- breakfast · breakfast
-- is · iz
-- included · included
+- breakfast · BREK-fust
+- stay · stay
 
 fr:
-- déjeuner · dayjeuner
-- est · est
-- incluses · incluses
+- petit déjeuner · puh-TEE day-zhuh-NAY
+- séjour · say-ZHOOR
 
 de:
-- frühstück · fruehstueck
-- ist · ist
-- inbegriffen · inbegriffen
+- Frühstück · FRU-shtuk
+- Aufenthalt · OWF-ent-halt
 
 am:
-- ቁርስ · qurs
-- ነው · new
-- ተካቷል · tekatwal
+- ቁርስ · kurs
+- ቆይታ · qoy-ta
 
 ar:
-- فطور · ftwr
-- هو · hu-wa
-- شملت · shmlt
+- الإفطار · al-if-tar
+- الإقامة · al-i-qaa-ma
 
 es:
-- desayuno · desayuno
-- es · es
-- incluidos · incluidos
+- desayuno · de-sa-YU-no
+- estancia · es-TAN-thya
 
 ja:
-- 朝食 · choushoku
-- です · desu
-- 含まれています · fukuma reteimasu
+- 朝食 · cho-o-sho-ku
+- 滞在 · tai-zai
 
 zh:
 - 早餐 · zǎo cān
-- 是 · shì
-- 包括 · bāo kuò
+- 住宿 · zhù sù
 
 ## grammar
 
-- snippet-a1-word-order-statements · Basic word order in statements
-- snippet-a2-present-continuous · Present continuous
+- snippet-a1-prepositions · Prepositions
+- snippet-a1-sein · To be

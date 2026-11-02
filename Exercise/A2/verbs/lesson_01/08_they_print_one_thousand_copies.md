@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-numbers-basic · Numbers
-- snippet-a1-plurals-quantity · Plurals & quantity
+- snippet-a1-time · Telling time
+- snippet-a1-plural · Plural nouns

@@ -4,87 +4,63 @@ order: 20
 
 en:
 - Is it out of stock?
-- Is it sold out?
+- Is the stock gone?
 
 fr:
+- C'est en rupture ?
 - Il est en rupture de stock ?
-- C'est épuisé ?
 
 de:
-- Ist es nicht mehr auf Lager?
-- Ist alles ausverkauft?
+- Ist es ausverkauft?
+- Ausverkauft ist es?
 
 am:
-- የተሟላ ነው?
-- የተሸጠ ነው?
+- አልቋል?
+- እቃው አልቋል?
 
 ar:
-- هل هو خارج المخزون؟
-- هل تم بيعها؟
+- هل نفد؟
+- هل نفد المخزون؟
 
 es:
-- ¿Está fuera de stock?
 - ¿Está agotado?
+- ¿Ya está agotado?
 
 ja:
-- ストック切れですか?
-- 売り切れましたか?
+- 在庫切れですか？
+- もう在庫切れですか？
 
 zh:
-- 没有了吗?
-- 已经售完了吗?
+- 缺货了吗？
+- 是缺货吗？
 
 ## vocabulary
 
 en:
-- is · iz
-- it · it
-- sold · sold
-- out · out
+- stock · stok
 
 fr:
-- est · est
-- il · il
-- vendues · vendues
-- sortir · sortir
+- rupture · rup-TUR
 
 de:
-- ist · ist
-- es · es
-- verkauft · verkauft
-- aus · aus
+- ausverkauft · OWS-fer-kowft
 
 am:
-- ነው · new
-- እሱ · i-su
-- ተሽጧል · teshthwal
-- ወጣ · wetha
+- አልቋል · al-qwal
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- تباع · tbaa
-- اخرج · akhrj
+- نفد · na-fid
 
 es:
-- es · es
-- ello · eyo
-- vendida · vendida
-- fuera · fuera
+- agotado · a-go-TA-do
 
 ja:
-- です · desu
-- それ · sore
-- 落札 · rakusatsu
-- アウト · auto
+- 在庫切れ · zai-ko-gi-re
 
 zh:
-- 是 · shì
-- 它 · tā
-- 賣 · mài
-- 出局 · chū jú
+- 缺货 · quē huò
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-a1-there-is-existence · There is / There are
+- snippet-a1-interrogation · Questions
+- snippet-a1-prepositions · Prepositions

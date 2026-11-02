@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-advanced-cohesion · Lexical and referential cohesion
+- snippet-a1-conjunctions · Conjunctions

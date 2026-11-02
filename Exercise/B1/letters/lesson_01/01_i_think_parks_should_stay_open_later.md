@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-comparatives · Comparatives
-- snippet-b2-second-conditional · Second conditional
+- snippet-a1-comparison · Comparison
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-articles-definiteness · a / an / the
-- snippet-a1-plurals-quantity · Plurals and quantity
+- snippet-a1-article-declension · Articles
+- snippet-a1-plural · Plural nouns

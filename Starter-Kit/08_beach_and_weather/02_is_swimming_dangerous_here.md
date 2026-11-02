@@ -11,96 +11,72 @@ fr:
 - Est-il dangereux de nager ici ?
 
 de:
-- Ist das Schwimmen hier gefährlich?
+- Ist Schwimmen hier gefährlich?
 - Ist es gefährlich, hier zu schwimmen?
 
 am:
 - እዚህ መዋኘት አደገኛ ነው?
-- እዚህ መዋኘት አደገኛ ነው?
+- እዚህ መዋኘት አደጋ አለው?
 
 ar:
-- هل السباحة خطيرة هنا؟
-- هل من الخطر السباحة هنا؟
+- هل السباحة هنا فيها خطر؟
+- هل هناك خطر في السباحة هنا؟
 
 es:
 - ¿Es peligroso nadar aquí?
-- ¿Es peligroso nadar aquí?
+- ¿Nadar aquí es peligroso?
 
 ja:
-- ここで泳ぐのは危険ですか.
-- ここで泳ぐのは危険ですか.
+- ここで泳ぐのは危険ですか？
+- ここで泳ぐのは危ないですか？
 
 zh:
-- 这里游泳危险吗?
-- 在这里游泳是不是危险的?
+- 在这里游泳危险吗？
+- 在这里游泳有危险吗？
 
 ## vocabulary
 
 en:
-- is · iz
-- it · it
-- dangerous · dangerous
-- to · too
 - swim · swim
+- dangerous · DAYN-jer-us
 - here · heer
 
 fr:
-- est · est
-- il · il
-- dangereux · dangereux
-- à · ah
-- nager · nager
-- ici · ee: SEE
+- nager · na-ZHAY
+- dangereux · don-zhuh-RUH
+- ici · ee-SEE
 
 de:
-- ist · ist
-- es · es
-- gefährlicher · gefehhrlikher
-- zu · zu
-- schwimmen · shwimmen
+- schwimmen · SHVIM-en
+- gefährlich · ge-FAIR-likh
 - hier · heer
 
 am:
-- ነው · new
-- እሱ · i-su
-- አደገኛ · adhegenya
-- ወደ · we-de
-- ዋና · wana
-- እዚህ · izi
+- መዋኘት · me-wa-nyet
+- አደገኛ · a-de-ge-nya
+- እዚህ · i-zih
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- خطير · khtyr
-- إلى · i-la
-- سباحة · sbaha
-- هنا · huna
+- السباحة · as-si-baa-ha
+- خطر · kha-tar
+- هنا · hu-naa
 
 es:
-- es · es
-- ello · eyo
-- peligroso · peligroso
-- a · a
-- natación · nataciohn
-- aquí · a: KEE
+- nadar · na-DAR
+- peligroso · pe-lee-GRO-so
+- aquí · a-KEE
 
 ja:
-- です · desu
-- それ · sore
-- 危険 · kiken
-- に · ni
-- 泳ぐ · oyogu
-- ここ · koko
+- 泳ぐ · o-yo-gu
+- 危険 · ki-ken
+- ここ · ko-ko
 
 zh:
-- 是 · shì
-- 它 · tā
-- 危險 · wēi xiǎn
-- 到 · dào
 - 游泳 · yóu yǒng
+- 危险 · wēi xiǎn
 - 这里 · zhè lǐ
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-b1-first-conditional · First conditional
+- snippet-a1-interrogation · Questions
+- snippet-a1-adjective-endings · Adjectives

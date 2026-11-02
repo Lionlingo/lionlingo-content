@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-participle-clauses · Participle clauses
-- snippet-b2-reduced-relatives · Reduced relative clauses
+- snippet-c1-participial-attributes · Participial phrases

@@ -7,60 +7,60 @@ en:
 - Merry Christmas!
 
 fr:
-- Je vous souhaite un joyeux Noël !
-- Je vous souhaite un joyeux Noël !
+- Joyeux Noël !
+- Je te souhaite un joyeux Noël !
 
 de:
-- Ich wünsche Ihnen ein frohes Weihnachten!
-- Ich wünsche euch frohe Weihnachten!
+- Frohe Weihnachten!
+- Ich wünsche dir frohe Weihnachten!
 
 am:
-- መልካም የገና በዓል ይሁንላችሁ!
-- መልካም ገናን!
+- መልካም ገና ይሁንልህ!
+- መልካም ገና!
 
 ar:
-- عيد ميلاد سعيد!
-- عيد ميلاد سعيد!
+- عيد ميلاد مجيد!
+- أتمنى لك عيد ميلاد مجيد!
 
 es:
 - ¡Que tengas una feliz Navidad!
-- ¡Feliz Navidad a todos!
+- ¡Feliz Navidad!
 
 ja:
-- メリークリスマス!
-- メリークリスマス!
+- メリークリスマス。
+- クリスマスおめでとう。
 
 zh:
-- 祝你一个快乐的圣诞节!
-- 快乐的圣诞节!
+- 圣诞快乐！
+- 祝你圣诞快乐！
 
 ## vocabulary
 
 en:
-- merry christmas · merry christmas
+- Christmas · KRIS-mus
 
 fr:
-- joyeux Noël · joyeux noël
+- Noël · no-EL
 
 de:
-- frohe Weihnachten · frohe weyehnakhten
+- Weihnachten · VY-nakh-ten
 
 am:
-- መልካም ገና · melkam gena
+- ገና · ge-na
 
 ar:
-- عيد ميلاد مجيد · ayd mylad mjyd
+- عيد ميلاد مجيد · eed mee-laad ma-jeed
 
 es:
-- feliz Navidad · feliz navidad
+- Navidad · na-vi-DAD
 
 ja:
-- メリークリスマス · meriikurisumasu
+- クリスマス · ku-ri-su-ma-su
 
 zh:
-- 圣诞快乐 · shèng dàn kuài lè
+- 圣诞 · shèng dàn
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-b1-tag-questions · Tag questions
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

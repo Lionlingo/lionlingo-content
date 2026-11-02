@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-rhetorical-questions · Rhetorical questions
+- snippet-a1-interrogation · Questions

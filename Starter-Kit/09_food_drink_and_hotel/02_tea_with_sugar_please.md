@@ -4,95 +4,71 @@ order: 2
 
 en:
 - Tea with sugar, please.
-- A tea please, with sugar.
+- A tea with sugar, please.
 
 fr:
+- Un thé avec du sucre, s'il vous plaît.
 - Un thé au sucre, s'il vous plaît.
-- Un thé, s'il vous plaît, avec du sucre.
 
 de:
 - Tee mit Zucker, bitte.
-- Ein Tee bitte, mit Zucker.
+- Einen Tee mit Zucker, bitte.
 
 am:
-- ሻይ ከስኳር ጋር፣ እባክህ።
-- አንድ ሻይ እባክህ፣ ከስኳር ጋር።
+- ሻይ ከስኳር ጋር እባክዎ።
+- ስኳር ያለው ሻይ እባክዎ።
 
 ar:
-- شاي مع السكر، من فضلك.
-- شاي من فضلك، مع السكر.
+- شاي مع سكر، من فضلك.
+- شاي بالسكر، من فضلك.
 
 es:
 - Té con azúcar, por favor.
-- Un té, por favor, con azúcar.
+- Un té con azúcar, por favor.
 
 ja:
-- お茶と砂糖をお願いします.
-- お茶,お願い,砂糖で.
+- 砂糖入りのお茶をお願いします。
+- お茶を砂糖入りでお願いします。
 
 zh:
-- 带糖的茶,请.
-- 请一杯茶,含糖.
+- 请来一杯加糖的茶。
+- 请给我加糖的茶。
 
 ## vocabulary
 
 en:
-- a · uh
 - tea · tee
-- please · pleez
-- with · with
-- sugar · sugar
+- sugar · SHUG-er
 
 fr:
-- un · un
 - thé · tay
-- s'il vous plaît · sil vu play
-- avec · avec
-- sucre · sucre
+- sucre · SU-kr
 
 de:
-- ein · eyen
 - Tee · tay
-- bitte · BI: te
-- mit · mit
-- zuckergehalt · zuckergehalt
+- Zucker · TSUK-er
 
 am:
-- አንድ · andh
-- ሻይ · shay
-- እባክህ · i-bak-ih
-- ከ · ke
-- ስኳር · skwar
+- ሻይ · shai
+- ስኳር · si-kwar
 
 ar:
-- Ø · 
 - شاي · shay
-- من فضلك · min fadlak
-- مع · ma-a
-- سكر · skr
+- سكر · suk-kar
 
 es:
-- un · un
-- té · teh
-- por favor · por fa: VOR
-- con · con
-- azucar · azucar
+- té · te
+- azúcar · a-THU-kar
 
 ja:
-- 一つの · hitotsu no
-- お茶 · ocha
-- お願いします · onegai shimasu
-- と · to
-- 砂糖 · satou
+- お茶 · o-cha
+- 砂糖 · sa-to
 
 zh:
-- 一个 · yí gè
 - 茶 · chá
-- 请 · qǐng
-- 和 · hé
-- 食糖 · shí táng
+- 糖 · táng
 
 ## grammar
 
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
-- snippet-a2-want-like · Want and like
+- snippet-a1-prepositions · Prepositions
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

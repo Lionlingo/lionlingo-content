@@ -7,76 +7,60 @@ en:
 - Take an umbrella.
 
 fr:
-- Apportez un parapluie.
+- Apporte un parapluie.
 - Prends un parapluie.
 
 de:
-- Bringen Sie einen Regenschirm mit.
-- Nimm einen Regenschirm.
+- Bring einen Regenschirm mit.
+- Nimm einen Regenschirm mit.
 
 am:
 - ጃንጥላ አምጣ።
 - ጃንጥላ ውሰድ።
 
 ar:
-- أحضر مظلة
-- خذ مظلة
+- أحضر مظلة.
+- خذ مظلة.
 
 es:
 - Trae un paraguas.
 - Toma un paraguas.
 
 ja:
-- 傘を持って来い.
-- 傘を持って.
+- 傘を持ってきてください。
+- 傘を持っていってください。
 
 zh:
-- 带一个雨.
-- 带一个雨.
+- 带一把雨伞。
+- 拿一把雨伞。
 
 ## vocabulary
 
 en:
-- take · take
-- an · an
-- umbrella · um: BREL: uh
+- umbrella · um-BREL-uh
 
 fr:
-- prend · prend
-- un · un
-- parapluie · pa: ra: PLWEE
+- parapluie · pa-ra-PLWEE
 
 de:
-- nehmen · nehmen
-- ein · eyen
-- Regenschirm · RAY: gen: shirm
+- Regenschirm · RAY-gen-shirm
 
 am:
-- ውሰድ · wsedh
-- አንድ · andh
-- ጃንጥላ · jantila
+- ጃንጥላ · jan-ti-la
 
 ar:
-- خذ · khdh
-- ان · an
-- مظلة · mizalla
+- مظلة · mizh-la
 
 es:
-- tomar · tomar
-- un · un
-- paraguas · pa: RA: gwas
+- paraguas · pa-RA-gwas
 
 ja:
-- 取る · toru
-- 一つの · hitotsu no
-- かさ · kasa
+- 傘 · ka-sa
 
 zh:
-- 拿 · ná
-- 一个 · yí gè
-- 伞 · sǎn
+- 雨伞 · yǔ sǎn
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-c2-idiomatic-structures · Idiomatic clause patterns
+- snippet-a1-imperative · The imperative
+- snippet-a1-article-declension · Articles

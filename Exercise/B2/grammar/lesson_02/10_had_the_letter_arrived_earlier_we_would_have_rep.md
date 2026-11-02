@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-b2-third-conditional · Third conditional
-- snippet-b2-inversion-conditionals · Conditional inversion
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

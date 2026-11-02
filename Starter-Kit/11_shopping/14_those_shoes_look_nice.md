@@ -3,72 +3,72 @@ order: 14
 ---
 
 en:
-- Those shoes look nice!
-- Nice shoes!
+- Those shoes look nice.
+- Those are nice-looking shoes.
 
 fr:
-- Ces chaussures sont jolies !
-- De belles chaussures !
+- Ces chaussures ont l'air jolies.
+- Ces chaussures sont jolies à voir.
 
 de:
-- Diese Schuhe sehen schön aus!
-- Schöne Schuhe!
+- Diese Schuhe sehen gut aus.
+- Die Schuhe sehen gut aus.
 
 am:
-- እነዚህ ጫማዎች ጥሩ ይመስላሉ!
-- ጥሩ ጫማዎች!
+- እነዚያ ጫማዎች ጥሩ ይመስላሉ።
+- እነዚያ ጫማዎች ጥሩ ይታያሉ።
 
 ar:
-- تبدو الأحذية جميلة!
-- أحذية جميلة
+- تلك الأحذية تبدو لطيفة.
+- شكل تلك الأحذية لطيف.
 
 es:
-- ¡Estos zapatos se ven bien!
-- ¡Qué zapatos bonitos!
+- Esos zapatos se ven bonitos.
+- Bonitos se ven esos zapatos.
 
 ja:
-- その靴は綺麗だ!
-- 靴も素敵だ
+- あの靴はきれいに見えます。
+- きれいに見えるあの靴です。
 
 zh:
-- 这些鞋子看起来很漂亮!
-- 这鞋子很漂亮!
+- 那双鞋看起来不错。
+- 那双鞋看着不错。
 
 ## vocabulary
 
 en:
+- shoes · shoos
 - nice · nice
-- shoes · shoes
 
 fr:
-- sympa · sympa
-- chaussure · shaussure
+- chaussures · sho-SUR
+- jolies · zho-LEE
 
 de:
-- hübsche · huebshe
-- schuh · shuh
+- Schuhe · SHOO-e
+- gut · goot
 
 am:
-- ጥሩ · thru
-- ጫማ · chaama
+- ጫማ · cha-ma
+- ጥሩ · ti-ru
 
 ar:
-- حلو · hlw
-- احذية · ahdhya
+- الأحذية · al-ah-dhi-ya
+- لطيف · la-teef
 
 es:
-- agradable · agradable
-- zapatillas · zapatiyas
+- zapatos · tha-PA-tos
+- bonitos · bo-NEE-tos
 
 ja:
-- ナイス · naisu
-- 靴 · kutsu
+- 靴 · ku-tsu
+- きれい · ki-re-i
 
 zh:
-- 很好 · hěn hǎo
-- 皮鞋 · pí xié
+- 鞋 · xié
+- 不错 · bù cuò
 
 ## grammar
 
-- snippet-b1-adjective-prepositions · Adjectives + prepositions
-- snippet-a1-informal-greetings · Informal address
+- snippet-a1-adjective-endings · Adjectives
+- snippet-a1-sein · To be

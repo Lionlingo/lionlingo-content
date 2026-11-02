@@ -7,84 +7,60 @@ en:
 - Can I help you?
 
 fr:
-- Je peux vous aider ?
-- Je peux vous aider ?
+- Puis-je vous aider ?
+- Est-ce que je peux vous aider ?
 
 de:
+- Darf ich Ihnen helfen?
 - Kann ich Ihnen helfen?
-- Kann ich Ihnen helfen? - Nein.
 
 am:
-- ልረዳችሁ እችላለሁ?
-- ልረዳችሁ እችላለሁ?
+- ልረዳዎት?
+- ልረዳዎት እችላለሁ?
 
 ar:
-- هل أستطيع مساعدتك؟
+- هل لي بمساعدتك؟
 - هل أستطيع مساعدتك؟
 
 es:
-- ¿Puedo ayudarla?
-- ¿Puedo ayudarla?
+- ¿Puedo ayudarle?
+- ¿Le puedo ayudar?
 
 ja:
-- どうしても?
-- どうしても?
+- 手伝いましょうか？
+- お手伝いできますか？
 
 zh:
-- 我可以帮你吗?
-- 我可以帮你吗?
+- 我可以帮您吗？
+- 我能帮您吗？
 
 ## vocabulary
 
 en:
-- can · kan
-- i · eye
 - help · help
-- you · yoo
 
 fr:
-- pouvoir · poo: VWAR
-- je · zhuh
-- aider · ay: DAY
-- tu · tu
+- aider · ay-DAY
 
 de:
-- können · KER: nen
-- ich · ikh
-- helfen · HEL: fen
-- du · du
+- helfen · HEL-fen
 
 am:
-- መቻል · mechal
-- እኔ · i-ne
-- መርዳት · merdat
-- አንተ · an-te
+- ረዳ · re-da
 
 ar:
-- يستطيع · yastatee'
-- أنا · a-na
-- يساعد · yusaa'id
-- أنت · an-ta
+- مساعدتك · mu-saa-a-da-tak
 
 es:
-- poder · po: DER
-- yo · yo
-- ayudar · a: yu: DAR
-- tú · too
+- ayudar · a-yu-DAR
 
 ja:
-- できる · dekiru
-- 私 · watashi
-- 助ける · tetsudau
-- あなた · anata
+- 手伝い · te-tsu-dai
 
 zh:
-- 能 · néng / huì
-- 我 · wǒ
-- 帮助 · bāng zhù
-- 你 · nǐ
+- 帮 · bāng
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-interrogation · Questions

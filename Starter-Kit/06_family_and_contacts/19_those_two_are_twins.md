@@ -7,8 +7,8 @@ en:
 - They are twins.
 
 fr:
-- Ces deux-là sont jumeaux.
-- Ce sont des jumeaux.
+- Ces deux-là sont des jumeaux.
+- Ils sont jumeaux.
 
 de:
 - Die beiden sind Zwillinge.
@@ -16,67 +16,59 @@ de:
 
 am:
 - እነዚህ ሁለት መንትዮች ናቸው።
-- መንትዮች ናቸው።
+- እነሱ መንትዮች ናቸው።
 
 ar:
-- هذان الاثنان توأمان
-- إنهم توأمان
+- هذان الاثنان توأمان.
+- هما توأمان.
 
 es:
 - Esos dos son gemelos.
-- Son gemelas.
+- Ellos son gemelos.
 
 ja:
-- その2人は双子だ.
-- 彼らは双子です.
+- その二人は双子です。
+- 彼らは双子です。
 
 zh:
-- 这两个是双胞胎.
-- 他们是双胞胎.
+- 那两个是双胞胎。
+- 他们是双胞胎。
 
 ## vocabulary
 
 en:
 - they · they
-- are · are
-- twins · twins
+- twins · twinz
 
 fr:
-- ils · ils
-- sont · sont
-- jumelles · jumelles
+- ils · eel
+- jumeaux · zhu-MO
 
 de:
-- sie · see
-- sind · sind
-- zwillinge · zwillinge
+- sie · zee
+- Zwillinge · TSVIL-ing-e
 
 am:
-- እነሱ · enesu
-- ናቸው · nachew
-- መንትዮች · mentyoch
+- እነሱ · i-ne-su
+- መንትዮች · men-tyoch
 
 ar:
-- هم · hm
-- هم · hm
-- توائم · twaym
+- هما · hu-maa
+- توأمان · taw-a-maan
 
 es:
-- ellos · eyos
-- son · son
-- gemelas · khemelas
+- ellos · E-yos
+- gemelos · he-ME-los
 
 ja:
-- 彼ら · karera
-- です · desu
-- 双子 · futago
+- 彼ら · ka-re-ra
+- 双子 · fu-ta-go
 
 zh:
 - 他们 · tā men
-- 是 · shì
-- 雙胞胎 · shuāng bāo tāi
+- 双胞胎 · shuāng bāo tāi
 
 ## grammar
 
-- snippet-a1-time-days · Days of the week and simple time
-- snippet-a2-conjunctions-and-but · Basic conjunctions: and, but, or, so
+- snippet-a1-pronouns · Pronouns
+- snippet-a1-sein · To be

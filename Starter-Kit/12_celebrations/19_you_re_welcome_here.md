@@ -4,63 +4,71 @@ order: 19
 
 en:
 - You're welcome here!
-- Welcome!
+- Welcome here!
 
 fr:
-- Vous êtes les bienvenus ici !
-- Bienvenue à la maison !
+- Tu es le bienvenu ici !
+- Sois le bienvenu ici !
 
 de:
 - Du bist hier willkommen!
-- Willkommen!
+- Willkommen hier!
 
 am:
-- እዚህ እንኳን ደህና መጣችሁ!
-- እንኳን ደህና መጣችሁ!
+- እዚህ እንኳን ደህና መጣህ!
+- እንኳን ደህና መጣህ እዚህ!
 
 ar:
 - أنت مرحب بك هنا!
-- مرحباً بكِ!
+- مرحباً بك هنا!
 
 es:
 - Eres bienvenido aquí.
-- ¡Bienvenido!
+- ¡Bienvenido aquí!
 
 ja:
-- 歓迎するよ!
-- 歓迎する!
+- ここへようこそ。
+- ようこそ、ここへ。
 
 zh:
-- 你是受到欢迎的!
-- 欢迎来到这里!
+- 欢迎你来这里！
+- 这里欢迎你！
 
 ## vocabulary
 
 en:
-- welcome · WEL: kum
+- welcome · WEL-kum
+- here · heer
 
 fr:
-- bienvenue · byan: vuh: NEW
+- bienvenu · byan-ve-NU
+- ici · ee-SEE
 
 de:
-- willkommen · VIL: ko: men
+- willkommen · vil-KOM-men
+- hier · heer
 
 am:
-- እንኳን ደህና መጡ · inkwan dena metu
+- መጣህ · me-tah
+- እዚህ · iz-zih
 
 ar:
-- أهلاً · ahlan
+- مرحب · mar-hab
+- هنا · hu-na
 
 es:
-- bienvenido · byen: ve: NEE: do
+- bienvenido · byen-ve-NEE-do
+- aquí · a-KEE
 
 ja:
-- ようこそ · youkoso
+- ようこそ · yo-ko-so
+- ここ · ko-ko
 
 zh:
 - 欢迎 · huān yíng
+- 这里 · zhè lǐ
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-a1-two-way-prepositions · Place and direction
+- snippet-a1-sein · To be

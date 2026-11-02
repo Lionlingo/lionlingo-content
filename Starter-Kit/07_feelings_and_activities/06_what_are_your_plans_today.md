@@ -4,95 +4,71 @@ order: 6
 
 en:
 - What are your plans today?
-- What are you doing today?
+- What do you plan to do today?
 
 fr:
-- Quels sont tes projets pour aujourd'hui ?
-- Tu fais quoi aujourd'hui ?
+- Quels sont tes projets aujourd'hui ?
+- Tu as quels projets aujourd'hui ?
 
 de:
-- Was hast du heute vor?
-- Was machst du heute?
+- Was sind deine Pläne heute?
+- Welche Pläne hast du heute?
 
 am:
-- ለዛሬ ምን ዕቅድ አለህ?
-- ዛሬ ምን ታደርጋለህ?
+- ዛሬ ዕቅድህ ምንድን ነው?
+- ዛሬ ምን ዕቅድ አለህ?
 
 ar:
 - ما هي خططك اليوم؟
-- ماذا ستفعلين اليوم؟
+- ما خططك لهذا اليوم؟
 
 es:
-- ¿Cuáles son tus planes para hoy?
-- ¿Qué vas a hacer hoy?
+- ¿Cuáles son tus planes hoy?
+- ¿Qué planes tienes hoy?
 
 ja:
-- 今日は何をする予定ですか.
-- 今日は何してるの?
+- 今日の予定は何ですか？
+- 今日は何の予定ですか？
 
 zh:
-- 你今天的计划是什么?
-- 你今天要做什么?
+- 你今天的计划是什么？
+- 你今天计划做什么？
 
 ## vocabulary
 
 en:
-- what · wot
-- are · are
-- you · yoo
-- doing · doing
-- today · today
+- plans · planz
+- today · tuh-DAY
 
 fr:
-- quoi · kuh / kwa
-- sont · sont
-- tu · tu
-- faisant · faisant
-- hui · hui
+- projets · pro-ZHAY
+- aujourd'hui · o-zhoor-DWEE
 
 de:
-- was · vas
-- sind · sind
-- du · du
-- tun · tun
-- heutige · hoytige
+- Pläne · PLEH-ne
+- heute · HOY-te
 
 am:
-- ምን · min
-- ናቸው · nachew
-- አንተ · an-te
-- ማድረግ · madhreg
-- ዛሬ · zare
+- ዕቅድ · ikid
+- ዛሬ · za-re
 
 ar:
-- ماذا · ma-dha
-- هم · hm
-- أنت · an-ta
-- عمل · aml
+- خطط · khi-tat
 - اليوم · al-yawm
 
 es:
-- qué · keh
-- son · son
-- tú · too
-- haciendo · haciendo
-- today · today
+- planes · PLA-nes
+- hoy · oy
 
 ja:
-- 何 · nani
-- です · desu
-- あなた · anata
-- やってる · yatteru
-- トゥデイ · toudei
+- 予定 · yo-tee
+- 今日 · kyo-o
 
 zh:
-- 什么 · shén me
-- 是 · shì
-- 你 · nǐ
-- 正在做 · zhèng zài zuò
-- 今日 · jīn rì
+- 计划 · jì huà
+- 今天 · jīn tiān
 
 ## grammar
 
-- snippet-a2-present-continuous · Present continuous
-- snippet-a1-informal-greetings · Informal address
+- snippet-a1-wh-questions · Question words
+- snippet-a1-possessives · my, your, his, her

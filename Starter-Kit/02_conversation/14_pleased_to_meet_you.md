@@ -4,63 +4,71 @@ order: 14
 
 en:
 - Nice to meet you.
-- It's nice to meet you.
+- Pleased to meet you.
 
 fr:
-- Enchanté de vous rencontrer.
-- Je suis enchanté de vous rencontrer.
+- Enchanté de te rencontrer.
+- Ravi de te rencontrer.
 
 de:
-- Freut mich, Sie kennenzulernen.
-- Es freut mich, Sie kennenzulernen.
+- Schön, dich kennenzulernen.
+- Freut mich, dich kennenzulernen.
 
 am:
 - አንተን በማግኘቴ ደስ ብሎኛል።
-- አንተን በማግኘቴ እጅግ ደስ ብሎኛል።
+- አንተን በማግኘቴ ተደስቻለሁ።
 
 ar:
-- سعدت بمقابلتك.
-- لقد سعدت بمقابلتك.
+- سعدت بأن ألتقيك.
+- تشرفت بأن ألتقيك.
 
 es:
 - Encantado de conocerte.
-- Mucho gusto, encantado de conocerte.
+- Mucho gusto en conocerte.
 
 ja:
-- 初めまして。
-- 初めまして、よろしくお願いします。
+- お会いできて嬉しいです。
+- お会いできて光栄です。
 
 zh:
 - 很高兴见到你。
-- 我很高兴见到你。
+- 很荣幸见到你。
 
 ## vocabulary
 
 en:
-- nice to meet you · nys too meet yoo
+- to meet · too meet
+- you · yoo
 
 fr:
-- enchanté de vous rencontrer · on-shon-TAY duh voo ron-kon-TRAY
+- rencontrer · ron-kon-TRAY
+- te · tuh
 
 de:
-- freut mich, Sie kennenzulernen · froyt mikh zee KEN-nen-tsoo-ler-nen
+- kennenzulernen · KEN-nen-tsoo-ler-nen
+- dich · dikh
 
 am:
-- ደስ ብሎኛል · des belognal
+- በማግኘቴ · bemagnyete
+- አንተን · anten
 
 ar:
-- سعدت بمقابلتك · sa'idtu bimuqabalatik
+- ألتقي · altaqi
+- ـك · -ka
 
 es:
-- encantado de conocerte · en-kan-TA-do de ko-no-SER-te
+- conocer · ko-no-SER
+- te · te
 
 ja:
-- 初めまして · hajimemashite
+- お会い · oai
+- できて · dekite
 
 zh:
-- 很高兴见到你 · hěn gāo xìng jiàn dào nǐ
+- 见到 · jiàn dào
+- 你 · nǐ
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-a2-zu-infinitive · Infinitive with to
+- snippet-a1-adjective-endings · Adjectives

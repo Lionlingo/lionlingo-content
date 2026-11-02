@@ -4,79 +4,63 @@ order: 13
 
 en:
 - Does it have spice?
-- Is it spicy?
+- Is there spice in it?
 
 fr:
 - Il y a des épices ?
-- C'est épicé ?
+- Est-ce que ça a des épices ?
 
 de:
-- Hat es Gewürze?
-- Ist es scharf?
+- Hat es Gewürz?
+- Ist Gewürz drin?
 
 am:
 - ቅመም አለው?
-- ቅመም ያለው ነው?
+- ቅመም አለበት?
 
 ar:
-- هل بها بعض التوابل؟
-- هل هو حار؟
+- هل فيه بهار؟
+- هل يوجد بهار فيه؟
 
 es:
-- ¿Tiene especias?
-- ¿Está picante?
+- ¿Tiene especia?
+- ¿Hay especia?
 
 ja:
-- スパイスも入ってる?
-- 辛口か?
+- スパイスは入っていますか？
+- この中にスパイスはありますか？
 
 zh:
-- 有没有香料?
-- 这有什么味吗?
+- 这有香料吗？
+- 里面有香料吗？
 
 ## vocabulary
 
 en:
-- is · iz
-- it · it
-- spicy · spicy
+- spice · spice
 
 fr:
-- est · est
-- il · il
-- piquant · piquant
+- épices · ay-PEES
 
 de:
-- ist · ist
-- es · es
-- scharf · sharf
+- Gewürz · ge-VURTS
 
 am:
-- ነው · new
-- እሱ · i-su
-- ቅመም · qmem
+- ቅመም · qi-mem
 
 ar:
-- هو · hu-wa
-- هو · hu-wa
-- حار · har
+- بهار · ba-haar
 
 es:
-- es · es
-- ello · eyo
-- picante · picante
+- especia · es-PE-thya
 
 ja:
-- です · desu
-- それ · sore
-- 辛い · tsurai
+- スパイス · su-pai-su
 
 zh:
-- 是 · shì
-- 它 · tā
-- 辣 · là
+- 香料 · xiāng liào
 
 ## grammar
 
-- snippet-a2-want-like · Want and like
-- snippet-a1-subject-pronouns-be · Subject + be
+- snippet-a1-haben · To have
+- snippet-a1-interrogation · Questions

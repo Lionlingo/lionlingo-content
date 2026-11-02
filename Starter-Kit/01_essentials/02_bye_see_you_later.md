@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-a1-informal-greetings · Informal address
+- snippet-a1-present · Present tense
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

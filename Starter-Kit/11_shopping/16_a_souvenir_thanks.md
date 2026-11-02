@@ -4,79 +4,63 @@ order: 16
 
 en:
 - A souvenir, thanks.
-- A souvenir, please.
+- Thanks, a souvenir.
 
 fr:
 - Un souvenir, merci.
-- Un souvenir, s'il vous plaît.
+- Merci, un souvenir.
 
 de:
-- Ein Souvenir, danke.
-- Ein Souvenir, bitte.
+- Ein Andenken, danke.
+- Danke, ein Andenken.
 
 am:
-- ትዝታ፣ አመሰግናለሁ።
-- አንድ የመታሰቢያ ስጦታ፣ እባክህ።
+- የመታሰቢያ፣ አመሰግናለሁ።
+- አመሰግናለሁ፣ የመታሰቢያ።
 
 ar:
-- تذكار، شكراً
-- تذكار من فضلك
+- تذكار، شكراً.
+- شكراً، تذكار.
 
 es:
 - Un recuerdo, gracias.
-- Un recuerdo, por favor.
+- Gracias, un recuerdo.
 
 ja:
-- 記念品よ ありがとう
-- 記念品をくれ
+- お土産を、ありがとうございます。
+- ありがとうございます、お土産を。
 
 zh:
-- 一个纪念品,谢谢.
-- 请给我一个纪念品.
+- 一个纪念品，谢谢。
+- 谢谢，一个纪念品。
 
 ## vocabulary
 
 en:
-- a · uh
-- souvenir · souvenir
-- please · pleez
+- souvenir · soo-ve-NEER
 
 fr:
-- un · un
-- souvenir · soovenir
-- s'il vous plaît · sil vu play
+- souvenir · soo-ve-NEER
 
 de:
-- ein · eyen
-- andenken · andenken
-- bitte · BI: te
+- Andenken · AN-den-ken
 
 am:
-- አንድ · andh
-- መታሰቢያ · metasebiya
-- እባክህ · i-bak-ih
+- የመታሰቢያ · ye-me-ta-se-bi-ya
 
 ar:
-- Ø · 
-- تذكار · tdhkar
-- من فضلك · min fadlak
+- تذكار · tidh-kaar
 
 es:
-- un · un
-- recuerdo · recuerdo
-- por favor · por fa: VOR
+- recuerdo · rre-KWER-do
 
 ja:
-- 一つの · hitotsu no
-- 土産物 · miyagemono
-- お願いします · onegai shimasu
+- お土産 · o-mi-ya-ge
 
 zh:
-- 一个 · yí gè
-- 紀念品 · jì niàn pǐn
-- 请 · qǐng
+- 纪念品 · jì niàn pǐn
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b1-so-such · So and such for emphasis
+- snippet-a1-ein-forms · a, an, some, no
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

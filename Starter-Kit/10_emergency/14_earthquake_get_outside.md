@@ -7,76 +7,68 @@ en:
 - Earthquake! Go outside!
 
 fr:
-- Il y a un tremblement de terre !
-- Il y a un tremblement de terre !
+- Tremblement de terre ! Sortez dehors !
+- Tremblement de terre ! Allez dehors !
 
 de:
-- Erschütterung!
-- Erschütterung!
+- Erdbeben! Nach draußen!
+- Erdbeben! Geht nach draußen!
 
 am:
-- የመሬት መንቀጥቀጥ!
-- የመሬት መንቀጥቀጥ!
+- የመሬት መንቀጥቀጥ! ውጭ ውጡ!
+- የመሬት መንቀጥቀጥ! ወደ ውጭ ሂዱ!
 
 ar:
-- زلزال، اخرجوا!
-- زلزال، اخرجوا
+- زلزال! إلى الخارج!
+- زلزال! اخرجوا إلى الخارج!
 
 es:
-- ¡Tienen un terremoto!
-- ¡Tiene un terremoto!
+- ¡Terremoto! ¡Salgan afuera!
+- ¡Terremoto! ¡Vayan afuera!
 
 ja:
-- 地震だ 外へ!
-- 地震だ 外へ!
+- 地震です！外へ出てください！
+- 地震です！外に出てください！
 
 zh:
-- 地震,我们要出去!
-- 地震!出去吧!
+- 地震了！到外面去！
+- 地震了！去外面！
 
 ## vocabulary
 
 en:
-- earthquake · earthquake
-- go · go
-- outside · outside
+- earthquake · URTH-kwayk
+- outside · owt-SIDE
 
 fr:
-- tremblement · tremblement
-- aller · aller
-- extérieur · extayrieur
+- tremblement · tron-bluh-MON
+- dehors · duh-OR
 
 de:
-- erdbeben · erdbeben
-- gehen · gehen
-- außerhalb · ausserhalb
+- Erdbeben · AIRT-bay-ben
+- draußen · DROW-sen
 
 am:
-- የመሬት መንቀጥቀጥ · yemeret menqethqeth
-- ሂድ · hidh
-- ውጭ · wcha
+- የመሬት መንቀጥቀጥ · ye-me-ret men-qet-qet
+- ውጭ · wich
 
 ar:
-- زلزال · zlzal
-- يذهب · ydhhb
-- الخارج · alkharj
+- زلزال · zil-zaal
+- الخارج · al-khaa-rij
 
 es:
-- terremoto · terremoto
-- ir · ir
-- fuera · fuera
+- terremoto · te-rre-MO-to
+- afuera · a-FWE-ra
 
 ja:
-- 地震 · jishin
-- 行く · iku
-- 外 · soto
+- 地震 · ji-shin
+- 外 · so-to
 
 zh:
 - 地震 · dì zhèn
-- 去 · qù
-- 外部 · wài bù
+- 外面 · wài miàn
 
 ## grammar
 
-- snippet-b1-first-conditional · First conditional
-- snippet-a2-past-simple · Past simple
+- snippet-a1-imperative · The imperative
+- snippet-a2-direction-words · Direction words

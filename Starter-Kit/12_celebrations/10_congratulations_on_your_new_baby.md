@@ -4,87 +4,71 @@ order: 10
 
 en:
 - Congratulations on your new baby!
-- Congratulations on the baby!
+- Congratulations on the new baby!
 
 fr:
-- Félicitations pour votre nouveau bébé !
-- Félicitations pour le bébé !
+- Félicitations pour ton nouveau bébé !
+- Félicitations pour le nouveau bébé !
 
 de:
 - Herzlichen Glückwunsch zu deinem neuen Baby!
-- Glückwunsch zum Baby!
+- Glückwunsch zum neuen Baby!
 
 am:
-- በአዲሱ ልጅሽ እንኳን ደስ አለሽ!
-- ስለልጁ እንኳን ደስ አለህ!
+- በአዲሱ ልጅህ እንኳን ደስ አለህ!
+- ስለ አዲሱ ልጅ እንኳን ደስ አለህ!
 
 ar:
 - تهانينا على طفلك الجديد!
-- تهانينا على الطفل
+- تهانينا على الطفل الجديد!
 
 es:
 - ¡Felicitaciones por tu nuevo bebé!
-- ¡Felicitaciones por el bebé!
+- ¡Felicitaciones por el nuevo bebé!
 
 ja:
-- 新生児を祝って!
-- 赤ちゃんに あけましておめでとう!
+- 新しい赤ちゃん、おめでとう。
+- 新しい赤ちゃんにおめでとう。
 
 zh:
-- 祝你的新宝宝!
-- 祝你生了个孩子!
+- 恭喜你的新宝宝！
+- 恭喜新宝宝！
 
 ## vocabulary
 
 en:
-- congratulations · congratulations
-- on · on
-- the · thuh
-- baby · baby
+- baby · BAY-bee
+- new · noo
 
 fr:
-- félicitations · faylicitasyons
-- sur · sur
-- le · luh
-- bébé · baybay
+- bébé · bay-BAY
+- nouveau · noo-VOH
 
 de:
-- gratuliere · gratuleere
-- auf · auf
-- der · dehr
-- baby · baby
+- Baby · BAY-bee
+- neuen · NOY-en
 
 am:
-- እንኳን ደስ አለህ · enkwan dhes aleh
-- ላይ · lay
-- የ · ye
-- ሕፃን · hhtzan
+- ልጅ · lij
+- አዲሱ · a-di-su
 
 ar:
-- مبروك · mbrwk
-- على · a-la
-- ال · al
-- حبيبي · hbyby
+- طفل · tifl
+- جديد · ja-deed
 
 es:
-- felicitaciones · felicitaciones
-- en · en
-- el · el
-- bebe · bebe
+- bebé · be-BE
+- nuevo · NWE-vo
 
 ja:
-- おめでとう · omedetou
-- の上に · no ueni
-- その · sono
-- ベイビー · beibii
+- 赤ちゃん · a-ka-chan
+- 新しい · a-ta-ra-shii
 
 zh:
-- 恭喜 · gōng xǐ
-- 在 · zài
-- 这 · zhè
-- 嬰兒 · yīng ér
+- 宝宝 · bǎo bao
+- 新 · xīn
 
 ## grammar
 
-- snippet-b1-present-perfect · Present perfect
-- snippet-b2-perfect-continuous · Present perfect continuous
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

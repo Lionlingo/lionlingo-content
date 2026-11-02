@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-present-perfect · Present perfect
-- snippet-b1-adjective-prepositions · Adjectives + prepositions
+- snippet-a2-perfekt · Present perfect
+- snippet-b1-verbs-with-prepositions · Verb + preposition

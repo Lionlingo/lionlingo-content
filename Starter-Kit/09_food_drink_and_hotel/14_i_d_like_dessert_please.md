@@ -8,67 +8,59 @@ en:
 
 fr:
 - Je voudrais un dessert, s'il vous plaît.
-- Le dessert, s'il vous plaît.
+- Un dessert, s'il vous plaît.
 
 de:
-- Ich hätte gern ein Dessert.
-- Dessert, bitte.
+- Ich hätte gern einen Nachtisch, bitte.
+- Einen Nachtisch, bitte.
 
 am:
-- ጣፋጭ ምግብ እፈልጋለሁ እባክህ።
-- ጣፋጭ ምግብ፣ እባክህ።
+- የጣፋጭ ምግብ እፈልጋለሁ፣ እባክዎ።
+- የጣፋጭ ምግብ፣ እባክዎ።
 
 ar:
-- أريد الحلوى من فضلك
-- الحلوى من فضلك
+- أود الحلوى، من فضلك.
+- الحلوى، من فضلك.
 
 es:
-- Quiero postre, por favor.
+- Quisiera postre, por favor.
 - El postre, por favor.
 
 ja:
-- デザートでもいいですか?
-- デザートをお願いします
+- デザートをお願いします。
+- デザートをください。
 
 zh:
-- 我想要甜点,请.
-- 甜点,请.
+- 请给我甜点。
+- 甜点，请。
 
 ## vocabulary
 
 en:
-- dessert · dessert
-- please · pleez
+- dessert · di-ZURT
 
 fr:
-- dessert · dessert
-- s'il vous plaît · sil vu play
+- dessert · de-SAIR
 
 de:
-- dessert · dessert
-- bitte · BI: te
+- Nachtisch · NAKH-tish
 
 am:
-- ማጣጣሚያ · mathathamiya
-- እባክህ · i-bak-ih
+- የጣፋጭ ምግብ · ye-ta-faj migb
 
 ar:
-- الحلوى · alhlwa
-- من فضلك · min fadlak
+- الحلوى · al-hal-wa
 
 es:
-- postres · postres
-- por favor · por fa: VOR
+- postre · POS-tre
 
 ja:
-- デザート · dezaato
-- お願いします · onegai shimasu
+- デザート · de-za-a-to
 
 zh:
-- 甜點 · tián diǎn
-- 请 · qǐng
+- 甜点 · tián diǎn
 
 ## grammar
 
-- snippet-a2-imperatives · Imperatives for requests and instructions
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech

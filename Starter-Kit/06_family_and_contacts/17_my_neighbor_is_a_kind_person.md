@@ -12,79 +12,63 @@ fr:
 
 de:
 - Mein Nachbar ist ein freundlicher Mensch.
-- Mein Nachbar ist nett.
+- Mein Nachbar ist freundlich.
 
 am:
 - ጎረቤቴ ደግ ሰው ነው።
 - ጎረቤቴ ደግ ነው።
 
 ar:
-- جارى شخص لطيف
-- جارتي لطيفة
+- جاري شخص لطيف.
+- جاري لطيف.
 
 es:
 - Mi vecino es una persona amable.
 - Mi vecino es amable.
 
 ja:
-- 私の隣人は優しい人だ.
-- 私の隣人は親切だ.
+- 私の隣人は優しい人です。
+- 私の隣人は優しいです。
 
 zh:
-- 我的邻居是一个善良的人.
-- 我的邻居很善良.
+- 我的邻居是一个善良的人。
+- 我的邻居很善良。
 
 ## vocabulary
 
 en:
-- my · my
-- neighbor · neighbor
-- is · iz
-- kind · kind
+- neighbor · NAY-bor
+- kind · kynd
 
 fr:
-- mon · mon
-- voisine · vwahsine
-- est · est
-- aimable · aimable
+- voisin · vwa-ZAN
+- gentil · zhahn-TEE
 
 de:
-- mein · meyen
-- nachbarin · nakhbarin
-- ist · ist
-- freundlich · froyndlikh
+- Nachbar · NAHK-bar
+- freundlich · FROYND-likh
 
 am:
-- የእኔ · yeene
-- ጎረቤት · gorebet
-- ነው · new
-- ዓይነት · äynet
+- ጎረቤቴ · go-re-be-te
+- ደግ · deg
 
 ar:
-- لي · ly
-- الجار · aljar
-- هو · hu-wa
-- نوع · nwa
+- جاري · jaa-ree
+- لطيف · la-teef
 
 es:
-- mi · mi
-- vecina · vecina
-- es · es
-- amable · amable
+- vecino · be-SEE-no
+- amable · a-MA-ble
 
 ja:
-- 私の · watashi no
-- 隣人 · rinjin
-- です · desu
-- 親切 · shinsetsu
+- 隣人 · rin-jin
+- 優しい · ya-sa-shee
 
 zh:
-- 我的 · wǒ de
-- 鄰居 · lín jū
-- 是 · shì
+- 邻居 · lín jū
 - 善良 · shàn liáng
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a2-possessives · Possessives
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

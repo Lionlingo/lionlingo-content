@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-pronouns · Pronouns

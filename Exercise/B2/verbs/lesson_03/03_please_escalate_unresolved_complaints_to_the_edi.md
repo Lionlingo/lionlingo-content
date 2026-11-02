@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-reporting-verbs · Reporting verbs
-- snippet-b2-participles-as-adjectives · -ing / -ed adjectives
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a2-participles · Participles

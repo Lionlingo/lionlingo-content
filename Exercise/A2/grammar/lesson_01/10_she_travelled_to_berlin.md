@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-past-simple · Past simple
-- snippet-a2-place-prepositions · Place prepositions
+- snippet-a2-preterite · Past simple
+- snippet-a1-prepositions · Prepositions

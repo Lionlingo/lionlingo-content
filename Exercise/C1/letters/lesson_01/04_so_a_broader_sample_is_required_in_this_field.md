@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c1-hedging · Hedging
-- snippet-c2-information-structure · Information structure (given → new)
+- snippet-b2-subjective-modals · Modals for guesses
+- snippet-a1-sentence-structure · Sentence structure

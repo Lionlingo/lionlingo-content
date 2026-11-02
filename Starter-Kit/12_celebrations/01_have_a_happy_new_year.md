@@ -8,59 +8,59 @@ en:
 
 fr:
 - Bonne année !
-- Bonne année !
+- Je te souhaite une bonne année !
 
 de:
-- Ich wünsche Ihnen ein glückliches neues Jahr!
-- Alles Gute zum neuen Jahr!
+- Frohes neues Jahr!
+- Ich wünsche dir ein frohes neues Jahr!
 
 am:
-- መልካም አዲስ ዓመት ይሁንላችሁ!
+- መልካም አዲስ ዓመት ይሁንልህ!
 - መልካም አዲስ ዓመት!
 
 ar:
 - سنة جديدة سعيدة!
-- سنة جديدة سعيدة
+- أتمنى لك سنة جديدة سعيدة!
 
 es:
 - ¡Que tengas un feliz año nuevo!
 - ¡Feliz año nuevo!
 
 ja:
-- 新年おめでとうございます!
-- 新年おめでとう!
+- 新年おめでとう。
+- 良いお年を。
 
 zh:
-- 祝你一个快乐的新年!
-- 新的一年快乐!
+- 新年快乐！
+- 祝你新年快乐！
 
 ## vocabulary
 
 en:
-- happy new year · hap-ee new year
+- New Year · noo yeer
 
 fr:
-- bonne année · bonne annaye
+- année · a-NAY
 
 de:
-- frohes neues Jahr · frohes noyes jahr
+- Jahr · yar
 
 am:
-- መልካም አዲስ ዓመት · melkam adhis ämet
+- ዓመት · a-met
 
 ar:
-- سنة جديدة سعيدة · sna jdyda sayda
+- سنة · sa-na
 
 es:
-- feliz año nuevo · feliz anyo nuevo
+- año · A-nyo
 
 ja:
-- 明けましておめでとう · ake mashiteomedetou
+- 年 · to-shi
 
 zh:
-- 新年快乐 · xīn nián kuài lè
+- 新年 · xīn nián
 
 ## grammar
 
-- snippet-b1-tag-questions · Tag questions
-- snippet-a1-informal-greetings · Informal address
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-imperative · The imperative

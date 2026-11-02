@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-time-prepositions · Time prepositions: in, on, at
+- snippet-a1-prepositions · Prepositions

@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-register · Formal versus informal register
+- snippet-a1-pronouns · Pronouns

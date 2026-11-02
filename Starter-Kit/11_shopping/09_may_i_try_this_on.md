@@ -7,76 +7,68 @@ en:
 - Can I try this on?
 
 fr:
-- Je peux essayer ça ?
+- Puis-je essayer ça ?
 - Je peux essayer ça ?
 
 de:
 - Darf ich das anprobieren?
-- Darf ich das anprobieren?
+- Kann ich das anprobieren?
 
 am:
-- ልሞክር እችላለሁ?
-- ልሞክረው እችላለሁ?
+- ይህን ልሞክር?
+- ልሞክር ይህን?
 
 ar:
-- هل يمكنني تجربة هذا؟
-- هل يمكنني تجربة هذا؟
+- هل يمكنني قياس هذا؟
+- هل أستطيع قياس هذا؟
 
 es:
 - ¿Puedo probarme esto?
-- ¿Puedo probarme esto?
+- ¿Me puedo probar esto?
 
 ja:
-- これを試してもいいですか?
-- 試してもいい?
+- これを試着してもいいですか？
+- 試着してもいいですか、これを？
 
 zh:
-- 我可以试试吗?
-- 我可以试试吗?
+- 我可以试穿这件吗？
+- 这件可以试穿吗？
 
 ## vocabulary
 
 en:
-- can · kan
-- i · eye
-- try on · try on
+- try · try
+- this · this
 
 fr:
-- pouvoir · poo: VWAR
-- je · zhuh
-- essayer · essayer
+- essayer · e-say-YAY
+- ça · sa
 
 de:
-- können · KER: nen
-- ich · ikh
-- anprobieren · anprobeeren
+- anprobieren · AN-pro-bee-ren
+- das · das
 
 am:
-- መቻል · mechal
-- እኔ · i-ne
-- ሞክር · mokr
+- ሞክር · mo-kir
+- ይህን · yih-in
 
 ar:
-- يستطيع · yastatee'
-- أنا · a-na
-- حاول · hawl
+- قياس · qi-yaas
+- هذا · haa-dha
 
 es:
-- poder · po: DER
-- yo · yo
-- probarse · probarse
+- probar · pro-BAR
+- esto · ES-to
 
 ja:
-- できる · dekiru
-- 私 · watashi
-- 試着してみる · shichaku shitemiru
+- 試着 · shi-cha-ku
+- これ · ko-re
 
 zh:
-- 能 · néng / huì
-- 我 · wǒ
 - 试穿 · shì chuān
+- 这 · zhè
 
 ## grammar
 
-- snippet-a2-ability-can · can for ability
-- snippet-b1-so-such · So and such for emphasis
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a1-separable-verbs · Phrasal verbs

@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-irony-understatement · Irony and understatement
-- snippet-b1-so-such · So and such for emphasis
+- snippet-a1-present · Present tense
+- snippet-a1-verb-conjugation · Verb forms

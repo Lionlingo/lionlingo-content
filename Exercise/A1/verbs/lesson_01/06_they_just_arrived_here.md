@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-there-is-existence · There is / There are
+- snippet-a2-impersonal-verbs · Impersonal verbs

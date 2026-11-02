@@ -8,7 +8,7 @@ en:
 
 fr:
 - Tu veux sortir ce soir ?
-- Tu veux sortir ce soir ?
+- Tu aimerais sortir ce soir ?
 
 de:
 - Willst du heute Abend ausgehen?
@@ -16,91 +16,59 @@ de:
 
 am:
 - ዛሬ ማታ መውጣት ትፈልጋለህ?
-- ዛሬ ማታ መውጣት ትፈልጋለህ?
+- ዛሬ ማታ መውጣት ትወዳለህ?
 
 ar:
-- هل تريدين الخروج الليلة؟
-- هل تودين الخروج الليلة؟
+- هل تريد الخروج الليلة؟
+- هل تود الخروج الليلة؟
 
 es:
 - ¿Quieres salir esta noche?
 - ¿Te gustaría salir esta noche?
 
 ja:
-- 今夜,外出したい?
-- 今夜,外に出たいですか.
+- 今夜、出かけたいですか？
+- 今夜、外出したいですか？
 
 zh:
-- 今晚你想出去吗?
-- 今晚你愿意出去吗?
+- 今晚你想出去吗？
+- 今晚你愿意出去吗？
 
 ## vocabulary
 
 en:
-- would · would
-- you · yoo
-- like · like
-- to · too
 - go out · go out
-- tonight · tonight
+- tonight · tuh-NITE
 
 fr:
-- voudrais · voodrais
-- tu · tu
-- aimer · aimer
-- à · ah
-- sortir · sortir
-- tonight · tonight
+- sortir · sor-TEER
+- ce soir · suh swar
 
 de:
-- würde · wuerde
-- du · du
-- mögen · mergen
-- zu · zu
-- ausgehen · ausgehen
-- tonight · tonight
+- ausgehen · OWS-gay-en
+- heute Abend · HOY-te AH-bent
 
 am:
-- እፈልጋለሁ · efelgalehu
-- አንተ · an-te
-- መውደድ · mewdhedh
-- ወደ · we-de
-- ውጣ · wtha
-- ዛሬ ማታ · zare mata
+- መውጣት · me-w-tat
+- ዛሬ ማታ · za-re ma-ta
 
 ar:
-- سوف · sawf
-- أنت · an-ta
-- يحب · yu-hib
-- إلى · i-la
-- اخرج · akhrj
-- الليلة · allyla
+- الخروج · al-khu-rooj
+- الليلة · al-lay-la
 
 es:
-- haría · hareea
-- tú · too
-- gustar · gustar
-- a · a
-- salir · salir
-- tonight · tonight
+- salir · sa-LEER
+- esta noche · ES-ta NO-che
 
 ja:
-- だろう · darou
-- あなた · anata
-- 好き · suki
-- に · ni
-- 出かける · deka keru
-- 今夜 · konya
+- 出かけ · de-ka-ke
+- 今夜 · kon-ya
 
 zh:
-- 会 · huì
-- 你 · nǐ
-- 喜欢 · xǐ huān
-- 到 · dào
 - 出去 · chū qù
-- 今夜 · jīn yè
+- 今晚 · jīn wǎn
 
 ## grammar
 
-- snippet-b1-tag-questions · Tag questions
-- snippet-a1-informal-greetings · Informal address
+- snippet-a1-modal-verbs · Modal verbs
+- snippet-a2-zu-infinitive · Infinitive with to

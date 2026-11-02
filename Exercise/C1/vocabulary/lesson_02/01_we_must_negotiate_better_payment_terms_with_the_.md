@@ -62,5 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-result-clauses · Result clauses
-- snippet-c1-concessive-clauses · Concessive clauses
+- snippet-a2-subordinate-clause · Subordinate clauses

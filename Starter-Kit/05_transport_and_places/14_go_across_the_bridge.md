@@ -8,75 +8,67 @@ en:
 
 fr:
 - Traversez le pont.
-- Traversez le pont.
+- Passez le pont.
 
 de:
-- Geh über die Brücke.
+- Gehen Sie über die Brücke.
 - Überqueren Sie die Brücke.
 
 am:
 - ድልድዩን ተሻገሩ።
-- ድልድዩን ተሻገሩ።
+- ድልድዩን አቋርጡ።
 
 ar:
-- عُبر الجسر.
-- تعبر الجسر
+- اعبر الجسر.
+- تعبر الجسر.
 
 es:
 - Cruza el puente.
-- Cruza el puente.
+- Pasa el puente.
 
 ja:
-- 橋を渡って
-- 橋を渡って
+- 橋を渡ってください。
+- 橋を渡りなさい。
 
 zh:
-- 走过桥.
-- 穿过这座桥.
+- 走过这座桥。
+- 穿过这座桥。
 
 ## vocabulary
 
 en:
-- cross · cross
-- the · thuh
-- bridge · bridge
+- bridge · brij
+- cross · kros
 
 fr:
-- croisée · crwahsaye
-- le · luh
-- bridge · bridge
+- pont · pɔ̃
+- traversez · tʁa.vɛʁ.se
 
 de:
-- überqueren · ueberqueren
-- der · dehr
-- brücken · bruecken
+- Brücke · BRÜ-ke
+- überqueren · ü-ber-QUE-ren
 
 am:
-- መስቀል · mesqel
-- የ · ye
-- ድልድይ · dhldhy
+- ድልድዩን · dildiyun
+- ተሻገሩ · teshegeru
 
 ar:
-- كروس · krws
-- ال · al
-- بريدج · brydj
+- الجسر · al-jisr
+- اعبر · iʿbur
 
 es:
-- cruz · cruz
-- el · el
-- bridge · bridkhe
+- puente · PWEN-te
+- cruza · KROO-sa
 
 ja:
-- 十字架 · juujika
-- その · sono
-- ブリッジ · burijji
+- 橋 · hashi
+- 渡って · watatte
 
 zh:
-- 十字架 · shí zì jià
-- 这 · zhè
-- 橋 · qiáo
+- 桥 · qiáo
+- 穿过 · chuānguò
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-b1-tag-questions · Tag questions
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-perfect-continuous · Present perfect continuous
-- snippet-c2-irony-understatement · Irony and understatement
+- snippet-a2-perfekt · Present perfect
+- snippet-b2-modal-particles · Softeners and fillers

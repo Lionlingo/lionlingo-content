@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a1-time-days · Days of the week and simple time
+- snippet-a1-time · Telling time

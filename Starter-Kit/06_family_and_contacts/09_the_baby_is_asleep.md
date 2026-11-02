@@ -7,84 +7,68 @@ en:
 - The baby is sleeping.
 
 fr:
-- Le bébé dort.
+- Le bébé est endormi.
 - Le bébé dort.
 
 de:
-- Das Baby schläft.
+- Das Baby ist eingeschlafen.
 - Das Baby schläft.
 
 am:
 - ሕፃኑ ተኝቷል።
-- ህፃኑ ተኝቷል።
+- ሕፃኑ እየተኛ ነው።
 
 ar:
-- الطفل نائم
-- الطفل نائم
+- الرضيع نائم.
+- الرضيع ينام.
 
 es:
-- El bebé está durmiendo.
+- El bebé está dormido.
 - El bebé está durmiendo.
 
 ja:
-- 赤ちゃんは眠っている.
-- 赤ちゃんは眠っている.
+- 赤ちゃんは眠っています。
+- 赤ちゃんは寝ています。
 
 zh:
-- 婴儿睡着了.
-- 婴儿正在睡觉.
+- 婴儿睡着了。
+- 婴儿正在睡觉。
 
 ## vocabulary
 
 en:
-- the · thuh
-- baby · baby
-- is · iz
-- sleeping · sleeping
+- baby · BAY-bee
+- asleep · uh-SLEEP
 
 fr:
-- le · luh
-- bébé · baybay
-- est · est
-- sommeil · sommeil
+- bébé · bay-BAY
+- endormi · ahn-dor-MEE
 
 de:
-- der · dehr
-- baby · baby
-- ist · ist
-- schlaf · shlaf
+- Baby · BAY-bee
+- eingeschlafen · AYN-ge-shlah-fen
 
 am:
-- የ · ye
-- ሕፃን · hhtzan
-- ነው · new
-- መተኛት · metenyat
+- ሕፃኑ · hi-tsa-nu
+- ተኝቷል · te-ny-to-wal
 
 ar:
-- ال · al
-- حبيبي · hbyby
-- هو · hu-wa
-- نوم · nwm
+- الرضيع · ar-ra-dee
+- نائم · naa-im
 
 es:
-- el · el
-- bebe · bebe
-- es · es
-- durmiendo · durmiendo
+- bebé · be-BE
+- dormido · dor-MEE-do
 
 ja:
-- その · sono
-- ベイビー · beibii
-- です · desu
-- 眠っている · nemutsu teiru
+- 赤ちゃん · a-ka-chan
+- 眠っています · ne-mut-te i-ma-su
 
 zh:
-- 这 · zhè
-- 嬰兒 · yīng ér
-- 是 · shì
-- 睡 · shuì
+- 婴儿 · yīng ér
+- 睡着 · shuì zháo
 
 ## grammar
 
-- snippet-a1-negation · Negation with not
-- snippet-a2-near-future · going to
+- snippet-a1-sein · To be
+- snippet-a2-participles · Participles

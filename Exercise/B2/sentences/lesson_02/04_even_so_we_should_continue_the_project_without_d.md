@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-perfect-continuous · Present perfect continuous
-- snippet-b2-future-perfect · Future perfect
+- snippet-a2-perfekt · Present perfect
+- snippet-a2-future · The future

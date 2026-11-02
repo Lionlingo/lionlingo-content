@@ -3,88 +3,72 @@ order: 8
 ---
 
 en:
-- The train has a delay.
 - The train is late.
+- The train is running late.
 
 fr:
 - Le train est en retard.
-- Le train est en retard.
+- Le train a du retard.
 
 de:
 - Der Zug hat Verspätung.
-- Der Zug hat Verspätung.
+- Der Zug fährt mit Verspätung.
 
 am:
 - ባቡሩ ዘግይቷል።
-- ባቡሩ ዘግይቷል።
+- ባቡሩ ዘግይቶ እየመጣ ነው።
 
 ar:
-- القطار متأخر
-- القطار متأخر
+- القطار متأخر.
+- القطار متأخر عن موعده.
 
 es:
-- El tren tiene un retraso.
-- El tren llega tarde.
+- El tren está retrasado.
+- El tren va retrasado.
 
 ja:
-- 列車は遅れている.
-- 列車は遅れている.
+- 電車は遅れています。
+- 電車は遅れている。
 
 zh:
-- 火车有延误.
-- 火车迟到了.
+- 火车晚点了。
+- 火车晚点。
 
 ## vocabulary
 
 en:
-- the · thuh
 - train · trayn
-- is · iz
-- late · late
+- late · layt
 
 fr:
-- le · luh
 - train · tran
-- est · est
-- tardive · tardive
+- retard · ruh: TAR
 
 de:
-- der · dehr
-- trainieren · traineeren
-- ist · ist
-- late · late
+- Zug · tsook
+- Verspätung · fer: SHPAY: toong
 
 am:
-- የ · ye
-- ባቡር · babur
-- ነው · new
-- ረፍዷል · refdwal
+- ባቡሩ · ba-bu-ru
+- ዘግይቷል · ze-gi-to-wal
 
 ar:
-- ال · al
-- قطار · qtar
-- هو · hu-wa
-- اواخر · awakhr
+- القطار · al-qi-taar
+- متأخر · mu-ta-akh-khir
 
 es:
-- el · el
-- train · train
-- es · es
-- tarde · tarde
+- tren · tren
+- retrasado · re: tra: SA: do
 
 ja:
-- その · sono
-- 電車 · densha
-- です · desu
-- 遅い · osoi
+- 電車 · den-sha
+- 遅れて · oku-rete
 
 zh:
-- 这 · zhè
-- 火車 · huǒ chē
-- 是 · shì
-- 晚 · wǎn
+- 火车 · huǒ chē
+- 晚点 · wǎn diǎn
 
 ## grammar
 
-- snippet-b2-third-conditional · Third conditional
-- snippet-b2-future-perfect · Future perfect
+- snippet-a1-sein · To be
+- snippet-a1-adjective-endings · Adjectives

@@ -3,96 +3,72 @@ order: 1
 ---
 
 en:
-- Please help me - I'm lost.
+- Please help me. I'm lost.
 - Can you help me, please? I am lost.
 
 fr:
-- S'il vous plaît, aidez-moi, je suis perdu.
-- Pouvez-vous m'aider s'il vous plaît ?
+- Aidez-moi, s'il vous plaît. Je suis perdu.
+- Pouvez-vous m'aider, s'il vous plaît ? Je suis perdu.
 
 de:
-- Bitte hilf mir - ich bin verloren.
-- Kannst du mir bitte helfen? Ich bin verloren.
+- Bitte helfen Sie mir. Ich habe mich verlaufen.
+- Können Sie mir bitte helfen? Ich habe mich verlaufen.
 
 am:
-- እባካችሁ እርዱኝ - ጠፍቻለሁ።
-- እባካችሁ ልትረዱኝ ትችላላችሁ?
+- እባክዎ እርዳታ ያስፈልገኛል። ጠፍቻለሁ።
+- እባክዎ እርዳታ። ጠፍቻለሁ።
 
 ar:
-- أرجوك ساعدني، أنا تائه
-- هل يمكنك مساعدتي من فضلك؟ أنا تائه
+- من فضلك ساعدني. أنا تائه.
+- هل يمكنك مساعدتي، من فضلك؟ أنا تائه.
 
 es:
-- Por favor ayúdame, estoy perdido.
-- ¿Puedes ayudarme, por favor? Estoy perdido.
+- Necesito ayuda, por favor. Estoy perdido.
+- ¿Puede darme ayuda, por favor? Estoy perdido.
 
 ja:
-- どうか助けてください.私は迷っています.
-- 助けてくれないか?迷子になった.
+- 助けてください。道に迷っています。
+- 助けていただけますか？道に迷っています。
 
 zh:
-- 请帮助我,我迷路了.
-- 你能帮我吗?我迷路了.
+- 请帮帮我。我迷路了。
+- 请问您能帮我吗？我迷路了。
 
 ## vocabulary
 
 en:
-- can you help me · can yoo help me
-- please · pleez
-- i · eye
-- am · am
+- help · help
 - lost · lost
 
 fr:
-- pouvez-vous m'aider · poovez-voos m'aider
-- s'il vous plaît · sil vu play
-- je · zhuh
-- suis · suis
-- perdu · perdu
+- aide · ed
+- perdu · per-DU
 
 de:
-- können Sie mir helfen · kernnen see mir helfen
-- bitte · BI: te
-- ich · ikh
-- bin · bin
-- verlor · verlor
+- helfen · HEL-fen
+- verlaufen · fer-LOW-fen
 
 am:
-- መርዳት ትችላለህ · merdhat tchlaleh
-- እባክህ · i-bak-ih
-- እኔ · i-ne
-- ነኝ · neny
-- ጠፋ · thefa
+- እርዳታ · ir-da-ta
+- ጠፍቻለሁ · tef-cha-le-hu
 
 ar:
-- هل يمكنك مساعدتي · hl ymknk msaadty
-- من فضلك · min fadlak
-- أنا · a-na
-- أنا · a-na
-- خسرت · khsrt
+- ساعد · sa-id
+- تائه · taa-ih
 
 es:
-- ¿me puedes ayudar · ¿me puedes ayudar
-- por favor · por fa: VOR
-- yo · yo
-- soy · soy
-- perdido · perdido
+- ayuda · a-YU-da
+- perdido · per-DI-do
 
 ja:
-- 手伝ってくれますか · tetsudatsu tekuremasuka
-- お願いします · onegai shimasu
-- 私 · watashi
-- です · desu
-- ロスト · rosuto
+- 助け · ta-su-ke
+- 迷 · ma-yo
 
 zh:
-- 你能帮我吗 · nǐ néng bāng wǒ ma
-- 请 · qǐng
-- 我 · wǒ
-- 是 · shì
-- 失 · shī
+- 帮 · bāng
+- 迷路 · mí lù
 
 ## grammar
 
-- snippet-a1-subject-pronouns-be · Subject + be
-- snippet-a2-object-pronouns · Object pronouns
+- snippet-a1-imperative · The imperative
+- snippet-a1-sein · To be

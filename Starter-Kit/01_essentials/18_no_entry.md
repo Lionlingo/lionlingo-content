@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-gerunds-infinitives · Gerunds and infinitives after verbs
-- snippet-a2-imperatives · Imperatives for requests and instructions
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a1-imperative · The imperative

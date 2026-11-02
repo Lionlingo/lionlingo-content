@@ -7,7 +7,7 @@ en:
 - She is my friend.
 
 fr:
-- C'est une amie.
+- C'est une amie à moi.
 - Elle est mon amie.
 
 de:
@@ -15,76 +15,60 @@ de:
 - Sie ist meine Freundin.
 
 am:
-- ጓደኛዬ ናት።
+- እሷ የእኔ ጓደኛ ናት።
 - እሷ ጓደኛዬ ናት።
 
 ar:
-- إنها صديقة لي
-- إنها صديقتي
+- إنها صديقة لي.
+- إنها صديقتي.
 
 es:
 - Es una amiga mía.
 - Ella es mi amiga.
 
 ja:
-- 彼女は私の友人だ
-- 彼女は私の友人です.
+- 彼女は私の友達です。
+- 彼女は私の友人です。
 
 zh:
-- 她是我的朋友.
-- 她是我的朋友.
+- 她是我的一个朋友。
+- 她是我的朋友。
 
 ## vocabulary
 
 en:
 - she · shee
-- is · iz
-- my · my
-- friend · friend
+- friend · frend
 
 fr:
-- elle · elle
-- est · est
-- mon · mon
-- ami · ami
+- elle · el
+- amie · a-MEE
 
 de:
-- sie · see
-- ist · ist
-- mein · meyen
-- freundin · froyndin
+- sie · zee
+- Freundin · FROYND-in
 
 am:
 - እሷ · i-swa
-- ነው · new
-- የእኔ · yeene
-- ጓደኛ · gwadhenya
+- ጓደኛ · gwa-de-nya
 
 ar:
-- هي · hi-ya
-- هو · hu-wa
-- لي · ly
-- صديق · sdyq
+- إنها · in-na-ha
+- صديقة · sa-dee-qa
 
 es:
-- ella · eya
-- es · es
-- mi · mi
-- amigo · amigo
+- ella · E-ya
+- amiga · a-MEE-ga
 
 ja:
-- 彼女 · kanojo
-- です · desu
-- 私の · watashi no
-- 友人 · yuujin
+- 彼女 · ka-no-jo
+- 友達 · to-mo-da-chi
 
 zh:
 - 她 · tā
-- 是 · shì
-- 我的 · wǒ de
-- 朋友 · péng yǒu
+- 朋友 · péng you
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-b1-present-perfect · Present perfect
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-sein · To be

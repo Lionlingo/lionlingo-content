@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
-- snippet-a1-numbers-basic · Basic numbers 1–20
+- snippet-a1-plural · Plural nouns
+- snippet-a1-time · Telling time

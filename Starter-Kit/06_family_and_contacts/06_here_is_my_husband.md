@@ -8,83 +8,59 @@ en:
 
 fr:
 - Voici mon mari.
-- Je vous présente mon mari.
+- C'est mon mari.
 
 de:
-- Das ist mein Mann.
+- Hier ist mein Mann.
 - Das ist mein Mann.
 
 am:
-- ባለቤቴ ነው።
-- ይህ ባለቤቴ ነው።
+- ባሌ እዚህ ነው።
+- ይህ ባሌ ነው።
 
 ar:
-- هذا زوجي
-- هذا زوجي
+- ها هو زوجي.
+- هذا زوجي.
 
 es:
 - Aquí está mi marido.
-- Él es mi marido.
+- Este es mi marido.
 
 ja:
-- これは私の夫です.
-- これは私の夫です
+- こちらが私の夫です。
+- これは私の夫です。
 
 zh:
-- 这是我的丈夫.
-- 这是我的丈夫.
+- 我的丈夫在这里。
+- 这是我的丈夫。
 
 ## vocabulary
 
 en:
-- this · this
-- is · iz
-- my · my
-- husband · husband
+- husband · HUZ-band
 
 fr:
-- ce · suh: SEE / suh
-- est · est
-- mon · mon
-- époux · aypoox
+- mari · ma-REE
 
 de:
-- dies · dees
-- ist · ist
-- mein · meyen
-- gatte · gatte
+- Mann · man
 
 am:
-- ይህ · yih
-- ነው · new
-- የእኔ · yeene
-- ባል · bal
+- ባሌ · ba-le
 
 ar:
-- هذا · ha-dha
-- هو · hu-wa
-- لي · ly
-- الزوج · alzwj
+- زوجي · zaw-jee
 
 es:
-- este · ES: te
-- es · es
-- mi · mi
-- marido · marido
+- marido · ma-REE-do
 
 ja:
-- これ · kore
-- です · desu
-- 私の · watashi no
-- ダンナ · danna
+- 夫 · ot-to
 
 zh:
-- 这 · zhè
-- 是 · shì
-- 我的 · wǒ de
-- 丈夫 · zhàng fū
+- 丈夫 · zhàng fu
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
-- snippet-b2-reduced-relatives · Reduced relative clauses
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-sein · To be

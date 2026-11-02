@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-informal-greetings · Informal address
-- snippet-a1-formal-greetings · Formal address
+- snippet-a1-wh-questions · Question words
+- snippet-a1-sein · To be

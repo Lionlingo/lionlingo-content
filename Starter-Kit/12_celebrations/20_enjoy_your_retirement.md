@@ -7,19 +7,19 @@ en:
 - Happy retirement!
 
 fr:
-- Profitez de votre retraite !
+- Profite de ta retraite !
 - Bonne retraite !
 
 de:
-- Genießen Sie Ihren Ruhestand!
-- Glücklicher Ruhestand!
+- Genieß deinen Ruhestand!
+- Einen schönen Ruhestand!
 
 am:
-- ጡረታ ውጣ!
-- ደስተኛ ጡረታ!
+- ጡረታህን ተደሰትበት!
+- መልካም ጡረታ ይሁንልህ!
 
 ar:
-- استمتع بتقاعدك
+- استمتع بتقاعدك!
 - تقاعد سعيد!
 
 es:
@@ -27,48 +27,40 @@ es:
 - ¡Feliz retiro!
 
 ja:
-- 引退を楽しんで!
-- 幸せな退職!
+- 退職を楽しんで。
+- 良い退職を。
 
 zh:
-- 享受你的退休!
-- 快乐的退休!
+- 享受你的退休生活！
+- 退休快乐！
 
 ## vocabulary
 
 en:
-- happy · hap-ee
-- retirement · retirement
+- retirement · ree-TYR-ment
 
 fr:
-- heureuses · heureuses
-- retraite · retraite
+- retraite · re-TRET
 
 de:
-- gerne · gerne
-- rente · rente
+- Ruhestand · ROO-e-shtant
 
 am:
-- ደስተኛ · dhestenya
-- ጡረታ · thureta
+- ጡረታ · ti-re-ta
 
 ar:
-- يسعد · ysad
-- تقاعد · tqaad
+- تقاعد · ta-qaa-ud
 
 es:
-- feliz · feliz
-- jubilación · khubilaciohn
+- retiro · re-TEE-ro
 
 ja:
-- ハッピー · happii
-- 退職 · taishoku
+- 退職 · tai-sho-ku
 
 zh:
-- 開心 · kāi xīn
 - 退休 · tuì xiū
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-b1-present-perfect · Present perfect
+- snippet-a1-imperative · The imperative
+- snippet-a1-possessives · my, your, his, her

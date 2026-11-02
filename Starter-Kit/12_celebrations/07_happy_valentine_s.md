@@ -7,84 +7,60 @@ en:
 - Happy Valentine's Day!
 
 fr:
-- Joyeux jour de la Saint Valentin !
-- Joyeux jour de la Saint Valentin !
+- Joyeuse Saint-Valentin !
+- Bonne Saint-Valentin !
 
 de:
 - Alles Gute zum Valentinstag!
-- Alles Gute zum Valentinstag!
+- Frohen Valentinstag!
 
 am:
 - መልካም የቫለንታይን ቀን!
-- መልካም የቫለንታይን ቀን!
+- የቫለንታይን ቀን መልካም ይሁንልህ!
 
 ar:
-- عيد الحب السعيد!
-- عيد الحب السعيد
+- عيد الحب سعيد!
+- أتمنى لك عيد الحب سعيداً!
 
 es:
 - ¡Feliz día de San Valentín!
-- ¡Feliz día de San Valentín!
+- ¡Feliz San Valentín!
 
 ja:
-- バレンタインデーに
-- バレンタインデーおめでとう!
+- バレンタインデーおめでとう。
+- 良いバレンタインデーを。
 
 zh:
-- 快乐的情人节!
-- 快乐的情人节!
+- 情人节快乐！
+- 祝你情人节快乐！
 
 ## vocabulary
 
 en:
-- happy · hap-ee
-- valentine · valentine
-- 's · 's
-- day · day
+- Valentine · VAL-en-tyn
 
 fr:
-- heureuses · heureuses
-- valentin · valentin
-- est · est
-- journée · joornaye
+- Valentin · va-lon-TAN
 
 de:
-- gerne · gerne
-- valentin · valentin
-- ist · ist
-- tage · tage
+- Valentin · va-len-TEEN
 
 am:
-- ደስተኛ · dhestenya
-- ቫለንታይን · valentayn
-- ነው · new
-- ቀን · qen
+- ቫለንታይን · va-len-tayn
 
 ar:
-- يسعد · ysad
-- عيد الحب · ayd alhb
-- هو · hu-wa
-- اليوم · al-yawm
+- عيد الحب · eed al-hub
 
 es:
-- feliz · feliz
-- valentina · valentina
-- es · es
-- día · deea
+- Valentín · ba-len-TEEN
 
 ja:
-- ハッピー · happii
-- バレンタイン · barentain
-- です · desu
-- 日 · nichi
+- バレンタイン · ba-ren-ta-in
 
 zh:
-- 開心 · kāi xīn
-- 情人節 · qíng rén jié
-- 是 · shì
-- 日 · rì
+- 情人节 · qíng rén jié
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal address
-- snippet-a1-informal-greetings · Informal address
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

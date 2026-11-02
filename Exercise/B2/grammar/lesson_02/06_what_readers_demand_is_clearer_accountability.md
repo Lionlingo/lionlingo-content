@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-c1-nominalization · Nominalization
+- snippet-b2-nominal-style · Nominalization

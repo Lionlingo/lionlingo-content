@@ -70,5 +70,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-object-pronouns · Object pronouns
-- snippet-a1-have-possession · Have for possession
+- snippet-a1-negation-affirmation · Negation and affirmation
+- snippet-a1-modal-verbs · Modal verbs

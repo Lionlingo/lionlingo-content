@@ -11,72 +11,64 @@ fr:
 - Appelez le 112 en Europe.
 
 de:
-- In Europa rufen Sie 112 an.
-- Rufen Sie 112 in Europa an.
+- In Europa rufen Sie die 112 an.
+- Rufen Sie in Europa die 112 an.
 
 am:
-- በአውሮፓ ውስጥ 112 ይደውሉ
-- አውሮፓ ውስጥ 112 ን ይደውሉ።
+- በአውሮፓ 112 ይደውሉ።
+- 112 በአውሮፓ ይደውሉ።
 
 ar:
-- في أوروبا، اتصل بـ 112.
-- اتصل بـ 112 في أوروبا
+- في أوروبا، اتصل بالرقم 112.
+- اتصل بالرقم 112 في أوروبا.
 
 es:
-- En Europa, llama al 112.
+- En Europa, llame al 112.
 - Llame al 112 en Europa.
 
 ja:
-- ヨーロッパでは"112"に電話してください.
-- ヨーロッパでは"112"を呼んでください.
+- ヨーロッパでは112に電話してください。
+- 112に電話してください、ヨーロッパでは。
 
 zh:
-- 在欧洲,请拨打112.
-- 在欧洲拨打112号.
+- 在欧洲请拨打112。
+- 请拨打112，在欧洲。
 
 ## vocabulary
 
 en:
-- call · call
-- in · in
-- europe · europe
+- Europe · YOOR-up
+- 112 · one-one-two
 
 fr:
-- appeler · appeler
-- dans · dans
-- europe · europe
+- Europe · uh-ROP
+- 112 · one-one-two
 
 de:
-- aufruf · aufruf
-- in · in
-- europa · oyropa
+- Europa · oy-RO-pa
+- 112 · one-one-two
 
 am:
-- ይደውሉ · ydhewlu
-- ውስጥ · wsth
-- አውሮፓ · awropa
+- አውሮፓ · aw-ro-pa
+- 112 · one-one-two
 
 ar:
-- اتصل · atsl
-- في · fee
-- اوروبا · awrwba
+- أوروبا · oo-roo-pa
+- 112 · one-one-two
 
 es:
-- llamada · yamada
-- en · en
-- europa · europa
+- Europa · e-U-ro-pa
+- 112 · one-one-two
 
 ja:
-- 通話 · tsuuwa
-- で · de
-- 欧州 · oushuu
+- ヨーロッパ · yo-o-rop-pa
+- 112 · one-one-two
 
 zh:
-- 致電 · zhì diàn
-- 在 · zài
-- 歐洲 · ōu zhōu
+- 欧洲 · ōu zhōu
+- 112 · one-one-two
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-b2-passive-advanced · Reporting and event passives
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

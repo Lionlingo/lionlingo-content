@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-advanced-cohesion · Lexical and referential cohesion
-- snippet-c2-modality-nuance · Epistemic versus deontic modality
+- snippet-a1-conjunctions · Conjunctions
+- snippet-b2-subjective-modals · Modals for guesses

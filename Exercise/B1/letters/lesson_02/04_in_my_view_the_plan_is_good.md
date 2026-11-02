@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a2-near-future · going to
-- snippet-b2-purpose-clauses · Purpose clauses
+- snippet-a2-future · The future
+- snippet-a2-zu-infinitive · Infinitive with to

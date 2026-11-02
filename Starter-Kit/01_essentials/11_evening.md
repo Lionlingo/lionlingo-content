@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-formal-greetings · Formal address
-- snippet-a1-informal-greetings · Informal address
+- snippet-b1-konjunktiv · Wishes, politeness and reported speech
+- snippet-a1-adjective-endings · Adjectives

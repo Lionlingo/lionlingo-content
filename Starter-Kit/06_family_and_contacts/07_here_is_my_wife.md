@@ -8,83 +8,59 @@ en:
 
 fr:
 - Voici ma femme.
-- C'est ma femme, elle est là.
+- C'est ma femme.
 
 de:
-- Das ist meine Frau.
+- Hier ist meine Frau.
 - Das ist meine Frau.
 
 am:
-- ይህች ባለቤቴ ናት።
-- ይህች ባለቤቴ ናት።
+- ሚስቴ እዚህ ናት።
+- ይህች ሚስቴ ናት።
 
 ar:
-- هذه زوجتي
-- هذه زوجتي
+- ها هي زوجتي.
+- هذه زوجتي.
 
 es:
 - Aquí está mi esposa.
-- Ella es mi esposa.
+- Esta es mi esposa.
 
 ja:
-- これが妻です
-- これは私の妻です
+- こちらが私の妻です。
+- これは私の妻です。
 
 zh:
-- 这是我的妻子.
-- 这是我的妻子.
+- 我的妻子在这里。
+- 这是我的妻子。
 
 ## vocabulary
 
 en:
-- this · this
-- is · iz
-- my · my
 - wife · wife
 
 fr:
-- ce · suh: SEE / suh
-- est · est
-- mon · mon
-- épouse · aypoose
+- femme · fam
 
 de:
-- dies · dees
-- ist · ist
-- mein · meyen
-- ehefrau · ehefrau
+- Frau · frow
 
 am:
-- ይህ · yih
-- ነው · new
-- የእኔ · yeene
-- ሚስት · mist
+- ሚስቴ · mis-te
 
 ar:
-- هذا · ha-dha
-- هو · hu-wa
-- لي · ly
-- الزوجة · alzwja
+- زوجتي · zaw-ja-tee
 
 es:
-- este · ES: te
-- es · es
-- mi · mi
-- esposa · esposa
+- esposa · es-PO-sa
 
 ja:
-- これ · kore
-- です · desu
-- 私の · watashi no
-- 妻 · tsuma
+- 妻 · tsu-ma
 
 zh:
-- 这 · zhè
-- 是 · shì
-- 我的 · wǒ de
-- 妻子 · qī zǐ
+- 妻子 · qī zi
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
-- snippet-a2-object-pronouns · Object pronouns
+- snippet-a1-possessives · my, your, his, her
+- snippet-a1-sein · To be

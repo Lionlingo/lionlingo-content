@@ -4,87 +4,79 @@ order: 13
 
 en:
 - She's working now.
-- She is at work.
+- She is working now.
 
 fr:
 - Elle travaille maintenant.
-- Elle est au travail.
+- Elle est en train de travailler maintenant.
 
 de:
 - Sie arbeitet jetzt.
-- Sie ist bei der Arbeit.
+- Sie ist jetzt am Arbeiten.
 
 am:
 - አሁን እየሰራች ነው።
-- በሥራ ላይ ነች።
+- እሷ አሁን እየሰራች ነው።
 
 ar:
-- إنها تعمل الآن
-- إنها في العمل
+- إنها تعمل الآن.
+- هي تعمل الآن.
 
 es:
 - Ella trabaja ahora.
-- Está en el trabajo.
+- Ella está trabajando ahora.
 
 ja:
-- 今は仕事してる
-- 彼女は仕事にいる.
+- 彼女は今働いています。
+- 彼女は今仕事をしています。
 
 zh:
-- 她现在在工作.
-- 她正在工作.
+- 她现在正在工作。
+- 她此刻正在工作。
 
 ## vocabulary
 
 en:
 - she · shee
-- is · iz
-- at · at
-- work · wurk
+- working · WUR-king
+- now · now
 
 fr:
-- elle · elle
-- est · est
-- à · ah
-- travailler · tra: va: YAY
+- elle · el
+- travaille · tra-VAY
+- maintenant · man-tuh-NAHN
 
 de:
-- sie · see
-- ist · ist
-- an · an
-- arbeiten · AR: bai: ten
+- sie · zee
+- arbeitet · AR-bye-tet
+- jetzt · yetst
 
 am:
 - እሷ · i-swa
-- ነው · new
-- በ · be
-- መሥራት · mesrat
+- እየሰራች · i-ye-se-rach
+- አሁን · a-hun
 
 ar:
-- هي · hi-ya
-- هو · hu-wa
-- في · fee
-- يعمل · ya'mal
+- إنها · in-na-ha
+- تعمل · ta-mal
+- الآن · al-aan
 
 es:
-- ella · eya
-- es · es
-- en · en
-- trabajar · tra: ba: HAR
+- ella · E-ya
+- trabaja · tra-BA-ha
+- ahora · a-O-ra
 
 ja:
-- 彼女 · kanojo
-- です · desu
-- で · de
-- 働く · hataraku
+- 彼女 · ka-no-jo
+- 働いて · ha-ta-rai-te
+- 今 · i-ma
 
 zh:
 - 她 · tā
-- 是 · shì
-- 在 · zài
 - 工作 · gōng zuò
+- 现在 · xiàn zài
 
 ## grammar
 
-- snippet-b2-passive-advanced · Reporting and event passives
-- snippet-b2-causative · Causatives (have, get, make, let)
+- snippet-a1-present · Present tense
+- snippet-a1-adverbs · Adverbs

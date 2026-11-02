@@ -3,96 +3,80 @@ order: 13
 ---
 
 en:
-- Say the numbers from eleven to nineteen
-- Count from eleven to nineteen
+- Count from eleven to nineteen.
+- Count the numbers from eleven to nineteen.
 
 fr:
-- Dis les nombres de onze à dix-neuf
-- Comptez de onze à dix-neuf .
+- Compte de onze à dix-neuf.
+- Compte les nombres de onze à dix-neuf.
 
 de:
-- Sag die Zahlen von elf bis 19 .
-- Zählen Sie von elf bis neunzehn.
+- Zähl von elf bis neunzehn.
+- Zähl die Zahlen von elf bis neunzehn.
 
 am:
-- ከ11 እስከ 19 ያሉትን ቁጥሮች ይናገሩ
-- ከአስራ አንድ እስከ አስራ ዘጠኝ ቆጠር
+- ከአስራ አንድ እስከ አስራ ዘጠኝ ቁጠር።
+- ቁጥሮቹን ከአስራ አንድ እስከ አስራ ዘጠኝ ቁጠር።
 
 ar:
-- قل الأرقام من 11 إلى 19
-- عد من الحادية عشر إلى التاسعة عشر
+- عد من أحد عشر إلى تسعة عشر.
+- عد الأرقام من أحد عشر إلى تسعة عشر.
 
 es:
-- Di los números de once a diecinueve.
-- Cuenta de once a diecinueve .
+- Cuenta de once a diecinueve.
+- Cuenta los números de once a diecinueve.
 
 ja:
-- 11から19までの数字を言って
-- 11から19まで数える
+- 十一から十九まで数えてください。
+- 十一から十九までの数字を数えてください。
 
 zh:
-- 说出从11到19的数字
-- 从十一到十九计数
+- 从十一数到十九。
+- 把数字从十一数到十九。
 
 ## vocabulary
 
 en:
-- count · count
-- from · from
-- eleven · eleven
-- to · too
-- nineteen · nineteen
+- count · kount
+- eleven · ee-LEV-en
+- nineteen · nyn-TEEN
 
 fr:
-- compter · compter
-- de · duh
-- onze · onze
-- à · ah
-- nineteen · nineteen
+- compte · kont
+- onze · onz
+- dix-neuf · deez-nuf
 
 de:
-- zählung · zehhlung
-- von · ows
-- eleven · eleven
-- zu · zu
-- neunzehn · noynzehn
+- zähl · tsayl
+- elf · elf
+- neunzehn · NOYN-tsayn
 
 am:
-- መቁጠር · mequther
-- ከ · ke
-- አስራ አንድ · asra andh
-- ወደ · we-de
-- አስራ ዘጠኝ · asra zetheny
+- ቁጠር · kuter
+- አስራ አንድ · asra and
+- አስራ ዘጠኝ · asra zetenya
 
 ar:
-- كونت · kwnt
-- من · min
-- أحد عشر · ahd ashr
-- إلى · i-la
-- تسعة عشر · tsaa ashr
+- عد · udd
+- أحد عشر · ahada ashar
+- تسعة عشر · tis'ata ashar
 
 es:
-- conde · conde
-- de · de
-- eleven · eleven
-- a · a
-- diecinueve · diecinueve
+- cuenta · KWEN-ta
+- once · ON-se
+- diecinueve · dye-see-NWE-be
 
 ja:
-- カウント · kaunto
-- から · kara
-- 十一 · juuichi
-- に · ni
-- 十九 · juukyuu
+- 数え · kazoe
+- 十一 · jūichi
+- 十九 · jūkyū
 
 zh:
-- 數 · shù
-- 从 · lái zì
+- 数 · shǔ
 - 十一 · shí yī
-- 到 · dào
 - 十九 · shí jiǔ
 
 ## grammar
 
-- snippet-a1-numbers-basic · Basic numbers 1–20
-- snippet-b1-quantifiers · Quantifiers: some, any, much, many, a few, a little
+- snippet-a1-imperative · The imperative
+- snippet-a1-prepositions · Prepositions

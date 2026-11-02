@@ -4,87 +4,79 @@ order: 8
 
 en:
 - Is the shop open now?
-- Is the shop open?
+- Right now, is the shop open?
 
 fr:
-- Le magasin est ouvert maintenant ?
-- Le magasin est ouvert ?
+- Le magasin est-il ouvert maintenant ?
+- Est-ce que le magasin est ouvert maintenant ?
 
 de:
-- Ist der Laden jetzt geöffnet?
-- Ist der Laden geöffnet?
+- Ist der Laden jetzt offen?
+- Der Laden ist jetzt offen?
 
 am:
-- ሱቁ አሁን ክፍት ነው?
-- ሱቁ ክፍት ነው?
+- ሱቅ አሁን ክፍት ነው?
+- አሁን ሱቅ ክፍት ነው?
 
 ar:
 - هل المحل مفتوح الآن؟
-- هل المحل مفتوح؟
+- هل المحل الآن مفتوح؟
 
 es:
-- ¿Está abierta la tienda ahora?
-- ¿Está abierta la tienda?
+- ¿La tienda está abierta ahora?
+- ¿Ahora está abierta la tienda?
 
 ja:
-- 店は今開いているか.
-- 店は開いているか.
+- 店は今開いていますか？
+- 今、店は開いていますか？
 
 zh:
-- 商店现在开了吗?
-- 商店开了吗?
+- 商店现在开着吗？
+- 现在商店开着吗？
 
 ## vocabulary
 
 en:
-- is · iz
-- the · thuh
 - shop · shop
-- open · open
+- open · OH-pen
+- now · now
 
 fr:
-- est · est
-- le · luh
-- boutique · bootique
-- ouverte · ooverte
+- magasin · ma-ga-ZAN
+- ouvert · oo-VAIR
+- maintenant · man-tuh-NON
 
 de:
-- ist · ist
-- der · dehr
-- shop · shop
-- offene · offene
+- Laden · LA-den
+- offen · OF-fen
+- jetzt · yetst
 
 am:
-- ነው · new
-- የ · ye
 - ሱቅ · suq
-- ክፈት · kfet
+- ክፍት · kift
+- አሁን · a-hun
 
 ar:
-- هو · hu-wa
-- ال · al
-- محل · mhl
-- مفتوح · mftwh
+- المحل · al-ma-hal
+- مفتوح · maf-tooh
+- الآن · al-aan
 
 es:
-- es · es
-- el · el
-- tienda · tienda
-- abrir · abrir
+- tienda · TYEN-da
+- abierta · a-BYER-ta
+- ahora · a-O-ra
 
 ja:
-- です · desu
-- その · sono
-- ショップ · shoppu
-- オープン · oopun
+- 店 · mi-se
+- 開 · hi-ra
+- 今 · i-ma
 
 zh:
-- 是 · shì
-- 这 · zhè
-- 店铺 · diàn pù
-- 開 · kāi
+- 商店 · shāng diàn
+- 开 · kāi
+- 现在 · xiàn zài
 
 ## grammar
 
-- snippet-a1-there-is-existence · There is / There are
-- snippet-a1-yes-no-questions · Yes/no questions
+- snippet-a1-interrogation · Questions
+- snippet-a1-adverbs · Adverbs

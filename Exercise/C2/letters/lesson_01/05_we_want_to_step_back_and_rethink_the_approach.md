@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-academic-argument · Academic argument moves
-- snippet-c2-rhetorical-questions · Rhetorical questions
+- snippet-b2-nominal-style · Nominalization
+- snippet-a1-interrogation · Questions

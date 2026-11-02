@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-modality-nuance · Epistemic versus deontic modality
-- snippet-c1-concessive-clauses · Concessive clauses
+- snippet-b2-subjective-modals · Modals for guesses
+- snippet-a2-subordinate-clause · Subordinate clauses

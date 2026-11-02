@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-academic-argument · Academic argument moves
-- snippet-c2-stance-evidentiality · Stance and evidentiality
+- snippet-b2-nominal-style · Nominalization
+- snippet-b2-subjective-modals · Modals for guesses

@@ -62,4 +62,4 @@ zh:
 
 ## grammar
 
-- snippet-a2-possessives · Possessives
+- snippet-a1-possessives · my, your, his, her

@@ -4,87 +4,79 @@ order: 14
 
 en:
 - He's home right now.
-- He is at home.
+- He is at home right now.
 
 fr:
-- Il est à la maison.
-- Il est à la maison.
+- Il est à la maison en ce moment.
+- Il est à la maison maintenant.
 
 de:
 - Er ist gerade zu Hause.
-- Er ist zu Hause.
+- Er ist jetzt zu Hause.
 
 am:
-- አሁን ቤት ነው ያለው።
-- ቤት ውስጥ ነው።
+- እሱ አሁን ቤት ነው።
+- እሱ አሁን በቤት ውስጥ ነው።
 
 ar:
-- إنه في المنزل الآن
-- إنه في المنزل
+- إنه في المنزل الآن.
+- هو في المنزل الآن.
 
 es:
-- Está en casa ahora mismo.
-- Él está en casa.
+- Él está en casa ahora mismo.
+- Él está en casa ahora.
 
 ja:
-- 彼は今家にいます
-- 彼は家にいる.
+- 彼は今家にいます。
+- 彼はただいま家にいます。
 
 zh:
-- 他现在回家了.
-- 他在家里.
+- 他现在在家。
+- 他此刻在家里。
 
 ## vocabulary
 
 en:
 - he · hee
-- is · iz
-- at · at
 - home · home
+- now · now
 
 fr:
-- il · il
-- est · est
-- à · ah
-- maison · maison
+- il · eel
+- maison · may-ZON
+- maintenant · man-tuh-NAHN
 
 de:
-- er · er
-- ist · ist
-- an · an
-- startseite · startseyete
+- er · air
+- Hause · HOW-ze
+- jetzt · yetst
 
 am:
 - እሱ · i-su
-- ነው · new
-- በ · be
 - ቤት · bet
+- አሁን · a-hun
 
 ar:
 - هو · hu-wa
-- هو · hu-wa
-- في · fee
-- المنزل · almnzl
+- المنزل · al-man-zil
+- الآن · al-aan
 
 es:
-- él · ehl
-- es · es
-- en · en
-- hogar · hogar
+- él · el
+- casa · KA-sa
+- ahora · a-O-ra
 
 ja:
-- 彼 · kare
-- です · desu
-- で · de
-- 自宅 · jitaku
+- 彼 · ka-re
+- 家 · i-e
+- 今 · i-ma
 
 zh:
 - 他 · tā
-- 是 · shì
-- 在 · zài
-- 首頁 · shǒu yè
+- 家 · jiā
+- 现在 · xiàn zài
 
 ## grammar
 
-- snippet-b2-reduced-relatives · Reduced relative clauses
-- snippet-c1-participle-clauses · Participle clauses
+- snippet-a1-sein · To be
+- snippet-a1-two-way-prepositions · Place and direction

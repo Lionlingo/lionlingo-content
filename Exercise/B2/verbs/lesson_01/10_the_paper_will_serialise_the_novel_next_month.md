@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-b2-future-perfect · Future perfect
-- snippet-b1-passive-intro · Passive voice
+- snippet-a2-future · The future
+- snippet-b1-passive · The passive

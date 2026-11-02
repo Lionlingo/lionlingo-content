@@ -62,5 +62,5 @@ zh:
 
 ## grammar
 
-- snippet-c2-stance-evidentiality · Stance and evidentiality
-- snippet-c1-result-clauses · Result clauses
+- snippet-b2-subjective-modals · Modals for guesses
+- snippet-a2-subordinate-clause · Subordinate clauses

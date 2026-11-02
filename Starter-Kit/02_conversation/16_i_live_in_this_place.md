@@ -4,35 +4,35 @@ order: 16
 
 en:
 - I live here.
-- I live right here.
+- Here is where I live.
 
 fr:
 - Je vis ici.
-- Je vis juste ici.
+- C'est ici que je vis.
 
 de:
 - Ich wohne hier.
-- Ich wohne direkt hier.
+- Hier wohne ich.
 
 am:
 - እኔ የምኖረው እዚህ ነው።
-- እኔ የምኖረው በትክክል እዚህ ነው።
+- እዚህ ነው እኔ የምኖረው።
 
 ar:
 - أنا أعيش هنا.
-- أنا أعيش هنا تماماً.
+- هنا أعيش أنا.
 
 es:
 - Yo vivo aquí.
-- Yo vivo justo aquí.
+- Aquí vivo yo.
 
 ja:
 - 私はここに住んでいます。
-- 私はまさにここに住んでいます。
+- ここに住んでいるのは私です。
 
 zh:
 - 我住在这里。
-- 我就住在这里。
+- 这里是我住的地方。
 
 ## vocabulary
 
@@ -78,5 +78,5 @@ zh:
 
 ## grammar
 
-- snippet-a1-wh-questions · Wh- questions
-- snippet-c2-ellipsis-substitution · Ellipsis and substitution
+- snippet-a1-two-way-prepositions · Place and direction
+- snippet-a1-present · Present tense
