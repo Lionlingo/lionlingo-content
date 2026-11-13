@@ -4,69 +4,69 @@ order: 3
 
 en:
 - The form is attached.
-- Please find the form attached.
+- I attach the form.
 
 fr:
-- Le formulaire est en pièce jointe.
-- Le formulaire est en pièce jointe.
+- Le formulaire est joint.
+- Je joins le formulaire.
 
 de:
-- Anbei finden Sie das Formular.
-- Anbei finden Sie das Formular.
+- Das Formular ist angehängt.
+- Ich hänge das Formular an.
 
 am:
 - ቅጹ ከዚህ ጋር አለ።
-- ቅጹ ከዚህ ጋር አለ።
+- ቅጹን አያይዤዋለሁ።
 
 ar:
 - الاستمارة مرفقة.
-- الاستمارة مرفقة.
+- أرفق الاستمارة.
 
 es:
-- El formulario va adjunto.
-- El formulario va adjunto.
+- El formulario está adjunto.
+- Adjunto el formulario.
 
 ja:
-- 用紙を添付します。
+- 用紙が添付されています。
 - 用紙を添付します。
 
 zh:
-- 表格附在信里。
-- 表格附在信里。
+- 表格附上了。
+- 我附上表格。
 
 ## vocabulary
 
 en:
+- attach · uh: TACH
 - form · form
-- attached · a-tacht
 
 fr:
-- formulaire · for-mu-lair
-- jointe · zhwant
+- joins · zhwan
+- formulaire · for: mü: LAIR
 
 de:
-- Formular · for-mu-lar
-- anbei · an-by
+- hänge … an · HENG: uh … an
+- Formular · for: mu: LAHR
 
 am:
-- ቅጽ · kits
-- ከዚህ ጋር · ke-zih gar
+- አያይዤዋለሁ · a-ya-yi-ye-wa-le-hu
+- ቅጹን · ki-tsun
 
 ar:
-- الاستمارة · al-istimara
-- مرفقة · muraffaqa
+- أرفق · ar-fiq
+- الاستمارة · al-is-ti-ma-ra
 
 es:
-- formulario · for-mu-la-ryo
-- adjunto · ad-khun-to
+- adjunto · ad: HOON: to
+- formulario · for: moo: LA: ryo
 
 ja:
-- 用紙 · youshi
-- 添付 · tenpu
+- 添付します · ten-pu shi-ma-su
+- 用紙 · yō-shi
 
 zh:
-- 表格 · biao ge
-- 附在 · fu zai
+- 附上 · fù shàng
+- 表格 · biǎo gé
 
 ## grammar
 

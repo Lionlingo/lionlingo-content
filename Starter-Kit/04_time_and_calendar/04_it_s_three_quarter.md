@@ -3,70 +3,70 @@ order: 4
 ---
 
 en:
-- It is three forty-five.
-- The time is three forty-five.
+- It is a quarter to four.
+- The time is a quarter to four.
 
 fr:
-- Il est trois heures quarante-cinq.
-- L'heure est trois heures quarante-cinq.
+- Il est quatre heures moins le quart.
+- L'heure est quatre heures moins le quart.
 
 de:
-- Es ist drei Uhr fünfundvierzig.
-- Die Uhrzeit ist drei Uhr fünfundvierzig.
+- Es ist Viertel vor vier.
+- Die Uhrzeit ist Viertel vor vier.
 
 am:
-- ሦስት ሰዓት አርባ አምስት ደቂቃ ነው።
-- ሰዓቱ ሦስት ሰዓት አርባ አምስት ደቂቃ ነው።
+- ለአራት ሰዓት ሩብ ቀረው።
+- ሰዓቱ ለአራት ሰዓት ሩብ ቀረው።
 
 ar:
-- الساعة الثالثة وخمس وأربعون دقيقة.
-- الوقت هو الساعة الثالثة وخمس وأربعون دقيقة.
+- الساعة الرابعة إلا ربعاً.
+- الوقت هو الساعة الرابعة إلا ربعاً.
 
 es:
-- Son las tres y cuarenta y cinco.
-- La hora es las tres y cuarenta y cinco.
+- Son las cuatro menos cuarto.
+- La hora es las cuatro menos cuarto.
 
 ja:
-- 三時四十五分です。
-- 時刻は三時四十五分です。
+- 四時十五分前です。
+- 時刻は四時十五分前です。
 
 zh:
-- 现在是三点四十五分。
-- 时间是三点四十五分。
+- 现在差一刻四点。
+- 时间差一刻四点。
 
 ## vocabulary
 
 en:
-- three · three
-- forty-five · FOR-tee fyv
+- quarter to · KWOR-ter too
+- four · for
 
 fr:
-- trois · trwa
-- quarante-cinq · ka-ront sank
+- quatre heures · katr ur
+- moins le quart · mwan luh kar
 
 de:
-- drei · dry
-- fünfundvierzig · FUENF-unt-feer-tsikh
+- Viertel vor · FEER-tel for
+- vier · feer
 
 am:
-- ሦስት · sost
-- አርባ አምስት · arba amist
+- አራት · arat
+- ሩብ · rub
 
 ar:
-- الثالثة · ath-thalitha
-- خمس وأربعون · khams wa-arba'un
+- الرابعة · ar-rabi'a
+- إلا ربعاً · illa rub'an
 
 es:
-- tres · tres
-- cuarenta y cinco · kwa-REN-ta ee SEEN-ko
+- cuatro · KWA-tro
+- menos cuarto · MEH-nos KWAR-to
 
 ja:
-- 三時 · sanji
-- 四十五分 · yonjūgofun
+- 四時 · yoji
+- 十五分前 · jūgofun mae
 
 zh:
-- 三点 · sān diǎn
-- 四十五分 · sì shí wǔ fēn
+- 差一刻 · chà yí kè
+- 四点 · sì diǎn
 
 ## grammar
 

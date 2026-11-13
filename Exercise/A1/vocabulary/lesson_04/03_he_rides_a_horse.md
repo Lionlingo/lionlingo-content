@@ -12,7 +12,7 @@ fr:
 
 de:
 - Er reitet.
-- Er reitet.
+- Er reitet ein Pferd.
 
 am:
 - እሱ ፈረስ ይጋልባል።

@@ -4,69 +4,77 @@ order: 7
 
 en:
 - I will contact you next week.
-- I contact you next week.
+- I am going to contact you next week.
 
 fr:
-- Je vous contacte la semaine prochaine.
-- Je vous contacte la semaine prochaine.
+- Je vous contacterai la semaine prochaine.
+- Je vais vous contacter la semaine prochaine.
 
 de:
-- Ich melde mich nächste Woche.
+- Ich werde mich nächste Woche melden.
 - Ich melde mich nächste Woche.
 
 am:
-- በሚቀጥለው ሳምንት አገኝዎታለሁ።
-- በሚቀጥለው ሳምንት አገኝዎታለሁ።
+- በሚቀጥለው ሳምንት አነጋግርዎታለሁ።
+- በሚቀጥለው ሳምንት ላነጋግርዎ አስቤያለሁ።
 
 ar:
-- أتصل بك الأسبوع القادم.
-- أتصل بك الأسبوع القادم.
+- سأتصل بك الأسبوع القادم.
+- سوف أتصل بك الأسبوع القادم.
 
 es:
-- Le contacto la semana que viene.
-- Le contacto la semana que viene.
+- Le contactaré la semana que viene.
+- Le voy a contactar la semana que viene.
 
 ja:
 - 来週ご連絡します。
-- 来週ご連絡します。
+- 来週ご連絡するつもりです。
 
 zh:
-- 我下周联系您。
-- 我下周联系您。
+- 我下周会联系您。
+- 我下周要联系您。
 
 ## vocabulary
 
 en:
+- going to · GOH: ing too
+- contact · KON: takt
 - next week · nekst week
-- contact · kon-takt
 
 fr:
-- semaine · se-men
-- contacter · kon-tak-tay
+- vais · vay
+- contacter · kon: tak: TAY
+- la semaine prochaine · la suh: MEN pro: SHEN
 
 de:
-- Woche · vo-khe
-- melden · mel-den
+- melde mich · MEL: duh mikh
+- (omitted) · —
+- nächste Woche · NEKH: ste VO: khuh
 
 am:
-- ሳምንት · sa-mint
-- ማግኘት · mag-nyet
+- አስቤያለሁ · a-sib-e-ya-le-hu
+- ላነጋግርዎ · la-ne-ga-gir-wo
+- በሚቀጥለው ሳምንት · be-mi-ke-t'i-le-wu sa-mint
 
 ar:
-- الأسبوع · al-usbu'
-- يتصل · yattasil
+- سوف · sa-wf
+- أتصل بك · at-ta-si-lu bi-ka
+- الأسبوع القادم · al-us-boo' al-qaa-dim
 
 es:
-- semana · se-ma-na
-- contactar · kon-tak-tar
+- voy a · boy a
+- contactar · kon: tak: TAR
+- la semana que viene · la se: MA: na ke BYE: ne
 
 ja:
-- 来週 · raishuu
-- 連絡 · renraku
+- つもりです · tsu-mo-ri de-su
+- ご連絡する · go-ren-ra-ku su-ru
+- 来週 · rai-shū
 
 zh:
-- 下周 · xia zhou
-- 联系 · lian xi
+- 要 · yào
+- 联系 · lián xì
+- 下周 · xià zhōu
 
 ## grammar
 

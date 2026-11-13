@@ -12,7 +12,7 @@ fr:
 
 de:
 - Sie fechten.
-- Sie fechten.
+- Du fechtest.
 
 am:
 - እርስዎ ሰይፍ ጨዋታ ይለማመዳሉ።

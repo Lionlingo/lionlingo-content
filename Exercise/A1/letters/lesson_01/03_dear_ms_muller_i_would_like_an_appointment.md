@@ -4,69 +4,77 @@ order: 3
 
 en:
 - Dear Ms Müller, I would like to arrange an appointment.
-- Dear Ms Müller, I want to arrange an appointment.
+- Dear Ms Müller, I would like to arrange an appointment with you.
 
 fr:
 - Madame Müller, je voudrais prendre un rendez-vous.
-- Madame Müller, je voudrais prendre un rendez-vous.
+- Madame Müller, je voudrais prendre un rendez-vous avec vous.
 
 de:
 - Sehr geehrte Frau Müller, ich möchte einen Termin vereinbaren.
-- Sehr geehrte Frau Müller, ich möchte einen Termin vereinbaren.
+- Sehr geehrte Frau Müller, ich möchte einen Termin mit Ihnen vereinbaren.
 
 am:
 - የተከበርሽ ወይዘሮ ሙለር፣ ቀጠሮ ማስያዝ እፈልጋለሁ።
-- የተከበርሽ ወይዘሮ ሙለር፣ ቀጠሮ ማስያዝ እፈልጋለሁ።
+- የተከበርሽ ወይዘሮ ሙለር፣ ከእርስዎ ጋር ቀጠሮ ማስያዝ እፈልጋለሁ።
 
 ar:
-- السيدة مولر المحترمة، أريد تحديد موعد.
-- السيدة مولر المحترمة، أريد تحديد موعد.
+- السيدة مولر المحترمة، أود تحديد موعد.
+- السيدة مولر المحترمة، أود تحديد موعد معكم.
 
 es:
-- Estimada señora Müller, quiero concertar una cita.
-- Estimada señora Müller, quiero concertar una cita.
+- Estimada señora Müller, quisiera concertar una cita.
+- Estimada señora Müller, quisiera concertar una cita con usted.
 
 ja:
 - ミュラー様、予約を取りたいです。
-- ミュラー様、予約を取りたいです。
+- ミュラー様、お会いするための予約を取りたいです。
 
 zh:
-- 尊敬的米勒女士，我想预约。
-- 尊敬的米勒女士，我想预约。
+- 尊敬的米勒女士，我想安排一次预约。
+- 尊敬的米勒女士，我想与您安排一次预约。
 
 ## vocabulary
 
 en:
-- Ms Müller · miz mue-ler
-- appointment · a-point-ment
+- would like · wood LYKE
+- arrange · uh: RAYNJ
+- appointment · uh: POINT: ment
 
 fr:
-- Madame Müller · ma-dam mue-ler
-- rendez-vous · ran-day-voo
+- voudrais · voo: DRAY
+- prendre · PRAHN: dr
+- rendez-vous · rahn: day: VOO
 
 de:
-- Frau Müller · frow mue-ler
-- Termin · ter-meen
+- möchte · MÖKH: te
+- vereinbaren · fer: INE: bah: ren
+- Termin · ter: MEEN
 
 am:
-- ወይዘሮ ሙለር · wey-ze-ro mu-ler
-- ቀጠሮ · ke-te-ro
+- እፈልጋለሁ · i-fe-li-ga-le-hu
+- ማስያዝ · ma-sya-zi
+- ቀጠሮ · ke-t'e-ro
 
 ar:
-- السيدة مولر · as-sayyida mular
-- موعد · maw'id
+- أود · a-wad-du
+- تحديد · tah-deed
+- موعد · maw-'id
 
 es:
-- señora Müller · se-nyo-ra mue-ler
-- cita · si-ta
+- quisiera · kee: SYE: ra
+- concertar · kon: ser: TAR
+- cita · SEE: ta
 
 ja:
-- ミュラー様 · myuraa sama
-- 予約 · yoyaku
+- たいです · ta-i de-su
+- 取り · to-ri
+- 予約 · yo-ya-ku
 
 zh:
-- 米勒女士 · mi le nü shi
-- 预约 · yu yue
+- 想 · xiǎng
+- 安排 · ān pái
+- 预约 · yù yuē
 
 ## grammar
 
