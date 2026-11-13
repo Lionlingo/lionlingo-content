@@ -12,7 +12,7 @@ fr:
 
 de:
 - Sie hören Musik.
-- Sie hören Musik.
+- Du hörst Musik.
 
 am:
 - እርስዎ ሙዚቃ ይሰማሉ።

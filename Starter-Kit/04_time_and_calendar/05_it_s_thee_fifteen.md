@@ -3,62 +3,62 @@ order: 5
 ---
 
 en:
-- It is three fifteen.
-- The time is three fifteen.
+- It is a quarter past three.
+- The time is a quarter past three.
 
 fr:
-- Il est trois heures quinze.
-- L'heure est trois heures quinze.
+- Il est trois heures et quart.
+- L'heure est trois heures et quart.
 
 de:
-- Es ist drei Uhr fünfzehn.
-- Die Uhrzeit ist drei Uhr fünfzehn.
+- Es ist Viertel nach drei.
+- Die Uhrzeit ist Viertel nach drei.
 
 am:
-- ሦስት ሰዓት አሥራ አምስት ደቂቃ ነው።
-- ሰዓቱ ሦስት ሰዓት አሥራ አምስት ደቂቃ ነው።
+- ሦስት ሰዓት ከሩብ ነው።
+- ሰዓቱ ሦስት ሰዓት ከሩብ ነው።
 
 ar:
-- الساعة الثالثة وخمس عشرة دقيقة.
-- الوقت هو الساعة الثالثة وخمس عشرة دقيقة.
+- الساعة الثالثة والربع.
+- الوقت هو الساعة الثالثة والربع.
 
 es:
-- Son las tres y quince.
-- La hora es las tres y quince.
+- Son las tres y cuarto.
+- La hora es las tres y cuarto.
 
 ja:
 - 三時十五分です。
 - 時刻は三時十五分です。
 
 zh:
-- 现在是三点十五分。
-- 时间是三点十五分。
+- 现在是三点一刻。
+- 时间是三点一刻。
 
 ## vocabulary
 
 en:
+- quarter past · KWOR-ter past
 - three · three
-- fifteen · fif-TEEN
 
 fr:
-- trois · trwa
-- quinze · kanz
+- trois heures · trwa ur
+- quart · kar
 
 de:
+- Viertel nach · FEER-tel nakh
 - drei · dry
-- fünfzehn · FUENF-tsayn
 
 am:
 - ሦስት · sost
-- አሥራ አምስት · asra amist
+- ሩብ · rub
 
 ar:
 - الثالثة · ath-thalitha
-- خمس عشرة · khams ashra
+- الربع · ar-rub'
 
 es:
 - tres · tres
-- quince · KEEN-se
+- cuarto · KWAR-to
 
 ja:
 - 三時 · sanji
@@ -66,7 +66,7 @@ ja:
 
 zh:
 - 三点 · sān diǎn
-- 十五分 · shí wǔ fēn
+- 一刻 · yí kè
 
 ## grammar
 

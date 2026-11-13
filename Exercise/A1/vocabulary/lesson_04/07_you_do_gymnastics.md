@@ -11,7 +11,7 @@ fr:
 - Vous faites de la gymnastique.
 
 de:
-- Ihr turnt.
+- Du turnst.
 - Sie turnen.
 
 am:

@@ -37,28 +37,36 @@ zh:
 ## vocabulary
 
 en:
-- can you help me · kan yoo help mee
+- can you · kan yoo
+- help me · help mee
 
 fr:
-- pouvez-vous m'aider · poo: vay VOO may: DAY
+- pouvez-vous · poo: vay VOO
+- m'aider · may: DAY
 
 de:
-- kannst du mir helfen · kanst doo meer HEL: fen
+- kannst du · kanst doo
+- mir helfen · meer HEL: fen
 
 am:
-- ትረዱኛላችሁ · ti-re-du-nya-la-chihu
+- ት…ላችሁ (can you) · ti-…-la-chihu
+- ረዱኛ (help me) · re-du-nya
 
 ar:
-- هل تستطيع مساعدتي · hal ta-ta-ti'u mu-sa-'a-da-tee
+- هل تستطيع · hal ta-ta-ti'u
+- مساعدتي · mu-sa-'a-da-tee
 
 es:
-- puedes ayudarme · PWE: des a: yu: DAR: me
+- ¿puedes · PWE: des
+- ayudarme · a: yu: DAR: me
 
 ja:
-- 助けてもらえますか · ta-su-ke-te mo-ra-e-ma-su ka
+- もらえますか · mo-ra-e-ma-su ka
+- 助けて · ta-su-ke-te
 
 zh:
-- 你能帮我吗 · nǐ néng bāng wǒ ma
+- 你能 · nǐ néng
+- 帮我吗 · bāng wǒ ma
 
 ## grammar
 

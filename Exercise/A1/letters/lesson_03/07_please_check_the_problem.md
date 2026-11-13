@@ -8,11 +8,11 @@ en:
 
 fr:
 - Veuillez vérifier le problème.
-- Veuillez vérifier le problème.
+- Veuillez regarder le problème.
 
 de:
 - Bitte prüfen Sie das Problem.
-- Bitte prüfen Sie das Problem.
+- Bitte sehen Sie sich das Problem an.
 
 am:
 - እባክዎ ችግሩን ይመልከቱ።
@@ -20,53 +20,61 @@ am:
 
 ar:
 - من فضلك افحص المشكلة.
-- من فضلك افحص المشكلة.
+- من فضلك انظر إلى المشكلة.
 
 es:
 - Por favor, revise el problema.
-- Por favor, revise el problema.
+- Por favor, mire el problema.
 
 ja:
 - 問題を確認してください。
-- 問題を確認してください。
+- 問題を見てください。
 
 zh:
 - 请检查这个问题。
-- 请检查这个问题。
+- 请看一下这个问题。
 
 ## vocabulary
 
 en:
-- problem · prob-lem
-- check · chek
+- please · pleez
+- look at · look at
+- problem · PROB: lem
 
 fr:
-- problème · pro-blem
-- vérifier · vay-ree-fyay
+- veuillez · vuh: YAY
+- regarder · ruh: gar: DAY
+- problème · pro: BLEM
 
 de:
-- Problem · pro-blaym
-- prüfen · prue-fen
+- bitte · BI: te
+- sehen … an · ZAY: en … an
+- Problem · pro: BLEHM
 
 am:
-- ችግር · chi-gir
-- መመልከት · me-mel-ket
+- እባክዎ · i-bak-wo
+- ይመልከቱ · yi-me-lik-tu
+- ችግሩን · chi-gi-ru-n
 
 ar:
-- المشكلة · al-mushkila
-- يفحص · yafhas
+- من فضلك · min fad-lak
+- انظر إلى · un-zur i-la
+- المشكلة · al-mush-ki-la
 
 es:
-- problema · pro-ble-ma
-- revisar · re-vi-sar
+- por favor · por fa: VOR
+- mire · MEE: re
+- problema · pro: BLE: ma
 
 ja:
-- 問題 · mondai
-- 確認する · kakunin suru
+- ください · ku-da-sai
+- 見て · mi-te
+- 問題 · mon-dai
 
 zh:
-- 问题 · wen ti
-- 检查 · jian cha
+- 请 · qǐng
+- 看一下 · kàn yī xià
+- 问题 · wèn tí
 
 ## grammar
 

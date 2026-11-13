@@ -11,7 +11,7 @@ fr:
 - Vous pêchez.
 
 de:
-- Ihr angelt.
+- Du angelst.
 - Sie angeln.
 
 am:
@@ -37,7 +37,7 @@ zh:
 ## vocabulary
 
 en:
-- fish · fish
+- fishing · fish-yng
 
 fr:
 - pêcher · pe-shay

@@ -3,7 +3,7 @@ order: 7
 ---
 
 en:
-- A noise barrier was built along the motorway.
+- A noise barrier was built along the highway.
 - The motorway got a noise barrier along it.
 
 fr:
@@ -16,7 +16,7 @@ de:
 
 am:
 - በአውራ ጎዳናው ዳር የድምፅ መከላከያ ተሠራ።
-- አውራ ጎዳናው በዳሩ የድምፅ መከላከያ አገኘ።
+- ፍጥነት መንገድ በዳሩ የድምፅ መከላከያ አገኘ።
 
 ar:
 - بُني حاجز للضوضاء على طول الطريق السريع.

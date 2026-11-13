@@ -37,28 +37,52 @@ zh:
 ## vocabulary
 
 en:
-- I don't know · eye dohnt noh
+- I have no · eye hav noh
+- idea · eye: DEE: uh
+- I don't · eye dohnt
+- know · noh
 
 fr:
-- je ne sais pas · zhuh nuh say pah
+- je n'en ai aucune · zhuh nahn ay oh: KEWN
+- idée · ee: DAY
+- je ne … pas · zhuh nuh … pah
+- sais · say
 
 de:
-- ich weiß es nicht · ikh vice es nikht
+- ich habe keine · ikh HAH: buh KYE: nuh
+- Ahnung · AH: noong
+- ich … nicht · ikh … nikht
+- weiß es · vice es
 
 am:
-- አላውቅም · a-la-wik-im
+- የለኝም · ye-le-nyim
+- ምንም ሀሳብ · mi-nim ha-sab
+- አል…ም · al-…-im
+- አውቅ · a-wik
 
 ar:
-- لا أعرف · la a-'rif
+- ليس لدي · lay-sa la-day
+- فكرة · fik-ra
+- لا · la
+- أعرف · a-'rif
 
 es:
-- no sé · no seh
+- no tengo ni · no TENG: go nee
+- idea · i: DE: a
+- no · no
+- sé · seh
 
 ja:
-- 知らない · shi-ra-nai
+- つかない · tsu-ka-nai
+- 見当も · ken-toh mo
+- ない · nai
+- 知ら · shi-ra
 
 zh:
-- 我不知道 · wǒ bù zhī dào
+- 我毫无 · wǒ háo wú
+- 头绪 · tóu xù
+- 我不 · wǒ bù
+- 知道 · zhī dào
 
 ## grammar
 

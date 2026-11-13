@@ -3,70 +3,70 @@ order: 3
 ---
 
 en:
-- It is three thirty.
-- The time is three thirty.
+- It is half past three.
+- The time is half past three.
 
 fr:
-- Il est trois heures trente.
-- L'heure est trois heures trente.
+- Il est trois heures et demie.
+- L'heure est trois heures et demie.
 
 de:
-- Es ist drei Uhr dreißig.
-- Die Uhrzeit ist drei Uhr dreißig.
+- Es ist halb vier.
+- Die Uhrzeit ist halb vier.
 
 am:
-- ሦስት ሰዓት ሰላሳ ደቂቃ ነው።
-- ሰዓቱ ሦስት ሰዓት ሰላሳ ደቂቃ ነው።
+- ሦስት ሰዓት ተኩል ነው።
+- ሰዓቱ ሦስት ሰዓት ተኩል ነው።
 
 ar:
-- الساعة الثالثة وثلاثون دقيقة.
-- الوقت هو الساعة الثالثة وثلاثون دقيقة.
+- الساعة الثالثة والنصف.
+- الوقت هو الساعة الثالثة والنصف.
 
 es:
-- Son las tres y treinta.
-- La hora es las tres y treinta.
+- Son las tres y media.
+- La hora es las tres y media.
 
 ja:
-- 三時三十分です。
-- 時刻は三時三十分です。
+- 三時半です。
+- 時刻は三時半です。
 
 zh:
-- 现在是三点三十分。
-- 时间是三点三十分。
+- 现在是三点半。
+- 时间是三点半。
 
 ## vocabulary
 
 en:
+- half past · haf past
 - three · three
-- thirty · THUR-tee
 
 fr:
-- trois · trwa
-- trente · tront
+- trois heures · trwa ur
+- demie · duh-mee
 
 de:
-- drei · dry
-- dreißig · DRY-sikh
+- halb · halp
+- vier · feer
 
 am:
 - ሦስት · sost
-- ሰላሳ · selasa
+- ተኩል · tekul
 
 ar:
 - الثالثة · ath-thalitha
-- ثلاثون · thalathun
+- النصف · an-nisf
 
 es:
 - tres · tres
-- treinta · TREYN-ta
+- media · MEH-dya
 
 ja:
 - 三時 · sanji
-- 三十分 · sanjuppun
+- 半 · han
 
 zh:
 - 三点 · sān diǎn
-- 三十分 · sān shí fēn
+- 半 · bàn
 
 ## grammar
 

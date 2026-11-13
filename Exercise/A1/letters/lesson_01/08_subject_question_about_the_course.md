@@ -4,69 +4,77 @@ order: 8
 
 en:
 - Subject: Question about the course.
-- Subject: A question about the course.
+- Subject: Question regarding the course.
 
 fr:
 - Objet : Question sur le cours.
-- Objet : Question sur le cours.
+- Objet : Question concernant le cours.
 
 de:
 - Betreff: Frage zum Kurs.
-- Betreff: Frage zum Kurs.
+- Betreff: Frage bezüglich des Kurses.
 
 am:
 - ጉዳይ፦ ስለ ትምህርቱ ጥያቄ።
-- ጉዳይ፦ ስለ ትምህርቱ ጥያቄ።
+- ጉዳይ፦ ትምህርቱን በተመለከተ ጥያቄ።
 
 ar:
 - الموضوع: سؤال عن الدورة.
-- الموضوع: سؤال عن الدورة.
+- الموضوع: سؤال بخصوص الدورة.
 
 es:
 - Asunto: Pregunta sobre el curso.
-- Asunto: Pregunta sobre el curso.
+- Asunto: Pregunta acerca del curso.
 
 ja:
 - 件名：授業についての質問。
-- 件名：授業についての質問。
+- 件名：授業に関する質問。
 
 zh:
 - 主题：关于课程的问题。
-- 主题：关于课程的问题。
+- 主题：有关课程的问题。
 
 ## vocabulary
 
 en:
-- subject · sub-jekt
+- question · KWES: chun
+- regarding · ri: GAR: ding
 - course · kors
 
 fr:
-- objet · ob-zhe
+- question · kes: TYOHN
+- concernant · kon: ser: NAHN
 - cours · koor
 
 de:
-- Betreff · be-tref
-- Kurs · kurs
+- Frage · FRAH: guh
+- bezüglich · be: TSÜ: klikh
+- Kurses · KOOR: zes
 
 am:
-- ጉዳይ · gu-day
-- ትምህርት · tim-hirt
+- ጥያቄ · t'i-ya-qe
+- በተመለከተ · be-te-me-le-ke-te
+- ትምህርቱን · tim-hir-tu-n
 
 ar:
-- الموضوع · al-mawdu'
-- الدورة · ad-dawra
+- سؤال · su-'aal
+- بخصوص · bi-khu-soos
+- الدورة · ad-daw-ra
 
 es:
-- asunto · a-sun-to
-- curso · kur-so
+- pregunta · pre: GOON: ta
+- acerca del · a: SER: ka del
+- curso · KOOR: so
 
 ja:
-- 件名 · kenmei
-- 授業 · jugyou
+- 質問 · shi-tsu-mon
+- に関する · ni kan-su-ru
+- 授業 · ju-gyō
 
 zh:
-- 主题 · zhu ti
-- 课程 · ke cheng
+- 问题 · wèn tí
+- 有关 · yǒu guān
+- 课程 · kè chéng
 
 ## grammar
 

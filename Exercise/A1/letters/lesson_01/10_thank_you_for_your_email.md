@@ -8,65 +8,73 @@ en:
 
 fr:
 - Merci pour votre e-mail.
-- Merci pour votre e-mail.
+- Merci beaucoup pour votre e-mail.
 
 de:
-- Vielen Dank für Ihre E-Mail.
+- Ich danke Ihnen für Ihre E-Mail.
 - Vielen Dank für Ihre E-Mail.
 
 am:
 - ስለ ኢሜልዎ አመሰግናለሁ።
-- ስለ ኢሜልዎ አመሰግናለሁ።
+- ስለ ኢሜልዎ በጣም አመሰግናለሁ።
 
 ar:
 - شكراً على بريدك.
-- شكراً على بريدك.
+- شكراً جزيلاً على بريدك.
 
 es:
 - Gracias por su correo.
-- Gracias por su correo.
+- Muchas gracias por su correo.
 
 ja:
 - メールをありがとうございます。
-- メールをありがとうございます。
+- メールをどうもありがとうございます。
 
 zh:
 - 谢谢您的邮件。
-- 谢谢您的邮件。
+- 非常感谢您的邮件。
 
 ## vocabulary
 
 en:
-- email · ee-mayl
-- thank you · thank yoo
+- many thanks · MEN: ee THANKS
+- for · for
+- email · EE: mayl
 
 fr:
-- e-mail · ee-mayl
-- merci · mair-see
+- merci beaucoup · mer: SEE bo: KOO
+- pour · poor
+- e-mail · ee: MAYL
 
 de:
-- E-Mail · ee-mayl
-- Dank · dank
+- vielen Dank · FEE: len DANK
+- für · führ
+- E-Mail · ee: MAYL
 
 am:
-- ኢሜል · i-mel
-- አመሰግናለሁ · a-mes-ge-na-le-hu
+- በጣም አመሰግናለሁ · be-tam a-me-se-gi-na-le-hu
+- ስለ · si-le
+- ኢሜልዎ · i-mel-wo
 
 ar:
-- بريد · barid
-- شكراً · shukran
+- شكراً جزيلاً · shuk-ran ja-zee-lan
+- على · 'a-la
+- بريدك · ba-ree-duk
 
 es:
-- correo · ko-rre-o
-- gracias · gra-syas
+- muchas gracias · MOO: chas GRAH: syas
+- por · por
+- correo · ko: RRE: o
 
 ja:
-- メール · meeru
-- ありがとう · arigatou
+- どうもありがとうございます · dō-mo a-ri-ga-tō go-za-i-ma-su
+- を · o
+- メール · mē-ru
 
 zh:
-- 邮件 · you jian
-- 谢谢 · xie xie
+- 非常感谢 · fēi cháng gǎn xiè
+- (omitted) · —
+- 邮件 · yóu jiàn
 
 ## grammar
 
