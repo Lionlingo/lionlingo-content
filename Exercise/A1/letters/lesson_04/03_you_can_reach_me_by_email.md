@@ -4,71 +4,71 @@ order: 3
 
 en:
 - You can reach me by email.
-- You reach me by email.
+- You can reach me via email.
 
 fr:
-- Vous me joignez par e-mail.
-- Vous me joignez par e-mail.
+- Tu peux me joindre par e-mail.
+- Vous pouvez me joindre par e-mail.
 
 de:
-- Sie erreichen mich per E-Mail.
-- Sie erreichen mich per E-Mail.
+- Du kannst mich per E-Mail erreichen.
+- Sie können mich per E-Mail erreichen.
 
 am:
-- በኢሜል ያገኙኛል።
-- በኢሜል ያገኙኛል።
+- በኢሜል ልታገኘኝ ትችላለህ።
+- በኢሜል ሊያገኙኝ ይችላሉ።
 
 ar:
-- تصل إليّ بالبريد.
-- تصل إليّ بالبريد.
+- يمكنك الوصول إليّ بالبريد الإلكتروني.
+- يمكن لحضرتك الوصول إليّ بالبريد الإلكتروني.
 
 es:
-- Me encuentra por correo.
-- Me encuentra por correo.
+- Puedes encontrarme por correo.
+- Puede encontrarme por correo.
 
 ja:
-- メールでご連絡いただけます。
+- メールで連絡できます。
 - メールでご連絡いただけます。
 
 zh:
-- 您可以用邮件联系到我。
-- 您可以用邮件联系到我。
+- 你可以用邮件联系我。
+- 您可以用邮件联系我。
 
 ## vocabulary
 
 en:
-- email · ee-mayl
 - reach · reech
+- email · EE-mayl
 
 fr:
-- e-mail · ee-mayl
 - joindre · zhwandr
+- e-mail · ee-MEL
 
 de:
-- E-Mail · ee-mayl
-- erreichen · er-ry-khen
+- erreichen · er-RY-khen
+- E-Mail · EE-mayl
 
 am:
-- ኢሜል · i-mel
 - ማግኘት · mag-nyet
+- ኢሜል · i-mel
 
 ar:
-- البريد · al-barid
-- يصل · yasil
+- الوصول · al-wusool
+- البريد الإلكتروني · al-bareed al-iliktrooni
 
 es:
-- correo · ko-rre-o
-- encontrar · en-kon-trar
+- encontrar · en-kon-TRAR
+- correo · ko-RRE-o
 
 ja:
-- メール · meeru
 - 連絡 · renraku
+- メール · meeru
 
 zh:
-- 邮件 · you jian
-- 联系 · lian xi
+- 联系 · lián xì
+- 邮件 · yóu jiàn
 
 ## grammar
 
-- snippet-a1-modal-verbs · Modal verbs
-- snippet-a1-pronouns · Pronouns
+- 24_modal_verbs · Modal verbs
+- 04_pronouns · Pronouns
