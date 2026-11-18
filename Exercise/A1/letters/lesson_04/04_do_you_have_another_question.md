@@ -7,68 +7,68 @@ en:
 - Have you got another question?
 
 fr:
-- Avez-vous une autre question ?
-- Avez-vous une autre question ?
+- Tu as une autre question ?
+- Vous avez une autre question ?
 
 de:
-- Haben Sie noch eine Frage?
+- Hast du noch eine Frage?
 - Haben Sie noch eine Frage?
 
 am:
-- ሌላ ጥያቄ አለዎት?
+- ሌላ ጥያቄ አለህ?
 - ሌላ ጥያቄ አለዎት?
 
 ar:
 - هل عندك سؤال آخر؟
-- هل عندك سؤال آخر؟
+- هل لدى حضرتك سؤال آخر؟
 
 es:
-- ¿Tiene otra pregunta?
+- ¿Tienes otra pregunta?
 - ¿Tiene otra pregunta?
 
 ja:
-- ほかに質問はありますか。
-- ほかに質問はありますか。
+- ほかに質問はありますか?
+- ほかにご質問はありますか?
 
 zh:
-- 您还有别的问题吗？
+- 你还有别的问题吗？
 - 您还有别的问题吗？
 
 ## vocabulary
 
 en:
-- question · kwes-chon
-- another · a-nu-ther
+- another · uh-NUH-ther
+- question · KWES-chun
 
 fr:
-- question · kes-tyon
 - autre · otr
+- question · kes-TYON
 
 de:
-- Frage · frah-ge
-- noch · nokh
+- noch eine · nokh EYE-ne
+- Frage · FRAH-ge
 
 am:
-- ጥያቄ · ti-ya-ke
-- ሌላ · le-la
+- ሌላ · lela
+- ጥያቄ · tiyaqe
 
 ar:
-- سؤال · su'al
 - آخر · akhar
+- سؤال · su'al
 
 es:
-- pregunta · pre-gun-ta
-- otra · o-tra
+- otra · O-tra
+- pregunta · pre-GUN-ta
 
 ja:
-- 質問 · shitsumon
 - ほか · hoka
+- 質問 · shitsumon
 
 zh:
-- 问题 · wen ti
-- 别的 · bie de
+- 别的 · bié de
+- 问题 · wèn tí
 
 ## grammar
 
-- snippet-a1-interrogation · Questions
-- snippet-a1-pronouns · Pronouns
+- 13_interrogation · Questions
+- 04_pronouns · Pronouns
