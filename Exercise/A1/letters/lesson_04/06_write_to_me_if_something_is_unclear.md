@@ -4,71 +4,79 @@ order: 6
 
 en:
 - Write to me if something is unclear.
-- Write to me if something is not clear.
+- Please write to me if something is unclear.
 
 fr:
-- Écrivez-moi si quelque chose n'est pas clair.
+- Écris-moi si quelque chose n'est pas clair.
 - Écrivez-moi si quelque chose n'est pas clair.
 
 de:
-- Schreiben Sie mir, wenn etwas unklar ist.
+- Schreib mir, wenn etwas unklar ist.
 - Schreiben Sie mir, wenn etwas unklar ist.
 
 am:
-- ገልጽ ያልሆነ ነገር ካለ ይጻፉልኝ።
-- ገልጽ ያልሆነ ነገር ካለ ይጻፉልኝ።
+- ግልጽ ያልሆነ ነገር ካለ ጻፍልኝ።
+- ግልጽ ያልሆነ ነገር ካለ ይጻፉልኝ።
 
 ar:
 - اكتب لي إذا كان شيء غير واضح.
-- اكتب لي إذا كان شيء غير واضح.
+- تفضل بالكتابة إليّ إذا كان شيء غير واضح.
 
 es:
-- Escríbame si algo no está claro.
+- Escríbeme si algo no está claro.
 - Escríbame si algo no está claro.
 
 ja:
-- 不明な点がありましたらお書きください。
-- 不明な点がありましたらお書きください。
+- 分からないことがあったら、書いてください。
+- 分からないことがありましたら、お書きください。
 
 zh:
 - 如果有不清楚的地方，请写信给我。
-- 如果有不清楚的地方，请写信给我。
+- 如果有不清楚的地方，请您写信给我。
 
 ## vocabulary
 
 en:
-- unclear · un-kleer
-- write · ryte
+- if · if
+- something · SUM-thing
+- unclear · un-KLEER
 
 fr:
-- clair · klair
-- écrire · ay-kreer
+- si · see
+- quelque chose · kel-kuh SHOZ
+- pas clair · pa klair
 
 de:
-- unklar · un-klar
-- schreiben · shry-ben
+- wenn · ven
+- etwas · ET-vas
+- unklar · UN-klar
 
 am:
-- ያልተገለጸ · yal-te-ge-le-tse
-- መጻፍ · me-tsaf
+- ካለ · kale
+- ነገር · neger
+- ግልጽ ያልሆነ · gilts yalhone
 
 ar:
-- واضح · wadih
-- يكتب · yaktub
+- إذا · idha
+- شيء · shay'
+- غير واضح · ghayr wadih
 
 es:
-- claro · kla-ro
-- escribir · es-kree-beer
+- si · see
+- algo · AL-go
+- no está claro · no es-TA KLA-ro
 
 ja:
-- 不明 · fumei
-- 書く · kaku
+- たら · tara
+- こと · koto
+- 分からない · wakaranai
 
 zh:
-- 不清楚 · bu qing chu
-- 写 · xie
+- 如果 · rú guǒ
+- 地方 · dì fang
+- 不清楚 · bù qīng chu
 
 ## grammar
 
-- snippet-a1-conjunctions · Conjunctions
-- snippet-a1-sentence-structure · Sentence structure
+- 06_conjunctions · Conjunctions
+- 09_sentence_structure · Sentence structure
