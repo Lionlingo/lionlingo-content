@@ -8,67 +8,67 @@ en:
 
 fr:
 - Mon numéro est en bas.
-- Mon numéro est en bas.
+- Mon numéro est tout en bas.
 
 de:
 - Meine Nummer steht unten.
-- Meine Nummer steht unten.
+- Meine Nummer steht ganz unten.
 
 am:
 - ቁጥሬ ከታች አለ።
-- ቁጥሬ ከታች አለ።
+- ቁጥሬ ከታች በኩል አለ።
 
 ar:
 - رقمي في الأسفل.
-- رقمي في الأسفل.
+- رقمي في أسفل الصفحة.
 
 es:
 - Mi número está abajo.
-- Mi número está abajo.
+- Mi número está aquí abajo.
 
 ja:
 - 番号は下にあります。
-- 番号は下にあります。
+- 番号は下の方にあります。
 
 zh:
 - 我的号码在下面。
-- 我的号码在下面。
+- 我的号码在下面这里。
 
 ## vocabulary
 
 en:
-- number · num-ber
-- below · bee-loh
+- my · my
+- number · NUM-ber
 
 fr:
-- numéro · nu-me-ro
-- bas · ba
+- mon · mon
+- numéro · nu-may-RO
 
 de:
-- Nummer · nu-mer
-- unten · un-ten
+- meine · MY-ne
+- Nummer · NUM-mer
 
 am:
-- ቁጥር · kutir
-- ከታች · ke-tach
+- ቁጥሬ · kutire
+- ከታች · ketach
 
 ar:
-- رقم · raqm
-- الأسفل · al-asfal
+- رقمي · raqmi
+- أسفل · asfal
 
 es:
-- número · nu-me-ro
-- abajo · a-ba-ho
+- mi · mee
+- número · NU-me-ro
 
 ja:
-- 番号 · bangou
+- 番号 · bangō
 - 下 · shita
 
 zh:
-- 号码 · hao ma
-- 下面 · xia mian
+- 我的 · wǒ de
+- 号码 · hào mǎ
 
 ## grammar
 
-- snippet-a1-sentence-structure · Sentence structure
-- snippet-a1-pronouns · Pronouns
+- 37_possessives · Possessives
+- 09_sentence_structure · Sentence structure
