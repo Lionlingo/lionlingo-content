@@ -4,71 +4,79 @@ order: 9
 
 en:
 - Ask me if you need help.
-- Ask me if you need some help.
+- Please ask me if you need help.
 
 fr:
-- Demandez-moi si vous avez besoin d'aide.
+- Demande-moi si tu as besoin d'aide.
 - Demandez-moi si vous avez besoin d'aide.
 
 de:
-- Fragen Sie mich, wenn Sie Hilfe brauchen.
+- Frag mich, wenn du Hilfe brauchst.
 - Fragen Sie mich, wenn Sie Hilfe brauchen.
 
 am:
-- እርዳታ ከፈለጉ ይጠይቁኝ።
+- እርዳታ ከፈለግህ ጠይቀኝ።
 - እርዳታ ከፈለጉ ይጠይቁኝ።
 
 ar:
 - اسألني إذا كنت تحتاج مساعدة.
-- اسألني إذا كنت تحتاج مساعدة.
+- تفضل بسؤالي إذا كنت تحتاج مساعدة.
 
 es:
-- Pregúnteme si necesita ayuda.
+- Pregúntame si necesitas ayuda.
 - Pregúnteme si necesita ayuda.
 
 ja:
-- 助けが必要なら聞いてください。
-- 助けが必要なら聞いてください。
+- 助けが必要なら、聞いてください。
+- 助けが必要でしたら、お聞きください。
 
 zh:
-- 如果您需要帮助，请问我。
+- 如果你需要帮助，请问我。
 - 如果您需要帮助，请问我。
 
 ## vocabulary
 
 en:
+- if · if
+- need · need
 - help · help
-- ask · ask
 
 fr:
+- si · see
+- besoin · buh-ZWAN
 - aide · ed
-- demander · de-man-day
 
 de:
-- Hilfe · hil-fe
-- fragen · frah-gen
+- wenn · ven
+- Hilfe · HIL-fe
+- brauchen · BROW-khen
 
 am:
-- እርዳታ · ir-da-ta
-- መጠየቅ · me-te-yek
+- ከ · ke
+- ፈለግ · feleg
+- እርዳታ · irdata
 
 ar:
+- إذا · idha
+- تحتاج · tahtaj
 - مساعدة · musa'ada
-- يسأل · yas'al
 
 es:
-- ayuda · a-yu-da
-- preguntar · pre-gun-tar
+- si · see
+- necesit · ne-se-SIT
+- ayuda · a-YOO-da
 
 ja:
+- なら · nara
+- 必要 · hitsuyō
 - 助け · tasuke
-- 聞く · kiku
 
 zh:
-- 帮助 · bang zhu
-- 问 · wen
+- 如果 · rú guǒ
+- 需要 · xū yào
+- 帮助 · bāng zhù
 
 ## grammar
 
-- snippet-a1-conjunctions · Conjunctions
-- snippet-a1-sentence-structure · Sentence structure
+- 06_conjunctions · Conjunctions
+- 09_sentence_structure · Sentence structure
