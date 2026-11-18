@@ -7,68 +7,68 @@ en:
 - I gladly answer your question.
 
 fr:
-- Je réponds volontiers à votre question.
-- Je réponds volontiers à votre question.
+- Je réponds avec plaisir à ta question.
+- Je réponds volontiers à ta question.
 
 de:
-- Ich beantworte Ihre Frage gern.
-- Ich beantworte Ihre Frage gern.
+- Ich beantworte deine Frage mit Freude.
+- Ich beantworte deine Frage gern.
 
 am:
-- ጥያቄዎን ደስ ብሎኝ እመልሳለሁ።
-- ጥያቄዎን ደስ ብሎኝ እመልሳለሁ።
+- ጥያቄህን በደስታ እመልሳለሁ።
+- ጥያቄህን ደስ ብሎኝ እመልሳለሁ።
 
 ar:
-- أجيب عن سؤالك بكل سرور.
+- يسعدني أن أجيب عن سؤالك.
 - أجيب عن سؤالك بكل سرور.
 
 es:
-- Respondo su pregunta con gusto.
-- Respondo su pregunta con gusto.
+- Respondo tu pregunta con gusto.
+- Respondo tu pregunta encantado.
 
 ja:
-- 喜んでご質問にお答えします。
-- 喜んでご質問にお答えします。
+- 喜んで質問に答えます。
+- 喜んで質問にお答えします。
 
 zh:
-- 我乐意回答您的问题。
-- 我乐意回答您的问题。
+- 我很乐意回答你的问题。
+- 我乐意回答你的问题。
 
 ## vocabulary
 
 en:
-- question · kwes-chon
-- answer · an-ser
+- answer · AN-ser
+- question · KWES-chun
 
 fr:
-- question · kes-tyon
-- répondre · ray-pondr
+- réponds · ray-PON
+- question · kes-TYON
 
 de:
-- Frage · frah-ge
-- beantworten · be-ant-vor-ten
+- beantworte · be-ANT-vor-te
+- Frage · FRAH-ge
 
 am:
-- ጥያቄ · ti-ya-ke
-- መመለስ · me-me-les
+- እመልሳለሁ · emelsalehu
+- ጥያቄ · tiyaqe
 
 ar:
+- أجيب · ujib
 - سؤال · su'al
-- يجيب · yujib
 
 es:
-- pregunta · pre-gun-ta
-- responder · res-pon-der
+- respondo · res-PON-do
+- pregunta · pre-GUN-ta
 
 ja:
+- 答え · kotae
 - 質問 · shitsumon
-- 答える · kotaeru
 
 zh:
-- 问题 · wen ti
-- 回答 · hui da
+- 回答 · huí dá
+- 问题 · wèn tí
 
 ## grammar
 
-- snippet-a1-interrogation · Questions
-- snippet-a1-pronouns · Pronouns
+- 04_pronouns · Pronouns
+- 37_possessives · Possessives
