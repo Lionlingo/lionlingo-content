@@ -3,72 +3,72 @@ order: 1
 ---
 
 en:
-- Please contact me if you have questions.
-- Please get in touch if you have questions.
+- Please call me if you have questions.
+- If you have questions, please call me.
 
 fr:
-- Contactez-moi si vous avez des questions.
-- Contactez-moi si vous avez des questions.
+- Appelle-moi si tu as des questions, s'il te plaît.
+- Si tu as des questions, appelle-moi, s'il te plaît.
 
 de:
-- Bitte kontaktieren Sie mich, wenn Sie Fragen haben.
-- Bitte kontaktieren Sie mich, wenn Sie Fragen haben.
+- Bitte ruf mich an, wenn du Fragen hast.
+- Wenn du Fragen hast, bitte ruf mich an.
 
 am:
-- ጥያቄ ካለዎት እባክዎ ያግኙኝ።
-- ጥያቄ ካለዎት እባክዎ ያግኙኝ።
+- ጥያቄ ካለህ እባክህ ደውልልኝ።
+- እባክህ ጥያቄ ካለህ ደውልልኝ።
 
 ar:
 - من فضلك اتصل بي إذا كان عندك أسئلة.
-- من فضلك اتصل بي إذا كان عندك أسئلة.
+- إذا كان عندك أسئلة، من فضلك اتصل بي.
 
 es:
-- Por favor, contácteme si tiene preguntas.
-- Por favor, contácteme si tiene preguntas.
+- Por favor, llámame si tienes preguntas.
+- Si tienes preguntas, llámame, por favor.
 
 ja:
-- 質問がありましたらご連絡ください。
-- 質問がありましたらご連絡ください。
+- 質問があったら、電話してください。
+- 質問があったら、私に電話してください。
 
 zh:
-- 如果您有问题，请联系我。
-- 如果您有问题，请联系我。
+- 如果你有问题，请给我打电话。
+- 请给我打电话，如果你有问题。
 
 ## vocabulary
 
 en:
-- question · kwes-chon
-- contact · kon-takt
+- call me · kawl mee
+- questions · KWES-chunz
 
 fr:
-- question · kes-tyon
-- contacter · kon-tak-tay
+- appelle-moi · a-pel mwa
+- questions · kes-TYON
 
 de:
-- Frage · frah-ge
-- kontaktieren · kon-tak-tee-ren
+- ruf mich an · roof mikh an
+- Fragen · FRAH-gen
 
 am:
-- ጥያቄ · ti-ya-ke
-- ማግኘት · mag-nyet
+- ደውልልኝ · dewelilegn
+- ጥያቄ · tiyaqe
 
 ar:
-- سؤال · su'al
-- يتصل · yattasil
+- اتصل بي · ittasil bi
+- أسئلة · as'ila
 
 es:
-- pregunta · pre-gun-ta
-- contactar · kon-tak-tar
+- llámame · YA-ma-me
+- preguntas · pre-GUN-tas
 
 ja:
+- 電話 · denwa
 - 質問 · shitsumon
-- 連絡 · renraku
 
 zh:
-- 问题 · wen ti
-- 联系 · lian xi
+- 给我打电话 · gěi wǒ dǎ diàn huà
+- 问题 · wèn tí
 
 ## grammar
 
-- snippet-a1-conjunctions · Conjunctions
-- snippet-a1-sentence-structure · Sentence structure
+- 06_conjunctions · Conjunctions
+- 09_sentence_structure · Sentence structure
